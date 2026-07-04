@@ -5,15 +5,14 @@
     "kiyoshimo_(kancolle)"
   ],
   "locked_features": {
-    "hair_color": "grey",
+    "hair_color": "multicolored",
     "eye_color": "grey"
   },
   "default_tags": {
     "hair": [
-      "grey_hair",
-      "ahoge",
+      "multicolored_hair",
       "twintails",
-      "ponytail"
+      "ahoge"
     ],
     "eyes": [
       "grey_eyes",

@@ -4,8 +4,18 @@
   "identity_tags": [
     "mydei_(honkai:_star_rail)"
   ],
-  "locked_features": {},
-  "default_tags": {},
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
   "default_clothing": [],
   "optional_clothing": []
 }

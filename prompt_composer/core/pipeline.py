@@ -52,7 +52,7 @@ class PromptComposerPipeline:
 
     def __init__(
         self,
-         store: Optional[TagStore] = None,
+        store: Optional[TagStore] = None,
         identity_store: Optional[IdentityStore] = None,
         association_store: Optional[AssociationStore] = None,
     ) -> None:
@@ -67,7 +67,7 @@ class PromptComposerPipeline:
         disabled = {tag.strip().lower() for tag in request.disabled_tags if tag.strip()}
         fixed_names = [tag.strip() for tag in request.fixed_tags if tag.strip()]
 
-        #关联查询入口：给定已选标签，返回 {关联标签: 权重}。
+        # 关联查询入口：给定已选标签，返回 {关联标签: 权重}。
         # 关联加成关闭时不会被采样器调用，开启时才参与加成。
         def association_lookup(tag: str) -> Dict[str, float]:
             return {
@@ -89,7 +89,7 @@ class PromptComposerPipeline:
             fixed_tags={tag.lower() for tag in fixed_names},
             rating=request.rating,
             association_boost=request.association_boost,
-          association_strength=request.association_strength,
+            association_strength=request.association_strength,
             selected_tags=set(),
             association_lookup=association_lookup,
             conflict_lookup=conflict_lookup,
@@ -135,7 +135,7 @@ class PromptComposerPipeline:
                 entry = entry.clone(source="fixed", order=order)
             # identity 已经加过的同名 tag 不重复加。
             if any(t.tag.strip().lower() == fixed_name.strip().lower() for t in selected):
-                continue
+             continue
             selected.append(entry)
             order += 1
 
@@ -170,10 +170,22 @@ class PromptComposerPipeline:
             context.selected_tags.add(chosen.tag.strip().lower())
             order += 1
 
-        # 采样循环之后、约束解析之前，按开关自动追加关联词。
+        # 顺序：先随机（采样），再禁用（过滤），最后联想（自动追加）。
+        # 采样阶段本身会跳过禁用词，这里再做一次明确的过滤，
+        # 把 identity 展开的角色特征等其他来源引入的禁用词一并清除，保证禁用彻底。
+        # 用户手填的固定词是显式指定的，与禁用语义冲突时以显式指定优先，不清除。
+        selected = self._apply_disabled(selected, disabled, logs)
+        # identity 特征被禁用清除后，同步从 fixed_names 里剔除，
+        # 避免约束解析把它当固定项保护，或经 requires 依赖被重新补回。
+        kept = {t.tag.strip().lower() for t in selected}
+        fixed_names = [n for n in fixed_names if n.strip().lower() in kept]
+        context.selected_tags = {t.tag.strip().lower() for t in selected}
+
+        # 禁用过滤之后、约束解析之前，按开关自动追加关联词。
         # 只对采样与固定得到的那套标签展开一轮，不递归。
+        # 追加时同样排除禁用词，避免禁用被联想重新引回。
         # 两个开关关闭时无追加，行为与现在一致。
-        selected, order = self._auto_add(request, selected, order, logs)
+        selected, order = self._auto_add(request, selected, order, logs, disabled)
 
         resolver = ConstraintResolver(
             self.store, ResolverConfig(max_rounds=request.max_resolve_rounds)
@@ -216,28 +228,75 @@ class PromptComposerPipeline:
             negative=negative,
         )
 
+    def _apply_disabled(
+        self,
+        selected: List[TagEntry],
+        disabled: Set[str],
+        logs: List[LogEntry],
+    ) -> List[TagEntry]:
+        """明确的禁用过滤步骤，位于采样之后、联想之前。
+
+        把已选标签里命中禁用集合的清除掉。只有用户手填的固定词
+       （source=fixed）在与禁用冲突时以显式指定优先，保留并记录一条 info 日志。
+        角色（identity）展开的特征、采样得到的标签命中禁用时直接清除。
+        禁用集合为空时原样返回，行为与原来一致。
+        """
+        if not disabled:
+            return selected
+
+        result: List[TagEntry] = []
+        for entry in selected:
+            key = entry.tag.strip().lower()
+            if key not in disabled:
+                result.append(entry)
+                continue
+            if entry.source == "fixed":
+                # 用户既固定又禁用，显式指定优先，保留但提示。
+                result.append(entry)
+                logs.append(
+                    LogEntry(
+                        level="info",
+                        code="DISABLED_TAG_KEPT_FIXED",
+                        message=f"Disabled tag '{key}' was kept because it is a fixed tag.",
+                        details={"tag": key},
+                    )
+                )
+                continue
+            logs.append(
+                LogEntry(
+                    level="info",
+                    code="DISABLED_TAG_REMOVED",
+                    message=f"Removed disabled tag '{key}'.",
+                    details={"tag": key, "source": entry.source},
+                )
+            )
+        return result
+
     def _auto_add(
         self,
         request: GenerationRequest,
         selected: List[TagEntry],
         order: int,
         logs: List[LogEntry],
+        disabled: Optional[Set[str]] = None,
     ) -> tuple:
         """采样完成后按开关自动追加硬依赖 requires 与软关联 related。
 
         只对当前 selected 展开一轮，不递归。requires 从 TagStore 的 conflicts
         同源的约束字段取；related 从关联数据取，按强度与上限补。
         追加的词交给后续 constraint_resolver 处理冲突与去重。
+        追加时排除禁用词，避免禁用被联想重新引回。
         两个开关关闭时无追加，行为与现在一致。
         """
         if not request.auto_add_requires and not request.auto_add_related:
             return selected, order
 
+        disabled = disabled or set()
         present = {t.tag.strip().lower() for t in selected}
         # 只对采样与固定得到的这套标签展开，快照一份，不递归。
         base_tags = [t.tag for t in selected]
 
-        #自动追加硬依赖：把已选标签的 requires 依赖补进结果。
+        # 自动追加硬依赖：把已选标签的 requires 依赖补进结果。
         if request.auto_add_requires:
             for name in base_tags:
                 entry = self.store.get(name)
@@ -246,6 +305,9 @@ class PromptComposerPipeline:
                 for req in entry.requires:
                     key = req.strip().lower()
                     if not key or key in present:
+                        continue
+                    # 禁用词不作为联想结果追加。
+                    if key in disabled:
                         continue
                     req_entry = self.store.get(key)
                     if req_entry is None:
@@ -284,7 +346,10 @@ class PromptComposerPipeline:
                         continue
                     if key in conflict_union:
                         continue
-                    rel_entry= self.store.get(key)
+                    # 禁用词不作为联想结果追加。
+                    if key in disabled:
+                        continue
+                    rel_entry = self.store.get(key)
                     if rel_entry is None:
                         continue
                     present.add(key)
@@ -300,4 +365,3 @@ class PromptComposerPipeline:
                     )
 
         return selected, order
-

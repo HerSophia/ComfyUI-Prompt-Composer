@@ -6,17 +6,16 @@
   ],
   "locked_features": {
     "hair_color": "purple",
-    "eye_color": "pink"
+    "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
       "purple_hair",
-      "twin_braids",
       "ahoge",
       "messy_hair"
     ],
     "eyes": [
-      "pink_eyes",
+      "purple_eyes",
       "third_eye"
     ]
   },

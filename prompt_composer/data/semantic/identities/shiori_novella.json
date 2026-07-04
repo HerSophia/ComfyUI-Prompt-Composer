@@ -5,14 +5,13 @@
     "shiori_novella"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "black",
     "eye_color": "yellow"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
+      "black_hair",
       "blunt_bangs",
-      "ponytail",
       "ahoge"
     ],
     "eyes": [

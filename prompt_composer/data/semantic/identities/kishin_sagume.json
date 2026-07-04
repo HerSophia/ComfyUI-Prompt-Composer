@@ -5,14 +5,13 @@
     "kishin_sagume"
   ],
   "locked_features": {
-    "hair_color": "grey",
+    "hair_color": "white",
     "eye_color": "red"
   },
   "default_tags": {
     "hair": [
-      "grey_hair",
-      "ahoge",
-      "ponytail"
+      "white_hair",
+      "ahoge"
     ],
     "eyes": [
       "red_eyes",

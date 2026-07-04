@@ -5,12 +5,12 @@
     "plana_(blue_archive)"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "white",
     "eye_color": "black"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
+      "white_hair",
       "blunt_bangs",
       "long_bangs",
       "straight_hair"

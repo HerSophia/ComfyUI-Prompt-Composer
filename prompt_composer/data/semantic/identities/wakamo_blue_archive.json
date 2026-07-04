@@ -5,14 +5,13 @@
     "wakamo_(blue_archive)"
   ],
   "locked_features": {
-    "hair_color": "black",
+    "hair_color": "brown",
     "eye_color": "yellow"
   },
   "default_tags": {
     "hair": [
-      "black_hair",
-      "blunt_bangs",
-      "twintails"
+      "brown_hair",
+      "blunt_bangs"
     ],
     "eyes": [
       "yellow_eyes",

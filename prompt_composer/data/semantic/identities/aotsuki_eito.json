@@ -4,8 +4,18 @@
   "identity_tags": [
     "aotsuki_eito"
   ],
-  "locked_features": {},
-  "default_tags": {},
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
   "default_clothing": [],
   "optional_clothing": []
 }

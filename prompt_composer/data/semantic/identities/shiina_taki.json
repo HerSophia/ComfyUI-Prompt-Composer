@@ -5,12 +5,12 @@
     "shiina_taki"
   ],
   "locked_features": {
-    "hair_color": "brown",
+    "hair_color": "black",
     "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
-      "brown_hair"
+      "black_hair"
     ],
     "eyes": [
       "purple_eyes",

@@ -6,17 +6,16 @@
   ],
   "locked_features": {
     "hair_color": "black",
-    "eye_color": "brown"
+    "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
       "black_hair",
       "blunt_bangs",
-      "ahoge",
-      "twintails"
+      "ahoge"
     ],
     "eyes": [
-      "brown_eyes",
+      "purple_eyes",
       "eyepatch"
     ]
   },

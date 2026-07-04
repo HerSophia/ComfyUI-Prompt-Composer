@@ -5,13 +5,12 @@
     "yelan_(genshin_impact)"
   ],
   "locked_features": {
-    "hair_color": "blue",
+    "hair_color": "black",
     "eye_color": "green"
   },
   "default_tags": {
     "hair": [
-      "blue_hair",
-      "bob_cut",
+      "black_hair",
       "blunt_bangs",
       "ahoge"
     ],

@@ -5,15 +5,13 @@
     "blade_(honkai:_star_rail)"
   ],
   "locked_features": {
-    "hair_color": "black",
+    "hair_color": "blue",
     "eye_color": "red"
   },
   "default_tags": {
     "hair": [
-      "black_hair",
-      "ponytail",
-      "ahoge",
-      "drill_hair"
+      "blue_hair",
+      "ahoge"
     ],
     "eyes": [
       "red_eyes",

@@ -4,8 +4,18 @@
   "identity_tags": [
     "evelyn_chevalier"
   ],
-  "locked_features": {},
-  "default_tags": {},
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
   "default_clothing": [],
   "optional_clothing": []
 }

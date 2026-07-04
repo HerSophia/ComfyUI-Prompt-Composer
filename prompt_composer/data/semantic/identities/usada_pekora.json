@@ -5,18 +5,15 @@
     "usada_pekora"
   ],
   "locked_features": {
-    "hair_color": "blue",
-    "eye_color": "red"
+    "hair_color": "two-tone",
+    "eye_color": "orange"
   },
   "default_tags": {
     "hair": [
-      "blue_hair",
-      "twin_braids",
-      "twintails",
-      "hair_bun"
+      "two-tone_hair"
     ],
     "eyes": [
-      "red_eyes",
+      "orange_eyes",
       "symbol-shaped_pupils"
     ]
   },

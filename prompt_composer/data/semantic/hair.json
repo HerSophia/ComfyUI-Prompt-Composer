@@ -96,7 +96,10 @@
       "twintail"
     ],
     "label_zh": "双马尾二",
-    "post_count": 1133849
+    "post_count": 1133849,
+    "features": {
+      "hair_style": "twintails"
+    }
   },
   {
     "tag": "blue_hair",
@@ -149,7 +152,10 @@
       "pony_tail"
     ],
     "label_zh": "马尾辫",
-    "post_count": 883656
+    "post_count": 883656,
+    "features": {
+      "hair_style": "ponytail"
+    }
   },
   {
     "tag": "ahoge",
@@ -245,7 +251,10 @@
       "hairbun"
     ],
     "label_zh": "包子头",
-    "post_count": 335572
+    "post_count": 335572,
+    "features": {
+      "hair_style": "hair_bun"
+    }
   },
   {
     "tag": "twin_braids",
@@ -258,7 +267,10 @@
       "twinbraids"
     ],
     "label_zh": "双辫子",
-    "post_count": 228392
+    "post_count": 228392,
+    "features": {
+      "hair_style": "twin_braids"
+    }
   },
   {
     "tag": "side_ponytail",
@@ -269,7 +281,21 @@
       "sidetail"
     ],
     "label_zh": "侧马尾",
-    "post_count": 220711
+    "post_count": 220711,
+    "features": {
+      "hair_style": "side_ponytail"
+    }
+  },
+  {
+    "tag": "low_ponytail",
+    "category": "hair",
+    "weight": 5.3,
+    "aliases": [],
+    "label_zh": "低马尾",
+    "post_count": 200000,
+    "features": {
+      "hair_style": "low_ponytail"
+    }
   },
   {
     "tag": "double_bun",
@@ -285,7 +311,10 @@
       "buns"
     ],
     "label_zh": "俩包子头",
-    "post_count": 163383
+    "post_count": 163383,
+    "features": {
+      "hair_style": "double_bun"
+    }
   },
   {
     "tag": "swept_bangs",
@@ -312,7 +341,10 @@
       "bobbed_hair"
     ],
     "label_zh": "妹妹切",
-    "post_count": 127270
+    "post_count": 127270,
+    "features": {
+      "hair_style": "bob_cut"
+    }
   },
   {
     "tag": "drill_hair",
@@ -323,7 +355,10 @@
       "drillhair"
     ],
     "label_zh": "钻头卷公主卷",
-    "post_count": 117591
+    "post_count": 117591,
+    "features": {
+      "hair_style": "drill_hair"
+    }
   },
   {
     "tag": "antenna_hair",
@@ -342,7 +377,10 @@
     "weight": 5.05,
     "aliases": [],
     "label_zh": "高马尾",
-    "post_count": 111727
+    "post_count": 111727,
+    "features": {
+      "hair_style": "high_ponytail"
+    }
   },
   {
     "tag": "crossed_bangs",
@@ -393,7 +431,10 @@
     "weight": 4.65,
     "aliases": [],
     "label_zh": "短马尾",
-    "post_count": 44813
+    "post_count": 44813,
+    "features": {
+      "hair_style": "short_ponytail"
+    }
   },
   {
     "tag": "braided_ponytail",
@@ -401,7 +442,10 @@
     "weight": 4.65,
     "aliases": [],
     "label_zh": "马尾编发",
-    "post_count": 44616
+    "post_count": 44616,
+    "features": {
+      "hair_style": "braided_ponytail"
+    }
   },
   {
     "tag": "curly_hair",
@@ -430,7 +474,10 @@
       "himecut"
     ],
     "label_zh": "公主切",
-    "post_count": 28950
+    "post_count": 28950,
+    "features": {
+      "hair_style": "hime_cut"
+    }
   },
   {
     "tag": "braided_bangs",

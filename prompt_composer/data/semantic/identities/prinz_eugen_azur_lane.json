@@ -5,18 +5,17 @@
     "prinz_eugen_(azur_lane)"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
-    "eye_color": "brown"
+    "hair_color": "white",
+    "eye_color": "orange"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
+      "white_hair",
       "antenna_hair",
-      "swept_bangs",
-      "twintails"
+      "swept_bangs"
     ],
     "eyes": [
-      "brown_eyes",
+      "orange_eyes",
       "eyes_visible_through_hair"
     ]
   },

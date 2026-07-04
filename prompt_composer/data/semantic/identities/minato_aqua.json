@@ -5,14 +5,14 @@
     "minato_aqua"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "two-tone",
     "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
+      "two-tone_hair",
+      "drill_hair",
       "ahoge",
-      "twintails",
       "blunt_bangs"
     ],
     "eyes": [

@@ -5,14 +5,13 @@
     "fuwawa_abyssgard"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "blonde",
     "eye_color": "pink"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
+      "blonde_hair",
       "crossed_bangs",
-      "ponytail",
       "ahoge"
     ],
     "eyes": [

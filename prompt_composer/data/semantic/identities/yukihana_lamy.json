@@ -5,14 +5,13 @@
     "yukihana_lamy"
   ],
   "locked_features": {
-    "hair_color": "blue",
+    "hair_color": "streaked",
     "eye_color": "yellow"
   },
   "default_tags": {
     "hair": [
-      "blue_hair",
+      "streaked_hair",
       "ahoge",
-      "twintails",
       "crossed_bangs"
     ],
     "eyes": [

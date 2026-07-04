@@ -5,14 +5,14 @@
     "neuvillette_(genshin_impact)"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "white",
     "eye_color": "blue"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
-      "ahoge",
-      "twintails"
+      "white_hair",
+      "ponytail",
+      "ahoge"
     ],
     "eyes": [
       "blue_eyes",

@@ -5,18 +5,15 @@
     "serena_(pokemon)"
   ],
   "locked_features": {
-    "hair_color": "blonde",
-    "eye_color": "blue"
+    "hair_color": "brown",
+    "eye_color": "grey"
   },
   "default_tags": {
     "hair": [
-      "blonde_hair",
-      "twintails",
-      "ponytail",
-      "hair_bun"
+      "brown_hair"
     ],
     "eyes": [
-      "blue_eyes",
+      "grey_eyes",
       "tears"
     ]
   },

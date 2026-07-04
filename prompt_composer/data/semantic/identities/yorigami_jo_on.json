@@ -5,14 +5,13 @@
     "yorigami_jo'on"
   ],
   "locked_features": {
-    "hair_color": "blue",
+    "hair_color": "light_brown",
     "eye_color": "orange"
   },
   "default_tags": {
     "hair": [
-      "blue_hair",
-      "drill_hair",
-      "twintails"
+      "light_brown_hair",
+      "drill_hair"
     ],
     "eyes": [
       "orange_eyes"

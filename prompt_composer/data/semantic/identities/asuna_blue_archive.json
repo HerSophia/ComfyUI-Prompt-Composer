@@ -5,14 +5,13 @@
     "asuna_(blue_archive)"
   ],
   "locked_features": {
-    "hair_color": "light_brown",
+    "hair_color": "brown",
     "eye_color": "blue"
   },
   "default_tags": {
     "hair": [
-      "light_brown_hair",
+      "brown_hair",
       "long_bangs",
-      "ponytail",
       "swept_bangs"
     ],
     "eyes": [

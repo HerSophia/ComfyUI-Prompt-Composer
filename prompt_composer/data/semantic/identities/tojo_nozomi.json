@@ -6,17 +6,16 @@
   ],
   "locked_features": {
     "hair_color": "purple",
-    "eye_color": "green"
+    "eye_color": "aqua"
   },
   "default_tags": {
     "hair": [
       "purple_hair",
       "twintails",
-      "ponytail",
       "swept_bangs"
     ],
     "eyes": [
-      "green_eyes",
+      "aqua_eyes",
       "tears"
     ]
   },

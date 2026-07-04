@@ -6,17 +6,15 @@
   ],
   "locked_features": {
     "hair_color": "blonde",
-    "eye_color": "purple"
+    "eye_color": "yellow"
   },
   "default_tags": {
     "hair": [
       "blonde_hair",
-      "twin_braids",
-      "ponytail",
       "ahoge"
     ],
     "eyes": [
-      "purple_eyes",
+      "yellow_eyes",
       "tears"
     ]
   },

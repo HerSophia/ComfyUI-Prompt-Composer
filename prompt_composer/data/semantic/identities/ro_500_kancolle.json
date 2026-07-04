@@ -5,15 +5,13 @@
     "ro-500_(kancolle)"
   ],
   "locked_features": {
-    "hair_color": "blonde",
+    "hair_color": "grey",
     "eye_color": "blue"
   },
   "default_tags": {
     "hair": [
-      "blonde_hair",
-      "twintails",
-      "ahoge",
-      "ponytail"
+      "grey_hair",
+      "ahoge"
     ],
     "eyes": [
       "blue_eyes",

@@ -5,12 +5,12 @@
     "kitagawa_marin"
   ],
   "locked_features": {
-    "hair_color": "blonde",
+    "hair_color": "multicolored",
     "eye_color": "red"
   },
   "default_tags": {
     "hair": [
-      "blonde_hair",
+      "multicolored_hair",
       "swept_bangs",
       "blunt_bangs",
       "straight_hair"

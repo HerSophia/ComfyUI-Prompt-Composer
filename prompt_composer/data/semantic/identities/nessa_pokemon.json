@@ -5,18 +5,16 @@
     "nessa_(pokemon)"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
-    "eye_color": "blue"
+    "hair_color": "two-tone",
+    "eye_color": "aqua"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
-      "hair_bun",
-      "forehead",
-      "side_ponytail"
+      "two-tone_hair",
+      "forehead"
     ],
     "eyes": [
-      "blue_eyes",
+      "aqua_eyes",
       "blue_eyeshadow"
     ]
   },

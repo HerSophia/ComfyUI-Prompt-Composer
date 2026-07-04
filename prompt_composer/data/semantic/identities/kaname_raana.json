@@ -6,14 +6,14 @@
   ],
   "locked_features": {
     "hair_color": "white",
-    "eye_color": "blue"
+    "eye_color": "yellow"
   },
   "default_tags": {
     "hair": [
       "white_hair"
     ],
     "eyes": [
-      "blue_eyes",
+      "yellow_eyes",
       "heterochromia"
     ]
   },

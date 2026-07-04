@@ -6,17 +6,15 @@
   ],
   "locked_features": {
     "hair_color": "blonde",
-    "eye_color": "red"
+    "eye_color": "yellow"
   },
   "default_tags": {
     "hair": [
       "blonde_hair",
-      "blunt_bangs",
-      "twin_braids",
-      "hair_bun"
+      "blunt_bangs"
     ],
     "eyes": [
-      "red_eyes",
+      "yellow_eyes",
       "tears"
     ]
   },

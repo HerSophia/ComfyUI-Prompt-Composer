@@ -4,8 +4,18 @@
   "identity_tags": [
     "yoshida_yuuko"
   ],
-  "locked_features": {},
-  "default_tags": {},
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
   "default_clothing": [],
   "optional_clothing": []
 }

@@ -5,15 +5,14 @@
     "la+_darknesss"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "grey",
     "eye_color": "yellow"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
+      "grey_hair",
       "ahoge",
-      "braided_bangs",
-      "twintails"
+      "braided_bangs"
     ],
     "eyes": [
       "yellow_eyes",

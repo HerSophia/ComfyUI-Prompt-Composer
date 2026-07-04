@@ -6,14 +6,14 @@
   ],
   "locked_features": {
     "hair_color": "blue",
-    "eye_color": "aqua"
+    "eye_color": "green"
   },
   "default_tags": {
     "hair": [
       "blue_hair"
     ],
     "eyes": [
-      "aqua_eyes"
+      "green_eyes"
     ]
   },
   "default_clothing": [

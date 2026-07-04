@@ -3,7 +3,9 @@
 把一个 Identity 展开成一组固定 TagEntry，供 Pipeline 在采样前注入。
 
 要点：
-    1. identity_tags 作为固定 tag，source=fixed，高优先级。
+    1. identity_tags 作为角色tag，source=identity，在冲突解析里保持高优先级。
+       与用户手填的固定词（source=fixed）区分开：角色特征可被禁用词清除，
+       用户手填的固定词被禁用时保留。
     2. locked_features 合并到主 identity_tag的 features 上。
        这样它作为固定项参与约束流程时优先级最高，随机项与之冲突会被移除。
     3. default_tags 按分类展开为固定 tag。
@@ -44,13 +46,13 @@ class IdentityResolver:
                 return None
             existing = self.store.find(name)
             if existing is not None:
-                entry = existing.clone(source="fixed", order=order)
+                entry = existing.clone(source="identity", order=order)
             else:
                 entry = TagEntry(
                     tag=name.strip(),
                     category=category_hint,
-                    source="fixed",
-                    order=order,
+                    source="identity",
+                        order=order,
                 )
             entry.priority = max(entry.priority, FIXED_PRIORITY)
             order += 1
@@ -73,7 +75,7 @@ class IdentityResolver:
             carrier = TagEntry(
                 tag=identity.id,
                 category="character",
-                source="fixed",
+                source="identity",
                 order=order,
                 priority=FIXED_PRIORITY,
                 features=dict(identity.locked_features),

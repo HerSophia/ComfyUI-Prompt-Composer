@@ -4,8 +4,19 @@
   "identity_tags": [
     "castorice_(honkai:_star_rail)"
   ],
-  "locked_features": {},
-  "default_tags": {},
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
   "default_clothing": [],
   "optional_clothing": []
 }

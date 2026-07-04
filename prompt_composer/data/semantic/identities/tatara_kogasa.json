@@ -6,17 +6,15 @@
   ],
   "locked_features": {
     "hair_color": "blue",
-    "eye_color": "red"
+    "eye_color": "blue"
   },
   "default_tags": {
     "hair": [
       "blue_hair",
-      "ahoge",
-      "ponytail",
-      "side_ponytail"
+      "ahoge"
     ],
     "eyes": [
-      "red_eyes",
+      "blue_eyes",
       "heterochromia"
     ]
   },

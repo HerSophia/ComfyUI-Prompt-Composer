@@ -5,15 +5,15 @@
     "furina_(genshin_impact)"
   ],
   "locked_features": {
-    "hair_color": "blue",
+    "hair_color": "white",
     "eye_color": "blue"
   },
   "default_tags": {
     "hair": [
-      "blue_hair",
+      "white_hair",
+      "ponytail",
       "ahoge",
-      "wavy_hair",
-      "twintails"
+      "wavy_hair"
     ],
     "eyes": [
       "blue_eyes",

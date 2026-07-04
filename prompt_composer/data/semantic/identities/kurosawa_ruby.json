@@ -6,17 +6,15 @@
   ],
   "locked_features": {
     "hair_color": "red",
-    "eye_color": "green"
+    "eye_color": "aqua"
   },
   "default_tags": {
     "hair": [
       "red_hair",
-      "twintails",
-      "hair_bun",
       "blunt_bangs"
     ],
     "eyes": [
-      "green_eyes"
+      "aqua_eyes"
     ]
   },
   "default_clothing": [
