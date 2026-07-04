@@ -1,0 +1,26 @@
+{
+  "id": "faust_project_moon",
+  "name": "浮士德",
+  "identity_tags": [
+    "faust_(project_moon)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "brown_sweater",
+    "ribbed_sweater",
+    "turtleneck_sweater",
+    "sweater"
+  ],
+  "optional_clothing": []
+}

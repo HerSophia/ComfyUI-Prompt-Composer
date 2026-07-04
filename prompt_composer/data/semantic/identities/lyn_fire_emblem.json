@@ -1,0 +1,28 @@
+{
+  "id": "lyn_fire_emblem",
+  "name": "林迪斯（火焰纹章）",
+  "identity_tags": [
+    "lyn_(fire_emblem)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ponytail",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "side_slit",
+    "pelvic_curtain",
+    "knee_boots",
+    "sash"
+  ],
+  "optional_clothing": []
+}

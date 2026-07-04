@@ -1,0 +1,30 @@
+{
+  "id": "komeiji_satori",
+  "name": "古明地觉",
+  "identity_tags": [
+    "komeiji_satori"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twin_braids",
+      "ahoge",
+      "messy_hair"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "blouse",
+    "slippers",
+    "bobby_socks",
+    "print_skirt"
+  ],
+  "optional_clothing": []
+}

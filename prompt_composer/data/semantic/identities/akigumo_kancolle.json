@@ -1,0 +1,30 @@
+{
+  "id": "akigumo_kancolle",
+  "name": "秋云",
+  "identity_tags": [
+    "akigumo_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "green_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "pleated_dress",
+    "serafuku",
+    "bowtie",
+    "pantyhose"
+  ],
+  "optional_clothing": []
+}

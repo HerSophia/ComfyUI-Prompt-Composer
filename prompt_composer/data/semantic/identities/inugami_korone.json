@@ -1,0 +1,30 @@
+{
+  "id": "inugami_korone",
+  "name": "戌神沁音",
+  "identity_tags": [
+    "inugami_korone"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twin_braids",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "loose_socks",
+    "print_shirt",
+    "hoodie",
+    "sleeveless_dress"
+  ],
+  "optional_clothing": []
+}

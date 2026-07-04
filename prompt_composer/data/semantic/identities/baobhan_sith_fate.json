@@ -1,0 +1,30 @@
+{
+  "id": "baobhan_sith_fate",
+  "name": "鲍芭·希丝",
+  "identity_tags": [
+    "baobhan_sith_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ponytail",
+      "side_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "grey_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "microskirt",
+    "thigh_boots",
+    "fur-trimmed_jacket",
+    "frilled_dress"
+  ],
+  "optional_clothing": []
+}

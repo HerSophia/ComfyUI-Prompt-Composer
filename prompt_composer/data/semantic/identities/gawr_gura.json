@@ -1,0 +1,30 @@
+{
+  "id": "gawr_gura",
+  "name": "噶呜·古拉",
+  "identity_tags": [
+    "gawr_gura"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "animal_costume",
+    "hoodie",
+    "short_necktie",
+    "oversized_clothes"
+  ],
+  "optional_clothing": []
+}

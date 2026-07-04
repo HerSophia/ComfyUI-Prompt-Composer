@@ -1,0 +1,29 @@
+{
+  "id": "neuvillette_genshin_impact",
+  "name": "那维莱特",
+  "identity_tags": [
+    "neuvillette_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "ascot",
+    "vest",
+    "pants",
+    "thigh_strap"
+  ],
+  "optional_clothing": []
+}

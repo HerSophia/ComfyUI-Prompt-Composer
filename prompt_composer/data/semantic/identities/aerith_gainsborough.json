@@ -1,0 +1,29 @@
+{
+  "id": "aerith_gainsborough",
+  "name": "爱丽丝·盖恩斯巴勒",
+  "identity_tags": [
+    "aerith_gainsborough"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "braided_ponytail",
+      "wavy_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sleeveless_turtleneck",
+    "long_dress",
+    "cropped_jacket",
+    "ribbon_choker"
+  ],
+  "optional_clothing": []
+}

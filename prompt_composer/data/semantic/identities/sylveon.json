@@ -1,0 +1,28 @@
+{
+  "id": "sylveon",
+  "name": "仙子伊布",
+  "identity_tags": [
+    "sylveon"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "hoodie",
+    "bowtie",
+    "shorts",
+    "boots"
+  ],
+  "optional_clothing": []
+}

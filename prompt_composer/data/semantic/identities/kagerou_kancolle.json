@@ -1,0 +1,29 @@
+{
+  "id": "kagerou_kancolle",
+  "name": "阳炎",
+  "identity_tags": [
+    "kagerou_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "shorts_under_skirt",
+    "bike_shorts",
+    "neck_ribbon",
+    "vest"
+  ],
+  "optional_clothing": []
+}

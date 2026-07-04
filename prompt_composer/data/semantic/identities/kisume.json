@@ -1,0 +1,30 @@
+{
+  "id": "kisume",
+  "name": "琪斯美",
+  "identity_tags": [
+    "kisume"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "twintails",
+      "twin_braids",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "geta",
+    "yukata",
+    "skirt_set",
+    "kimono"
+  ],
+  "optional_clothing": []
+}

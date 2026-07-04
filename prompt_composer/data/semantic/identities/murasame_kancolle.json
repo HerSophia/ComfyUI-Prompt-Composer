@@ -1,0 +1,30 @@
+{
+  "id": "murasame_kancolle",
+  "name": "村雨",
+  "identity_tags": [
+    "murasame_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "light_brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "light_brown_hair",
+      "twintails",
+      "hair_flaps",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "sailor_bikini",
+    "red_neckerchief",
+    "serafuku",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

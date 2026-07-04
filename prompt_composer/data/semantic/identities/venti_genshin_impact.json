@@ -1,0 +1,30 @@
+{
+  "id": "venti_genshin_impact",
+  "name": "温迪",
+  "identity_tags": [
+    "venti_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "twin_braids",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "corset",
+    "white_pantyhose",
+    "bead_necklace",
+    "cape"
+  ],
+  "optional_clothing": []
+}

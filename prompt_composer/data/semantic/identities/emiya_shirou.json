@@ -1,0 +1,30 @@
+{
+  "id": "emiya_shirou",
+  "name": "卫宫士郎",
+  "identity_tags": [
+    "emiya_shirou"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ahoge",
+      "twintails",
+      "hair_bun"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "armored_dress",
+    "armor",
+    "cape",
+    "suit"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hiiragi_kagami",
+  "name": "柊镜",
+  "identity_tags": [
+    "hiiragi_kagami"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tsurime"
+    ]
+  },
+  "default_clothing": [
+    "ryouou_school_uniform",
+    "miko",
+    "serafuku",
+    "red_neckerchief"
+  ],
+  "optional_clothing": []
+}

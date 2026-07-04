@@ -1,0 +1,30 @@
+{
+  "id": "miorine_rembran",
+  "name": "蓝莓",
+  "identity_tags": [
+    "miorine_rembran"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ahoge",
+      "ponytail",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "grey_eyes",
+      "eye_contact"
+    ]
+  },
+  "default_clothing": [
+    "wedding_dress",
+    "mecha",
+    "camisole",
+    "school_uniform"
+  ],
+  "optional_clothing": []
+}

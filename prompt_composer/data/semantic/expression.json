@@ -1,0 +1,627 @@
+[
+  {
+    "tag": "smile",
+    "category": "expression",
+    "weight": 6.58,
+    "aliases": [
+      ":}",
+      ":)",
+      "smiling"
+    ],
+    "label_zh": "微笑",
+    "post_count": 3767312
+  },
+  {
+    "tag": ":d",
+    "category": "expression",
+    "weight": 5.85,
+    "aliases": [
+      "open-mouth_smile"
+    ],
+    "label_zh": "开心的笑_:D😀",
+    "post_count": 705328
+  },
+  {
+    "tag": "sweat",
+    "category": "expression",
+    "weight": 5.84,
+    "aliases": [
+      "sweating"
+    ],
+    "label_zh": "流汗",
+    "post_count": 691116
+  },
+  {
+    "tag": "grin",
+    "category": "expression",
+    "weight": 5.5,
+    "aliases": [
+      "grinning"
+    ],
+    "label_zh": "露齿咧嘴笑",
+    "post_count": 319509
+  },
+  {
+    "tag": "expressionless",
+    "category": "expression",
+    "weight": 5.22,
+    "aliases": [
+      "unexpressive",
+      "neutral_expression",
+      "emotionless"
+    ],
+    "label_zh": "面无表情",
+    "post_count": 164086
+  },
+  {
+    "tag": "frown",
+    "category": "expression",
+    "weight": 5.15,
+    "aliases": [
+      ":{",
+      "frowning",
+      ":("
+    ],
+    "label_zh": "皱眉/蹙额",
+    "post_count": 139978
+  },
+  {
+    "tag": "happy",
+    "category": "expression",
+    "weight": 5.1,
+    "aliases": [],
+    "label_zh": "快乐",
+    "post_count": 126172
+  },
+  {
+    "tag": "crying",
+    "category": "expression",
+    "weight": 5.01,
+    "aliases": [
+      "cry"
+    ],
+    "label_zh": "大哭",
+    "post_count": 103046
+  },
+  {
+    "tag": "trembling",
+    "category": "expression",
+    "weight": 5.0,
+    "aliases": [
+      "shivering",
+      "shiver",
+      "tremble"
+    ],
+    "label_zh": "颤抖",
+    "post_count": 99236
+  },
+  {
+    "tag": ";d",
+    "category": "expression",
+    "weight": 4.94,
+    "aliases": [],
+    "label_zh": "眨眼笑_:D",
+    "post_count": 86518
+  },
+  {
+    "tag": "shaded_face",
+    "category": "expression",
+    "weight": 4.87,
+    "aliases": [
+      "shaded_eyes",
+      "shadow_over_eyes"
+    ],
+    "label_zh": "脸上有阴影，配合蔑视",
+    "post_count": 74068
+  },
+  {
+    "tag": "tearing_up",
+    "category": "expression",
+    "weight": 4.81,
+    "aliases": [],
+    "label_zh": "要哭的表情",
+    "post_count": 64104
+  },
+  {
+    "tag": "furrowed_brow",
+    "category": "expression",
+    "weight": 4.78,
+    "aliases": [
+      "furrowed_eyebrows"
+    ],
+    "label_zh": "眉头紧锁",
+    "post_count": 60283
+  },
+  {
+    "tag": "angry",
+    "category": "expression",
+    "weight": 4.75,
+    "aliases": [
+      "anger",
+      "mad"
+    ],
+    "label_zh": "生气的",
+    "post_count": 55757
+  },
+  {
+    "tag": "serious",
+    "category": "expression",
+    "weight": 4.56,
+    "aliases": [
+      "stern"
+    ],
+    "label_zh": "严肃的（和angry有点像）",
+    "post_count": 36296
+  },
+  {
+    "tag": "smirk",
+    "category": "expression",
+    "weight": 4.53,
+    "aliases": [],
+    "label_zh": "傻笑,自鸣得意的笑",
+    "post_count": 33950
+  },
+  {
+    "tag": "naughty_face",
+    "category": "expression",
+    "weight": 4.53,
+    "aliases": [
+      "naughty_smile"
+    ],
+    "label_zh": "调皮的脸",
+    "post_count": 33702
+  },
+  {
+    "tag": "smug",
+    "category": "expression",
+    "weight": 4.49,
+    "aliases": [],
+    "label_zh": "洋洋得意",
+    "post_count": 30792
+  },
+  {
+    "tag": "laughing",
+    "category": "expression",
+    "weight": 4.31,
+    "aliases": [
+      "laugh"
+    ],
+    "label_zh": "大笑",
+    "post_count": 20587
+  },
+  {
+    "tag": "evil_smile",
+    "category": "expression",
+    "weight": 4.31,
+    "aliases": [],
+    "label_zh": "邪恶笑",
+    "post_count": 20525
+  },
+  {
+    "tag": "scared",
+    "category": "expression",
+    "weight": 4.29,
+    "aliases": [
+      "terrified",
+      "dread",
+      "afraid",
+      "fear"
+    ],
+    "label_zh": "害怕的",
+    "post_count": 19614
+  },
+  {
+    "tag": "drunk",
+    "category": "expression",
+    "weight": 4.27,
+    "aliases": [],
+    "label_zh": "喝醉的",
+    "post_count": 18611
+  },
+  {
+    "tag": "annoyed",
+    "category": "expression",
+    "weight": 4.25,
+    "aliases": [
+      "irritated"
+    ],
+    "label_zh": "苦恼的",
+    "post_count": 17868
+  },
+  {
+    "tag": "sad",
+    "category": "expression",
+    "weight": 4.21,
+    "aliases": [
+      "sadness"
+    ],
+    "label_zh": "伤心",
+    "post_count": 16023
+  },
+  {
+    "tag": "multiple_persona",
+    "category": "expression",
+    "weight": 4.2,
+    "aliases": [
+      "quintuple_persona",
+      "quadruple_persona",
+      "triple_persona"
+    ],
+    "label_zh": "多重人格",
+    "post_count": 15771
+  },
+  {
+    "tag": "dark_persona",
+    "category": "expression",
+    "weight": 4.18,
+    "aliases": [],
+    "label_zh": "黑化的",
+    "post_count": 15248
+  },
+  {
+    "tag": "shy",
+    "category": "expression",
+    "weight": 4.11,
+    "aliases": [],
+    "label_zh": "害羞的",
+    "post_count": 12901
+  },
+  {
+    "tag": "sleepy",
+    "category": "expression",
+    "weight": 4.08,
+    "aliases": [
+      "tired_(drowsy)"
+    ],
+    "label_zh": "困乏的",
+    "post_count": 12112
+  },
+  {
+    "tag": "shouting",
+    "category": "expression",
+    "weight": 4.08,
+    "aliases": [
+      "yelling",
+      "shout"
+    ],
+    "label_zh": "喊叫",
+    "post_count": 11948
+  },
+  {
+    "tag": "streaming_tears",
+    "category": "expression",
+    "weight": 4.07,
+    "aliases": [],
+    "label_zh": "流泪",
+    "post_count": 11775
+  },
+  {
+    "tag": "glaring",
+    "category": "expression",
+    "weight": 4.05,
+    "aliases": [
+      "glare"
+    ],
+    "label_zh": "怒目而视",
+    "post_count": 11318
+  },
+  {
+    "tag": "teardrop",
+    "category": "expression",
+    "weight": 3.99,
+    "aliases": [],
+    "label_zh": "泪珠",
+    "post_count": 9711
+  },
+  {
+    "tag": "yandere",
+    "category": "expression",
+    "weight": 3.94,
+    "aliases": [],
+    "label_zh": "病娇",
+    "post_count": 8779
+  },
+  {
+    "tag": "twitching",
+    "category": "expression",
+    "weight": 3.92,
+    "aliases": [],
+    "label_zh": "抽搐",
+    "post_count": 8339
+  },
+  {
+    "tag": "thinking",
+    "category": "expression",
+    "weight": 3.86,
+    "aliases": [],
+    "label_zh": "思考",
+    "post_count": 7296
+  },
+  {
+    "tag": "scowl",
+    "category": "expression",
+    "weight": 3.77,
+    "aliases": [],
+    "label_zh": "嫌弃的眼神",
+    "post_count": 5911
+  },
+  {
+    "tag": "tsundere",
+    "category": "expression",
+    "weight": 3.77,
+    "aliases": [],
+    "label_zh": "傲娇",
+    "post_count": 5891
+  },
+  {
+    "tag": "flustered",
+    "category": "expression",
+    "weight": 3.77,
+    "aliases": [
+      "shame_(flustered)"
+    ],
+    "label_zh": "慌张的",
+    "post_count": 5825
+  },
+  {
+    "tag": "confused",
+    "category": "expression",
+    "weight": 3.72,
+    "aliases": [],
+    "label_zh": "使困惑",
+    "post_count": 5223
+  },
+  {
+    "tag": "screaming",
+    "category": "expression",
+    "weight": 3.71,
+    "aliases": [
+      "scream"
+    ],
+    "label_zh": "尖叫",
+    "post_count": 5094
+  },
+  {
+    "tag": "crazy_smile",
+    "category": "expression",
+    "weight": 3.65,
+    "aliases": [],
+    "label_zh": "疯狂的笑",
+    "post_count": 4508
+  },
+  {
+    "tag": "sigh",
+    "category": "expression",
+    "weight": 3.62,
+    "aliases": [
+      "sighing"
+    ],
+    "label_zh": "叹气",
+    "post_count": 4204
+  },
+  {
+    "tag": "happy_tears",
+    "category": "expression",
+    "weight": 3.58,
+    "aliases": [],
+    "label_zh": "开心的眼泪",
+    "post_count": 3832
+  },
+  {
+    "tag": "disgust",
+    "category": "expression",
+    "weight": 3.55,
+    "aliases": [
+      "disgusted"
+    ],
+    "label_zh": "厌恶(看垃圾一样的眼神)",
+    "post_count": 3552
+  },
+  {
+    "tag": "exhausted",
+    "category": "expression",
+    "weight": 3.5,
+    "aliases": [
+      "tired_(fatigue)"
+    ],
+    "label_zh": "筋疲力尽的",
+    "post_count": 3145
+  },
+  {
+    "tag": "wiping_tears",
+    "category": "expression",
+    "weight": 3.47,
+    "aliases": [],
+    "label_zh": "擦眼泪",
+    "post_count": 2911
+  },
+  {
+    "tag": "bored",
+    "category": "expression",
+    "weight": 3.29,
+    "aliases": [],
+    "label_zh": "无聊的",
+    "post_count": 1923
+  },
+  {
+    "tag": "crazy",
+    "category": "expression",
+    "weight": 3.27,
+    "aliases": [
+      "insane",
+      "yangire"
+    ],
+    "label_zh": "疯狂的",
+    "post_count": 1846
+  },
+  {
+    "tag": "facepalm",
+    "category": "expression",
+    "weight": 3.23,
+    "aliases": [],
+    "label_zh": "捂脸",
+    "post_count": 1696
+  },
+  {
+    "tag": "despair",
+    "category": "expression",
+    "weight": 2.9,
+    "aliases": [],
+    "label_zh": "绝望",
+    "post_count": 781
+  },
+  {
+    "tag": "frustrated",
+    "category": "expression",
+    "weight": 2.87,
+    "aliases": [],
+    "label_zh": "沮丧",
+    "post_count": 728
+  },
+  {
+    "tag": "lonely",
+    "category": "expression",
+    "weight": 2.85,
+    "aliases": [],
+    "label_zh": "孤独",
+    "post_count": 704
+  },
+  {
+    "tag": "disappointed",
+    "category": "expression",
+    "weight": 2.79,
+    "aliases": [],
+    "label_zh": "失望的",
+    "post_count": 610
+  },
+  {
+    "tag": "giggling",
+    "category": "expression",
+    "weight": 2.72,
+    "aliases": [
+      "giggle"
+    ],
+    "label_zh": "咯咯傻笑",
+    "post_count": 517
+  },
+  {
+    "tag": "disdain",
+    "category": "expression",
+    "weight": 2.59,
+    "aliases": [],
+    "label_zh": "轻蔑",
+    "post_count": 380
+  },
+  {
+    "tag": "sulking",
+    "category": "expression",
+    "weight": 2.57,
+    "aliases": [],
+    "label_zh": "生_闷气",
+    "post_count": 364
+  },
+  {
+    "tag": "envy",
+    "category": "expression",
+    "weight": 2.38,
+    "aliases": [],
+    "label_zh": "嫉妒",
+    "post_count": 231
+  },
+  {
+    "tag": "kind_smile",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "开心",
+    "post_count": 0
+  },
+  {
+    "tag": "teasing_smile",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "被逗笑，咧嘴傻笑",
+    "post_count": 0
+  },
+  {
+    "tag": "tear",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "啜泣",
+    "post_count": 0
+  },
+  {
+    "tag": "badmood",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "心情不好",
+    "post_count": 0
+  },
+  {
+    "tag": "frustrated_brow",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "沮丧的眉头",
+    "post_count": 0
+  },
+  {
+    "tag": "anguish",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "苦闷",
+    "post_count": 0
+  },
+  {
+    "tag": "gloom",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "忧郁的",
+    "post_count": 0
+  },
+  {
+    "tag": "contempt",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "蔑视",
+    "post_count": 0
+  },
+  {
+    "tag": "evil",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "邪恶的",
+    "post_count": 0
+  },
+  {
+    "tag": "embarrass",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "害羞的(尴尬的)",
+    "post_count": 0
+  },
+  {
+    "tag": "endured_face",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "忍耐的表情",
+    "post_count": 0
+  },
+  {
+    "tag": "naughty",
+    "category": "expression",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "淘气",
+    "post_count": 0
+  }
+]

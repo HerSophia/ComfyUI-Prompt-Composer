@@ -1,0 +1,29 @@
+{
+  "id": "kunikida_hanamaru",
+  "name": "国木田花丸",
+  "identity_tags": [
+    "kunikida_hanamaru"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "hair_bun",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "uranohoshi_school_uniform",
+    "cardigan",
+    "serafuku",
+    "black_pantyhose"
+  ],
+  "optional_clothing": []
+}

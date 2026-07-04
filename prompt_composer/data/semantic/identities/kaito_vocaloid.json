@@ -1,0 +1,30 @@
+{
+  "id": "kaito_vocaloid",
+  "name": "KAITO",
+  "identity_tags": [
+    "kaito_(vocaloid)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "knee_boots",
+    "crop_top",
+    "suit",
+    "thigh_boots"
+  ],
+  "optional_clothing": []
+}

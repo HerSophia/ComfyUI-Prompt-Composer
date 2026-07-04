@@ -1,0 +1,26 @@
+{
+  "id": "lelouch_vi_britannia",
+  "name": "鲁路修·V·布里塔尼亚",
+  "identity_tags": [
+    "lelouch_vi_britannia"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "cape",
+    "school_uniform",
+    "pants",
+    "dress"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ninomae_ina_nis",
+  "name": "一伊那尔栖",
+  "identity_tags": [
+    "ninomae_ina'nis"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "strapless_dress",
+    "backless_dress",
+    "headphones_around_neck",
+    "pinafore_dress"
+  ],
+  "optional_clothing": []
+}

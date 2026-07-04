@@ -1,0 +1,29 @@
+{
+  "id": "falin_touden",
+  "name": "法琳",
+  "identity_tags": [
+    "falin_touden"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "robe",
+    "capelet",
+    "helmet",
+    "sandals"
+  ],
+  "optional_clothing": []
+}

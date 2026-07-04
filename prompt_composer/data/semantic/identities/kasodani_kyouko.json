@@ -1,0 +1,30 @@
+{
+  "id": "kasodani_kyouko",
+  "name": "幽谷响子",
+  "identity_tags": [
+    "kasodani_kyouko"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "geta",
+    "skirt_set",
+    "capelet",
+    "dress"
+  ],
+  "optional_clothing": []
+}

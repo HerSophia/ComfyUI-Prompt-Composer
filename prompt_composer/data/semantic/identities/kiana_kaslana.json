@@ -1,0 +1,30 @@
+{
+  "id": "kiana_kaslana",
+  "name": "琪亚娜·卡斯兰娜",
+  "identity_tags": [
+    "kiana_kaslana"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ahoge",
+      "ponytail",
+      "twin_braids"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "armored_dress",
+    "fur_collar",
+    "strapless_dress",
+    "china_dress"
+  ],
+  "optional_clothing": []
+}

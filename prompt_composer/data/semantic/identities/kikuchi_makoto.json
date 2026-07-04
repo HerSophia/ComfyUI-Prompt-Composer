@@ -1,0 +1,29 @@
+{
+  "id": "kikuchi_makoto",
+  "name": "菊地真",
+  "identity_tags": [
+    "kikuchi_makoto"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "antenna_hair",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "black_eyes"
+    ]
+  },
+  "default_clothing": [
+    "short_shorts",
+    "plaid_skirt",
+    "shorts",
+    "hoodie"
+  ],
+  "optional_clothing": []
+}

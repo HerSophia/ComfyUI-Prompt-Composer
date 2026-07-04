@@ -1,0 +1,30 @@
+{
+  "id": "nerissa_ravencroft",
+  "name": "涅丽莎·雷文克罗夫特",
+  "identity_tags": [
+    "nerissa_ravencroft"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "ponytail",
+      "straight_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "pencil_skirt",
+    "alternate_costume",
+    "clothing_cutout",
+    "dress_shirt"
+  ],
+  "optional_clothing": []
+}

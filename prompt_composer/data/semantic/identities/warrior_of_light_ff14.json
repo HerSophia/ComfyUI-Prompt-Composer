@@ -1,0 +1,30 @@
+{
+  "id": "warrior_of_light_ff14",
+  "name": "光之战士",
+  "identity_tags": [
+    "warrior_of_light_(ff14)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "swept_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "greaves",
+    "neck_tattoo",
+    "shoulder_armor",
+    "thigh_boots"
+  ],
+  "optional_clothing": []
+}

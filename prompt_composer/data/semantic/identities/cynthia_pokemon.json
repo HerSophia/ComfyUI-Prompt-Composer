@@ -1,0 +1,30 @@
+{
+  "id": "cynthia_pokemon",
+  "name": "竹兰",
+  "identity_tags": [
+    "cynthia_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "wavy_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "grey_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "fur_collar",
+    "fur-trimmed_coat",
+    "v-neck",
+    "pants"
+  ],
+  "optional_clothing": []
+}

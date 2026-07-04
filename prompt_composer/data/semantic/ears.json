@@ -1,0 +1,447 @@
+[
+  {
+    "tag": "animal_ears",
+    "category": "ears",
+    "weight": 6.19,
+    "aliases": [
+      "pokemon_ears",
+      "kemonomimi"
+    ],
+    "label_zh": "兽耳",
+    "post_count": 1565915
+  },
+  {
+    "tag": "horns",
+    "category": "ears",
+    "weight": 5.79,
+    "aliases": [],
+    "label_zh": "兽角",
+    "post_count": 618377
+  },
+  {
+    "tag": "pointy_ears",
+    "category": "ears",
+    "weight": 5.73,
+    "aliases": [
+      "elven_ears",
+      "elf_ears",
+      "pointy_ear",
+      "pointed_ears",
+      "long_ears",
+      "pointy-ears"
+    ],
+    "label_zh": "尖耳朵",
+    "post_count": 532245
+  },
+  {
+    "tag": "cat_ears",
+    "category": "ears",
+    "weight": 5.57,
+    "aliases": [
+      "catears",
+      "/cat",
+      "nekomimi"
+    ],
+    "label_zh": "猫耳朵",
+    "post_count": 371824
+  },
+  {
+    "tag": "animal_ear_fluff",
+    "category": "ears",
+    "weight": 5.46,
+    "aliases": [],
+    "label_zh": "动物耳朵绒毛",
+    "post_count": 287955
+  },
+  {
+    "tag": "fake_animal_ears",
+    "category": "ears",
+    "weight": 5.32,
+    "aliases": [],
+    "label_zh": "动物耳朵",
+    "post_count": 207302
+  },
+  {
+    "tag": "horse_ears",
+    "category": "ears",
+    "weight": 5.29,
+    "aliases": [],
+    "label_zh": "马耳朵",
+    "post_count": 194136
+  },
+  {
+    "tag": "fox_ears",
+    "category": "ears",
+    "weight": 5.29,
+    "aliases": [
+      "/fox",
+      "kitsunemimi"
+    ],
+    "label_zh": "狐狸耳朵",
+    "post_count": 193411
+  },
+  {
+    "tag": "wolf_ears",
+    "category": "ears",
+    "weight": 5.02,
+    "aliases": [
+      "coyote_ears",
+      "ookamimimi"
+    ],
+    "label_zh": "狼耳朵",
+    "post_count": 103840
+  },
+  {
+    "tag": "ear_piercing",
+    "category": "ears",
+    "weight": 4.99,
+    "aliases": [
+      "pierced_ear",
+      "pierced_ears"
+    ],
+    "label_zh": "耳洞",
+    "post_count": 97116
+  },
+  {
+    "tag": "extra_ears",
+    "category": "ears",
+    "weight": 4.91,
+    "aliases": [
+      "double_ears"
+    ],
+    "label_zh": "额外的耳朵",
+    "post_count": 80606
+  },
+  {
+    "tag": "dog_ears",
+    "category": "ears",
+    "weight": 4.9,
+    "aliases": [
+      "african_wild_dog_ears",
+      "dog_ear",
+      "/dog",
+      "inumimi"
+    ],
+    "label_zh": "狗耳朵",
+    "post_count": 80178
+  },
+  {
+    "tag": "dragon_horns",
+    "category": "ears",
+    "weight": 4.81,
+    "aliases": [],
+    "label_zh": "龙角",
+    "post_count": 64658
+  },
+  {
+    "tag": "fake_horns",
+    "category": "ears",
+    "weight": 4.54,
+    "aliases": [
+      "horn_hair_ornament"
+    ],
+    "label_zh": "假角",
+    "post_count": 34635
+  },
+  {
+    "tag": "mouse_ears",
+    "category": "ears",
+    "weight": 4.51,
+    "aliases": [
+      "rat_ears",
+      "nezumimi"
+    ],
+    "label_zh": "老鼠耳朵",
+    "post_count": 32442
+  },
+  {
+    "tag": "ear_ornament",
+    "category": "ears",
+    "weight": 4.45,
+    "aliases": [],
+    "label_zh": "耳饰",
+    "post_count": 28411
+  },
+  {
+    "tag": "antlers",
+    "category": "ears",
+    "weight": 4.45,
+    "aliases": [],
+    "label_zh": "鹿角",
+    "post_count": 28286
+  },
+  {
+    "tag": "cow_ears",
+    "category": "ears",
+    "weight": 4.39,
+    "aliases": [
+      "ox_ears",
+      "ushimimi"
+    ],
+    "label_zh": "牛耳朵",
+    "post_count": 24760
+  },
+  {
+    "tag": "curled_horns",
+    "category": "ears",
+    "weight": 4.38,
+    "aliases": [
+      "curled_horn"
+    ],
+    "label_zh": "弯角",
+    "post_count": 23848
+  },
+  {
+    "tag": "tiger_ears",
+    "category": "ears",
+    "weight": 4.34,
+    "aliases": [],
+    "label_zh": "虎耳",
+    "post_count": 22059
+  },
+  {
+    "tag": "raccoon_ears",
+    "category": "ears",
+    "weight": 4.26,
+    "aliases": [
+      "tanuki_ears",
+      "tanukimimi"
+    ],
+    "label_zh": "浣熊耳朵",
+    "post_count": 18368
+  },
+  {
+    "tag": "ear_blush",
+    "category": "ears",
+    "weight": 4.24,
+    "aliases": [],
+    "label_zh": "耳朵通红",
+    "post_count": 17306
+  },
+  {
+    "tag": "ears_through_headwear",
+    "category": "ears",
+    "weight": 4.23,
+    "aliases": [],
+    "label_zh": "耳朵穿过帽子或头饰",
+    "post_count": 17107
+  },
+  {
+    "tag": "goat_horns",
+    "category": "ears",
+    "weight": 4.16,
+    "aliases": [],
+    "label_zh": "山羊角",
+    "post_count": 14419
+  },
+  {
+    "tag": "bear_ears",
+    "category": "ears",
+    "weight": 4.15,
+    "aliases": [],
+    "label_zh": "熊耳朵",
+    "post_count": 14074
+  },
+  {
+    "tag": "lion_ears",
+    "category": "ears",
+    "weight": 4.13,
+    "aliases": [],
+    "label_zh": "狮子耳朵",
+    "post_count": 13635
+  },
+  {
+    "tag": "floppy_ears",
+    "category": "ears",
+    "weight": 4.13,
+    "aliases": [],
+    "label_zh": "松软的耳朵",
+    "post_count": 13331
+  },
+  {
+    "tag": "ears_down",
+    "category": "ears",
+    "weight": 3.94,
+    "aliases": [],
+    "label_zh": "垂耳",
+    "post_count": 8649
+  },
+  {
+    "tag": "robot_ears",
+    "category": "ears",
+    "weight": 3.94,
+    "aliases": [],
+    "label_zh": "机器人耳朵",
+    "post_count": 8617
+  },
+  {
+    "tag": "long_pointy_ears",
+    "category": "ears",
+    "weight": 3.92,
+    "aliases": [],
+    "label_zh": "长尖耳朵",
+    "post_count": 8340
+  },
+  {
+    "tag": "deer_ears",
+    "category": "ears",
+    "weight": 3.82,
+    "aliases": [
+      "reindeer_ears"
+    ],
+    "label_zh": "鹿耳朵",
+    "post_count": 6557
+  },
+  {
+    "tag": "sheep_ears",
+    "category": "ears",
+    "weight": 3.81,
+    "aliases": [],
+    "label_zh": "羊耳朵",
+    "post_count": 6417
+  },
+  {
+    "tag": "squirrel_ears",
+    "category": "ears",
+    "weight": 3.77,
+    "aliases": [],
+    "label_zh": "松鼠耳朵",
+    "post_count": 5883
+  },
+  {
+    "tag": "goat_ears",
+    "category": "ears",
+    "weight": 3.68,
+    "aliases": [],
+    "label_zh": "山羊耳朵",
+    "post_count": 4743
+  },
+  {
+    "tag": "bat_ears",
+    "category": "ears",
+    "weight": 3.63,
+    "aliases": [],
+    "label_zh": "蝙蝠耳朵",
+    "post_count": 4290
+  },
+  {
+    "tag": "hair_on_horn",
+    "category": "ears",
+    "weight": 3.52,
+    "aliases": [],
+    "label_zh": "角上的头发",
+    "post_count": 3313
+  },
+  {
+    "tag": "panda_ears",
+    "category": "ears",
+    "weight": 3.47,
+    "aliases": [],
+    "label_zh": "熊猫耳朵",
+    "post_count": 2936
+  },
+  {
+    "tag": "jaguar_ears",
+    "category": "ears",
+    "weight": 3.39,
+    "aliases": [],
+    "label_zh": "美洲豹耳朵",
+    "post_count": 2445
+  },
+  {
+    "tag": "dragon_ears",
+    "category": "ears",
+    "weight": 3.17,
+    "aliases": [],
+    "label_zh": "龙耳朵",
+    "post_count": 1477
+  },
+  {
+    "tag": "alpaca_ears",
+    "category": "ears",
+    "weight": 3.13,
+    "aliases": [],
+    "label_zh": "羊驼耳",
+    "post_count": 1351
+  },
+  {
+    "tag": "pig_ears",
+    "category": "ears",
+    "weight": 3.1,
+    "aliases": [],
+    "label_zh": "猪耳朵",
+    "post_count": 1243
+  },
+  {
+    "tag": "elephant_ears",
+    "category": "ears",
+    "weight": 2.48,
+    "aliases": [],
+    "label_zh": "大象耳朵",
+    "post_count": 292
+  },
+  {
+    "tag": "antelope_ears",
+    "category": "ears",
+    "weight": 2.37,
+    "aliases": [],
+    "label_zh": "羚羊耳朵",
+    "post_count": 226
+  },
+  {
+    "tag": "elf_ears",
+    "category": "ears",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "精灵耳朵",
+    "post_count": 0
+  },
+  {
+    "tag": "bunny_ears",
+    "category": "ears",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "兔子耳朵",
+    "post_count": 0
+  },
+  {
+    "tag": "demon_ears",
+    "category": "ears",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "恶魔耳朵",
+    "post_count": 0
+  },
+  {
+    "tag": "angel_ears",
+    "category": "ears",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "天使耳朵",
+    "post_count": 0
+  },
+  {
+    "tag": "alien_ears",
+    "category": "ears",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "外星人耳朵",
+    "post_count": 0
+  },
+  {
+    "tag": "coyote_ears",
+    "category": "ears",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "郊狼耳朵",
+    "post_count": 0
+  },
+  {
+    "tag": "oni_horns",
+    "category": "ears",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "鬼角",
+    "post_count": 0
+  }
+]

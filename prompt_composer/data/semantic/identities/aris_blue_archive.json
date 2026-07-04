@@ -1,0 +1,30 @@
+{
+  "id": "aris_blue_archive",
+  "name": "天童爱丽丝",
+  "identity_tags": [
+    "aris_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "side_ponytail",
+      "long_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "ringed_eyes"
+    ]
+  },
+  "default_clothing": [
+    "maid_apron",
+    "white_pantyhose",
+    "necktie",
+    "apron"
+  ],
+  "optional_clothing": []
+}

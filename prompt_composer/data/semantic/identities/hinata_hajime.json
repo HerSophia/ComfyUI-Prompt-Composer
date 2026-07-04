@@ -1,0 +1,29 @@
+{
+  "id": "hinata_hajime",
+  "name": "日向创",
+  "identity_tags": [
+    "hinata_hajime"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "messy_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "print_shirt",
+    "necktie",
+    "neck_ribbon",
+    "open_jacket"
+  ],
+  "optional_clothing": []
+}

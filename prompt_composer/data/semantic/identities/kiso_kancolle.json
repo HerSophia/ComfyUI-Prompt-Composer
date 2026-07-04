@@ -1,0 +1,30 @@
+{
+  "id": "kiso_kancolle",
+  "name": "木曾",
+  "identity_tags": [
+    "kiso_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "green_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "serafuku",
+    "cape",
+    "red_neckerchief"
+  ],
+  "optional_clothing": []
+}

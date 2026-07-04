@@ -1,0 +1,28 @@
+{
+  "id": "leon_pokemon",
+  "name": "丹帝",
+  "identity_tags": [
+    "leon_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "leggings",
+    "hoodie",
+    "cape",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

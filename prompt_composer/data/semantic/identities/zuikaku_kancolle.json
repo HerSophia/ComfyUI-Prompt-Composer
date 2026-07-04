@@ -1,0 +1,30 @@
+{
+  "id": "zuikaku_kancolle",
+  "name": "瑞鹤",
+  "identity_tags": [
+    "zuikaku_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "twintails",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "muneate",
+    "hakama_skirt",
+    "naval_uniform",
+    "japanese_clothes"
+  ],
+  "optional_clothing": []
+}

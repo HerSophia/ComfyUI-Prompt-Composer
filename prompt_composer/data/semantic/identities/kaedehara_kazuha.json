@@ -1,0 +1,30 @@
+{
+  "id": "kaedehara_kazuha",
+  "name": "枫原万叶",
+  "identity_tags": [
+    "kaedehara_kazuha"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ponytail",
+      "antenna_hair",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "red_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "japanese_armor",
+    "haori",
+    "japanese_clothes",
+    "armor"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "nagasaki_soyo",
+  "name": "长崎爽世",
+  "identity_tags": [
+    "nagasaki_soyo"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eye_contact"
+    ]
+  },
+  "default_clothing": [
+    "sweater_vest",
+    "plaid_skirt",
+    "neckerchief",
+    "kneehighs"
+  ],
+  "optional_clothing": []
+}

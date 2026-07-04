@@ -1,0 +1,27 @@
+{
+  "id": "luigi",
+  "name": "路易吉",
+  "identity_tags": [
+    "luigi"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "overalls",
+    "frilled_collar",
+    "frilled_dress",
+    "shoes"
+  ],
+  "optional_clothing": []
+}

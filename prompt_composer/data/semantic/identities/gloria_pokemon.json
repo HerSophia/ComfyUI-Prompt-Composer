@@ -1,0 +1,30 @@
+{
+  "id": "gloria_pokemon",
+  "name": "由丽娜",
+  "identity_tags": [
+    "gloria_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "bob_cut",
+      "twintails",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "cardigan",
+    "collared_dress",
+    "fur-trimmed_jacket",
+    "black_choker"
+  ],
+  "optional_clothing": []
+}

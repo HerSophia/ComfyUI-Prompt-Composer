@@ -1,0 +1,30 @@
+{
+  "id": "izayoi_sakuya",
+  "name": "十六夜咲夜",
+  "identity_tags": [
+    "izayoi_sakuya"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twin_braids",
+      "side_ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "waist_apron",
+    "maid_apron",
+    "apron",
+    "skirt_set"
+  ],
+  "optional_clothing": []
+}

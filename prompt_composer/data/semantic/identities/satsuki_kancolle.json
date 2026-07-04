@@ -1,0 +1,29 @@
+{
+  "id": "satsuki_kancolle",
+  "name": "皋月",
+  "identity_tags": [
+    "satsuki_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "white_necktie",
+    "serafuku",
+    "neckerchief",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

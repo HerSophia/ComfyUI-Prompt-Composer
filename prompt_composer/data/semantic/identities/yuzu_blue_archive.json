@@ -1,0 +1,30 @@
+{
+  "id": "yuzu_blue_archive",
+  "name": "花冈柚子",
+  "identity_tags": [
+    "yuzu_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "forehead",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "maid_apron",
+    "apron",
+    "sandals",
+    "frilled_dress"
+  ],
+  "optional_clothing": []
+}

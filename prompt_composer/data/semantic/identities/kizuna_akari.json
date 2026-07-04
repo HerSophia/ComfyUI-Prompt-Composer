@@ -1,0 +1,29 @@
+{
+  "id": "kizuna_akari",
+  "name": "结月缘",
+  "identity_tags": [
+    "kizuna_akari"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twin_braids",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "criss-cross_halter",
+    "fur-trimmed_jacket",
+    "halterneck",
+    "open_jacket"
+  ],
+  "optional_clothing": []
+}

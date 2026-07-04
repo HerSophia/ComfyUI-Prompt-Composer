@@ -1,0 +1,30 @@
+{
+  "id": "zhongli_genshin_impact",
+  "name": "钟离",
+  "identity_tags": [
+    "zhongli_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "eyeliner"
+    ]
+  },
+  "default_clothing": [
+    "white_necktie",
+    "bead_necklace",
+    "suit",
+    "hooded_coat"
+  ],
+  "optional_clothing": []
+}

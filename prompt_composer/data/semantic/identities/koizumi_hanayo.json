@@ -1,0 +1,30 @@
+{
+  "id": "koizumi_hanayo",
+  "name": "小泉花阳",
+  "identity_tags": [
+    "koizumi_hanayo"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "otonokizaka_school_uniform",
+    "blazer",
+    "plaid_skirt",
+    "bowtie"
+  ],
+  "optional_clothing": []
+}

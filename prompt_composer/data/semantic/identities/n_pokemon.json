@@ -1,0 +1,27 @@
+{
+  "id": "n_pokemon",
+  "name": "（口袋妖怪）",
+  "identity_tags": [
+    "n_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "undershirt",
+    "denim_shorts",
+    "vest",
+    "necklace"
+  ],
+  "optional_clothing": []
+}

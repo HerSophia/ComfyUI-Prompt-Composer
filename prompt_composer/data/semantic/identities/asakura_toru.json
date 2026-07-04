@@ -1,0 +1,29 @@
+{
+  "id": "asakura_toru",
+  "name": "浅仓透",
+  "identity_tags": [
+    "asakura_toru"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "twintails",
+      "hair_bun"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "jacket_around_waist",
+    "clothes_around_waist",
+    "loose_necktie",
+    "plaid_skirt"
+  ],
+  "optional_clothing": []
+}

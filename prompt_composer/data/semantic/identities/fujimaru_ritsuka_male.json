@@ -1,0 +1,30 @@
+{
+  "id": "fujimaru_ritsuka_male",
+  "name": "藤丸立香（男）",
+  "identity_tags": [
+    "fujimaru_ritsuka_(male)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "chaldea_uniform",
+    "hawaiian_shirt",
+    "armored_dress",
+    "male_swimwear"
+  ],
+  "optional_clothing": []
+}

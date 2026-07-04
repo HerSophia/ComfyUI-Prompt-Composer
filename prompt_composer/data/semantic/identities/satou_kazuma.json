@@ -1,0 +1,30 @@
+{
+  "id": "satou_kazuma",
+  "name": "佐藤和真",
+  "identity_tags": [
+    "satou_kazuma"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "hair_bun",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bandaged_leg",
+    "track_jacket",
+    "cape",
+    "capelet"
+  ],
+  "optional_clothing": []
+}

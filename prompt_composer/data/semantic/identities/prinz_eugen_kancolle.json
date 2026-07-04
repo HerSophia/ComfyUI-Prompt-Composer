@@ -1,0 +1,30 @@
+{
+  "id": "prinz_eugen_kancolle",
+  "name": "欧根亲王",
+  "identity_tags": [
+    "prinz_eugen_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "iron_cross",
+    "microskirt",
+    "over-kneehighs",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

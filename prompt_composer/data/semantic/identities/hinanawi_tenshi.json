@@ -1,0 +1,30 @@
+{
+  "id": "hinanawi_tenshi",
+  "name": "比那名居天子",
+  "identity_tags": [
+    "hinanawi_tenshi"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twin_braids",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "lace-up_boots",
+    "blouse",
+    "layered_dress",
+    "long_skirt"
+  ],
+  "optional_clothing": []
+}

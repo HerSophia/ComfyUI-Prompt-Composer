@@ -1,0 +1,26 @@
+{
+  "id": "raihan_pokemon",
+  "name": "奇巴纳",
+  "identity_tags": [
+    "raihan_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "hoodie",
+    "shorts",
+    "pants",
+    "collared_shirt"
+  ],
+  "optional_clothing": []
+}

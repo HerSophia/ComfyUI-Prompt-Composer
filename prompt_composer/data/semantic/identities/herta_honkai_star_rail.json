@@ -1,0 +1,27 @@
+{
+  "id": "herta_honkai_star_rail",
+  "name": "黑塔",
+  "identity_tags": [
+    "herta_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "backless_dress",
+    "strapless_dress",
+    "necklace",
+    "clothing_cutout"
+  ],
+  "optional_clothing": []
+}

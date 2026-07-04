@@ -1,0 +1,29 @@
+{
+  "id": "bowsette",
+  "name": "库巴公主",
+  "identity_tags": [
+    "bowsette"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "strapless_dress",
+    "frilled_collar",
+    "overalls",
+    "shiny_clothes"
+  ],
+  "optional_clothing": []
+}

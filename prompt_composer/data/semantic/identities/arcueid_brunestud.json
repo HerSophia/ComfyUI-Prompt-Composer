@@ -1,0 +1,29 @@
+{
+  "id": "arcueid_brunestud",
+  "name": "爱尔奎特·布伦史塔德",
+  "identity_tags": [
+    "arcueid_brunestud"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "antenna_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "turtleneck_sweater",
+    "long_skirt",
+    "sweater",
+    "strapless_dress"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "nekomata_okayu",
+  "name": "猫又小粥",
+  "identity_tags": [
+    "nekomata_okayu"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ahoge",
+      "crossed_bangs",
+      "twin_braids"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "button_gap",
+    "hoodie",
+    "belt_collar",
+    "partially_unbuttoned"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "higashikata_josuke",
+  "name": "东方仗助",
+  "identity_tags": [
+    "higashikata_josuke"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "school_uniform",
+    "shirt"
+  ],
+  "optional_clothing": []
+}

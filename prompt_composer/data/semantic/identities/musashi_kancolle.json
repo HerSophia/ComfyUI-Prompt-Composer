@@ -1,0 +1,30 @@
+{
+  "id": "musashi_kancolle",
+  "name": "武藏",
+  "identity_tags": [
+    "musashi_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "rigging",
+    "military_uniform",
+    "alternate_costume",
+    "miniskirt"
+  ],
+  "optional_clothing": []
+}

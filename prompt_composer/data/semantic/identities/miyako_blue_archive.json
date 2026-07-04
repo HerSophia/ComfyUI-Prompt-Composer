@@ -1,0 +1,29 @@
+{
+  "id": "miyako_blue_archive",
+  "name": "月雪宫子",
+  "identity_tags": [
+    "miyako_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ponytail",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "casual_one-piece_swimsuit",
+    "one-piece_swimsuit",
+    "neckerchief",
+    "helmet"
+  ],
+  "optional_clothing": []
+}

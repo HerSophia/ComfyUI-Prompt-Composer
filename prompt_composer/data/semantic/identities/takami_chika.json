@@ -1,0 +1,29 @@
+{
+  "id": "takami_chika",
+  "name": "高海千歌",
+  "identity_tags": [
+    "takami_chika"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ahoge",
+      "hair_bun",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "uranohoshi_school_uniform",
+    "red_neckerchief",
+    "serafuku",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "laios_touden",
+  "name": "莱欧斯",
+  "identity_tags": [
+    "laios_touden"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "twin_braids"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "robe",
+    "helmet",
+    "armor",
+    "shoulder_armor"
+  ],
+  "optional_clothing": []
+}

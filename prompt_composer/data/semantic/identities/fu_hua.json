@@ -1,0 +1,30 @@
+{
+  "id": "fu_hua",
+  "name": "符华",
+  "identity_tags": [
+    "fu_hua"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ponytail",
+      "high_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eyeliner"
+    ]
+  },
+  "default_clothing": [
+    "hanfu",
+    "china_dress",
+    "chinese_clothes",
+    "sportswear"
+  ],
+  "optional_clothing": []
+}

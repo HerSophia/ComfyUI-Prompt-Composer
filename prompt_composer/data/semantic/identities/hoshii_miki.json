@@ -1,0 +1,30 @@
+{
+  "id": "hoshii_miki",
+  "name": "星井美希",
+  "identity_tags": [
+    "hoshii_miki"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "ponytail",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "single_leg_pantyhose",
+    "front-tie_top",
+    "fishnets",
+    "short_shorts"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "serval_kemono_friends",
+  "name": "朋友）",
+  "identity_tags": [
+    "serval_(kemono_friends)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "wavy_hair",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tareme"
+    ]
+  },
+  "default_clothing": [
+    "print_skirt",
+    "high-waist_skirt",
+    "fur_collar",
+    "helmet"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "midoriya_izuku",
+  "name": "绿谷出久",
+  "identity_tags": [
+    "midoriya_izuku"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "messy_hair",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "green_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "t-shirt",
+    "tank_top",
+    "sneakers",
+    "pants"
+  ],
+  "optional_clothing": []
+}

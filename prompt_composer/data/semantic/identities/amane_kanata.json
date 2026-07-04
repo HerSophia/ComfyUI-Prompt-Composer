@@ -1,0 +1,30 @@
+{
+  "id": "amane_kanata",
+  "name": "天音彼方",
+  "identity_tags": [
+    "amane_kanata"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "bob_cut",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "star_necklace",
+    "single_sock",
+    "uneven_legwear",
+    "mismatched_legwear"
+  ],
+  "optional_clothing": []
+}

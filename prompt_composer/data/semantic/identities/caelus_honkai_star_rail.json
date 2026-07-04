@@ -1,0 +1,30 @@
+{
+  "id": "caelus_honkai_star_rail",
+  "name": "穹",
+  "identity_tags": [
+    "caelus_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ponytail",
+      "ahoge",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "hooded_coat",
+    "t-shirt",
+    "cropped_jacket",
+    "open_jacket"
+  ],
+  "optional_clothing": []
+}

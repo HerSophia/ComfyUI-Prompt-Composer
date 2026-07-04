@@ -1,0 +1,29 @@
+{
+  "id": "takatsuki_yayoi",
+  "name": "高槻弥生",
+  "identity_tags": [
+    "takatsuki_yayoi"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "hoodie",
+    "one-piece_swimsuit",
+    "barefoot",
+    "swimsuit"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kaburagi_t_kotetsu",
+  "name": "镝木·T·虎彻",
+  "identity_tags": [
+    "kaburagi_t._kotetsu"
+  ],
+  "locked_features": {
+    "hair_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair"
+    ]
+  },
+  "default_clothing": [],
+  "optional_clothing": []
+}

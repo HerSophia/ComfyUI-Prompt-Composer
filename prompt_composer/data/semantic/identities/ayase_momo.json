@@ -1,0 +1,28 @@
+{
+  "id": "ayase_momo",
+  "name": "绫濑桃",
+  "identity_tags": [
+    "ayase_momo"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "crossed_bangs",
+      "messy_hair"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "loose_socks",
+    "sweater",
+    "black_choker",
+    "choker"
+  ],
+  "optional_clothing": []
+}

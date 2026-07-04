@@ -1,0 +1,30 @@
+{
+  "id": "sekibanki",
+  "name": "赤蛮奇",
+  "identity_tags": [
+    "sekibanki"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "drill_hair",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "cloak",
+    "cape",
+    "blouse",
+    "obi"
+  ],
+  "optional_clothing": []
+}

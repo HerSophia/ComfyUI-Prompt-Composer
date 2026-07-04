@@ -1,0 +1,29 @@
+{
+  "id": "nia_xenoblade",
+  "name": "尼亚",
+  "identity_tags": [
+    "nia_(xenoblade)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "blunt_bangs",
+      "twintails",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "jumpsuit",
+    "highleg",
+    "leotard",
+    "clothing_cutout"
+  ],
+  "optional_clothing": []
+}

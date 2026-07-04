@@ -1,0 +1,29 @@
+{
+  "id": "nakano_yotsuba",
+  "name": "中野四叶",
+  "identity_tags": [
+    "nakano_yotsuba"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "blunt_bangs",
+      "straight_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "headphones_around_neck",
+    "sweater_vest",
+    "cardigan",
+    "blazer"
+  ],
+  "optional_clothing": []
+}

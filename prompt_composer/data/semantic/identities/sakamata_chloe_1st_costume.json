@@ -1,0 +1,28 @@
+{
+  "id": "sakamata_chloe_1st_costume",
+  "name": "沙花叉克萝耶",
+  "identity_tags": [
+    "sakamata_chloe_(1st_costume)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "braided_bangs"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "camisole",
+    "belt_collar",
+    "plaid_skirt",
+    "garter_straps"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "hakui_koyori",
+  "name": "博衣小夜里",
+  "identity_tags": [
+    "hakui_koyori"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "antenna_hair",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "frilled_choker",
+    "frilled_bikini",
+    "frilled_shirt",
+    "cropped_shirt"
+  ],
+  "optional_clothing": []
+}

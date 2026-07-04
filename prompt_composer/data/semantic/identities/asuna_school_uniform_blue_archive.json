@@ -1,0 +1,27 @@
+{
+  "id": "asuna_school_uniform_blue_archive",
+  "name": "一之濑明日奈（校服）",
+  "identity_tags": [
+    "asuna_(school_uniform)_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "button_gap",
+    "black_choker",
+    "choker",
+    "bowtie"
+  ],
+  "optional_clothing": []
+}

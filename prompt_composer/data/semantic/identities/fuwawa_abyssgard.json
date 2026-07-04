@@ -1,0 +1,30 @@
+{
+  "id": "fuwawa_abyssgard",
+  "name": "浮浮·阿比斯加德",
+  "identity_tags": [
+    "fuwawa_abyssgard"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "crossed_bangs",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "belt_collar",
+    "headphones_around_neck",
+    "fur-trimmed_jacket",
+    "cropped_shirt"
+  ],
+  "optional_clothing": []
+}

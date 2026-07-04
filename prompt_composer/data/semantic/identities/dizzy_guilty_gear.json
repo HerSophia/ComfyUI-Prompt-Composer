@@ -1,0 +1,29 @@
+{
+  "id": "dizzy_guilty_gear",
+  "name": "头晕（罪恶装备）",
+  "identity_tags": [
+    "dizzy_(guilty_gear)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "swept_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "thigh_strap",
+    "choker",
+    "black_thighhighs",
+    "thighhighs"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "takarada_rikka",
+  "name": "宝多六花",
+  "identity_tags": [
+    "takarada_rikka"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "straight_hair",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "layered_bikini",
+    "microskirt",
+    "cardigan",
+    "bowtie"
+  ],
+  "optional_clothing": []
+}

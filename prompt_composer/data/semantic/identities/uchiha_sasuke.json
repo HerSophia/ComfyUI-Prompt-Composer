@@ -1,0 +1,27 @@
+{
+  "id": "uchiha_sasuke",
+  "name": "宇智波佐助",
+  "identity_tags": [
+    "uchiha_sasuke"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair"
+    ],
+    "eyes": [
+      "black_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "sandals",
+    "pants",
+    "shorts",
+    "vest"
+  ],
+  "optional_clothing": []
+}

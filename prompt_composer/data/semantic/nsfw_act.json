@@ -1,0 +1,630 @@
+[
+  {
+    "tag": "sex",
+    "category": "nsfw_act",
+    "weight": 5.55,
+    "aliases": [
+      "fuck",
+      "fucking"
+    ],
+    "label_zh": "性爱",
+    "post_count": 353720,
+    "rating": "explicit"
+  },
+  {
+    "tag": "groping",
+    "category": "nsfw_act",
+    "weight": 5.08,
+    "aliases": [
+      "fondle",
+      "fondling",
+      "grope"
+    ],
+    "label_zh": "摸索",
+    "post_count": 120907,
+    "rating": "explicit"
+  },
+  {
+    "tag": "oral",
+    "category": "nsfw_act",
+    "weight": 5.03,
+    "aliases": [],
+    "label_zh": "口交",
+    "post_count": 107389,
+    "rating": "explicit"
+  },
+  {
+    "tag": "fellatio",
+    "category": "nsfw_act",
+    "weight": 4.94,
+    "aliases": [
+      "sucking_cock",
+      "sucking_penis",
+      "sucking_dick",
+      "felatio",
+      "blow_job",
+      "blowjob"
+    ],
+    "label_zh": "口交",
+    "post_count": 87695,
+    "rating": "explicit"
+  },
+  {
+    "tag": "girl_on_top",
+    "category": "nsfw_act",
+    "weight": 4.92,
+    "aliases": [
+      "female_on_top"
+    ],
+    "label_zh": "女上体位",
+    "post_count": 83359,
+    "rating": "explicit"
+  },
+  {
+    "tag": "bdsm",
+    "category": "nsfw_act",
+    "weight": 4.91,
+    "aliases": [],
+    "label_zh": "绑缚调教",
+    "post_count": 80561,
+    "rating": "explicit"
+  },
+  {
+    "tag": "group_sex",
+    "category": "nsfw_act",
+    "weight": 4.87,
+    "aliases": [
+      "fivesome",
+      "foursome",
+      "groupsex"
+    ],
+    "label_zh": "群交",
+    "post_count": 74963,
+    "rating": "explicit"
+  },
+  {
+    "tag": "bondage",
+    "category": "nsfw_act",
+    "weight": 4.83,
+    "aliases": [
+      "tied_up_(sexual)"
+    ],
+    "label_zh": "捆绑",
+    "post_count": 67871,
+    "rating": "explicit"
+  },
+  {
+    "tag": "anal",
+    "category": "nsfw_act",
+    "weight": 4.83,
+    "aliases": [
+      "anal_penetration",
+      "anal_sex"
+    ],
+    "label_zh": "肛交",
+    "post_count": 67397,
+    "rating": "explicit"
+  },
+  {
+    "tag": "ejaculation",
+    "category": "nsfw_act",
+    "weight": 4.82,
+    "aliases": [
+      "ejaculation_between_breasts"
+    ],
+    "label_zh": "射出",
+    "post_count": 65479,
+    "rating": "explicit"
+  },
+  {
+    "tag": "cowgirl_position",
+    "category": "nsfw_act",
+    "weight": 4.74,
+    "aliases": [
+      "cowgirl_(position)"
+    ],
+    "label_zh": "女上正骑",
+    "post_count": 54417,
+    "rating": "explicit"
+  },
+  {
+    "tag": "paizuri",
+    "category": "nsfw_act",
+    "weight": 4.73,
+    "aliases": [
+      "titjob",
+      "titfuck",
+      "tit_fuck"
+    ],
+    "label_zh": "乳交",
+    "post_count": 53365,
+    "rating": "explicit"
+  },
+  {
+    "tag": "clothed_sex",
+    "category": "nsfw_act",
+    "weight": 4.69,
+    "aliases": [],
+    "label_zh": "穿着衣服做爱",
+    "post_count": 48654,
+    "rating": "explicit"
+  },
+  {
+    "tag": "handjob",
+    "category": "nsfw_act",
+    "weight": 4.68,
+    "aliases": [
+      "tekoki",
+      "hand_job"
+    ],
+    "label_zh": "用手做",
+    "post_count": 47697,
+    "rating": "explicit"
+  },
+  {
+    "tag": "masturbation",
+    "category": "nsfw_act",
+    "weight": 4.66,
+    "aliases": [
+      "masturbating",
+      "masturbate",
+      "onani"
+    ],
+    "label_zh": "自慰",
+    "post_count": 46195,
+    "rating": "explicit"
+  },
+  {
+    "tag": "missionary",
+    "category": "nsfw_act",
+    "weight": 4.64,
+    "aliases": [
+      "missionary_position"
+    ],
+    "label_zh": "传教士体位",
+    "post_count": 43199,
+    "rating": "explicit"
+  },
+  {
+    "tag": "fingering",
+    "category": "nsfw_act",
+    "weight": 4.63,
+    "aliases": [
+      "fingers_in_pussy"
+    ],
+    "label_zh": "手指插入",
+    "post_count": 42326,
+    "rating": "explicit"
+  },
+  {
+    "tag": "doggystyle",
+    "category": "nsfw_act",
+    "weight": 4.59,
+    "aliases": [
+      "doggy_style"
+    ],
+    "label_zh": "后入式",
+    "post_count": 38696,
+    "rating": "explicit"
+  },
+  {
+    "tag": "bound_wrists",
+    "category": "nsfw_act",
+    "weight": 4.43,
+    "aliases": [
+      "hands_tied",
+      "wrists_bound",
+      "tied_wrists",
+      "tied_hands",
+      "hands_bound",
+      "bound_hands"
+    ],
+    "label_zh": "手腕捆绑",
+    "post_count": 26633,
+    "rating": "explicit"
+  },
+  {
+    "tag": "gangbang",
+    "category": "nsfw_act",
+    "weight": 4.36,
+    "aliases": [
+      "gang_sex",
+      "gangsex",
+      "gangrape",
+      "gang_rape",
+      "gang_bang"
+    ],
+    "label_zh": "轮奸",
+    "post_count": 22928,
+    "rating": "explicit"
+  },
+  {
+    "tag": "nipple_tweak",
+    "category": "nsfw_act",
+    "weight": 4.34,
+    "aliases": [
+      "nipple_pinch"
+    ],
+    "label_zh": "捏乳头",
+    "post_count": 21821,
+    "rating": "explicit"
+  },
+  {
+    "tag": "shibari",
+    "category": "nsfw_act",
+    "weight": 4.33,
+    "aliases": [
+      "rope_bondage",
+      "ropebondage"
+    ],
+    "label_zh": "捆绑",
+    "post_count": 21427,
+    "rating": "explicit"
+  },
+  {
+    "tag": "happy_sex",
+    "category": "nsfw_act",
+    "weight": 4.3,
+    "aliases": [],
+    "label_zh": "快乐做爱",
+    "post_count": 19796,
+    "rating": "explicit"
+  },
+  {
+    "tag": "breast_sucking",
+    "category": "nsfw_act",
+    "weight": 4.2,
+    "aliases": [
+      "sucking_nipples",
+      "sucking_breasts",
+      "nipple_sucking",
+      "nipple_suck",
+      "breast_suck"
+    ],
+    "label_zh": "吸乳",
+    "post_count": 15882,
+    "rating": "explicit"
+  },
+  {
+    "tag": "cunnilingus",
+    "category": "nsfw_act",
+    "weight": 4.17,
+    "aliases": [
+      "cunillingus",
+      "cunnillingus",
+      "cunilingus",
+      "pussy_lick"
+    ],
+    "label_zh": "舔阴",
+    "post_count": 14758,
+    "rating": "explicit"
+  },
+  {
+    "tag": "female_ejaculation",
+    "category": "nsfw_act",
+    "weight": 4.14,
+    "aliases": [
+      "squirting_(sex)"
+    ],
+    "label_zh": "潮吹",
+    "post_count": 13944,
+    "rating": "explicit"
+  },
+  {
+    "tag": "double_penetration",
+    "category": "nsfw_act",
+    "weight": 4.12,
+    "aliases": [
+      "dp",
+      "/dp",
+      "doublepenetration"
+    ],
+    "label_zh": "双穴同插",
+    "post_count": 13173,
+    "rating": "explicit"
+  },
+  {
+    "tag": "footjob",
+    "category": "nsfw_act",
+    "weight": 4.02,
+    "aliases": [
+      "ashikoki"
+    ],
+    "label_zh": "足交",
+    "post_count": 10573,
+    "rating": "explicit"
+  },
+  {
+    "tag": "exhibitionism",
+    "category": "nsfw_act",
+    "weight": 3.99,
+    "aliases": [],
+    "label_zh": "裸露癖",
+    "post_count": 9654,
+    "rating": "explicit"
+  },
+  {
+    "tag": "orgy",
+    "category": "nsfw_act",
+    "weight": 3.89,
+    "aliases": [],
+    "label_zh": "性狂欢",
+    "post_count": 7799,
+    "rating": "explicit"
+  },
+  {
+    "tag": "deepthroat",
+    "category": "nsfw_act",
+    "weight": 3.85,
+    "aliases": [],
+    "label_zh": "深喉",
+    "post_count": 7101,
+    "rating": "explicit"
+  },
+  {
+    "tag": "upright_straddle",
+    "category": "nsfw_act",
+    "weight": 3.85,
+    "aliases": [],
+    "label_zh": "对坐体位",
+    "post_count": 7029,
+    "rating": "explicit"
+  },
+  {
+    "tag": "spread_ass",
+    "category": "nsfw_act",
+    "weight": 3.84,
+    "aliases": [],
+    "label_zh": "用手张开屁股",
+    "post_count": 6885,
+    "rating": "explicit"
+  },
+  {
+    "tag": "spitroast",
+    "category": "nsfw_act",
+    "weight": 3.79,
+    "aliases": [],
+    "label_zh": "前后夹攻",
+    "post_count": 6209,
+    "rating": "explicit"
+  },
+  {
+    "tag": "spanked",
+    "category": "nsfw_act",
+    "weight": 3.77,
+    "aliases": [
+      "slap_mark_on_ass",
+      "red_butt"
+    ],
+    "label_zh": "打屁股",
+    "post_count": 5885,
+    "rating": "explicit"
+  },
+  {
+    "tag": "leg_lock",
+    "category": "nsfw_act",
+    "weight": 3.75,
+    "aliases": [
+      "legs_around_waist",
+      "legs_lock"
+    ],
+    "label_zh": "跨坐式",
+    "post_count": 5595,
+    "rating": "explicit"
+  },
+  {
+    "tag": "suspension",
+    "category": "nsfw_act",
+    "weight": 3.71,
+    "aliases": [
+      "suspended"
+    ],
+    "label_zh": "悬空捆绑",
+    "post_count": 5150,
+    "rating": "explicit"
+  },
+  {
+    "tag": "crotch_rope",
+    "category": "nsfw_act",
+    "weight": 3.7,
+    "aliases": [
+      "crotchrope"
+    ],
+    "label_zh": "胯下捆绑",
+    "post_count": 5031,
+    "rating": "explicit"
+  },
+  {
+    "tag": "thigh_sex",
+    "category": "nsfw_act",
+    "weight": 3.7,
+    "aliases": [
+      "thighjob",
+      "thigh_job",
+      "intercrural_sex",
+      "straddle_penis",
+      "sumata",
+      "intercrural"
+    ],
+    "label_zh": "腿交",
+    "post_count": 4967,
+    "rating": "explicit"
+  },
+  {
+    "tag": "tribadism",
+    "category": "nsfw_act",
+    "weight": 3.65,
+    "aliases": [
+      "scissoring"
+    ],
+    "label_zh": "磨镜",
+    "post_count": 4407,
+    "rating": "explicit"
+  },
+  {
+    "tag": "anal_fingering",
+    "category": "nsfw_act",
+    "weight": 3.61,
+    "aliases": [
+      "fingering_ass",
+      "fingering_asshole"
+    ],
+    "label_zh": "手指肛交",
+    "post_count": 4096,
+    "rating": "explicit"
+  },
+  {
+    "tag": "anilingus",
+    "category": "nsfw_act",
+    "weight": 3.48,
+    "aliases": [
+      "analingus",
+      "annilingus",
+      "rimjob"
+    ],
+    "label_zh": "肛吻",
+    "post_count": 3017,
+    "rating": "explicit"
+  },
+  {
+    "tag": "crotch_rub",
+    "category": "nsfw_act",
+    "weight": 3.46,
+    "aliases": [],
+    "label_zh": "胯部摩擦",
+    "post_count": 2892,
+    "rating": "explicit"
+  },
+  {
+    "tag": "buttjob",
+    "category": "nsfw_act",
+    "weight": 3.46,
+    "aliases": [
+      "assjob",
+      "shirikoki",
+      "hotdogging"
+    ],
+    "label_zh": "臀交",
+    "post_count": 2890,
+    "rating": "explicit"
+  },
+  {
+    "tag": "voyeurism",
+    "category": "nsfw_act",
+    "weight": 3.43,
+    "aliases": [
+      "voyeur"
+    ],
+    "label_zh": "窥阴癖",
+    "post_count": 2702,
+    "rating": "explicit"
+  },
+  {
+    "tag": "nipple_pull",
+    "category": "nsfw_act",
+    "weight": 3.19,
+    "aliases": [],
+    "label_zh": "拉乳头",
+    "post_count": 1545,
+    "rating": "explicit"
+  },
+  {
+    "tag": "hogtie",
+    "category": "nsfw_act",
+    "weight": 3.1,
+    "aliases": [],
+    "label_zh": "曲膝捆绑",
+    "post_count": 1255,
+    "rating": "explicit"
+  },
+  {
+    "tag": "fisting",
+    "category": "nsfw_act",
+    "weight": 2.77,
+    "aliases": [],
+    "label_zh": "拳头插入",
+    "post_count": 573,
+    "rating": "explicit"
+  },
+  {
+    "tag": "underwater_sex",
+    "category": "nsfw_act",
+    "weight": 2.5,
+    "aliases": [],
+    "label_zh": "水中做爱",
+    "post_count": 305,
+    "rating": "explicit"
+  },
+  {
+    "tag": "clothed_masturbation",
+    "category": "nsfw_act",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "隔着衣服自慰",
+    "post_count": 0,
+    "rating": "explicit"
+  },
+  {
+    "tag": "facesitting",
+    "category": "nsfw_act",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "坐在脸上",
+    "post_count": 0,
+    "rating": "explicit"
+  },
+  {
+    "tag": "grinding",
+    "category": "nsfw_act",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "性器摩擦",
+    "post_count": 0,
+    "rating": "explicit"
+  },
+  {
+    "tag": "insertion",
+    "category": "nsfw_act",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "插入物",
+    "post_count": 0,
+    "rating": "explicit"
+  },
+  {
+    "tag": "anal_insertion",
+    "category": "nsfw_act",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "肛门插入",
+    "post_count": 0,
+    "rating": "explicit"
+  },
+  {
+    "tag": "penetration",
+    "category": "nsfw_act",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "异物插入",
+    "post_count": 0,
+    "rating": "explicit"
+  },
+  {
+    "tag": "breast_grab",
+    "category": "nsfw_act",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "摸胸",
+    "post_count": 0,
+    "rating": "explicit"
+  },
+  {
+    "tag": "reverse_cowgirl",
+    "category": "nsfw_act",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "女上反骑",
+    "post_count": 0,
+    "rating": "explicit"
+  }
+]

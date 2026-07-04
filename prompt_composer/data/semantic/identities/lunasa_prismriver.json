@@ -1,0 +1,30 @@
+{
+  "id": "lunasa_prismriver",
+  "name": "露娜萨·普莉兹姆利巴",
+  "identity_tags": [
+    "lunasa_prismriver"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "skirt_set",
+    "vest",
+    "ascot",
+    "capelet"
+  ],
+  "optional_clothing": []
+}

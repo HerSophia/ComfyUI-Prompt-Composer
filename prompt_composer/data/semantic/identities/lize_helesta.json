@@ -1,0 +1,30 @@
+{
+  "id": "lize_helesta",
+  "name": "莉泽·赫露艾斯塔",
+  "identity_tags": [
+    "lize_helesta"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "cardigan",
+    "sailor_collar",
+    "neck_ribbon",
+    "sweater"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kasumi_kancolle",
+  "name": "霞",
+  "identity_tags": [
+    "kasumi_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "side_ponytail",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "pinafore_dress",
+    "naval_uniform",
+    "bikini_skirt",
+    "sleeveless_dress"
+  ],
+  "optional_clothing": []
+}

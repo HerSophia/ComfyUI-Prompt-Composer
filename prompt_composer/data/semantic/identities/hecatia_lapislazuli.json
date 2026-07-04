@@ -1,0 +1,29 @@
+{
+  "id": "hecatia_lapislazuli",
+  "name": "赫卡提亚·拉碧斯拉祖利",
+  "identity_tags": [
+    "hecatia_lapislazuli"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "wavy_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "multicolored_skirt",
+    "neck_ruff",
+    "off-shoulder_shirt",
+    "t-shirt"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "skadi_arknights",
+  "name": "斯卡蒂",
+  "identity_tags": [
+    "skadi_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "leg_ribbon",
+    "off-shoulder_shirt",
+    "off-shoulder_dress",
+    "ascot"
+  ],
+  "optional_clothing": []
+}

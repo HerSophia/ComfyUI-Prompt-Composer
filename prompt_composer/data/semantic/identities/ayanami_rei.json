@@ -1,0 +1,30 @@
+{
+  "id": "ayanami_rei",
+  "name": "绫波丽",
+  "identity_tags": [
+    "ayanami_rei"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "suspender_skirt",
+    "mecha",
+    "suspenders",
+    "adapted_costume"
+  ],
+  "optional_clothing": []
+}

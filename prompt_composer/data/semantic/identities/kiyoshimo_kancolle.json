@@ -1,0 +1,30 @@
+{
+  "id": "kiyoshimo_kancolle",
+  "name": "清霜",
+  "identity_tags": [
+    "kiyoshimo_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "grey_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "lace-up_boots",
+    "halterneck",
+    "bowtie",
+    "sleeveless_dress"
+  ],
+  "optional_clothing": []
+}

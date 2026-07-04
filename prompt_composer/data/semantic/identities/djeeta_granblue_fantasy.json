@@ -1,0 +1,30 @@
+{
+  "id": "djeeta_granblue_fantasy",
+  "name": "杰塔",
+  "identity_tags": [
+    "djeeta_(granblue_fantasy)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "bob_cut",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "thigh_boots",
+    "shoulder_armor",
+    "armor",
+    "pelvic_curtain"
+  ],
+  "optional_clothing": []
+}

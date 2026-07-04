@@ -1,0 +1,30 @@
+{
+  "id": "souryuu_asuka_langley",
+  "name": "惣流·明日香·兰格雷",
+  "identity_tags": [
+    "souryuu_asuka_langley"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "straight_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "shiny_clothes",
+    "mecha",
+    "track_jacket",
+    "suspender_skirt"
+  ],
+  "optional_clothing": []
+}

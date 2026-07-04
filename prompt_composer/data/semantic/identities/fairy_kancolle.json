@@ -1,0 +1,29 @@
+{
+  "id": "fairy_kancolle",
+  "name": "妖精",
+  "identity_tags": [
+    "fairy_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "muneate",
+    "rigging",
+    "hakama_skirt",
+    "sailor_dress"
+  ],
+  "optional_clothing": []
+}

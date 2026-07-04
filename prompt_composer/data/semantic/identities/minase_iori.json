@@ -1,0 +1,30 @@
+{
+  "id": "minase_iori",
+  "name": "水濑伊织",
+  "identity_tags": [
+    "minase_iori"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge",
+      "forehead"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "barefoot",
+    "bikini",
+    "swimsuit",
+    "sleeveless_dress"
+  ],
+  "optional_clothing": []
+}

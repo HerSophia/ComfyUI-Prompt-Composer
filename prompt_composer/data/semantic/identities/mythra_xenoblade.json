@@ -1,0 +1,29 @@
+{
+  "id": "mythra_xenoblade",
+  "name": "hikari（异度神剑",
+  "identity_tags": [
+    "mythra_(xenoblade)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "swept_bangs",
+      "bob_cut",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "microdress",
+    "backless_dress",
+    "clothing_cutout",
+    "thigh_strap"
+  ],
+  "optional_clothing": []
+}

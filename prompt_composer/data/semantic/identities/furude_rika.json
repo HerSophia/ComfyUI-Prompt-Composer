@@ -1,0 +1,30 @@
+{
+  "id": "furude_rika",
+  "name": "古手梨花",
+  "identity_tags": [
+    "furude_rika"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "blunt_bangs",
+      "hime_cut",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "suspender_skirt",
+    "miko",
+    "sundress",
+    "suspenders"
+  ],
+  "optional_clothing": []
+}

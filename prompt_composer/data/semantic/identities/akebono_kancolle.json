@@ -1,0 +1,30 @@
+{
+  "id": "akebono_kancolle",
+  "name": "曙",
+  "identity_tags": [
+    "akebono_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "side_ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "serafuku",
+    "military_uniform",
+    "rigging"
+  ],
+  "optional_clothing": []
+}

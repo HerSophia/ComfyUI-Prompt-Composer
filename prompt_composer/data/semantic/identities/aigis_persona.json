@@ -1,0 +1,17 @@
+{
+  "id": "aigis_persona",
+  "name": "艾吉斯",
+  "identity_tags": [
+    "aigis_(persona)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ]
+  },
+  "default_clothing": [],
+  "optional_clothing": []
+}

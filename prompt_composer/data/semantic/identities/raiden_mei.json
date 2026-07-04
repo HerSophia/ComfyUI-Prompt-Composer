@@ -1,0 +1,30 @@
+{
+  "id": "raiden_mei",
+  "name": "雷电芽衣",
+  "identity_tags": [
+    "raiden_mei"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ponytail",
+      "ahoge",
+      "drill_hair"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "japanese_armor",
+    "china_dress",
+    "chinese_clothes",
+    "armor"
+  ],
+  "optional_clothing": []
+}

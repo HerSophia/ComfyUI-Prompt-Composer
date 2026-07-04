@@ -1,0 +1,30 @@
+{
+  "id": "rem_re_zero",
+  "name": "雷姆",
+  "identity_tags": [
+    "rem_(re:zero)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "blunt_bangs",
+      "twintails",
+      "bob_cut"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "frilled_collar",
+    "waist_apron",
+    "mary_janes",
+    "apron"
+  ],
+  "optional_clothing": []
+}

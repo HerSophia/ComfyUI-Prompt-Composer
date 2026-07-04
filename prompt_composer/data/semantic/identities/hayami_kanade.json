@@ -1,0 +1,29 @@
+{
+  "id": "hayami_kanade",
+  "name": "速水奏",
+  "identity_tags": [
+    "hayami_kanade"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "ponytail",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "necklace",
+    "halterneck",
+    "sweater",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

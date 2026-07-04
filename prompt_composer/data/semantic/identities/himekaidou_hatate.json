@@ -1,0 +1,30 @@
+{
+  "id": "himekaidou_hatate",
+  "name": "姬海棠果",
+  "identity_tags": [
+    "himekaidou_hatate"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "checkered_skirt",
+    "geta",
+    "leg_ribbon",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

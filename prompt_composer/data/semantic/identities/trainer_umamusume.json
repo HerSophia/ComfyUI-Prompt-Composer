@@ -1,0 +1,30 @@
+{
+  "id": "trainer_umamusume",
+  "name": "训练员",
+  "identity_tags": [
+    "trainer_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "summer_uniform",
+    "track_jacket",
+    "casual"
+  ],
+  "optional_clothing": []
+}

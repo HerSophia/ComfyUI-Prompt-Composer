@@ -1,0 +1,30 @@
+{
+  "id": "saratoga_kancolle",
+  "name": "萨拉托加",
+  "identity_tags": [
+    "saratoga_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "side_ponytail",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "red_neckerchief",
+    "neckerchief",
+    "blouse",
+    "garter_straps"
+  ],
+  "optional_clothing": []
+}

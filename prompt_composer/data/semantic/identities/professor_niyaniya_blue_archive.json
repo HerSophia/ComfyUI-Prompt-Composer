@@ -1,0 +1,28 @@
+{
+  "id": "professor_niyaniya_blue_archive",
+  "name": "教授",
+  "identity_tags": [
+    "professor_niyaniya_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "thighband_pantyhose",
+    "black_pantyhose",
+    "frilled_skirt",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

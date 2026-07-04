@@ -1,0 +1,29 @@
+{
+  "id": "akiyama_yukari",
+  "name": "秋山由香里",
+  "identity_tags": [
+    "akiyama_yukari"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "messy_hair",
+      "ahoge",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "ooarai_school_uniform",
+    "blouse",
+    "military_uniform",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

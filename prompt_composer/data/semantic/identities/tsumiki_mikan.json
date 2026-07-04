@@ -1,0 +1,30 @@
+{
+  "id": "tsumiki_mikan",
+  "name": "罪木蜜柑",
+  "identity_tags": [
+    "tsumiki_mikan"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "blunt_bangs",
+      "messy_hair"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bandaged_leg",
+    "bandaid_on_knee",
+    "bandaid_on_leg",
+    "apron"
+  ],
+  "optional_clothing": []
+}

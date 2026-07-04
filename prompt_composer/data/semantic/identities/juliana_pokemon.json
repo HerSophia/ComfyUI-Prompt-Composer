@@ -1,0 +1,30 @@
+{
+  "id": "juliana_pokemon",
+  "name": "小玉",
+  "identity_tags": [
+    "juliana_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "ahoge",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "mole_on_neck",
+    "necktie",
+    "shorts",
+    "school_uniform"
+  ],
+  "optional_clothing": []
+}

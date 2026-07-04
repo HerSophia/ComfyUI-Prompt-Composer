@@ -1,0 +1,30 @@
+{
+  "id": "shuten_douji_fate",
+  "name": "酒吞童子",
+  "identity_tags": [
+    "shuten_douji_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "bob_cut",
+      "blunt_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "eyeliner"
+    ]
+  },
+  "default_clothing": [
+    "leg_ribbon",
+    "short_kimono",
+    "chaldea_uniform",
+    "kimono"
+  ],
+  "optional_clothing": []
+}

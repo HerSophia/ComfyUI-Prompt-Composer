@@ -1,0 +1,28 @@
+{
+  "id": "male_rover_wuthering_waves",
+  "name": "男漂泊者",
+  "identity_tags": [
+    "male_rover_(wuthering_waves)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "open_jacket",
+    "pants",
+    "jacket",
+    "open_clothes"
+  ],
+  "optional_clothing": []
+}

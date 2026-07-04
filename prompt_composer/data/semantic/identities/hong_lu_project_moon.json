@@ -1,0 +1,29 @@
+{
+  "id": "hong_lu_project_moon",
+  "name": "鸿璐",
+  "identity_tags": [
+    "hong_lu_(project_moon)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "high_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "black_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "vest",
+    "necktie",
+    "collared_shirt",
+    "pants"
+  ],
+  "optional_clothing": []
+}

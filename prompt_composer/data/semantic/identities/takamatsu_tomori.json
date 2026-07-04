@@ -1,0 +1,27 @@
+{
+  "id": "takamatsu_tomori",
+  "name": "高松灯",
+  "identity_tags": [
+    "takamatsu_tomori"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "hoodie",
+    "plaid_skirt",
+    "collared_shirt",
+    "jacket"
+  ],
+  "optional_clothing": []
+}

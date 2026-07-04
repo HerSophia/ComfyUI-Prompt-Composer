@@ -1,0 +1,29 @@
+{
+  "id": "weiss_schnee",
+  "name": "怀丝·雪妮",
+  "identity_tags": [
+    "weiss_schnee"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ponytail",
+      "side_ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "shrug_(clothing)",
+    "cropped_jacket",
+    "corset",
+    "cloak"
+  ],
+  "optional_clothing": []
+}

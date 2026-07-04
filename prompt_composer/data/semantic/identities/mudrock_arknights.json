@@ -1,0 +1,26 @@
+{
+  "id": "mudrock_arknights",
+  "name": "泥岩",
+  "identity_tags": [
+    "mudrock_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "jumpsuit",
+    "black_choker",
+    "crop_top",
+    "tank_top"
+  ],
+  "optional_clothing": []
+}

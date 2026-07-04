@@ -1,0 +1,29 @@
+{
+  "id": "hiiragi_tsukasa",
+  "name": "柊司",
+  "identity_tags": [
+    "hiiragi_tsukasa"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tareme"
+    ]
+  },
+  "default_clothing": [
+    "ryouou_school_uniform",
+    "serafuku",
+    "red_neckerchief",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

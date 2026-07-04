@@ -1,0 +1,30 @@
+{
+  "id": "nico_robin",
+  "name": "妮可·罗宾",
+  "identity_tags": [
+    "nico_robin"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "blunt_bangs",
+      "ponytail",
+      "forehead"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "cropped_jacket",
+    "crop_top",
+    "suit",
+    "sandals"
+  ],
+  "optional_clothing": []
+}

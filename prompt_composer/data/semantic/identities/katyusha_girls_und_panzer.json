@@ -1,0 +1,30 @@
+{
+  "id": "katyusha_girls_und_panzer",
+  "name": "喀秋莎",
+  "identity_tags": [
+    "katyusha_(girls_und_panzer)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "swept_bangs",
+      "bob_cut"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "kindergarten_uniform",
+    "ooarai_school_uniform",
+    "jumpsuit",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

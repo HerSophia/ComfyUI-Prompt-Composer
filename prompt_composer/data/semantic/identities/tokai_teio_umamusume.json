@@ -1,0 +1,30 @@
+{
+  "id": "tokai_teio_umamusume",
+  "name": "东海帝王",
+  "identity_tags": [
+    "tokai_teio_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "high_ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "two-tone_jacket",
+    "sailor_shirt",
+    "summer_uniform",
+    "double-breasted"
+  ],
+  "optional_clothing": []
+}

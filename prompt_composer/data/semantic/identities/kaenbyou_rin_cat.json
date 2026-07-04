@@ -1,0 +1,28 @@
+{
+  "id": "kaenbyou_rin_cat",
+  "name": "火焰猫燐（猫）",
+  "identity_tags": [
+    "kaenbyou_rin_(cat)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "twin_braids"
+    ],
+    "eyes": [
+      "red_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "slippers",
+    "blouse",
+    "frilled_skirt",
+    "ascot"
+  ],
+  "optional_clothing": []
+}

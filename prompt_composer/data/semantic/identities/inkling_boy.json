@@ -1,0 +1,28 @@
+{
+  "id": "inkling_boy",
+  "name": "小男孩",
+  "identity_tags": [
+    "inkling_boy"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "bike_shorts",
+    "sneakers",
+    "t-shirt",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

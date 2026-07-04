@@ -1,0 +1,30 @@
+{
+  "id": "nagae_iku",
+  "name": "永江衣玖",
+  "identity_tags": [
+    "nagae_iku"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twin_braids",
+      "ponytail",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "hagoromo",
+    "long_skirt",
+    "capelet",
+    "geta"
+  ],
+  "optional_clothing": []
+}

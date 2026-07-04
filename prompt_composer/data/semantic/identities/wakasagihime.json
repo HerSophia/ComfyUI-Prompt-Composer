@@ -1,0 +1,29 @@
+{
+  "id": "wakasagihime",
+  "name": "若鹭姬",
+  "identity_tags": [
+    "wakasagihime"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "drill_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "obi",
+    "sash",
+    "kimono",
+    "japanese_clothes"
+  ],
+  "optional_clothing": []
+}

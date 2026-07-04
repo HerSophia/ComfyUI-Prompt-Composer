@@ -1,0 +1,30 @@
+{
+  "id": "miyako_yoshika",
+  "name": "宫古芳香",
+  "identity_tags": [
+    "miyako_yoshika"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "drill_hair",
+      "hair_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "hagoromo",
+    "kariginu",
+    "chinese_clothes",
+    "neck_ribbon"
+  ],
+  "optional_clothing": []
+}

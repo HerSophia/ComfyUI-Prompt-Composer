@@ -1,0 +1,30 @@
+{
+  "id": "kanna_blue_archive",
+  "name": "刘寒那",
+  "identity_tags": [
+    "kanna_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "long_bangs",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "whistle_around_neck",
+    "competition_swimsuit",
+    "police_uniform",
+    "one-piece_swimsuit"
+  ],
+  "optional_clothing": []
+}

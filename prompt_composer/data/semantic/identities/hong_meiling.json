@@ -1,0 +1,30 @@
+{
+  "id": "hong_meiling",
+  "name": "红美铃",
+  "identity_tags": [
+    "hong_meiling"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twin_braids",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "chinese_clothes",
+    "china_dress",
+    "skirt_set",
+    "side_slit"
+  ],
+  "optional_clothing": []
+}

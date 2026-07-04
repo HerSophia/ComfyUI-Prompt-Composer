@@ -1,0 +1,30 @@
+{
+  "id": "qiqi_genshin_impact",
+  "name": "七七",
+  "identity_tags": [
+    "qiqi_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twintails",
+      "ahoge",
+      "braided_ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "bead_necklace",
+    "bandaged_leg",
+    "bodystocking",
+    "chinese_clothes"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kokona_blue_archive",
+  "name": "空崎心奈",
+  "identity_tags": [
+    "kokona_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "vertical-striped_dress",
+    "striped_dress",
+    "china_dress",
+    "chinese_clothes"
+  ],
+  "optional_clothing": []
+}

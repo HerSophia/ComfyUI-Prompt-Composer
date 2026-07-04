@@ -1,0 +1,30 @@
+{
+  "id": "fischl_genshin_impact",
+  "name": "菲谢尔",
+  "identity_tags": [
+    "fischl_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "single_leg_pantyhose",
+    "fishnet_top",
+    "bodystocking",
+    "garter_straps"
+  ],
+  "optional_clothing": []
+}

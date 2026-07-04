@@ -1,0 +1,30 @@
+{
+  "id": "sparkle_honkai_star_rail",
+  "name": "花火",
+  "identity_tags": [
+    "sparkle_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "blunt_bangs",
+      "long_bangs"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "criss-cross_halter",
+    "neck_bell",
+    "halterneck",
+    "obi"
+  ],
+  "optional_clothing": []
+}

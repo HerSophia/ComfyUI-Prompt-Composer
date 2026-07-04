@@ -1,0 +1,28 @@
+{
+  "id": "skyla_pokemon",
+  "name": "风露",
+  "identity_tags": [
+    "skyla_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "hair_bun",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "cropped_jacket",
+    "crop_top",
+    "short_shorts",
+    "suspenders"
+  ],
+  "optional_clothing": []
+}

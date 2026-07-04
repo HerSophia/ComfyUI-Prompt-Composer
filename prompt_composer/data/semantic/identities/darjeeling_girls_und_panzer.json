@@ -1,0 +1,30 @@
+{
+  "id": "darjeeling_girls_und_panzer",
+  "name": "大吉岭",
+  "identity_tags": [
+    "darjeeling_(girls_und_panzer)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "twintails",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "v-neck",
+    "ooarai_school_uniform",
+    "military_jacket",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

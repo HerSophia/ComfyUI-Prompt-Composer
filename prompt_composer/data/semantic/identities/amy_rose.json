@@ -1,0 +1,25 @@
+{
+  "id": "amy_rose",
+  "name": "艾米·罗斯",
+  "identity_tags": [
+    "amy_rose"
+  ],
+  "locked_features": {
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sleeveless_dress",
+    "boots",
+    "dress",
+    "shoes"
+  ],
+  "optional_clothing": []
+}

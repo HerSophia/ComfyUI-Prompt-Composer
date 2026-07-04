@@ -1,0 +1,30 @@
+{
+  "id": "kawaragi_momoka",
+  "name": "河原木桃香",
+  "identity_tags": [
+    "kawaragi_momoka"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "grey_eyes",
+      "eye_contact"
+    ]
+  },
+  "default_clothing": [
+    "black_choker",
+    "sweater",
+    "choker",
+    "plaid_skirt"
+  ],
+  "optional_clothing": []
+}

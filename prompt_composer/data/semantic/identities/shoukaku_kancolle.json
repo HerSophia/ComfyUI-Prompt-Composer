@@ -1,0 +1,30 @@
+{
+  "id": "shoukaku_kancolle",
+  "name": "翔鹤",
+  "identity_tags": [
+    "shoukaku_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "twintails",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "muneate",
+    "hakama_skirt",
+    "miko",
+    "japanese_clothes"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kamishirasawa_keine",
+  "name": "上白泽慧音",
+  "identity_tags": [
+    "kamishirasawa_keine"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "ahoge",
+      "twin_braids"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ofuda_on_clothes",
+    "suspenders",
+    "red_neckerchief",
+    "collared_dress"
+  ],
+  "optional_clothing": []
+}

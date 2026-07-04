@@ -1,0 +1,30 @@
+{
+  "id": "boo_tao_genshin_impact",
+  "name": "胡桃",
+  "identity_tags": [
+    "boo_tao_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge",
+      "hair_flaps"
+    ],
+    "eyes": [
+      "red_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "chinese_clothes",
+    "short_shorts",
+    "shorts",
+    "socks"
+  ],
+  "optional_clothing": []
+}

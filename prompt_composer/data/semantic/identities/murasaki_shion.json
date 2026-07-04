@@ -1,0 +1,30 @@
+{
+  "id": "murasaki_shion",
+  "name": "紫咲诗音",
+  "identity_tags": [
+    "murasaki_shion"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "hair_bun",
+      "blunt_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "halter_dress",
+    "frilled_choker",
+    "striped_shirt",
+    "cropped_shirt"
+  ],
+  "optional_clothing": []
+}

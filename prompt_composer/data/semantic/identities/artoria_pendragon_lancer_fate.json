@@ -1,0 +1,29 @@
+{
+  "id": "artoria_pendragon_lancer_fate",
+  "name": "阿尔托莉雅·潘德拉贡〔Lancer〕",
+  "identity_tags": [
+    "artoria_pendragon_(lancer)_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "hair_bun",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sleeveless_turtleneck",
+    "armored_dress",
+    "highleg",
+    "leotard"
+  ],
+  "optional_clothing": []
+}

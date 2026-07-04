@@ -1,0 +1,30 @@
+{
+  "id": "miyamoto_musashi_fate",
+  "name": "宫本武藏",
+  "identity_tags": [
+    "miyamoto_musashi_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ponytail",
+      "swept_bangs",
+      "hair_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "american_flag_bikini",
+    "sleeveless_kimono",
+    "print_bikini",
+    "magatama_necklace"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "iskandar_fate",
+  "name": "伊斯坎达尔",
+  "identity_tags": [
+    "iskandar_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "cape",
+    "armor",
+    "necktie",
+    "pants"
+  ],
+  "optional_clothing": []
+}

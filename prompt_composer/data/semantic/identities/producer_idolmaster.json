@@ -1,0 +1,30 @@
+{
+  "id": "producer_idolmaster",
+  "name": "制作人",
+  "identity_tags": [
+    "producer_(idolmaster)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "business_suit",
+    "suit",
+    "necktie",
+    "cardigan"
+  ],
+  "optional_clothing": []
+}

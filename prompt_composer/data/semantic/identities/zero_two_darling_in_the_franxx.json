@@ -1,0 +1,29 @@
+{
+  "id": "zero_two_darling_in_the_franxx",
+  "name": "02",
+  "identity_tags": [
+    "zero_two_(darling_in_the_franxx)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "straight_hair",
+      "blunt_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "short_necktie",
+    "military_uniform",
+    "jacket_on_shoulders",
+    "black_pantyhose"
+  ],
+  "optional_clothing": []
+}

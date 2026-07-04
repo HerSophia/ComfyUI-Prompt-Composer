@@ -1,0 +1,30 @@
+{
+  "id": "kafuu_chino",
+  "name": "香风智乃",
+  "identity_tags": [
+    "kafuu_chino"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "mary_janes",
+    "kneehighs",
+    "vest",
+    "sailor_dress"
+  ],
+  "optional_clothing": []
+}

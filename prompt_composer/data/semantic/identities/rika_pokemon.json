@@ -1,0 +1,30 @@
+{
+  "id": "rika_pokemon",
+  "name": "莉可",
+  "identity_tags": [
+    "rika_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ponytail",
+      "ahoge",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "red_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "suspenders",
+    "necktie",
+    "collared_shirt",
+    "pants"
+  ],
+  "optional_clothing": []
+}

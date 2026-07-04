@@ -1,0 +1,30 @@
+{
+  "id": "ako_blue_archive",
+  "name": "室笠亚子",
+  "identity_tags": [
+    "ako_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ahoge",
+      "twintails",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "backless_dress",
+    "evening_gown",
+    "neck_bell",
+    "garter_straps"
+  ],
+  "optional_clothing": []
+}

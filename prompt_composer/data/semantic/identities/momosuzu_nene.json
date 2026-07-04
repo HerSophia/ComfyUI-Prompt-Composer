@@ -1,0 +1,30 @@
+{
+  "id": "momosuzu_nene",
+  "name": "桃铃音音",
+  "identity_tags": [
+    "momosuzu_nene"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "hair_bun",
+      "double_bun",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "arm_garter",
+    "frilled_shirt",
+    "layered_skirt",
+    "corset"
+  ],
+  "optional_clothing": []
+}

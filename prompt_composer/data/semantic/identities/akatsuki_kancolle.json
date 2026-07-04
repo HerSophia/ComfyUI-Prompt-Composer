@@ -1,0 +1,30 @@
+{
+  "id": "akatsuki_kancolle",
+  "name": "晓",
+  "identity_tags": [
+    "akatsuki_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "red_neckerchief",
+    "naval_uniform",
+    "serafuku",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "rover_wuthering_waves",
+  "name": "漂泊者",
+  "identity_tags": [
+    "rover_(wuthering_waves)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "ahoge",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "eyeliner"
+    ]
+  },
+  "default_clothing": [
+    "pelvic_curtain",
+    "sleeveless_dress",
+    "thigh_boots",
+    "thigh_strap"
+  ],
+  "optional_clothing": []
+}

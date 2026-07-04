@@ -1,0 +1,30 @@
+{
+  "id": "shiki_eiki",
+  "name": "四季映姬·夜摩仙那度",
+  "identity_tags": [
+    "shiki_eiki"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "twin_braids",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ribbon-trimmed_skirt",
+    "vest",
+    "blouse",
+    "geta"
+  ],
+  "optional_clothing": []
+}

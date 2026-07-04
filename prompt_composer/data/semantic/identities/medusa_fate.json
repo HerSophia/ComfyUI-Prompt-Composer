@@ -1,0 +1,30 @@
+{
+  "id": "medusa_fate",
+  "name": "美杜莎",
+  "identity_tags": [
+    "medusa_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "forehead",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "square_pupils"
+    ]
+  },
+  "default_clothing": [
+    "hooded_cloak",
+    "strapless_dress",
+    "jeans",
+    "cloak"
+  ],
+  "optional_clothing": []
+}

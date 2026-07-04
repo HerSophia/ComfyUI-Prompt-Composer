@@ -1,0 +1,28 @@
+{
+  "id": "panty_psg",
+  "name": "无政府状态的内裤",
+  "identity_tags": [
+    "panty_(psg)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "corset",
+    "crop_top",
+    "high_heels",
+    "necklace"
+  ],
+  "optional_clothing": []
+}

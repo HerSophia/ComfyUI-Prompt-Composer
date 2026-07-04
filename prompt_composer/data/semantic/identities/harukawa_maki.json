@@ -1,0 +1,29 @@
+{
+  "id": "harukawa_maki",
+  "name": "春川魔姬",
+  "identity_tags": [
+    "harukawa_maki"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "blunt_bangs",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sailor_collar",
+    "plaid_skirt",
+    "bowtie",
+    "miniskirt"
+  ],
+  "optional_clothing": []
+}

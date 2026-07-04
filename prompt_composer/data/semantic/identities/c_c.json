@@ -1,0 +1,29 @@
+{
+  "id": "c_c",
+  "name": "C.C.",
+  "identity_tags": [
+    "c.c."
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "straight_hair",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "thigh_boots",
+    "dress_shirt",
+    "high_heels",
+    "leotard"
+  ],
+  "optional_clothing": []
+}

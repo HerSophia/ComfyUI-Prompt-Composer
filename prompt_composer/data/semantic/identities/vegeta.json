@@ -1,0 +1,26 @@
+{
+  "id": "vegeta",
+  "name": "贝吉塔",
+  "identity_tags": [
+    "vegeta"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "dougi",
+    "armor",
+    "sash",
+    "pants"
+  ],
+  "optional_clothing": []
+}

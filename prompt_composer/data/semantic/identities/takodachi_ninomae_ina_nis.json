@@ -1,0 +1,30 @@
+{
+  "id": "takodachi_ninomae_ina_nis",
+  "name": "章鱼（ninomae",
+  "identity_tags": [
+    "takodachi_(ninomae_ina'nis)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "blunt_bangs",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "strapless_dress",
+    "t-shirt",
+    "alternate_costume",
+    "hoodie"
+  ],
+  "optional_clothing": []
+}

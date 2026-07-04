@@ -1,0 +1,30 @@
+{
+  "id": "graf_zeppelin_kancolle",
+  "name": "齐柏林伯爵",
+  "identity_tags": [
+    "graf_zeppelin_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ponytail",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tsurime"
+    ]
+  },
+  "default_clothing": [
+    "iron_cross",
+    "military_uniform",
+    "capelet",
+    "black_pantyhose"
+  ],
+  "optional_clothing": []
+}

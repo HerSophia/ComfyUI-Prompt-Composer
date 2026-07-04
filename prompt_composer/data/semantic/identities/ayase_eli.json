@@ -1,0 +1,30 @@
+{
+  "id": "ayase_eli",
+  "name": "绚濑绘里",
+  "identity_tags": [
+    "ayase_eli"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "twintails",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "otonokizaka_school_uniform",
+    "summer_uniform",
+    "blazer",
+    "sweater_vest"
+  ],
+  "optional_clothing": []
+}

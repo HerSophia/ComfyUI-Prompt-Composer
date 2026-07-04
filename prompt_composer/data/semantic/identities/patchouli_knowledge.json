@@ -1,0 +1,30 @@
+{
+  "id": "patchouli_knowledge",
+  "name": "帕秋莉·诺蕾姬",
+  "identity_tags": [
+    "patchouli_knowledge"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "blunt_bangs",
+      "twin_braids",
+      "hair_bun"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "striped_dress",
+    "vertical-striped_dress",
+    "capelet",
+    "nightgown"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "miki_sayaka_magical_girl",
+  "name": "美树沙耶香（魔法少女）",
+  "identity_tags": [
+    "miki_sayaka_(magical_girl)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "ponytail",
+      "drill_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bubble_skirt",
+    "mitakihara_school_uniform",
+    "cape",
+    "ankle_boots"
+  ],
+  "optional_clothing": []
+}

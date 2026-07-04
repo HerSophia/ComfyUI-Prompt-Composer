@@ -1,0 +1,30 @@
+{
+  "id": "kaeya_genshin_impact",
+  "name": "凯亚",
+  "identity_tags": [
+    "kaeya_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "ahoge",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "pants",
+    "cape",
+    "vest",
+    "collared_shirt"
+  ],
+  "optional_clothing": []
+}

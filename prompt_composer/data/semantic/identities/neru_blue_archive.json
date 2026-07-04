@@ -1,0 +1,30 @@
+{
+  "id": "neru_blue_archive",
+  "name": "美甘尼禄",
+  "identity_tags": [
+    "neru_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "bandaid_on_knee",
+    "bandaid_on_leg",
+    "leotard",
+    "bowtie"
+  ],
+  "optional_clothing": []
+}

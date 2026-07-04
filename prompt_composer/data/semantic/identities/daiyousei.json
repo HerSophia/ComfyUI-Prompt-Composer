@@ -1,0 +1,30 @@
+{
+  "id": "daiyousei",
+  "name": "大妖精",
+  "identity_tags": [
+    "daiyousei"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "side_ponytail",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "pinafore_dress",
+    "skirt_set",
+    "ascot",
+    "bloomers"
+  ],
+  "optional_clothing": []
+}

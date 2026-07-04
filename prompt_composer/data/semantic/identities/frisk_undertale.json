@@ -1,0 +1,27 @@
+{
+  "id": "frisk_undertale",
+  "name": "弗丽斯克",
+  "identity_tags": [
+    "frisk_(undertale)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "striped_sweater",
+    "striped_shirt",
+    "sweater",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

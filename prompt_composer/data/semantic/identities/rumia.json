@@ -1,0 +1,30 @@
+{
+  "id": "rumia",
+  "name": "露米娅",
+  "identity_tags": [
+    "rumia"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "side_ponytail",
+      "twin_braids"
+    ],
+    "eyes": [
+      "red_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "skirt_set",
+    "ascot",
+    "vest",
+    "mary_janes"
+  ],
+  "optional_clothing": []
+}

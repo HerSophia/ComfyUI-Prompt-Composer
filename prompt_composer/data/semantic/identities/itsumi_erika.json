@@ -1,0 +1,30 @@
+{
+  "id": "itsumi_erika",
+  "name": "伊苏美绘里香",
+  "identity_tags": [
+    "itsumi_erika"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "wavy_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ooarai_school_uniform",
+    "iron_cross",
+    "military_uniform",
+    "dress_shirt"
+  ],
+  "optional_clothing": []
+}

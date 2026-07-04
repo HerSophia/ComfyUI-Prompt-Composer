@@ -1,0 +1,533 @@
+[
+  {
+    "tag": "long_hair",
+    "category": "hair",
+    "weight": 6.75,
+    "aliases": [
+      "/lh",
+      "longhair"
+    ],
+    "label_zh": "长发",
+    "post_count": 5624146
+  },
+  {
+    "tag": "short_hair",
+    "category": "hair",
+    "weight": 6.46,
+    "aliases": [
+      "short-hair",
+      "shorthair"
+    ],
+    "label_zh": "短发",
+    "post_count": 2868233
+  },
+  {
+    "tag": "black_hair",
+    "category": "hair",
+    "weight": 6.3,
+    "aliases": [
+      "/blackh",
+      "dark_hair",
+      "black-hair",
+      "blackhair"
+    ],
+    "label_zh": "黑色头发",
+    "post_count": 1989826
+  },
+  {
+    "tag": "blonde_hair",
+    "category": "hair",
+    "weight": 6.3,
+    "aliases": [
+      "gold_hair",
+      "/blondeh",
+      "blond_hair",
+      "yellow_hair",
+      "blond",
+      "blondehair",
+      "blonde"
+    ],
+    "label_zh": "金色头发",
+    "post_count": 1981860
+  },
+  {
+    "tag": "brown_hair",
+    "category": "hair",
+    "weight": 6.28,
+    "aliases": [
+      "chocolate_hair",
+      "/brownh",
+      "brown-hair",
+      "brunette",
+      "brownhair"
+    ],
+    "label_zh": "棕色头发",
+    "post_count": 1911676
+  },
+  {
+    "tag": "hair_between_eyes",
+    "category": "hair",
+    "weight": 6.2,
+    "aliases": [
+      "bangs_between_eyes"
+    ],
+    "label_zh": "眼间头发",
+    "post_count": 1591948
+  },
+  {
+    "tag": "very_long_hair",
+    "category": "hair",
+    "weight": 6.11,
+    "aliases": [
+      "hair_past_waist",
+      "/vlh"
+    ],
+    "label_zh": "超长发",
+    "post_count": 1275449
+  },
+  {
+    "tag": "twintails",
+    "category": "hair",
+    "weight": 6.05,
+    "aliases": [
+      "/tt",
+      "twintaiks",
+      "twin_tails",
+      "twintail"
+    ],
+    "label_zh": "双马尾二",
+    "post_count": 1133849
+  },
+  {
+    "tag": "blue_hair",
+    "category": "hair",
+    "weight": 6.04,
+    "aliases": [
+      "/blueh",
+      "bluehair"
+    ],
+    "label_zh": "蓝色头发",
+    "post_count": 1096174
+  },
+  {
+    "tag": "multicolored_hair",
+    "category": "hair",
+    "weight": 6.01,
+    "aliases": [
+      "three-tone_hair",
+      "multicolor_hair"
+    ],
+    "label_zh": "五颜六色",
+    "post_count": 1030212
+  },
+  {
+    "tag": "white_hair",
+    "category": "hair",
+    "weight": 5.97,
+    "aliases": [
+      "whitehair"
+    ],
+    "label_zh": "白色头发",
+    "post_count": 941181
+  },
+  {
+    "tag": "grey_hair",
+    "category": "hair",
+    "weight": 5.97,
+    "aliases": [
+      "gray_hair"
+    ],
+    "label_zh": "灰色头发",
+    "post_count": 926230
+  },
+  {
+    "tag": "ponytail",
+    "category": "hair",
+    "weight": 5.95,
+    "aliases": [
+      "long_ponytail",
+      "pony_tail"
+    ],
+    "label_zh": "马尾辫",
+    "post_count": 883656
+  },
+  {
+    "tag": "ahoge",
+    "category": "hair",
+    "weight": 5.94,
+    "aliases": [],
+    "label_zh": "呆毛",
+    "post_count": 865155
+  },
+  {
+    "tag": "purple_hair",
+    "category": "hair",
+    "weight": 5.92,
+    "aliases": [
+      "lavender_hair",
+      "/purpleh",
+      "violet_hair",
+      "purple-hair",
+      "purplehair"
+    ],
+    "label_zh": "紫色头发",
+    "post_count": 837105
+  },
+  {
+    "tag": "red_hair",
+    "category": "hair",
+    "weight": 5.83,
+    "aliases": [
+      "/redh",
+      "redhead",
+      "red_head",
+      "redhair"
+    ],
+    "label_zh": "红色头发",
+    "post_count": 672616
+  },
+  {
+    "tag": "medium_hair",
+    "category": "hair",
+    "weight": 5.75,
+    "aliases": [
+      "shoulder-length_hair"
+    ],
+    "label_zh": "中发",
+    "post_count": 556171
+  },
+  {
+    "tag": "green_hair",
+    "category": "hair",
+    "weight": 5.73,
+    "aliases": [
+      "/greenh",
+      "greenhair"
+    ],
+    "label_zh": "绿色头发",
+    "post_count": 538921
+  },
+  {
+    "tag": "blunt_bangs",
+    "category": "hair",
+    "weight": 5.59,
+    "aliases": [],
+    "label_zh": "齐刘海",
+    "post_count": 391639
+  },
+  {
+    "tag": "streaked_hair",
+    "category": "hair",
+    "weight": 5.57,
+    "aliases": [
+      "highlights"
+    ],
+    "label_zh": "挑染",
+    "post_count": 372417
+  },
+  {
+    "tag": "two-tone_hair",
+    "category": "hair",
+    "weight": 5.55,
+    "aliases": [
+      "two-tone-hair",
+      "/tth",
+      "two_tone_hair"
+    ],
+    "label_zh": "双色",
+    "post_count": 355515
+  },
+  {
+    "tag": "hair_bun",
+    "category": "hair",
+    "weight": 5.53,
+    "aliases": [
+      "hairbun"
+    ],
+    "label_zh": "包子头",
+    "post_count": 335572
+  },
+  {
+    "tag": "twin_braids",
+    "category": "hair",
+    "weight": 5.36,
+    "aliases": [
+      "double_braid",
+      "twin_braid",
+      "twinbraid",
+      "twinbraids"
+    ],
+    "label_zh": "双辫子",
+    "post_count": 228392
+  },
+  {
+    "tag": "side_ponytail",
+    "category": "hair",
+    "weight": 5.34,
+    "aliases": [
+      "side_tail",
+      "sidetail"
+    ],
+    "label_zh": "侧马尾",
+    "post_count": 220711
+  },
+  {
+    "tag": "double_bun",
+    "category": "hair",
+    "weight": 5.21,
+    "aliases": [
+      "double_hair_bun",
+      "odango",
+      "twin_buns",
+      "twin_bun",
+      "hair_buns",
+      "double_buns",
+      "buns"
+    ],
+    "label_zh": "俩包子头",
+    "post_count": 163383
+  },
+  {
+    "tag": "swept_bangs",
+    "category": "hair",
+    "weight": 5.18,
+    "aliases": [],
+    "label_zh": "侧扫刘海",
+    "post_count": 152134
+  },
+  {
+    "tag": "wavy_hair",
+    "category": "hair",
+    "weight": 5.14,
+    "aliases": [],
+    "label_zh": "波浪形头发",
+    "post_count": 137250
+  },
+  {
+    "tag": "bob_cut",
+    "category": "hair",
+    "weight": 5.1,
+    "aliases": [
+      "okappa",
+      "bobbed_hair"
+    ],
+    "label_zh": "妹妹切",
+    "post_count": 127270
+  },
+  {
+    "tag": "drill_hair",
+    "category": "hair",
+    "weight": 5.07,
+    "aliases": [
+      "doriru",
+      "drillhair"
+    ],
+    "label_zh": "钻头卷公主卷",
+    "post_count": 117591
+  },
+  {
+    "tag": "antenna_hair",
+    "category": "hair",
+    "weight": 5.05,
+    "aliases": [
+      "double_ahoge",
+      "antennae_hair"
+    ],
+    "label_zh": "多根呆毛",
+    "post_count": 112559
+  },
+  {
+    "tag": "high_ponytail",
+    "category": "hair",
+    "weight": 5.05,
+    "aliases": [],
+    "label_zh": "高马尾",
+    "post_count": 111727
+  },
+  {
+    "tag": "crossed_bangs",
+    "category": "hair",
+    "weight": 4.96,
+    "aliases": [],
+    "label_zh": "交叉刘海",
+    "post_count": 91683
+  },
+  {
+    "tag": "straight_hair",
+    "category": "hair",
+    "weight": 4.96,
+    "aliases": [],
+    "label_zh": "直发",
+    "post_count": 91452
+  },
+  {
+    "tag": "messy_hair",
+    "category": "hair",
+    "weight": 4.92,
+    "aliases": [
+      "bed_head",
+      "morning_hair"
+    ],
+    "label_zh": "凌乱发型",
+    "post_count": 83194
+  },
+  {
+    "tag": "forehead",
+    "category": "hair",
+    "weight": 4.77,
+    "aliases": [],
+    "label_zh": "露额头",
+    "post_count": 58211
+  },
+  {
+    "tag": "hair_flaps",
+    "category": "hair",
+    "weight": 4.72,
+    "aliases": [],
+    "label_zh": "发翼",
+    "post_count": 52323
+  },
+  {
+    "tag": "short_ponytail",
+    "category": "hair",
+    "weight": 4.65,
+    "aliases": [],
+    "label_zh": "短马尾",
+    "post_count": 44813
+  },
+  {
+    "tag": "braided_ponytail",
+    "category": "hair",
+    "weight": 4.65,
+    "aliases": [],
+    "label_zh": "马尾编发",
+    "post_count": 44616
+  },
+  {
+    "tag": "curly_hair",
+    "category": "hair",
+    "weight": 4.64,
+    "aliases": [
+      "curls"
+    ],
+    "label_zh": "卷发",
+    "post_count": 43911
+  },
+  {
+    "tag": "long_bangs",
+    "category": "hair",
+    "weight": 4.64,
+    "aliases": [],
+    "label_zh": "长刘海",
+    "post_count": 43421
+  },
+  {
+    "tag": "hime_cut",
+    "category": "hair",
+    "weight": 4.46,
+    "aliases": [
+      "princess_cut",
+      "himecut"
+    ],
+    "label_zh": "公主切",
+    "post_count": 28950
+  },
+  {
+    "tag": "braided_bangs",
+    "category": "hair",
+    "weight": 4.2,
+    "aliases": [],
+    "label_zh": "辫子刘海",
+    "post_count": 16003
+  },
+  {
+    "tag": "hair_wings",
+    "category": "hair",
+    "weight": 3.03,
+    "aliases": [
+      "wing-shaped_hair"
+    ],
+    "label_zh": "翼状头发",
+    "post_count": 1054
+  },
+  {
+    "tag": "silver_hair",
+    "category": "hair",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "银色头发",
+    "post_count": 0
+  },
+  {
+    "tag": "yellow_hair",
+    "category": "hair",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "黄色头发",
+    "post_count": 0
+  },
+  {
+    "tag": "grey_gradient_hair",
+    "category": "hair",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "灰色渐变",
+    "post_count": 0
+  },
+  {
+    "tag": "light_brown_hair",
+    "category": "hair",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "亮棕",
+    "post_count": 0
+  },
+  {
+    "tag": "bangs",
+    "category": "hair",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "刘海",
+    "post_count": 0
+  },
+  {
+    "tag": "air_bangs",
+    "category": "hair",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "空气刘海",
+    "post_count": 0
+  },
+  {
+    "tag": "side_blunt_bangs",
+    "category": "hair",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "侧面空气刘海",
+    "post_count": 0
+  },
+  {
+    "tag": "centre_parting_bangs",
+    "category": "hair",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "中分刘海",
+    "post_count": 0
+  },
+  {
+    "tag": "asymmetric_bangs",
+    "category": "hair",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "不对称刘海",
+    "post_count": 0
+  },
+  {
+    "tag": "disheveled_hair",
+    "category": "hair",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "蓬发",
+    "post_count": 0
+  }
+]

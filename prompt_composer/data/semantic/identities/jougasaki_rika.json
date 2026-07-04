@@ -1,0 +1,30 @@
+{
+  "id": "jougasaki_rika",
+  "name": "城崎莉嘉",
+  "identity_tags": [
+    "jougasaki_rika"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ponytail",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "green_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "sweater_vest",
+    "plaid_skirt",
+    "bikini",
+    "short_shorts"
+  ],
+  "optional_clothing": []
+}

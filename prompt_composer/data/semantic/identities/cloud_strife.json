@@ -1,0 +1,30 @@
+{
+  "id": "cloud_strife",
+  "name": "克劳德·斯特莱夫",
+  "identity_tags": [
+    "cloud_strife"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "braided_ponytail",
+      "wavy_hair",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eye_contact"
+    ]
+  },
+  "default_clothing": [
+    "sleeveless_turtleneck",
+    "suspender_skirt",
+    "shoulder_armor",
+    "suspenders"
+  ],
+  "optional_clothing": []
+}

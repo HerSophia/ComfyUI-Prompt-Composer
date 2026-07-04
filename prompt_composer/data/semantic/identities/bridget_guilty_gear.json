@@ -1,0 +1,26 @@
+{
+  "id": "bridget_guilty_gear",
+  "name": "布里奇特（罪恶装备）",
+  "identity_tags": [
+    "bridget_(guilty_gear)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "bike_shorts",
+    "hoodie",
+    "open_clothes",
+    "jacket"
+  ],
+  "optional_clothing": []
+}

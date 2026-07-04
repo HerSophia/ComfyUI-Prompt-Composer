@@ -1,0 +1,30 @@
+{
+  "id": "hiroi_kikuri",
+  "name": "广井菊理",
+  "identity_tags": [
+    "hiroi_kikuri"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "blunt_bangs",
+      "braided_ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "ringed_eyes"
+    ]
+  },
+  "default_clothing": [
+    "two-tone_jacket",
+    "geta",
+    "letterman_jacket",
+    "track_jacket"
+  ],
+  "optional_clothing": []
+}

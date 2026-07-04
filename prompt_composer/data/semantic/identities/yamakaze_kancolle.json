@@ -1,0 +1,30 @@
+{
+  "id": "yamakaze_kancolle",
+  "name": "山风",
+  "identity_tags": [
+    "yamakaze_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ponytail",
+      "hair_flaps",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "neckerchief",
+    "serafuku",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

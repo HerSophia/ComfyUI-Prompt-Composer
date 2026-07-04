@@ -1,0 +1,30 @@
+{
+  "id": "yukikaze_kancolle",
+  "name": "雪风",
+  "identity_tags": [
+    "yukikaze_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sailor_dress",
+    "rudder_footwear",
+    "microdress",
+    "swimsuit_under_clothes"
+  ],
+  "optional_clothing": []
+}

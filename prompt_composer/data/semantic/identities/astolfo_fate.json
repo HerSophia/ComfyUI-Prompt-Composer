@@ -1,0 +1,30 @@
+{
+  "id": "astolfo_fate",
+  "name": "阿斯托尔福",
+  "identity_tags": [
+    "astolfo_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "twintails",
+      "braided_ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "chaldea_uniform",
+    "faulds",
+    "garter_straps",
+    "striped_shirt"
+  ],
+  "optional_clothing": []
+}

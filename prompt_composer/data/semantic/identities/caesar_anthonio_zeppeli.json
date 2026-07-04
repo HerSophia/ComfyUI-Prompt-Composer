@@ -1,0 +1,17 @@
+{
+  "id": "caesar_anthonio_zeppeli",
+  "name": "西撒·安东尼奥·齐贝林",
+  "identity_tags": [
+    "caesar_anthonio_zeppeli"
+  ],
+  "locked_features": {
+    "hair_color": "blonde"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ]
+  },
+  "default_clothing": [],
+  "optional_clothing": []
+}

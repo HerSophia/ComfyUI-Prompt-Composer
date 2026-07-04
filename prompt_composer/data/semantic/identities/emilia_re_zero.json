@@ -1,0 +1,29 @@
+{
+  "id": "emilia_re_zero",
+  "name": "艾米莉亚",
+  "identity_tags": [
+    "emilia_(re:zero)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "blunt_bangs",
+      "drill_hair"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "track_jacket",
+    "white_thighhighs",
+    "thigh_boots",
+    "clothing_cutout"
+  ],
+  "optional_clothing": []
+}

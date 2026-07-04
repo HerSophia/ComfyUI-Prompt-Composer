@@ -1,0 +1,30 @@
+{
+  "id": "suletta_mercury",
+  "name": "主角（机动战士高达）",
+  "identity_tags": [
+    "suletta_mercury"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ahoge",
+      "ponytail",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eye_contact"
+    ]
+  },
+  "default_clothing": [
+    "mecha",
+    "school_uniform",
+    "camisole",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

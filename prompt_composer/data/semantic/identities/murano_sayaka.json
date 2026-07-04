@@ -1,0 +1,29 @@
+{
+  "id": "murano_sayaka",
+  "name": "村野沙耶香",
+  "identity_tags": [
+    "murano_sayaka"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "crossed_bangs",
+      "bob_cut"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "mole_on_neck",
+    "sailor_dress",
+    "red_neckerchief",
+    "cardigan"
+  ],
+  "optional_clothing": []
+}

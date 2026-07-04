@@ -1,0 +1,29 @@
+{
+  "id": "mario",
+  "name": "马力欧",
+  "identity_tags": [
+    "mario"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "overalls",
+    "strapless_dress",
+    "helmet",
+    "cape"
+  ],
+  "optional_clothing": []
+}

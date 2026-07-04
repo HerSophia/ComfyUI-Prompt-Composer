@@ -1,0 +1,30 @@
+{
+  "id": "naka_kancolle",
+  "name": "那珂",
+  "identity_tags": [
+    "naka_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "hair_bun",
+      "double_bun",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "double-breasted",
+    "serafuku",
+    "neckerchief",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

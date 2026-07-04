@@ -1,0 +1,29 @@
+{
+  "id": "hoshimi_miyabi",
+  "name": "星见雅",
+  "identity_tags": [
+    "hoshimi_miyabi"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "blunt_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "high-waist_skirt",
+    "dress_shirt",
+    "pencil_skirt",
+    "black_pantyhose"
+  ],
+  "optional_clothing": []
+}

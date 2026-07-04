@@ -1,0 +1,29 @@
+{
+  "id": "matsuura_kanan",
+  "name": "松浦果南",
+  "identity_tags": [
+    "matsuura_kanan"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "high_ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "uranohoshi_school_uniform",
+    "striped_bikini",
+    "front-tie_top",
+    "halterneck"
+  ],
+  "optional_clothing": []
+}

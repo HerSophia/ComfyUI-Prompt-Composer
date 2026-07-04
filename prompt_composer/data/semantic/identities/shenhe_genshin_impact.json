@@ -1,0 +1,30 @@
+{
+  "id": "shenhe_genshin_impact",
+  "name": "申鹤",
+  "identity_tags": [
+    "shenhe_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ahoge",
+      "swept_bangs",
+      "hair_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "chinese_knot",
+    "bodystocking",
+    "clothing_cutout",
+    "chinese_clothes"
+  ],
+  "optional_clothing": []
+}

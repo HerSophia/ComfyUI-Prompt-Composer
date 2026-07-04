@@ -1,0 +1,30 @@
+{
+  "id": "nonomi_blue_archive",
+  "name": "十六夜野野美",
+  "identity_tags": [
+    "nonomi_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "light_brown",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "light_brown_hair",
+      "ahoge",
+      "hair_bun",
+      "twintails"
+    ],
+    "eyes": [
+      "green_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "front-tie_bikini_top",
+    "front-tie_top",
+    "string_bikini",
+    "competition_swimsuit"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "oozora_subaru",
+  "name": "大空昴",
+  "identity_tags": [
+    "oozora_subaru"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "swept_bangs",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "suspender_shorts",
+    "whistle_around_neck",
+    "striped_shirt",
+    "striped_bikini"
+  ],
+  "optional_clothing": []
+}

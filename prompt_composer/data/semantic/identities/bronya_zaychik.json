@@ -1,0 +1,29 @@
+{
+  "id": "bronya_zaychik",
+  "name": "布洛妮娅·扎伊切克",
+  "identity_tags": [
+    "bronya_zaychik"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "drill_hair",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "grey_eyes"
+    ]
+  },
+  "default_clothing": [
+    "china_dress",
+    "sleeveless_dress",
+    "no_shoes",
+    "white_thighhighs"
+  ],
+  "optional_clothing": []
+}

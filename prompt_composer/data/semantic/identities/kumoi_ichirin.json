@@ -1,0 +1,30 @@
+{
+  "id": "kumoi_ichirin",
+  "name": "云居一轮",
+  "identity_tags": [
+    "kumoi_ichirin"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "ahoge",
+      "twin_braids"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "sailor",
+    "geta",
+    "layered_dress",
+    "capelet"
+  ],
+  "optional_clothing": []
+}

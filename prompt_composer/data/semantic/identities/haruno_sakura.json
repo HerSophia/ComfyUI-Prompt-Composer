@@ -1,0 +1,28 @@
+{
+  "id": "haruno_sakura",
+  "name": "春野樱",
+  "identity_tags": [
+    "haruno_sakura"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "bike_shorts",
+    "sleeveless_shirt",
+    "sandals",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

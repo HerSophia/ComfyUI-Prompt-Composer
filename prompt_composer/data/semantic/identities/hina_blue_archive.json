@@ -1,0 +1,30 @@
+{
+  "id": "hina_blue_archive",
+  "name": "空崎日奈",
+  "identity_tags": [
+    "hina_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ahoge",
+      "forehead",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "whistle_around_neck",
+    "old_school_swimsuit",
+    "fur-trimmed_coat",
+    "evening_gown"
+  ],
+  "optional_clothing": []
+}

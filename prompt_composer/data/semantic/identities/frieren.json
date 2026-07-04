@@ -1,0 +1,30 @@
+{
+  "id": "frieren",
+  "name": "芙莉莲",
+  "identity_tags": [
+    "frieren"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "twintails",
+      "blunt_bangs",
+      "straight_hair"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "striped_shirt",
+    "capelet",
+    "robe",
+    "tunic"
+  ],
+  "optional_clothing": []
+}

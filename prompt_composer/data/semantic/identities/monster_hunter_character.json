@@ -1,0 +1,29 @@
+{
+  "id": "monster_hunter_character",
+  "name": "怪物猎人（角色）",
+  "identity_tags": [
+    "monster_hunter_(character)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "armor",
+    "fishnets",
+    "shoulder_armor",
+    "helmet"
+  ],
+  "optional_clothing": []
+}

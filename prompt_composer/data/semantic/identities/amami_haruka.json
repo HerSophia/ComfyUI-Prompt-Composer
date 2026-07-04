@@ -1,0 +1,30 @@
+{
+  "id": "amami_haruka",
+  "name": "天海春香",
+  "identity_tags": [
+    "amami_haruka"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bikini",
+    "swimsuit",
+    "barefoot",
+    "necklace"
+  ],
+  "optional_clothing": []
+}

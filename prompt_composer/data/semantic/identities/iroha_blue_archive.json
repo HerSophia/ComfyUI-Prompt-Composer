@@ -1,0 +1,30 @@
+{
+  "id": "iroha_blue_archive",
+  "name": "生盐诺亚",
+  "identity_tags": [
+    "iroha_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "wavy_hair",
+      "crossed_bangs",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "grey_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "loose_necktie",
+    "military_jacket",
+    "pencil_skirt",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

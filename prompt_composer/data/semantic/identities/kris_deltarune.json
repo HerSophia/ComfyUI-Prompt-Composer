@@ -1,0 +1,28 @@
+{
+  "id": "kris_deltarune",
+  "name": "克丽丝",
+  "identity_tags": [
+    "kris_(deltarune)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_eyes"
+    ]
+  },
+  "default_clothing": [
+    "armor",
+    "sweater",
+    "pants",
+    "shirt"
+  ],
+  "optional_clothing": []
+}

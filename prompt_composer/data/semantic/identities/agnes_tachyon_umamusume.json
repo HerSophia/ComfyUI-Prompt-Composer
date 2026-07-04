@@ -1,0 +1,30 @@
+{
+  "id": "agnes_tachyon_umamusume",
+  "name": "无声铃鹿",
+  "identity_tags": [
+    "agnes_tachyon_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "messy_hair",
+      "long_bangs"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "short_necktie",
+    "sailor_shirt",
+    "sweater_vest",
+    "summer_uniform"
+  ],
+  "optional_clothing": []
+}

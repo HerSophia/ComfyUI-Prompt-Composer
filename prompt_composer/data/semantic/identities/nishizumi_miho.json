@@ -1,0 +1,30 @@
+{
+  "id": "nishizumi_miho",
+  "name": "西泉美穗",
+  "identity_tags": [
+    "nishizumi_miho"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "blunt_bangs",
+      "messy_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ooarai_school_uniform",
+    "blouse",
+    "military_uniform",
+    "casual"
+  ],
+  "optional_clothing": []
+}

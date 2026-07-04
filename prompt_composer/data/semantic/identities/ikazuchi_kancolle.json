@@ -1,0 +1,30 @@
+{
+  "id": "ikazuchi_kancolle",
+  "name": "雷",
+  "identity_tags": [
+    "ikazuchi_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "red_neckerchief",
+    "naval_uniform",
+    "serafuku",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2b_nier_automata",
+  "name": "2B",
+  "identity_tags": [
+    "2b_(nier:automata)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "bob_cut",
+      "swept_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "covered_eyes"
+    ]
+  },
+  "default_clothing": [
+    "back_cutout",
+    "high_heel_boots",
+    "leotard_under_clothes",
+    "thigh_boots"
+  ],
+  "optional_clothing": []
+}

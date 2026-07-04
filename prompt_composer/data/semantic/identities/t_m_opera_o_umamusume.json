@@ -1,0 +1,28 @@
+{
+  "id": "t_m_opera_o_umamusume",
+  "name": "东商变革",
+  "identity_tags": [
+    "t.m._opera_o_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "shoulder_armor",
+    "cape",
+    "white_thighhighs",
+    "armor"
+  ],
+  "optional_clothing": []
+}

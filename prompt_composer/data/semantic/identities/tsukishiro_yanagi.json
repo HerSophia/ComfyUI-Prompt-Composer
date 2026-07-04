@@ -1,0 +1,27 @@
+{
+  "id": "tsukishiro_yanagi",
+  "name": "月城柳",
+  "identity_tags": [
+    "tsukishiro_yanagi"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "pink_eyes"
+    ]
+  },
+  "default_clothing": [
+    "high-waist_skirt",
+    "pencil_skirt",
+    "dress_shirt",
+    "shoulder_armor"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ibuki_suika",
+  "name": "伊吹萃香",
+  "identity_tags": [
+    "ibuki_suika"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "blunt_bangs",
+      "twin_braids",
+      "hair_bun"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ribbon-trimmed_skirt",
+    "geta",
+    "bloomers",
+    "sleeveless_shirt"
+  ],
+  "optional_clothing": []
+}

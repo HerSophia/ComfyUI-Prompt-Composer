@@ -1,0 +1,30 @@
+{
+  "id": "sakurauchi_riko",
+  "name": "樱内梨子",
+  "identity_tags": [
+    "sakurauchi_riko"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "hair_bun",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "uranohoshi_school_uniform",
+    "red_neckerchief",
+    "serafuku",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

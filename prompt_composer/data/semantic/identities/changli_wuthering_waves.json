@@ -1,0 +1,30 @@
+{
+  "id": "changli_wuthering_waves",
+  "name": "长离",
+  "identity_tags": [
+    "changli_(wuthering_waves)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "twin_braids",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "halterneck",
+    "thigh_strap",
+    "black_thighhighs",
+    "clothing_cutout"
+  ],
+  "optional_clothing": []
+}

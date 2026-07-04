@@ -1,0 +1,29 @@
+{
+  "id": "kamado_nezuko",
+  "name": "灶门祢豆子",
+  "identity_tags": [
+    "kamado_nezuko"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "forehead",
+      "ponytail"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "haori",
+    "obi",
+    "leg_warmers",
+    "tabi"
+  ],
+  "optional_clothing": []
+}

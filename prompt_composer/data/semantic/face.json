@@ -1,0 +1,933 @@
+[
+  {
+    "tag": "blush",
+    "category": "face",
+    "weight": 6.57,
+    "aliases": [
+      "flushed",
+      "flush",
+      "blushing"
+    ],
+    "label_zh": "脸红",
+    "post_count": 3730551
+  },
+  {
+    "tag": "open_mouth",
+    "category": "face",
+    "weight": 6.5,
+    "aliases": [
+      "mouth_open"
+    ],
+    "label_zh": "张嘴",
+    "post_count": 3128335
+  },
+  {
+    "tag": "closed_mouth",
+    "category": "face",
+    "weight": 6.23,
+    "aliases": [],
+    "label_zh": "闭嘴",
+    "post_count": 1716518
+  },
+  {
+    "tag": "teeth",
+    "category": "face",
+    "weight": 5.84,
+    "aliases": [
+      "bared_teeth"
+    ],
+    "label_zh": "牙齿",
+    "post_count": 690882
+  },
+  {
+    "tag": "parted_lips",
+    "category": "face",
+    "weight": 5.83,
+    "aliases": [],
+    "label_zh": "张开的嘴",
+    "post_count": 671835
+  },
+  {
+    "tag": "tongue",
+    "category": "face",
+    "weight": 5.7,
+    "aliases": [
+      "tongues"
+    ],
+    "label_zh": "舌头",
+    "post_count": 503397
+  },
+  {
+    "tag": "fang",
+    "category": "face",
+    "weight": 5.62,
+    "aliases": [],
+    "label_zh": "虎牙",
+    "post_count": 413930
+  },
+  {
+    "tag": "tongue_out",
+    "category": "face",
+    "weight": 5.58,
+    "aliases": [],
+    "label_zh": "吐舌头",
+    "post_count": 377445
+  },
+  {
+    "tag": "mole",
+    "category": "face",
+    "weight": 5.55,
+    "aliases": [
+      "beauty_mark"
+    ],
+    "label_zh": "痣",
+    "post_count": 353851
+  },
+  {
+    "tag": "v-shaped_eyebrows",
+    "category": "face",
+    "weight": 5.38,
+    "aliases": [],
+    "label_zh": "V字眉",
+    "post_count": 238644
+  },
+  {
+    "tag": ":o",
+    "category": "face",
+    "weight": 5.37,
+    "aliases": [
+      ":0"
+    ],
+    "label_zh": "张嘴",
+    "post_count": 233656
+  },
+  {
+    "tag": "mole_under_eye",
+    "category": "face",
+    "weight": 5.35,
+    "aliases": [],
+    "label_zh": "眼睛下方的痣",
+    "post_count": 221685
+  },
+  {
+    "tag": "makeup",
+    "category": "face",
+    "weight": 5.23,
+    "aliases": [
+      "make-up",
+      "make_up"
+    ],
+    "label_zh": "化妆",
+    "post_count": 169708
+  },
+  {
+    "tag": "lips",
+    "category": "face",
+    "weight": 5.21,
+    "aliases": [],
+    "label_zh": "嘴唇",
+    "post_count": 163840
+  },
+  {
+    "tag": ":3",
+    "category": "face",
+    "weight": 5.2,
+    "aliases": [],
+    "label_zh": "猫嘴",
+    "post_count": 159568
+  },
+  {
+    "tag": "scar",
+    "category": "face",
+    "weight": 5.18,
+    "aliases": [
+      "scars"
+    ],
+    "label_zh": "疤痕",
+    "post_count": 151876
+  },
+  {
+    "tag": "fangs",
+    "category": "face",
+    "weight": 5.15,
+    "aliases": [],
+    "label_zh": "尖牙",
+    "post_count": 140699
+  },
+  {
+    "tag": "saliva",
+    "category": "face",
+    "weight": 5.15,
+    "aliases": [
+      "spit",
+      "drool"
+    ],
+    "label_zh": "唾液",
+    "post_count": 139802
+  },
+  {
+    "tag": "facial_mark",
+    "category": "face",
+    "weight": 5.14,
+    "aliases": [
+      "facial_marks",
+      "facial_markings",
+      "facial_marking"
+    ],
+    "label_zh": "面部标记",
+    "post_count": 137611
+  },
+  {
+    "tag": "nose_blush",
+    "category": "face",
+    "weight": 5.13,
+    "aliases": [],
+    "label_zh": "鼻腮红",
+    "post_count": 134534
+  },
+  {
+    "tag": "thick_eyebrows",
+    "category": "face",
+    "weight": 5.11,
+    "aliases": [],
+    "label_zh": "浓眉",
+    "post_count": 128557
+  },
+  {
+    "tag": "sharp_teeth",
+    "category": "face",
+    "weight": 5.05,
+    "aliases": [
+      "spiked_teeth",
+      "pointed_teeth",
+      "pointy_teeth"
+    ],
+    "label_zh": "锋利的牙齿",
+    "post_count": 111461
+  },
+  {
+    "tag": "light_blush",
+    "category": "face",
+    "weight": 5.04,
+    "aliases": [],
+    "label_zh": "淡淡的腮红",
+    "post_count": 108692
+  },
+  {
+    "tag": "wavy_mouth",
+    "category": "face",
+    "weight": 4.98,
+    "aliases": [],
+    "label_zh": "波浪嘴",
+    "post_count": 95639
+  },
+  {
+    "tag": "clenched_teeth",
+    "category": "face",
+    "weight": 4.98,
+    "aliases": [
+      "gritting_teeth",
+      "gritted_teeth"
+    ],
+    "label_zh": "咬紧牙关",
+    "post_count": 94668
+  },
+  {
+    "tag": "mouth_hold",
+    "category": "face",
+    "weight": 4.98,
+    "aliases": [],
+    "label_zh": "用嘴叼着",
+    "post_count": 94592
+  },
+  {
+    "tag": "skin_fang",
+    "category": "face",
+    "weight": 4.96,
+    "aliases": [
+      "lip_fang",
+      "flesh_fang"
+    ],
+    "label_zh": "肤色虎牙",
+    "post_count": 90628
+  },
+  {
+    "tag": "dot_nose",
+    "category": "face",
+    "weight": 4.9,
+    "aliases": [],
+    "label_zh": "点状鼻",
+    "post_count": 80053
+  },
+  {
+    "tag": "drooling",
+    "category": "face",
+    "weight": 4.86,
+    "aliases": [
+      "saliva_drip"
+    ],
+    "label_zh": "流口水",
+    "post_count": 72311
+  },
+  {
+    "tag": "anger_vein",
+    "category": "face",
+    "weight": 4.86,
+    "aliases": [
+      "anger_mark"
+    ],
+    "label_zh": "头部愤怒符号",
+    "post_count": 72123
+  },
+  {
+    "tag": "mole_under_mouth",
+    "category": "face",
+    "weight": 4.84,
+    "aliases": [],
+    "label_zh": "嘴下痣",
+    "post_count": 68967
+  },
+  {
+    "tag": "lipstick",
+    "category": "face",
+    "weight": 4.84,
+    "aliases": [],
+    "label_zh": "口红",
+    "post_count": 68728
+  },
+  {
+    "tag": "eyeshadow",
+    "category": "face",
+    "weight": 4.83,
+    "aliases": [
+      "eye_shadow"
+    ],
+    "label_zh": "眼影",
+    "post_count": 67070
+  },
+  {
+    "tag": "freckles",
+    "category": "face",
+    "weight": 4.75,
+    "aliases": [],
+    "label_zh": "雀斑",
+    "post_count": 56284
+  },
+  {
+    "tag": ":p",
+    "category": "face",
+    "weight": 4.69,
+    "aliases": [
+      ":b"
+    ],
+    "label_zh": "舌头放在下唇",
+    "post_count": 49259
+  },
+  {
+    "tag": "colored_eyelashes",
+    "category": "face",
+    "weight": 4.69,
+    "aliases": [
+      "orange_eyelashes",
+      "silver_eyelashes",
+      "white_eyelashes",
+      "red_eyelashes",
+      "purple_eyelashes",
+      "pink_eyelashes",
+      "multicolored_eyelashes",
+      "grey_eyelashes",
+      "green_eyelashes",
+      "blue_eyelashes",
+      "blonde_eyelashes",
+      "aqua_eyelashes",
+      "coloured_eyelashes"
+    ],
+    "label_zh": "彩色睫毛",
+    "post_count": 48916
+  },
+  {
+    "tag": ":q",
+    "category": "face",
+    "weight": 4.6,
+    "aliases": [
+      ":9"
+    ],
+    "label_zh": "舌头放在上唇",
+    "post_count": 40144
+  },
+  {
+    "tag": "mustache",
+    "category": "face",
+    "weight": 4.57,
+    "aliases": [
+      "moustache"
+    ],
+    "label_zh": "小胡子",
+    "post_count": 37163
+  },
+  {
+    "tag": "scar_across_eye",
+    "category": "face",
+    "weight": 4.57,
+    "aliases": [
+      "eye_scar"
+    ],
+    "label_zh": "穿过眼睛的疤痕",
+    "post_count": 36759
+  },
+  {
+    "tag": "short_eyebrows",
+    "category": "face",
+    "weight": 4.56,
+    "aliases": [
+      "round_eyebrows"
+    ],
+    "label_zh": "短眉毛",
+    "post_count": 36380
+  },
+  {
+    "tag": "forehead_mark",
+    "category": "face",
+    "weight": 4.54,
+    "aliases": [],
+    "label_zh": "额头标记",
+    "post_count": 34899
+  },
+  {
+    "tag": "pout",
+    "category": "face",
+    "weight": 4.53,
+    "aliases": [
+      "pouting"
+    ],
+    "label_zh": "嘟嘴",
+    "post_count": 34086
+  },
+  {
+    "tag": "goatee",
+    "category": "face",
+    "weight": 4.46,
+    "aliases": [],
+    "label_zh": "山羊胡",
+    "post_count": 28888
+  },
+  {
+    "tag": "nose",
+    "category": "face",
+    "weight": 4.46,
+    "aliases": [],
+    "label_zh": "鼻子",
+    "post_count": 28539
+  },
+  {
+    "tag": "no_nose",
+    "category": "face",
+    "weight": 4.46,
+    "aliases": [],
+    "label_zh": "没鼻子的",
+    "post_count": 28507
+  },
+  {
+    "tag": "covered_mouth",
+    "category": "face",
+    "weight": 4.44,
+    "aliases": [
+      "hidden_mouth",
+      "mouth_covered"
+    ],
+    "label_zh": "蒙住的嘴",
+    "post_count": 27831
+  },
+  {
+    "tag": "food_on_face",
+    "category": "face",
+    "weight": 4.42,
+    "aliases": [
+      "food_on_cheek"
+    ],
+    "label_zh": "食物在脸上",
+    "post_count": 26513
+  },
+  {
+    "tag": "triangle_mouth",
+    "category": "face",
+    "weight": 4.31,
+    "aliases": [],
+    "label_zh": "三角嘴",
+    "post_count": 20595
+  },
+  {
+    "tag": "round_teeth",
+    "category": "face",
+    "weight": 4.29,
+    "aliases": [],
+    "label_zh": "圆齿",
+    "post_count": 19473
+  },
+  {
+    "tag": "no_mouth",
+    "category": "face",
+    "weight": 4.29,
+    "aliases": [],
+    "label_zh": "没有嘴",
+    "post_count": 19286
+  },
+  {
+    "tag": "whisker_markings",
+    "category": "face",
+    "weight": 4.27,
+    "aliases": [],
+    "label_zh": "胡须斑纹",
+    "post_count": 18623
+  },
+  {
+    "tag": ":>",
+    "category": "face",
+    "weight": 4.26,
+    "aliases": [],
+    "label_zh": "V嘴",
+    "post_count": 18057
+  },
+  {
+    "tag": "chestnut_mouth",
+    "category": "face",
+    "weight": 4.25,
+    "aliases": [],
+    "label_zh": "栗子嘴",
+    "post_count": 17815
+  },
+  {
+    "tag": "facepaint",
+    "category": "face",
+    "weight": 4.24,
+    "aliases": [
+      "face_paint"
+    ],
+    "label_zh": "面部涂装",
+    "post_count": 17238
+  },
+  {
+    "tag": "fang_out",
+    "category": "face",
+    "weight": 4.22,
+    "aliases": [],
+    "label_zh": "露出虎牙",
+    "post_count": 16771
+  },
+  {
+    "tag": "nosebleed",
+    "category": "face",
+    "weight": 4.21,
+    "aliases": [
+      "bloody_nose",
+      "blood_from_nose",
+      "nose_bleed"
+    ],
+    "label_zh": "鼻血",
+    "post_count": 16286
+  },
+  {
+    "tag": "mouth_drool",
+    "category": "face",
+    "weight": 4.1,
+    "aliases": [],
+    "label_zh": "嘴角画着口水滴形状的缺口",
+    "post_count": 12682
+  },
+  {
+    "tag": "smoking_pipe",
+    "category": "face",
+    "weight": 4.1,
+    "aliases": [
+      "pipe_(smoking)",
+      "pipe"
+    ],
+    "label_zh": "烟斗",
+    "post_count": 12515
+  },
+  {
+    "tag": "long_eyelashes",
+    "category": "face",
+    "weight": 4.06,
+    "aliases": [],
+    "label_zh": "长睫毛",
+    "post_count": 11583
+  },
+  {
+    "tag": ";p",
+    "category": "face",
+    "weight": 3.98,
+    "aliases": [],
+    "label_zh": "眨眼舌头上伸",
+    "post_count": 9586
+  },
+  {
+    "tag": "sideways_mouth",
+    "category": "face",
+    "weight": 3.97,
+    "aliases": [
+      "cheek_mouth",
+      "side_mouth"
+    ],
+    "label_zh": "把嘴画在侧脸",
+    "post_count": 9333
+  },
+  {
+    "tag": "snout",
+    "category": "face",
+    "weight": 3.97,
+    "aliases": [],
+    "label_zh": "动物口鼻部",
+    "post_count": 9306
+  },
+  {
+    "tag": "dot_mouth",
+    "category": "face",
+    "weight": 3.96,
+    "aliases": [],
+    "label_zh": "点嘴",
+    "post_count": 9128
+  },
+  {
+    "tag": "long_tongue",
+    "category": "face",
+    "weight": 3.94,
+    "aliases": [],
+    "label_zh": "长舌头",
+    "post_count": 8650
+  },
+  {
+    "tag": "smelling",
+    "category": "face",
+    "weight": 3.8,
+    "aliases": [
+      "sniffing"
+    ],
+    "label_zh": "闻",
+    "post_count": 6360
+  },
+  {
+    "tag": "hair_tie_in_mouth",
+    "category": "face",
+    "weight": 3.8,
+    "aliases": [
+      "scrunchie_in_mouth"
+    ],
+    "label_zh": "将系头发的东西叼在嘴里",
+    "post_count": 6341
+  },
+  {
+    "tag": "tusks",
+    "category": "face",
+    "weight": 3.77,
+    "aliases": [
+      "tusk"
+    ],
+    "label_zh": "象牙",
+    "post_count": 5938
+  },
+  {
+    "tag": "snot",
+    "category": "face",
+    "weight": 3.73,
+    "aliases": [],
+    "label_zh": "鼻涕",
+    "post_count": 5352
+  },
+  {
+    "tag": "mascara",
+    "category": "face",
+    "weight": 3.73,
+    "aliases": [],
+    "label_zh": "睫毛膏",
+    "post_count": 5302
+  },
+  {
+    "tag": "toothbrush",
+    "category": "face",
+    "weight": 3.69,
+    "aliases": [],
+    "label_zh": "牙刷",
+    "post_count": 4925
+  },
+  {
+    "tag": "nose_bubble",
+    "category": "face",
+    "weight": 3.62,
+    "aliases": [
+      "snot_bubble"
+    ],
+    "label_zh": "鼻泡",
+    "post_count": 4134
+  },
+  {
+    "tag": "buck_teeth",
+    "category": "face",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "龅牙",
+    "post_count": 4070
+  },
+  {
+    "tag": "thick_lips",
+    "category": "face",
+    "weight": 3.59,
+    "aliases": [],
+    "label_zh": "厚嘴唇",
+    "post_count": 3871
+  },
+  {
+    "tag": "bruise_on_face",
+    "category": "face",
+    "weight": 3.57,
+    "aliases": [],
+    "label_zh": "脸上有瘀伤",
+    "post_count": 3669
+  },
+  {
+    "tag": "pacifier",
+    "category": "face",
+    "weight": 3.51,
+    "aliases": [
+      "binky"
+    ],
+    "label_zh": "奶嘴",
+    "post_count": 3219
+  },
+  {
+    "tag": "extra_mouth",
+    "category": "face",
+    "weight": 3.41,
+    "aliases": [
+      "multiple_mouths"
+    ],
+    "label_zh": "有多张嘴巴",
+    "post_count": 2544
+  },
+  {
+    "tag": "uvula",
+    "category": "face",
+    "weight": 3.33,
+    "aliases": [],
+    "label_zh": "小舌头",
+    "post_count": 2122
+  },
+  {
+    "tag": "lipgloss",
+    "category": "face",
+    "weight": 3.16,
+    "aliases": [],
+    "label_zh": "唇彩",
+    "post_count": 1422
+  },
+  {
+    "tag": "rice_on_face",
+    "category": "face",
+    "weight": 3.14,
+    "aliases": [
+      "rice_on_cheek"
+    ],
+    "label_zh": "饭在脸上",
+    "post_count": 1381
+  },
+  {
+    "tag": "homu",
+    "category": "face",
+    "weight": 2.86,
+    "aliases": [],
+    "label_zh": "嘟嘴",
+    "post_count": 707
+  },
+  {
+    "tag": "cocked_eyebrow",
+    "category": "face",
+    "weight": 2.72,
+    "aliases": [],
+    "label_zh": "眉毛翘起",
+    "post_count": 509
+  },
+  {
+    "tag": "heart-shaped_mouth",
+    "category": "face",
+    "weight": 2.52,
+    "aliases": [],
+    "label_zh": "心形嘴",
+    "post_count": 320
+  },
+  {
+    "tag": "slender_face",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "瘦脸",
+    "post_count": 0
+  },
+  {
+    "tag": "round_face",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "圆脸",
+    "post_count": 0
+  },
+  {
+    "tag": "oval_face",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "鹅蛋脸",
+    "post_count": 0
+  },
+  {
+    "tag": "baby_face",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "娃娃脸",
+    "post_count": 0
+  },
+  {
+    "tag": "inverted_triangle_face",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "倒三角脸",
+    "post_count": 0
+  },
+  {
+    "tag": "heart_shaped_face",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "心形脸",
+    "post_count": 0
+  },
+  {
+    "tag": "diamond_face",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "菱形脸",
+    "post_count": 0
+  },
+  {
+    "tag": "triangular_face",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "三角脸",
+    "post_count": 0
+  },
+  {
+    "tag": "red_lips_",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "红唇",
+    "post_count": 0
+  },
+  {
+    "tag": "anime_style_blush",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "动画式脸红",
+    "post_count": 0
+  },
+  {
+    "tag": "pointed_nose",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "尖鼻子",
+    "post_count": 0
+  },
+  {
+    "tag": "small_nose",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "小鼻子",
+    "post_count": 0
+  },
+  {
+    "tag": "big_nose",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "大鼻子",
+    "post_count": 0
+  },
+  {
+    "tag": "shark_mouth",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "鲨鱼嘴",
+    "post_count": 0
+  },
+  {
+    "tag": "gasping",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "喘气（张大嘴）",
+    "post_count": 0
+  },
+  {
+    "tag": "slightly_open_mouth",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "嘴巴微微张开",
+    "post_count": 0
+  },
+  {
+    "tag": "gnaw",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "啃",
+    "post_count": 0
+  },
+  {
+    "tag": "hair_in_mouth",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "嘴里有头发",
+    "post_count": 0
+  },
+  {
+    "tag": "mouth",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "嘴",
+    "post_count": 0
+  },
+  {
+    "tag": "pouted_lips",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "撅起的嘴唇",
+    "post_count": 0
+  },
+  {
+    "tag": "spoon_in_mouth",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "嘴里含着勺子",
+    "post_count": 0
+  },
+  {
+    "tag": "upper_teeth",
+    "category": "face",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "上牙",
+    "post_count": 0
+  }
+]

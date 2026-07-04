@@ -1,0 +1,27 @@
+{
+  "id": "kei_blue_archive",
+  "name": "圭",
+  "identity_tags": [
+    "kei_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "ringed_eyes"
+    ]
+  },
+  "default_clothing": [
+    "necktie",
+    "open_jacket",
+    "collared_shirt",
+    "pleated_skirt"
+  ],
+  "optional_clothing": []
+}

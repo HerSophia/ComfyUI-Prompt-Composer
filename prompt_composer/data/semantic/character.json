@@ -1,0 +1,867 @@
+[
+  {
+    "tag": "1girl",
+    "category": "character",
+    "weight": 6.88,
+    "aliases": [
+      "sole_female",
+      "1girls"
+    ],
+    "label_zh": "1女孩",
+    "post_count": 7641780
+  },
+  {
+    "tag": "solo",
+    "category": "character",
+    "weight": 6.81,
+    "aliases": [
+      "female_solo",
+      "solo_female"
+    ],
+    "label_zh": "单人",
+    "post_count": 6386164
+  },
+  {
+    "tag": "multiple_girls",
+    "category": "character",
+    "weight": 6.29,
+    "aliases": [
+      "/ngirls"
+    ],
+    "label_zh": "多个女孩",
+    "post_count": 1928389
+  },
+  {
+    "tag": "1boy",
+    "category": "character",
+    "weight": 6.28,
+    "aliases": [
+      "sole_male",
+      "1boys"
+    ],
+    "label_zh": "1男孩",
+    "post_count": 1913305
+  },
+  {
+    "tag": "2girls",
+    "category": "character",
+    "weight": 6.12,
+    "aliases": [
+      "2_girls",
+      "2girl"
+    ],
+    "label_zh": "2女孩",
+    "post_count": 1304715
+  },
+  {
+    "tag": "2boys",
+    "category": "character",
+    "weight": 5.62,
+    "aliases": [
+      "2boy"
+    ],
+    "label_zh": "2男孩",
+    "post_count": 420350
+  },
+  {
+    "tag": "dark_skin",
+    "category": "character",
+    "weight": 5.57,
+    "aliases": [
+      "dark_skinned_female",
+      "dark_skin_female",
+      "brown_skin",
+      "darkskin"
+    ],
+    "label_zh": "黑皮肤",
+    "post_count": 369846
+  },
+  {
+    "tag": "3girls",
+    "category": "character",
+    "weight": 5.48,
+    "aliases": [
+      "3girl"
+    ],
+    "label_zh": "3女孩",
+    "post_count": 301307
+  },
+  {
+    "tag": "loli",
+    "category": "character",
+    "weight": 5.29,
+    "aliases": [
+      "lolicon",
+      "rori"
+    ],
+    "label_zh": "萝莉",
+    "post_count": 193334
+  },
+  {
+    "tag": "maid",
+    "category": "character",
+    "weight": 5.28,
+    "aliases": [
+      "maid_dress",
+      "maid_outfit",
+      "maid_costume",
+      "maids",
+      "maid_uniform"
+    ],
+    "label_zh": "女仆",
+    "post_count": 191431
+  },
+  {
+    "tag": "tattoo",
+    "category": "character",
+    "weight": 5.28,
+    "aliases": [
+      "tatoo",
+      "tattoos"
+    ],
+    "label_zh": "纹身",
+    "post_count": 189244
+  },
+  {
+    "tag": "shiny_skin",
+    "category": "character",
+    "weight": 5.17,
+    "aliases": [
+      "glistening_skin"
+    ],
+    "label_zh": "有光泽的皮肤",
+    "post_count": 148214
+  },
+  {
+    "tag": "3boys",
+    "category": "character",
+    "weight": 4.98,
+    "aliases": [
+      "3boy"
+    ],
+    "label_zh": "3男孩",
+    "post_count": 96437
+  },
+  {
+    "tag": "sisters",
+    "category": "character",
+    "weight": 4.92,
+    "aliases": [],
+    "label_zh": "姐妹",
+    "post_count": 82785
+  },
+  {
+    "tag": "tan",
+    "category": "character",
+    "weight": 4.87,
+    "aliases": [
+      "tanned_skin",
+      "tanned",
+      "suntan"
+    ],
+    "label_zh": "日晒",
+    "post_count": 73505
+  },
+  {
+    "tag": "child",
+    "category": "character",
+    "weight": 4.86,
+    "aliases": [
+      "kids",
+      "children"
+    ],
+    "label_zh": "儿童",
+    "post_count": 71727
+  },
+  {
+    "tag": "trap",
+    "category": "character",
+    "weight": 4.85,
+    "aliases": [
+      "otoko_no_ko",
+      "otokonoko",
+      "femboy"
+    ],
+    "label_zh": "伪娘",
+    "post_count": 70866
+  },
+  {
+    "tag": "pale_skin",
+    "category": "character",
+    "weight": 4.83,
+    "aliases": [
+      "paleskin",
+      "pale"
+    ],
+    "label_zh": "苍白的皮肤",
+    "post_count": 68050
+  },
+  {
+    "tag": "white_skin",
+    "category": "character",
+    "weight": 4.76,
+    "aliases": [],
+    "label_zh": "白皮肤",
+    "post_count": 57512
+  },
+  {
+    "tag": "doll",
+    "category": "character",
+    "weight": 4.72,
+    "aliases": [
+      "dolls"
+    ],
+    "label_zh": "人偶",
+    "post_count": 52565
+  },
+  {
+    "tag": "crossdressing",
+    "category": "character",
+    "weight": 4.7,
+    "aliases": [
+      "transvestite",
+      "crossplay",
+      "crossdress"
+    ],
+    "label_zh": "伪娘",
+    "post_count": 50586
+  },
+  {
+    "tag": "mature_female",
+    "category": "character",
+    "weight": 4.65,
+    "aliases": [
+      "mature_woman",
+      "mature",
+      "milf"
+    ],
+    "label_zh": "成熟女性",
+    "post_count": 44845
+  },
+  {
+    "tag": "tanlines",
+    "category": "character",
+    "weight": 4.58,
+    "aliases": [
+      "tanline",
+      "tan_line",
+      "tan_lines"
+    ],
+    "label_zh": "日晒痕迹",
+    "post_count": 38414
+  },
+  {
+    "tag": "nun",
+    "category": "character",
+    "weight": 4.5,
+    "aliases": [],
+    "label_zh": "修女",
+    "post_count": 31350
+  },
+  {
+    "tag": "shota",
+    "category": "character",
+    "weight": 4.44,
+    "aliases": [],
+    "label_zh": "正太",
+    "post_count": 27483
+  },
+  {
+    "tag": "gyaru",
+    "category": "character",
+    "weight": 4.41,
+    "aliases": [],
+    "label_zh": "辣妹",
+    "post_count": 25970
+  },
+  {
+    "tag": "cheerleader",
+    "category": "character",
+    "weight": 4.36,
+    "aliases": [
+      "cheergirl"
+    ],
+    "label_zh": "啦啦队",
+    "post_count": 22731
+  },
+  {
+    "tag": "office_lady",
+    "category": "character",
+    "weight": 4.32,
+    "aliases": [
+      "ol",
+      "officelady"
+    ],
+    "label_zh": "职场女性",
+    "post_count": 20770
+  },
+  {
+    "tag": "nurse",
+    "category": "character",
+    "weight": 4.31,
+    "aliases": [
+      "nurse_uniform",
+      "nurse_outfit"
+    ],
+    "label_zh": "护士",
+    "post_count": 20566
+  },
+  {
+    "tag": "idol",
+    "category": "character",
+    "weight": 4.24,
+    "aliases": [],
+    "label_zh": "偶像",
+    "post_count": 17548
+  },
+  {
+    "tag": "old",
+    "category": "character",
+    "weight": 4.23,
+    "aliases": [],
+    "label_zh": "老年",
+    "post_count": 16818
+  },
+  {
+    "tag": "waitress",
+    "category": "character",
+    "weight": 4.22,
+    "aliases": [],
+    "label_zh": "女服务员",
+    "post_count": 16476
+  },
+  {
+    "tag": "police",
+    "category": "character",
+    "weight": 4.18,
+    "aliases": [
+      "police_officer",
+      "cop"
+    ],
+    "label_zh": "警察",
+    "post_count": 15295
+  },
+  {
+    "tag": "deep_skin",
+    "category": "character",
+    "weight": 4.17,
+    "aliases": [],
+    "label_zh": "深色皮肤",
+    "post_count": 14767
+  },
+  {
+    "tag": "black_skin",
+    "category": "character",
+    "weight": 4.11,
+    "aliases": [],
+    "label_zh": "黑皮肤",
+    "post_count": 12990
+  },
+  {
+    "tag": "race_queen",
+    "category": "character",
+    "weight": 4.05,
+    "aliases": [
+      "racequeen"
+    ],
+    "label_zh": "赛车女郎",
+    "post_count": 11219
+  },
+  {
+    "tag": "knight",
+    "category": "character",
+    "weight": 4.02,
+    "aliases": [],
+    "label_zh": "骑士",
+    "post_count": 10353
+  },
+  {
+    "tag": "albino",
+    "category": "character",
+    "weight": 3.91,
+    "aliases": [],
+    "label_zh": "白化病患者",
+    "post_count": 8111
+  },
+  {
+    "tag": "dancer",
+    "category": "character",
+    "weight": 3.86,
+    "aliases": [],
+    "label_zh": "舞者",
+    "post_count": 7166
+  },
+  {
+    "tag": "wa_maid",
+    "category": "character",
+    "weight": 3.79,
+    "aliases": [
+      "japanese_maid"
+    ],
+    "label_zh": "和风女仆",
+    "post_count": 6192
+  },
+  {
+    "tag": "teacher",
+    "category": "character",
+    "weight": 3.79,
+    "aliases": [
+      "sensei"
+    ],
+    "label_zh": "老师",
+    "post_count": 6173
+  },
+  {
+    "tag": "soldier",
+    "category": "character",
+    "weight": 3.76,
+    "aliases": [
+      "infantry",
+      "soldiers"
+    ],
+    "label_zh": "士兵",
+    "post_count": 5697
+  },
+  {
+    "tag": "princess",
+    "category": "character",
+    "weight": 3.73,
+    "aliases": [],
+    "label_zh": "公主",
+    "post_count": 5317
+  },
+  {
+    "tag": "samurai",
+    "category": "character",
+    "weight": 3.56,
+    "aliases": [],
+    "label_zh": "日本武士",
+    "post_count": 3648
+  },
+  {
+    "tag": "priest",
+    "category": "character",
+    "weight": 3.49,
+    "aliases": [],
+    "label_zh": "牧师",
+    "post_count": 3083
+  },
+  {
+    "tag": "ballerina",
+    "category": "character",
+    "weight": 3.47,
+    "aliases": [],
+    "label_zh": "芭蕾舞演员",
+    "post_count": 2928
+  },
+  {
+    "tag": "chef",
+    "category": "character",
+    "weight": 3.46,
+    "aliases": [
+      "chef_uniform"
+    ],
+    "label_zh": "厨师",
+    "post_count": 2877
+  },
+  {
+    "tag": "doctor",
+    "category": "character",
+    "weight": 3.39,
+    "aliases": [],
+    "label_zh": "医生",
+    "post_count": 2473
+  },
+  {
+    "tag": "detective",
+    "category": "character",
+    "weight": 3.37,
+    "aliases": [],
+    "label_zh": "侦探",
+    "post_count": 2333
+  },
+  {
+    "tag": "astronaut",
+    "category": "character",
+    "weight": 3.32,
+    "aliases": [
+      "cosmonaut"
+    ],
+    "label_zh": "宇航员",
+    "post_count": 2088
+  },
+  {
+    "tag": "pilot",
+    "category": "character",
+    "weight": 3.15,
+    "aliases": [],
+    "label_zh": "飞行员",
+    "post_count": 1409
+  },
+  {
+    "tag": "magician",
+    "category": "character",
+    "weight": 3.05,
+    "aliases": [],
+    "label_zh": "魔术师",
+    "post_count": 1119
+  },
+  {
+    "tag": "monk",
+    "category": "character",
+    "weight": 3.05,
+    "aliases": [],
+    "label_zh": "和尚",
+    "post_count": 1107
+  },
+  {
+    "tag": "lifeguard",
+    "category": "character",
+    "weight": 2.98,
+    "aliases": [],
+    "label_zh": "救生员",
+    "post_count": 944
+  },
+  {
+    "tag": "queen",
+    "category": "character",
+    "weight": 2.92,
+    "aliases": [],
+    "label_zh": "女王",
+    "post_count": 827
+  },
+  {
+    "tag": "firefighter",
+    "category": "character",
+    "weight": 2.81,
+    "aliases": [
+      "fireman"
+    ],
+    "label_zh": "消防员",
+    "post_count": 634
+  },
+  {
+    "tag": "toddler",
+    "category": "character",
+    "weight": 2.81,
+    "aliases": [],
+    "label_zh": "幼童",
+    "post_count": 634
+  },
+  {
+    "tag": "scientist",
+    "category": "character",
+    "weight": 2.79,
+    "aliases": [],
+    "label_zh": "科学家",
+    "post_count": 613
+  },
+  {
+    "tag": "cashier",
+    "category": "character",
+    "weight": 2.75,
+    "aliases": [],
+    "label_zh": "收银员",
+    "post_count": 554
+  },
+  {
+    "tag": "barista",
+    "category": "character",
+    "weight": 2.74,
+    "aliases": [],
+    "label_zh": "咖啡师",
+    "post_count": 542
+  },
+  {
+    "tag": "goalkeeper",
+    "category": "character",
+    "weight": 2.62,
+    "aliases": [],
+    "label_zh": "守门员",
+    "post_count": 407
+  },
+  {
+    "tag": "mailman",
+    "category": "character",
+    "weight": 2.53,
+    "aliases": [
+      "letter_carrier",
+      "mail_carrier",
+      "postman"
+    ],
+    "label_zh": "邮递员",
+    "post_count": 325
+  },
+  {
+    "tag": "girl",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "女孩",
+    "post_count": 0
+  },
+  {
+    "tag": "boy",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "男孩",
+    "post_count": 0
+  },
+  {
+    "tag": "little_girl",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "小女孩",
+    "post_count": 0
+  },
+  {
+    "tag": "little_boy",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "小男孩",
+    "post_count": 0
+  },
+  {
+    "tag": "kawaii",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "可爱",
+    "post_count": 0
+  },
+  {
+    "tag": "adorable_girl",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "可爱的女孩",
+    "post_count": 0
+  },
+  {
+    "tag": "bishoujo",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "美少女",
+    "post_count": 0
+  },
+  {
+    "tag": "ojousama",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "大小姐",
+    "post_count": 0
+  },
+  {
+    "tag": "female",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "女性",
+    "post_count": 0
+  },
+  {
+    "tag": "mature",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "成熟",
+    "post_count": 0
+  },
+  {
+    "tag": "male",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "男性",
+    "post_count": 0
+  },
+  {
+    "tag": "otoko_no_ko",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "伪娘",
+    "post_count": 0
+  },
+  {
+    "tag": "athletes",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "运动员",
+    "post_count": 0
+  },
+  {
+    "tag": "acrobat",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "杂技演员",
+    "post_count": 0
+  },
+  {
+    "tag": "stewardess",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "空姐",
+    "post_count": 0
+  },
+  {
+    "tag": "student",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "学生",
+    "post_count": 0
+  },
+  {
+    "tag": "racer",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "赛车手",
+    "post_count": 0
+  },
+  {
+    "tag": "agent",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "特工",
+    "post_count": 0
+  },
+  {
+    "tag": "poet",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "诗人",
+    "post_count": 0
+  },
+  {
+    "tag": "dancing_girl",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "舞女",
+    "post_count": 0
+  },
+  {
+    "tag": "motorcyclist",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "摩托车手",
+    "post_count": 0
+  },
+  {
+    "tag": "diver",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "潜水员",
+    "post_count": 0
+  },
+  {
+    "tag": "housemaid",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "女仆",
+    "post_count": 0
+  },
+  {
+    "tag": "gym_leader",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "体操教练",
+    "post_count": 0
+  },
+  {
+    "tag": "kindergartener",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "幼儿园",
+    "post_count": 0
+  },
+  {
+    "tag": "underage",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "未成年",
+    "post_count": 0
+  },
+  {
+    "tag": "teenager",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "青少年(13-19)",
+    "post_count": 0
+  },
+  {
+    "tag": "teen",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "青少年(13-19)",
+    "post_count": 0
+  },
+  {
+    "tag": "early_teen",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "青少年早期（11-15）",
+    "post_count": 0
+  },
+  {
+    "tag": "adult",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "大人",
+    "post_count": 0
+  },
+  {
+    "tag": "elder",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "老人",
+    "post_count": 0
+  },
+  {
+    "tag": "fair_skin",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "白皙的皮肤",
+    "post_count": 0
+  },
+  {
+    "tag": "brown_skin",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "棕色皮肤",
+    "post_count": 0
+  },
+  {
+    "tag": "white_marble_glowing_skin",
+    "category": "character",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "白色大理石发光皮肤",
+    "post_count": 0
+  }
+]

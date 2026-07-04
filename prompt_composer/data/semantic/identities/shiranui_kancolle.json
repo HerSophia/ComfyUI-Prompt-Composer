@@ -1,0 +1,30 @@
+{
+  "id": "shiranui_kancolle",
+  "name": "不知火",
+  "identity_tags": [
+    "shiranui_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "twintails",
+      "short_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "shorts_under_skirt",
+    "bike_shorts",
+    "neck_ribbon",
+    "vest"
+  ],
+  "optional_clothing": []
+}

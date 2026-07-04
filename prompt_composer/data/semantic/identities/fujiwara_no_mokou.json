@@ -1,0 +1,30 @@
+{
+  "id": "fujiwara_no_mokou",
+  "name": "藤原妹红",
+  "identity_tags": [
+    "fujiwara_no_mokou"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ponytail",
+      "blunt_bangs",
+      "hime_cut"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ofuda_on_clothes",
+    "suspenders",
+    "arm_garter",
+    "pants"
+  ],
+  "optional_clothing": []
+}

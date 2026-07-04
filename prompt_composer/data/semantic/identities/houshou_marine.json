@@ -1,0 +1,30 @@
+{
+  "id": "houshou_marine",
+  "name": "厚寿海洋",
+  "identity_tags": [
+    "houshou_marine"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twintails",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "red_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "leotard_under_clothes",
+    "heart_necklace",
+    "frilled_choker",
+    "bodystocking"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pyonta",
+  "name": "皮翁塔",
+  "identity_tags": [
+    "pyonta"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "skirt_set",
+    "vest",
+    "white_thighhighs",
+    "thighhighs"
+  ],
+  "optional_clothing": []
+}

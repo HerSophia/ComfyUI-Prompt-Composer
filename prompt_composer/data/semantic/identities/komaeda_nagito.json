@@ -1,0 +1,29 @@
+{
+  "id": "komaeda_nagito",
+  "name": "狛枝凪斗",
+  "identity_tags": [
+    "komaeda_nagito"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "messy_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "print_shirt",
+    "open_jacket",
+    "hoodie",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

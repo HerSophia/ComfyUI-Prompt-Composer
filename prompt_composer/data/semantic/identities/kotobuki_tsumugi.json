@@ -1,0 +1,30 @@
+{
+  "id": "kotobuki_tsumugi",
+  "name": "琴吹紬",
+  "identity_tags": [
+    "kotobuki_tsumugi"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ponytail",
+      "hime_cut"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sakuragaoka_high_school_uniform",
+    "blazer",
+    "casual",
+    "sweater_vest"
+  ],
+  "optional_clothing": []
+}

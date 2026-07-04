@@ -1,0 +1,30 @@
+{
+  "id": "shiroko_blue_archive",
+  "name": "砂狼白子",
+  "identity_tags": [
+    "shiroko_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "mismatched_pupils"
+    ]
+  },
+  "default_clothing": [
+    "competition_swimsuit",
+    "wet_swimsuit",
+    "one-piece_swimsuit",
+    "back_cutout"
+  ],
+  "optional_clothing": []
+}

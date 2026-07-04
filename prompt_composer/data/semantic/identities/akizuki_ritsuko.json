@@ -1,0 +1,29 @@
+{
+  "id": "akizuki_ritsuko",
+  "name": "秋月律子",
+  "identity_tags": [
+    "akizuki_ritsuko"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "antenna_hair",
+      "twin_braids",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "bikini",
+    "swimsuit",
+    "barefoot",
+    "boots"
+  ],
+  "optional_clothing": []
+}

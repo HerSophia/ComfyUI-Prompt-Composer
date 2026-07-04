@@ -1,0 +1,30 @@
+{
+  "id": "naganami_kancolle",
+  "name": "长波",
+  "identity_tags": [
+    "naganami_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "wavy_hair",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "lace-up_boots",
+    "blouse",
+    "halterneck"
+  ],
+  "optional_clothing": []
+}

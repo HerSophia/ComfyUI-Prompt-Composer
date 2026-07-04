@@ -1,0 +1,30 @@
+{
+  "id": "hata_no_kokoro",
+  "name": "秦心",
+  "identity_tags": [
+    "hata_no_kokoro"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "plaid_shirt",
+    "bubble_skirt",
+    "long_skirt",
+    "blouse"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "burnice_white",
+  "name": "柏妮思",
+  "identity_tags": [
+    "burnice_white"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "high-waist_skirt",
+    "crop_top",
+    "cropped_jacket",
+    "black_thighhighs"
+  ],
+  "optional_clothing": []
+}

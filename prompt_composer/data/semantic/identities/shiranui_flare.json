@@ -1,0 +1,30 @@
+{
+  "id": "shiranui_flare",
+  "name": "不知火芙蕾雅",
+  "identity_tags": [
+    "shiranui_flare"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "high_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "striped_dress",
+    "criss-cross_halter",
+    "sailor_dress",
+    "clothing_cutout"
+  ],
+  "optional_clothing": []
+}

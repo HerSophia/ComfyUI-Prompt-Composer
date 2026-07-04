@@ -1,0 +1,30 @@
+{
+  "id": "fujimaru_ritsuka_female",
+  "name": "藤丸立香（女）",
+  "identity_tags": [
+    "fujimaru_ritsuka_(female)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "orange"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "orange_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "chaldea_uniform",
+    "hawaiian_shirt",
+    "armored_dress",
+    "striped_bikini"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "omaru_polka",
+  "name": "尾丸波尔卡",
+  "identity_tags": [
+    "omaru_polka"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "vertical-striped_skirt",
+    "striped_skirt",
+    "mismatched_legwear",
+    "layered_skirt"
+  ],
+  "optional_clothing": []
+}

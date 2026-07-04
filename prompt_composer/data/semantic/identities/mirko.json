@@ -1,0 +1,27 @@
+{
+  "id": "mirko",
+  "name": "米鲁可",
+  "identity_tags": [
+    "mirko"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "fur_collar",
+    "sleeveless_turtleneck",
+    "highleg",
+    "leotard"
+  ],
+  "optional_clothing": []
+}

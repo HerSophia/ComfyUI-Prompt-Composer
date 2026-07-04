@@ -1,0 +1,30 @@
+{
+  "id": "irys_hololive",
+  "name": "IRyS",
+  "identity_tags": [
+    "irys_(hololive)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "alternate_costume",
+    "halterneck",
+    "frilled_dress",
+    "black_choker"
+  ],
+  "optional_clothing": []
+}

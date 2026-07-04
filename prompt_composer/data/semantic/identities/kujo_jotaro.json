@@ -1,0 +1,28 @@
+{
+  "id": "kujo_jotaro",
+  "name": "空条承太郎",
+  "identity_tags": [
+    "kujo_jotaro"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "long_coat",
+    "school_uniform",
+    "pants",
+    "jacket"
+  ],
+  "optional_clothing": []
+}

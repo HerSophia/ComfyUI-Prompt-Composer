@@ -1,0 +1,29 @@
+{
+  "id": "sangonomiya_kokomi",
+  "name": "珊瑚宫心海",
+  "identity_tags": [
+    "sangonomiya_kokomi"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "off-shoulder_dress",
+    "white_thighhighs",
+    "short_shorts",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

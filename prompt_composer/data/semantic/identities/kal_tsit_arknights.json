@@ -1,0 +1,30 @@
+{
+  "id": "kal_tsit_arknights",
+  "name": "凯尔希",
+  "identity_tags": [
+    "kal'tsit_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ponytail",
+      "blunt_bangs",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "hooded_coat",
+    "off-shoulder_dress",
+    "criss-cross_halter",
+    "halterneck"
+  ],
+  "optional_clothing": []
+}

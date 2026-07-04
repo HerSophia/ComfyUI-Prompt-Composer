@@ -1,0 +1,30 @@
+{
+  "id": "toramaru_shou",
+  "name": "寅丸星",
+  "identity_tags": [
+    "toramaru_shou"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "sailor",
+    "hagoromo",
+    "layered_dress",
+    "geta"
+  ],
+  "optional_clothing": []
+}

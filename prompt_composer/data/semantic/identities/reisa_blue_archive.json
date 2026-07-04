@@ -1,0 +1,28 @@
+{
+  "id": "reisa_blue_archive",
+  "name": "丽纱",
+  "identity_tags": [
+    "reisa_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "striped_socks",
+    "neckerchief",
+    "sailor_collar",
+    "serafuku"
+  ],
+  "optional_clothing": []
+}

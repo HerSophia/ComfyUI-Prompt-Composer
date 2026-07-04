@@ -1,0 +1,27 @@
+{
+  "id": "shinosawa_hiro",
+  "name": "篠泽广",
+  "identity_tags": [
+    "shinosawa_hiro"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "orange"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "orange_eyes"
+    ]
+  },
+  "default_clothing": [
+    "camisole",
+    "denim_shorts",
+    "robe",
+    "track_jacket"
+  ],
+  "optional_clothing": []
+}

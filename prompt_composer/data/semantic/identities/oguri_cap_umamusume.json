@@ -1,0 +1,30 @@
+{
+  "id": "oguri_cap_umamusume",
+  "name": "小栗帽",
+  "identity_tags": [
+    "oguri_cap_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "summer_uniform",
+    "red_neckerchief",
+    "track_jacket"
+  ],
+  "optional_clothing": []
+}

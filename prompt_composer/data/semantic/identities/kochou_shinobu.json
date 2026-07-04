@@ -1,0 +1,29 @@
+{
+  "id": "kochou_shinobu",
+  "name": "胡蝶忍",
+  "identity_tags": [
+    "kochou_shinobu"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "forehead",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "haori",
+    "japanese_clothes",
+    "pants",
+    "sandals"
+  ],
+  "optional_clothing": []
+}

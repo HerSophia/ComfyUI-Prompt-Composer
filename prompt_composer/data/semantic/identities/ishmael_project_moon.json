@@ -1,0 +1,29 @@
+{
+  "id": "ishmael_project_moon",
+  "name": "伊修梅尔",
+  "identity_tags": [
+    "ishmael_(project_moon)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "high_ponytail",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "vest",
+    "necktie",
+    "collared_shirt",
+    "pants"
+  ],
+  "optional_clothing": []
+}

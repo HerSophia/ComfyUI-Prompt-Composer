@@ -1,0 +1,30 @@
+{
+  "id": "hestia_danmachi",
+  "name": "赫斯缇雅",
+  "identity_tags": [
+    "hestia_(danmachi)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "ahoge",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "clothing_cutout",
+    "sleeveless_dress",
+    "barefoot",
+    "dress"
+  ],
+  "optional_clothing": []
+}

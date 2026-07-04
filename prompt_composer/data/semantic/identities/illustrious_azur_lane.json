@@ -1,0 +1,29 @@
+{
+  "id": "illustrious_azur_lane",
+  "name": "光辉",
+  "identity_tags": [
+    "illustrious_(azur_lane)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ahoge",
+      "twintails",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "strapless_dress",
+    "wedding_dress",
+    "garter_straps",
+    "white_thighhighs"
+  ],
+  "optional_clothing": []
+}

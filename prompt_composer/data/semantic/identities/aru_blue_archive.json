@@ -1,0 +1,30 @@
+{
+  "id": "aru_blue_archive",
+  "name": "陆八魔阿露",
+  "identity_tags": [
+    "aru_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "blunt_bangs",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "blank_eyes"
+    ]
+  },
+  "default_clothing": [
+    "fur-trimmed_coat",
+    "high-waist_skirt",
+    "pencil_skirt",
+    "jacket_on_shoulders"
+  ],
+  "optional_clothing": []
+}

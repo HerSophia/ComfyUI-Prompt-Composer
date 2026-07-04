@@ -1,0 +1,30 @@
+{
+  "id": "watanabe_you",
+  "name": "渡边曜",
+  "identity_tags": [
+    "watanabe_you"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "wavy_hair",
+      "ahoge",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tareme"
+    ]
+  },
+  "default_clothing": [
+    "uranohoshi_school_uniform",
+    "competition_swimsuit",
+    "swimsuit_under_clothes",
+    "one-piece_swimsuit"
+  ],
+  "optional_clothing": []
+}

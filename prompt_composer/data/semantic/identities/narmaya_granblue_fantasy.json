@@ -1,0 +1,30 @@
+{
+  "id": "narmaya_granblue_fantasy",
+  "name": "娜露梅亚",
+  "identity_tags": [
+    "narmaya_(granblue_fantasy)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "hair_bun",
+      "double_bun",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "thigh_strap",
+    "frilled_bikini",
+    "black_thighhighs",
+    "bikini"
+  ],
+  "optional_clothing": []
+}

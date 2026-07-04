@@ -1,0 +1,28 @@
+{
+  "id": "aventurine_honkai_star_rail",
+  "name": "砂金",
+  "identity_tags": [
+    "aventurine_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "multicolored"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "multicolored_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "neck_tattoo",
+    "fur-trimmed_jacket",
+    "pajamas",
+    "clothing_cutout"
+  ],
+  "optional_clothing": []
+}

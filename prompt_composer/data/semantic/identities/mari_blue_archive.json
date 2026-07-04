@@ -1,0 +1,30 @@
+{
+  "id": "mari_blue_archive",
+  "name": "百合园圣娅",
+  "identity_tags": [
+    "mari_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "twintails",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "gym_shorts",
+    "gym_uniform",
+    "track_jacket",
+    "two-tone_jacket"
+  ],
+  "optional_clothing": []
+}

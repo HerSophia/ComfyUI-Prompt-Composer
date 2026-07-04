@@ -1,0 +1,30 @@
+{
+  "id": "tsunomaki_watame",
+  "name": "角卷绵芽",
+  "identity_tags": [
+    "tsunomaki_watame"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "fur-trimmed_dress",
+    "sleeveless_dress",
+    "thigh_strap",
+    "bowtie"
+  ],
+  "optional_clothing": []
+}

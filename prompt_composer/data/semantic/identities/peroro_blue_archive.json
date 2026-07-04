@@ -1,0 +1,29 @@
+{
+  "id": "peroro_blue_archive",
+  "name": "佩罗罗",
+  "identity_tags": [
+    "peroro_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "light_brown",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "light_brown_hair",
+      "twintails",
+      "ahoge",
+      "hair_bun"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "frilled_bikini",
+    "cardigan",
+    "sailor_collar",
+    "black_pantyhose"
+  ],
+  "optional_clothing": []
+}

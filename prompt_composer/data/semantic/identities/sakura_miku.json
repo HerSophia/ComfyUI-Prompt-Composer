@@ -1,0 +1,28 @@
+{
+  "id": "sakura_miku",
+  "name": "樱花未来",
+  "identity_tags": [
+    "sakura_miku"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "pink_eyes"
+    ]
+  },
+  "default_clothing": [
+    "pink_thighhighs",
+    "sleeveless_shirt",
+    "thigh_boots",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

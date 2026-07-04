@@ -1,0 +1,29 @@
+{
+  "id": "tamamo_cross_umamusume",
+  "name": "玉藻十字",
+  "identity_tags": [
+    "tamamo_cross_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "summer_uniform",
+    "crop_top",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

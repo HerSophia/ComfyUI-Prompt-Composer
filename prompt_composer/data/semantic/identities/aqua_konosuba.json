@@ -1,0 +1,30 @@
+{
+  "id": "aqua_konosuba",
+  "name": "阿库娅",
+  "identity_tags": [
+    "aqua_(konosuba)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "hair_bun",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bandaged_leg",
+    "thigh_boots",
+    "microskirt",
+    "pajamas"
+  ],
+  "optional_clothing": []
+}

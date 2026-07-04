@@ -1,0 +1,29 @@
+{
+  "id": "hoto_cocoa",
+  "name": "保登心爱",
+  "identity_tags": [
+    "hoto_cocoa"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "blunt_bangs",
+      "hair_bun"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "vest",
+    "plaid_skirt",
+    "cardigan",
+    "neck_ribbon"
+  ],
+  "optional_clothing": []
+}

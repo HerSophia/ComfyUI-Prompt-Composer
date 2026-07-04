@@ -1,0 +1,30 @@
+{
+  "id": "yumemi_riamu",
+  "name": "梦见理亚梦",
+  "identity_tags": [
+    "yumemi_riamu"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "bob_cut",
+      "twintails"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "belt_collar",
+    "t-shirt",
+    "off-shoulder_shirt",
+    "heart_cutout"
+  ],
+  "optional_clothing": []
+}

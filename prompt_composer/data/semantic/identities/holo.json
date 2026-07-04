@@ -1,0 +1,29 @@
+{
+  "id": "holo",
+  "name": "赫萝",
+  "identity_tags": [
+    "holo"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "blunt_bangs",
+      "straight_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tsurime"
+    ]
+  },
+  "default_clothing": [
+    "barefoot",
+    "necklace",
+    "vest",
+    "pants"
+  ],
+  "optional_clothing": []
+}

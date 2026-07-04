@@ -1,0 +1,28 @@
+{
+  "id": "yuuka_track_blue_archive",
+  "name": "早濑优香（运动服）",
+  "identity_tags": [
+    "yuuka_(track)_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ponytail",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "buruma",
+    "partially_unzipped",
+    "gym_uniform",
+    "jacket_partially_removed"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kouzuki_kallen",
+  "name": "红月卡莲",
+  "identity_tags": [
+    "kouzuki_kallen"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sleeveless_turtleneck",
+    "leotard",
+    "highleg",
+    "pantyhose"
+  ],
+  "optional_clothing": []
+}

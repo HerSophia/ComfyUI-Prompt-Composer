@@ -1,0 +1,30 @@
+{
+  "id": "tojo_nozomi",
+  "name": "东条希",
+  "identity_tags": [
+    "tojo_nozomi"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twintails",
+      "ponytail",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "otonokizaka_school_uniform",
+    "summer_uniform",
+    "blazer",
+    "sweater_vest"
+  ],
+  "optional_clothing": []
+}

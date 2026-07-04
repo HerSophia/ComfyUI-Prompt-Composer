@@ -1,0 +1,30 @@
+{
+  "id": "kuma_kancolle",
+  "name": "球磨",
+  "identity_tags": [
+    "kuma_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "blunt_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "serafuku",
+    "neckerchief",
+    "red_neckerchief",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

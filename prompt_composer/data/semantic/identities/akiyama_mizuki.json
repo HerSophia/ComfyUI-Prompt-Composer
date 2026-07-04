@@ -1,0 +1,29 @@
+{
+  "id": "akiyama_mizuki",
+  "name": "秋山水木",
+  "identity_tags": [
+    "akiyama_mizuki"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "side_ponytail",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "pink_eyes"
+    ]
+  },
+  "default_clothing": [
+    "cardigan",
+    "plaid_skirt",
+    "frilled_dress",
+    "neck_ribbon"
+  ],
+  "optional_clothing": []
+}

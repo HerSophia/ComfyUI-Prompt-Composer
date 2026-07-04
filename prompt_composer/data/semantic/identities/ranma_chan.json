@@ -1,0 +1,29 @@
+{
+  "id": "ranma_chan",
+  "name": "乱马（女）",
+  "identity_tags": [
+    "ranma-chan"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "braided_ponytail",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "chinese_clothes",
+    "china_dress",
+    "tank_top",
+    "barefoot"
+  ],
+  "optional_clothing": []
+}

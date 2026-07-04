@@ -1,0 +1,30 @@
+{
+  "id": "nishikino_maki",
+  "name": "西木野真姬",
+  "identity_tags": [
+    "nishikino_maki"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twintails",
+      "ponytail",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "otonokizaka_school_uniform",
+    "blazer",
+    "summer_uniform",
+    "striped_bikini"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "han_juri",
+  "name": "韩朱莉",
+  "identity_tags": [
+    "han_juri"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "drill_hair",
+      "hair_bun",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "toeless_legwear",
+    "stirrup_legwear",
+    "pajamas",
+    "halterneck"
+  ],
+  "optional_clothing": []
+}

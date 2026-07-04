@@ -1,0 +1,30 @@
+{
+  "id": "usami_renko",
+  "name": "宇佐见莲子",
+  "identity_tags": [
+    "usami_renko"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "side_ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ribbon-trimmed_skirt",
+    "capelet",
+    "long_skirt",
+    "collared_dress"
+  ],
+  "optional_clothing": []
+}

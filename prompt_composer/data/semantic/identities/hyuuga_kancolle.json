@@ -1,0 +1,29 @@
+{
+  "id": "hyuuga_kancolle",
+  "name": "日向",
+  "identity_tags": [
+    "hyuuga_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "undershirt",
+    "hakama_skirt",
+    "japanese_clothes",
+    "serafuku"
+  ],
+  "optional_clothing": []
+}

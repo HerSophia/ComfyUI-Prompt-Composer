@@ -1,0 +1,29 @@
+{
+  "id": "chouzetsusaikawa_tenshi_chan",
+  "name": "超绝最可爱天使酱",
+  "identity_tags": [
+    "chouzetsusaikawa_tenshi-chan"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "twintails",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "suspender_skirt",
+    "suspenders",
+    "sailor_collar",
+    "serafuku"
+  ],
+  "optional_clothing": []
+}

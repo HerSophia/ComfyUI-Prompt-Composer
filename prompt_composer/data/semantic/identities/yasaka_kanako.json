@@ -1,0 +1,30 @@
+{
+  "id": "yasaka_kanako",
+  "name": "八坂神奈子",
+  "identity_tags": [
+    "yasaka_kanako"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ponytail",
+      "hair_bun",
+      "twin_braids"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "long_skirt",
+    "geta",
+    "skirt_set",
+    "anklet"
+  ],
+  "optional_clothing": []
+}

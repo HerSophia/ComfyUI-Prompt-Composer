@@ -1,0 +1,30 @@
+{
+  "id": "amiya_arknights",
+  "name": "阿米娅",
+  "identity_tags": [
+    "amiya_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "neck_ring",
+    "hooded_coat",
+    "ascot",
+    "anklet"
+  ],
+  "optional_clothing": []
+}

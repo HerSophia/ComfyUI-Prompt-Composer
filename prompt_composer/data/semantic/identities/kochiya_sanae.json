@@ -1,0 +1,30 @@
+{
+  "id": "kochiya_sanae",
+  "name": "东风谷早苗",
+  "identity_tags": [
+    "kochiya_sanae"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ahoge",
+      "twin_braids",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "miko",
+    "long_skirt",
+    "geta",
+    "print_skirt"
+  ],
+  "optional_clothing": []
+}

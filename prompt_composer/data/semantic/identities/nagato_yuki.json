@@ -1,0 +1,28 @@
+{
+  "id": "nagato_yuki",
+  "name": "长门有希",
+  "identity_tags": [
+    "nagato_yuki"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "kita_high_school_uniform",
+    "cardigan",
+    "summer_uniform",
+    "serafuku"
+  ],
+  "optional_clothing": []
+}

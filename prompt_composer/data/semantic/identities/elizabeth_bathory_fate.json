@@ -1,0 +1,30 @@
+{
+  "id": "elizabeth_bathory_fate",
+  "name": "伊丽莎白·巴托里",
+  "identity_tags": [
+    "elizabeth_bathory_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "oversized_clothes",
+    "armored_boots",
+    "shoulder_armor",
+    "knee_boots"
+  ],
+  "optional_clothing": []
+}

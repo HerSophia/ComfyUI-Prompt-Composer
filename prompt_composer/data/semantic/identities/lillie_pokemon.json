@@ -1,0 +1,30 @@
+{
+  "id": "lillie_pokemon",
+  "name": "莉莉艾",
+  "identity_tags": [
+    "lillie_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "blunt_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "sundress",
+    "tied_shirt",
+    "collared_dress",
+    "sleeveless_dress"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "yahagi_kancolle",
+  "name": "矢矧",
+  "identity_tags": [
+    "yahagi_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "ahoge",
+      "twin_braids"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "uneven_legwear",
+    "serafuku",
+    "garter_straps",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "xiao_genshin_impact",
+  "name": "魈",
+  "identity_tags": [
+    "xiao_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "ponytail",
+      "twin_braids"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "red_eyeshadow"
+    ]
+  },
+  "default_clothing": [
+    "bead_necklace",
+    "pearl_necklace",
+    "necklace",
+    "bodystocking"
+  ],
+  "optional_clothing": []
+}

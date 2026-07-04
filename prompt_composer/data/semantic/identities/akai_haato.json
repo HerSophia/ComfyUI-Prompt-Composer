@@ -1,0 +1,30 @@
+{
+  "id": "akai_haato",
+  "name": "赤井心",
+  "identity_tags": [
+    "akai_haato"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ahoge",
+      "hair_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "gothic_lolita",
+    "high-waist_skirt",
+    "thigh_strap",
+    "neck_ribbon"
+  ],
+  "optional_clothing": []
+}

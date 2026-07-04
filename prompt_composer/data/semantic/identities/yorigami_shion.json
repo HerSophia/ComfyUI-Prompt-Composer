@@ -1,0 +1,30 @@
+{
+  "id": "yorigami_shion",
+  "name": "依神紫苑",
+  "identity_tags": [
+    "yorigami_shion"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "drill_hair",
+      "twintails",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "hoodie",
+    "barefoot",
+    "bare_legs",
+    "necklace"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "minami_kotori",
+  "name": "南小鸟",
+  "identity_tags": [
+    "minami_kotori"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "otonokizaka_school_uniform",
+    "blazer",
+    "summer_uniform",
+    "sweater_vest"
+  ],
+  "optional_clothing": []
+}

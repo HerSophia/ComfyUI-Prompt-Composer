@@ -1,0 +1,30 @@
+{
+  "id": "tifa_lockhart",
+  "name": "蒂法·洛克哈特",
+  "identity_tags": [
+    "tifa_lockhart"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "swept_bangs",
+      "braided_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "suspender_skirt",
+    "taut_shirt",
+    "suspenders",
+    "sleeveless_turtleneck"
+  ],
+  "optional_clothing": []
+}

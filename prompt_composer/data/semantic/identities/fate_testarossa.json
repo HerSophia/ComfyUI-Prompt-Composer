@@ -1,0 +1,30 @@
+{
+  "id": "fate_testarossa",
+  "name": "菲特·泰斯特罗萨",
+  "identity_tags": [
+    "fate_testarossa"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "showgirl_skirt",
+    "military_uniform",
+    "casual",
+    "cape"
+  ],
+  "optional_clothing": []
+}

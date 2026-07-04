@@ -1,0 +1,27 @@
+{
+  "id": "midorikawa_nao",
+  "name": "绿川奈绪",
+  "identity_tags": [
+    "midorikawa_nao"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "bike_shorts",
+    "sweater_vest",
+    "choker",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

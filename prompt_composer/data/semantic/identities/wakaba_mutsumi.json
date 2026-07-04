@@ -1,0 +1,26 @@
+{
+  "id": "wakaba_mutsumi",
+  "name": "若叶睦",
+  "identity_tags": [
+    "wakaba_mutsumi"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "plaid_dress",
+    "frilled_choker",
+    "capelet",
+    "ascot"
+  ],
+  "optional_clothing": []
+}

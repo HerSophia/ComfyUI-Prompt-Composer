@@ -1,0 +1,29 @@
+{
+  "id": "laffey_azur_lane",
+  "name": "拉菲",
+  "identity_tags": [
+    "laffey_(azur_lane)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "twintails",
+      "ponytail",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "iron_cross",
+    "camisole",
+    "fur-trimmed_jacket",
+    "white_pantyhose"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "jeanne_d_arc_alter_fate",
+  "name": "贞德〔Alter〕",
+  "identity_tags": [
+    "jeanne_d'arc_alter_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tsurime"
+    ]
+  },
+  "default_clothing": [
+    "o-ring_bikini",
+    "armored_dress",
+    "chaldea_uniform",
+    "faulds"
+  ],
+  "optional_clothing": []
+}

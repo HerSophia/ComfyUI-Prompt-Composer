@@ -1,0 +1,27 @@
+{
+  "id": "charizard",
+  "name": "喷火龙",
+  "identity_tags": [
+    "charizard"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "cape",
+    "pants",
+    "shorts",
+    "shoes"
+  ],
+  "optional_clothing": []
+}

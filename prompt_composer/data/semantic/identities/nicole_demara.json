@@ -1,0 +1,27 @@
+{
+  "id": "nicole_demara",
+  "name": "妮可·德玛拉",
+  "identity_tags": [
+    "nicole_demara"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "heart_necklace",
+    "cutoffs",
+    "micro_shorts",
+    "crop_top"
+  ],
+  "optional_clothing": []
+}

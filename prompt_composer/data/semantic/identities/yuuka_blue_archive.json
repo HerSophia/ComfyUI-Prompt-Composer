@@ -1,0 +1,30 @@
+{
+  "id": "yuuka_blue_archive",
+  "name": "早濑优香",
+  "identity_tags": [
+    "yuuka_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ponytail",
+      "twintails",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "buruma",
+    "jacket_partially_removed",
+    "partially_unzipped",
+    "gym_uniform"
+  ],
+  "optional_clothing": []
+}

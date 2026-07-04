@@ -1,0 +1,28 @@
+{
+  "id": "yugiri_tsuzuri",
+  "name": "夕雾缀理",
+  "identity_tags": [
+    "yugiri_tsuzuri"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "bob_cut",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "neckerchief",
+    "black_choker",
+    "sailor_collar",
+    "choker"
+  ],
+  "optional_clothing": []
+}

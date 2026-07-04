@@ -1,0 +1,30 @@
+{
+  "id": "izumi_konata",
+  "name": "泉此方",
+  "identity_tags": [
+    "izumi_konata"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tsurime"
+    ]
+  },
+  "default_clothing": [
+    "ryouou_school_uniform",
+    "kita_high_school_uniform",
+    "serafuku",
+    "red_neckerchief"
+  ],
+  "optional_clothing": []
+}

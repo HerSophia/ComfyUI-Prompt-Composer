@@ -1,0 +1,30 @@
+{
+  "id": "kita_ikuyo",
+  "name": "喜多郁代",
+  "identity_tags": [
+    "kita_ikuyo"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "side_ponytail",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "track_jacket",
+    "track_pants",
+    "loafers",
+    "maid_apron"
+  ],
+  "optional_clothing": []
+}

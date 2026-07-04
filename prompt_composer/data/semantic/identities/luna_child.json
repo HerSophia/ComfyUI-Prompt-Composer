@@ -1,0 +1,30 @@
+{
+  "id": "luna_child",
+  "name": "露娜切尔德",
+  "identity_tags": [
+    "luna_child"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "drill_hair",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bloomers",
+    "skirt_set",
+    "ascot",
+    "waist_apron"
+  ],
+  "optional_clothing": []
+}

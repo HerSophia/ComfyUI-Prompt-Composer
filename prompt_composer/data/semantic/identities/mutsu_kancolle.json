@@ -1,0 +1,30 @@
+{
+  "id": "mutsu_kancolle",
+  "name": "陆奥",
+  "identity_tags": [
+    "mutsu_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "striped_skirt",
+    "rigging",
+    "yukata",
+    "competition_swimsuit"
+  ],
+  "optional_clothing": []
+}

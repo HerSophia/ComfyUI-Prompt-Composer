@@ -1,0 +1,30 @@
+{
+  "id": "shirogane_noel",
+  "name": "白银诺艾尔",
+  "identity_tags": [
+    "shirogane_noel"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "wavy_hair",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "off-shoulder_sweater",
+    "multicolored_bikini",
+    "pleated_dress",
+    "greaves"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "yagami_hayate",
+  "name": "八神疾风",
+  "identity_tags": [
+    "yagami_hayate"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "waist_cape",
+    "military_uniform",
+    "cape",
+    "pantyhose"
+  ],
+  "optional_clothing": []
+}

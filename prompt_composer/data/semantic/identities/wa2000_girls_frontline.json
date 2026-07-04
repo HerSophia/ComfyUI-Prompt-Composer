@@ -1,0 +1,29 @@
+{
+  "id": "wa2000_girls_frontline",
+  "name": "WA2000",
+  "identity_tags": [
+    "wa2000_(girls'_frontline)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "blunt_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tsurime"
+    ]
+  },
+  "default_clothing": [
+    "thighband_pantyhose",
+    "high-waist_skirt",
+    "blazer",
+    "black_pantyhose"
+  ],
+  "optional_clothing": []
+}

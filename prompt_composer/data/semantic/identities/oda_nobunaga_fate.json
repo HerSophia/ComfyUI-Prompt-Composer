@@ -1,0 +1,29 @@
+{
+  "id": "oda_nobunaga_fate",
+  "name": "织田信长",
+  "identity_tags": [
+    "oda_nobunaga_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "letterman_jacket",
+    "popped_collar",
+    "headphones_around_neck",
+    "haori"
+  ],
+  "optional_clothing": []
+}

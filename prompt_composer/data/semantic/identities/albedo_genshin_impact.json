@@ -1,0 +1,30 @@
+{
+  "id": "albedo_genshin_impact",
+  "name": "阿贝多",
+  "identity_tags": [
+    "albedo_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "hooded_coat",
+    "thigh_boots",
+    "hoodie",
+    "cape"
+  ],
+  "optional_clothing": []
+}

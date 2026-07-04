@@ -1,0 +1,29 @@
+{
+  "id": "arima_kana",
+  "name": "有马加奈",
+  "identity_tags": [
+    "arima_kana"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "bob_cut",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "red_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "cropped_jacket",
+    "sweater_vest",
+    "vest",
+    "bowtie"
+  ],
+  "optional_clothing": []
+}

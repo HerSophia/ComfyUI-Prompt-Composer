@@ -1,0 +1,27 @@
+{
+  "id": "ryuuguu_rena",
+  "name": "龙宫礼奈",
+  "identity_tags": [
+    "ryuuguu_rena"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "serafuku",
+    "neckerchief",
+    "sailor_collar",
+    "school_uniform"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mayano_top_gun_umamusume",
+  "name": "摩耶重炮",
+  "identity_tags": [
+    "mayano_top_gun_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "orange"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "orange_eyes"
+    ]
+  },
+  "default_clothing": [
+    "bomber_jacket",
+    "sailor_shirt",
+    "summer_uniform",
+    "crop_top"
+  ],
+  "optional_clothing": []
+}

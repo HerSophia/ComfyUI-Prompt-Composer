@@ -1,0 +1,30 @@
+{
+  "id": "jeanne_d_arc_fate",
+  "name": "贞德",
+  "identity_tags": [
+    "jeanne_d'arc_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "ponytail",
+      "braided_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "armored_dress",
+    "faulds",
+    "whistle_around_neck",
+    "chaldea_uniform"
+  ],
+  "optional_clothing": []
+}

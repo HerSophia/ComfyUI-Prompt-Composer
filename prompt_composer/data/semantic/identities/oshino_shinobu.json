@@ -1,0 +1,30 @@
+{
+  "id": "oshino_shinobu",
+  "name": "忍野忍",
+  "identity_tags": [
+    "oshino_shinobu"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ahoge",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "naoetsu_high_school_uniform",
+    "sundress",
+    "helmet",
+    "strapless_dress"
+  ],
+  "optional_clothing": []
+}

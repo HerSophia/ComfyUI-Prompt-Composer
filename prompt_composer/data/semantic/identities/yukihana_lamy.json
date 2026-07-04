@@ -1,0 +1,30 @@
+{
+  "id": "yukihana_lamy",
+  "name": "雪花菈米",
+  "identity_tags": [
+    "yukihana_lamy"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ahoge",
+      "twintails",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "sleepwear",
+    "fur-trimmed_coat",
+    "fur-trimmed_jacket",
+    "corset"
+  ],
+  "optional_clothing": []
+}

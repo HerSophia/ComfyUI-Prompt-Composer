@@ -1,0 +1,28 @@
+{
+  "id": "elysia_miss_pink_elf_honkai_impact",
+  "name": "爱莉希雅（粉色妖精小姐）",
+  "identity_tags": [
+    "elysia_(miss_pink_elf)_(honkai_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "corset",
+    "shrug_(clothing)",
+    "maid_apron",
+    "clothing_cutout"
+  ],
+  "optional_clothing": []
+}

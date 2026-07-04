@@ -1,0 +1,30 @@
+{
+  "id": "tsushima_yoshiko",
+  "name": "津岛善子",
+  "identity_tags": [
+    "tsushima_yoshiko"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "hair_bun",
+      "blunt_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "uranohoshi_school_uniform",
+    "double-breasted",
+    "serafuku",
+    "black_thighhighs"
+  ],
+  "optional_clothing": []
+}

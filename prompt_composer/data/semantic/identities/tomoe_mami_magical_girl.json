@@ -1,0 +1,30 @@
+{
+  "id": "tomoe_mami_magical_girl",
+  "name": "巴麻美（魔法少女）",
+  "identity_tags": [
+    "tomoe_mami_(magical_girl)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "drill_hair",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bubble_skirt",
+    "taut_shirt",
+    "corset",
+    "mitakihara_school_uniform"
+  ],
+  "optional_clothing": []
+}

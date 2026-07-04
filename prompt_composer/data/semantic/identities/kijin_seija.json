@@ -1,0 +1,30 @@
+{
+  "id": "kijin_seija",
+  "name": "鬼人正邪",
+  "identity_tags": [
+    "kijin_seija"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "ponytail",
+      "twin_braids"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "multicolored_dress",
+    "sash",
+    "obi",
+    "sandals"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "raora_panthera",
+  "name": "拉欧拉·潘特拉",
+  "identity_tags": [
+    "raora_panthera"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "pink_eyeshadow"
+    ]
+  },
+  "default_clothing": [
+    "ascot",
+    "white_thighhighs",
+    "thigh_strap",
+    "alternate_costume"
+  ],
+  "optional_clothing": []
+}

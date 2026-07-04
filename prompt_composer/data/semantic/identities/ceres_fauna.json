@@ -1,0 +1,30 @@
+{
+  "id": "ceres_fauna",
+  "name": "谷时·法乌娜",
+  "identity_tags": [
+    "ceres_fauna"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "braided_bangs",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "print_bikini",
+    "harness",
+    "neck_bell",
+    "black_choker"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kakyoin_noriaki",
+  "name": "花京院典明",
+  "identity_tags": [
+    "kakyoin_noriaki"
+  ],
+  "locked_features": {
+    "hair_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair"
+    ]
+  },
+  "default_clothing": [
+    "school_uniform"
+  ],
+  "optional_clothing": []
+}

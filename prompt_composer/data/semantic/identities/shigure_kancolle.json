@@ -1,0 +1,30 @@
+{
+  "id": "shigure_kancolle",
+  "name": "时雨",
+  "identity_tags": [
+    "shigure_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "hair_flaps",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sailor_bikini",
+    "red_neckerchief",
+    "naval_uniform",
+    "serafuku"
+  ],
+  "optional_clothing": []
+}

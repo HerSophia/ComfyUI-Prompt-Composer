@@ -1,0 +1,1066 @@
+[
+  {
+    "tag": "blue_eyes",
+    "category": "eyes",
+    "weight": 6.35,
+    "aliases": [
+      "light_blue_eyes",
+      "blueeyes"
+    ],
+    "label_zh": "蓝色眼睛",
+    "post_count": 2252477
+  },
+  {
+    "tag": "red_eyes",
+    "category": "eyes",
+    "weight": 6.21,
+    "aliases": [
+      "red_eye",
+      "redeyes"
+    ],
+    "label_zh": "红色眼睛",
+    "post_count": 1622345
+  },
+  {
+    "tag": "green_eyes",
+    "category": "eyes",
+    "weight": 6.04,
+    "aliases": [
+      "green-eyes",
+      "greeneyes"
+    ],
+    "label_zh": "绿色眼睛",
+    "post_count": 1086764
+  },
+  {
+    "tag": "purple_eyes",
+    "category": "eyes",
+    "weight": 6.03,
+    "aliases": [
+      "light_purple_eyes",
+      "violet_eyes",
+      "purpleeyes"
+    ],
+    "label_zh": "紫色眼睛",
+    "post_count": 1074241
+  },
+  {
+    "tag": "brown_eyes",
+    "category": "eyes",
+    "weight": 6.01,
+    "aliases": [
+      "light_brown_eyes",
+      "browneyes"
+    ],
+    "label_zh": "棕色眼睛",
+    "post_count": 1015202
+  },
+  {
+    "tag": "closed_eyes",
+    "category": "eyes",
+    "weight": 5.98,
+    "aliases": [
+      "eyes_closed"
+    ],
+    "label_zh": "闭上眼睛",
+    "post_count": 951080
+  },
+  {
+    "tag": "yellow_eyes",
+    "category": "eyes",
+    "weight": 5.96,
+    "aliases": [
+      "golden_eyes",
+      "golden_eyes",
+      "hazel_eyes",
+      "amber_eyes",
+      "hazeleyes",
+      "gold_eyes",
+      "yelloweyes"
+    ],
+    "label_zh": "黄色眼睛",
+    "post_count": 922278
+  },
+  {
+    "tag": "pink_eyes",
+    "category": "eyes",
+    "weight": 5.58,
+    "aliases": [],
+    "label_zh": "粉色眼睛",
+    "post_count": 380416
+  },
+  {
+    "tag": "hair_over_one_eye",
+    "category": "eyes",
+    "weight": 5.52,
+    "aliases": [
+      "eye_covering_bang",
+      "hair_over_eye",
+      "/hooe"
+    ],
+    "label_zh": "头发遮住了一只眼睛",
+    "post_count": 329325
+  },
+  {
+    "tag": "black_eyes",
+    "category": "eyes",
+    "weight": 5.49,
+    "aliases": [
+      "dark_eyes"
+    ],
+    "label_zh": "黑色眼睛",
+    "post_count": 307514
+  },
+  {
+    "tag": "tears",
+    "category": "eyes",
+    "weight": 5.44,
+    "aliases": [
+      "tear"
+    ],
+    "label_zh": "眼泪",
+    "post_count": 277859
+  },
+  {
+    "tag": "grey_eyes",
+    "category": "eyes",
+    "weight": 5.41,
+    "aliases": [
+      "silver_eyes",
+      "gray_eyes"
+    ],
+    "label_zh": "灰色眼睛",
+    "post_count": 256387
+  },
+  {
+    "tag": "aqua_eyes",
+    "category": "eyes",
+    "weight": 5.37,
+    "aliases": [
+      "cyan_eyes",
+      "teal_eyes",
+      "turquoise_eyes"
+    ],
+    "label_zh": "水蓝色眼睛",
+    "post_count": 234357
+  },
+  {
+    "tag": "orange_eyes",
+    "category": "eyes",
+    "weight": 5.36,
+    "aliases": [],
+    "label_zh": "橙色眼睛",
+    "post_count": 230278
+  },
+  {
+    "tag": "symbol-shaped_pupils",
+    "category": "eyes",
+    "weight": 5.35,
+    "aliases": [
+      "symbol_shaped_pupils"
+    ],
+    "label_zh": "符号形瞳孔",
+    "post_count": 224568
+  },
+  {
+    "tag": "heterochromia",
+    "category": "eyes",
+    "weight": 5.19,
+    "aliases": [
+      "odd_eye"
+    ],
+    "label_zh": "异色瞳",
+    "post_count": 154870
+  },
+  {
+    "tag": "blush_stickers",
+    "category": "eyes",
+    "weight": 5.15,
+    "aliases": [
+      "blush_sticker"
+    ],
+    "label_zh": "Q版腮红贴纸",
+    "post_count": 140301
+  },
+  {
+    "tag": "bright_pupils",
+    "category": "eyes",
+    "weight": 5.11,
+    "aliases": [],
+    "label_zh": "明亮的瞳孔",
+    "post_count": 129696
+  },
+  {
+    "tag": "half-closed_eyes",
+    "category": "eyes",
+    "weight": 5.11,
+    "aliases": [
+      "eyes_half_closed"
+    ],
+    "label_zh": "半闭眼",
+    "post_count": 128803
+  },
+  {
+    "tag": "heart-shaped_pupils",
+    "category": "eyes",
+    "weight": 5.04,
+    "aliases": [
+      "heart_shaped_pupils"
+    ],
+    "label_zh": "心形瞳孔",
+    "post_count": 110415
+  },
+  {
+    "tag": "eyepatch",
+    "category": "eyes",
+    "weight": 4.98,
+    "aliases": [
+      "eye_patch"
+    ],
+    "label_zh": "眼罩",
+    "post_count": 95548
+  },
+  {
+    "tag": "eyes_visible_through_hair",
+    "category": "eyes",
+    "weight": 4.98,
+    "aliases": [
+      "eye_through_hair"
+    ],
+    "label_zh": "透过头发看见眼睛",
+    "post_count": 94818
+  },
+  {
+    "tag": "slit_pupils",
+    "category": "eyes",
+    "weight": 4.93,
+    "aliases": [
+      "snake_eyes",
+      "cat_eyes"
+    ],
+    "label_zh": "猫眼",
+    "post_count": 85195
+  },
+  {
+    "tag": "eye_contact",
+    "category": "eyes",
+    "weight": 4.79,
+    "aliases": [],
+    "label_zh": "眼神交流",
+    "post_count": 61905
+  },
+  {
+    "tag": "one_eye_covered",
+    "category": "eyes",
+    "weight": 4.78,
+    "aliases": [
+      "covered_eye"
+    ],
+    "label_zh": "一只眼被遮住",
+    "post_count": 60848
+  },
+  {
+    "tag": "tsurime",
+    "category": "eyes",
+    "weight": 4.77,
+    "aliases": [],
+    "label_zh": "眼尾上扬",
+    "post_count": 58654
+  },
+  {
+    "tag": "multicolored_eyes",
+    "category": "eyes",
+    "weight": 4.76,
+    "aliases": [],
+    "label_zh": "多彩眼睛",
+    "post_count": 57774
+  },
+  {
+    "tag": "glowing_eyes",
+    "category": "eyes",
+    "weight": 4.76,
+    "aliases": [],
+    "label_zh": "发光的眼睛",
+    "post_count": 57426
+  },
+  {
+    "tag": "third_eye",
+    "category": "eyes",
+    "weight": 4.75,
+    "aliases": [
+      "3rd_eye"
+    ],
+    "label_zh": "第三只眼",
+    "post_count": 56829
+  },
+  {
+    "tag": "tareme",
+    "category": "eyes",
+    "weight": 4.73,
+    "aliases": [],
+    "label_zh": "眼尾下垂",
+    "post_count": 53255
+  },
+  {
+    "tag": "crying_with_eyes_open",
+    "category": "eyes",
+    "weight": 4.69,
+    "aliases": [],
+    "label_zh": "睁着眼睛哭",
+    "post_count": 49476
+  },
+  {
+    "tag": "jitome",
+    "category": "eyes",
+    "weight": 4.65,
+    "aliases": [
+      "flat_gaze"
+    ],
+    "label_zh": "轻蔑的眼神",
+    "post_count": 45043
+  },
+  {
+    "tag": "empty_eyes",
+    "category": "eyes",
+    "weight": 4.65,
+    "aliases": [
+      "dead_eyes"
+    ],
+    "label_zh": "空洞的眼睛",
+    "post_count": 44839
+  },
+  {
+    "tag": "eyeliner",
+    "category": "eyes",
+    "weight": 4.6,
+    "aliases": [],
+    "label_zh": "眼线",
+    "post_count": 39877
+  },
+  {
+    "tag": "bags_under_eyes",
+    "category": "eyes",
+    "weight": 4.59,
+    "aliases": [
+      "eye_bags",
+      "dark_circles",
+      "eyebags",
+      "eye_circles"
+    ],
+    "label_zh": "眼袋",
+    "post_count": 39214
+  },
+  {
+    "tag": "+_+",
+    "category": "eyes",
+    "weight": 4.58,
+    "aliases": [
+      "cross-shaped_pupils",
+      "starry_eyes",
+      "star_eyes"
+    ],
+    "label_zh": "十字星星眼",
+    "post_count": 37592
+  },
+  {
+    "tag": "glint",
+    "category": "eyes",
+    "weight": 4.54,
+    "aliases": [],
+    "label_zh": "眼中闪现强烈的情感",
+    "post_count": 34987
+  },
+  {
+    "tag": "ringed_eyes",
+    "category": "eyes",
+    "weight": 4.52,
+    "aliases": [],
+    "label_zh": "眼圈",
+    "post_count": 33046
+  },
+  {
+    "tag": "symbol_in_eye",
+    "category": "eyes",
+    "weight": 4.48,
+    "aliases": [],
+    "label_zh": "眼睛里有符号",
+    "post_count": 29986
+  },
+  {
+    "tag": "star-shaped_pupils",
+    "category": "eyes",
+    "weight": 4.47,
+    "aliases": [],
+    "label_zh": "五角星形状瞳孔",
+    "post_count": 29233
+  },
+  {
+    "tag": "hair_over_eyes",
+    "category": "eyes",
+    "weight": 4.45,
+    "aliases": [
+      "hair_covering_eyes"
+    ],
+    "label_zh": "头发遮着双眼",
+    "post_count": 28376
+  },
+  {
+    "tag": "white_eyes",
+    "category": "eyes",
+    "weight": 4.39,
+    "aliases": [],
+    "label_zh": "白色眼睛",
+    "post_count": 24396
+  },
+  {
+    "tag": "covered_eyes",
+    "category": "eyes",
+    "weight": 4.39,
+    "aliases": [
+      "eyes_covered"
+    ],
+    "label_zh": "蒙住眼睛",
+    "post_count": 24285
+  },
+  {
+    "tag": "eyeball",
+    "category": "eyes",
+    "weight": 4.35,
+    "aliases": [
+      "eyeballs"
+    ],
+    "label_zh": "眼球",
+    "post_count": 22159
+  },
+  {
+    "tag": "red_eyeshadow",
+    "category": "eyes",
+    "weight": 4.31,
+    "aliases": [],
+    "label_zh": "红色眼影",
+    "post_count": 20386
+  },
+  {
+    "tag": "no_pupils",
+    "category": "eyes",
+    "weight": 4.3,
+    "aliases": [],
+    "label_zh": "没有瞳孔",
+    "post_count": 19898
+  },
+  {
+    "tag": "rolling_eyes",
+    "category": "eyes",
+    "weight": 4.3,
+    "aliases": [
+      "rolled_eyes",
+      "rolleyes",
+      "eye_roll"
+    ],
+    "label_zh": "翻白眼",
+    "post_count": 19716
+  },
+  {
+    "tag": "constricted_pupils",
+    "category": "eyes",
+    "weight": 4.25,
+    "aliases": [
+      "contracted_pupils",
+      "shrunk_pupils",
+      "shrunk_eyes"
+    ],
+    "label_zh": "瞳孔收缩",
+    "post_count": 17779
+  },
+  {
+    "tag": "sparkling_eyes",
+    "category": "eyes",
+    "weight": 4.23,
+    "aliases": [
+      "sparkle_eyes"
+    ],
+    "label_zh": "闪闪发光的眼睛",
+    "post_count": 16886
+  },
+  {
+    "tag": "blank_eyes",
+    "category": "eyes",
+    "weight": 4.22,
+    "aliases": [],
+    "label_zh": "空白的眼睛",
+    "post_count": 16517
+  },
+  {
+    "tag": "sanpaku",
+    "category": "eyes",
+    "weight": 4.17,
+    "aliases": [],
+    "label_zh": "三白症(瞳孔偏移)",
+    "post_count": 14897
+  },
+  {
+    "tag": "diamond-shaped_pupils",
+    "category": "eyes",
+    "weight": 4.13,
+    "aliases": [],
+    "label_zh": "钻石形状瞳孔",
+    "post_count": 13540
+  },
+  {
+    "tag": "solid_oval_eyes",
+    "category": "eyes",
+    "weight": 4.11,
+    "aliases": [],
+    "label_zh": "实心椭圆形眼睛",
+    "post_count": 13004
+  },
+  {
+    "tag": "extra_eyes",
+    "category": "eyes",
+    "weight": 4.11,
+    "aliases": [
+      "multiple_eyes"
+    ],
+    "label_zh": "额外的眼睛",
+    "post_count": 12809
+  },
+  {
+    "tag": "no_eyes",
+    "category": "eyes",
+    "weight": 4.1,
+    "aliases": [],
+    "label_zh": "没有眼睛",
+    "post_count": 12645
+  },
+  {
+    "tag": "mismatched_pupils",
+    "category": "eyes",
+    "weight": 4.1,
+    "aliases": [
+      "asymmetrical_pupils"
+    ],
+    "label_zh": "不匹配的瞳孔",
+    "post_count": 12551
+  },
+  {
+    "tag": "star_in_eye",
+    "category": "eyes",
+    "weight": 4.1,
+    "aliases": [
+      "stars_in_eye"
+    ],
+    "label_zh": "眼睛里的星星",
+    "post_count": 12540
+  },
+  {
+    "tag": "heart_in_eye",
+    "category": "eyes",
+    "weight": 4.1,
+    "aliases": [],
+    "label_zh": "心形眼",
+    "post_count": 12492
+  },
+  {
+    "tag": "gradient_eyes",
+    "category": "eyes",
+    "weight": 4.07,
+    "aliases": [],
+    "label_zh": "渐变眼睛",
+    "post_count": 11792
+  },
+  {
+    "tag": "flower-shaped_pupils",
+    "category": "eyes",
+    "weight": 4.05,
+    "aliases": [
+      "kagan",
+      "flower_shaped_pupils"
+    ],
+    "label_zh": "花状瞳孔",
+    "post_count": 11217
+  },
+  {
+    "tag": "solid_circle_eyes",
+    "category": "eyes",
+    "weight": 4.03,
+    "aliases": [
+      "•_•"
+    ],
+    "label_zh": "实心圆眼",
+    "post_count": 10729
+  },
+  {
+    "tag": "half-closed_eye",
+    "category": "eyes",
+    "weight": 4.0,
+    "aliases": [
+      "one_eye_narrowed"
+    ],
+    "label_zh": "半闭的眼睛(单眼)",
+    "post_count": 9911
+  },
+  {
+    "tag": "narrowed_eyes",
+    "category": "eyes",
+    "weight": 3.95,
+    "aliases": [],
+    "label_zh": "眯起眼睛",
+    "post_count": 8979
+  },
+  {
+    "tag": "uneven_eyes",
+    "category": "eyes",
+    "weight": 3.95,
+    "aliases": [],
+    "label_zh": "不均匀的眼睛",
+    "post_count": 8966
+  },
+  {
+    "tag": "medical_eyepatch",
+    "category": "eyes",
+    "weight": 3.92,
+    "aliases": [],
+    "label_zh": "医用眼罩",
+    "post_count": 8222
+  },
+  {
+    "tag": "crazy_eyes",
+    "category": "eyes",
+    "weight": 3.91,
+    "aliases": [],
+    "label_zh": "疯狂的眼睛",
+    "post_count": 8061
+  },
+  {
+    "tag": "x-shaped_pupils",
+    "category": "eyes",
+    "weight": 3.85,
+    "aliases": [],
+    "label_zh": "X形瞳孔",
+    "post_count": 7059
+  },
+  {
+    "tag": "fisheye",
+    "category": "eyes",
+    "weight": 3.8,
+    "aliases": [],
+    "label_zh": "鱼眼",
+    "post_count": 6356
+  },
+  {
+    "tag": "upturned_eyes",
+    "category": "eyes",
+    "weight": 3.75,
+    "aliases": [],
+    "label_zh": "上翘的眼睛",
+    "post_count": 5623
+  },
+  {
+    "tag": "pink_eyeshadow",
+    "category": "eyes",
+    "weight": 3.75,
+    "aliases": [],
+    "label_zh": "粉色眼影",
+    "post_count": 5615
+  },
+  {
+    "tag": "blue_eyeshadow",
+    "category": "eyes",
+    "weight": 3.71,
+    "aliases": [],
+    "label_zh": "蓝色眼影",
+    "post_count": 5150
+  },
+  {
+    "tag": "purple_eyeshadow",
+    "category": "eyes",
+    "weight": 3.7,
+    "aliases": [],
+    "label_zh": "紫色眼影",
+    "post_count": 5005
+  },
+  {
+    "tag": "flaming_eye",
+    "category": "eyes",
+    "weight": 3.61,
+    "aliases": [
+      "fiery_eye",
+      "burning_eye"
+    ],
+    "label_zh": "焰目",
+    "post_count": 4063
+  },
+  {
+    "tag": "shading_eyes",
+    "category": "eyes",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "挡着眼睛",
+    "post_count": 4030
+  },
+  {
+    "tag": "solid_eyes",
+    "category": "eyes",
+    "weight": 3.51,
+    "aliases": [],
+    "label_zh": "坚定的眼睛",
+    "post_count": 3261
+  },
+  {
+    "tag": "purple_pupils",
+    "category": "eyes",
+    "weight": 3.44,
+    "aliases": [],
+    "label_zh": "紫色瞳孔",
+    "post_count": 2730
+  },
+  {
+    "tag": "compound_eyes",
+    "category": "eyes",
+    "weight": 3.39,
+    "aliases": [
+      "insect_eyes"
+    ],
+    "label_zh": "复眼",
+    "post_count": 2446
+  },
+  {
+    "tag": "button_eyes",
+    "category": "eyes",
+    "weight": 3.39,
+    "aliases": [],
+    "label_zh": "纽扣眼睛",
+    "post_count": 2422
+  },
+  {
+    "tag": "cephalopod_eyes",
+    "category": "eyes",
+    "weight": 3.37,
+    "aliases": [
+      "octopus_eyes"
+    ],
+    "label_zh": "头足类眼睛",
+    "post_count": 2358
+  },
+  {
+    "tag": "squinting",
+    "category": "eyes",
+    "weight": 3.36,
+    "aliases": [
+      "squinted_eyes",
+      "squint"
+    ],
+    "label_zh": "眯起眼睛看",
+    "post_count": 2286
+  },
+  {
+    "tag": "dashed_eyes",
+    "category": "eyes",
+    "weight": 3.34,
+    "aliases": [
+      "line_in_eye",
+      "dash_eyes"
+    ],
+    "label_zh": "虚线的眼睛",
+    "post_count": 2200
+  },
+  {
+    "tag": "mismatched_sclera",
+    "category": "eyes",
+    "weight": 3.29,
+    "aliases": [],
+    "label_zh": "错配巩膜",
+    "post_count": 1942
+  },
+  {
+    "tag": "eye_of_horus",
+    "category": "eyes",
+    "weight": 3.27,
+    "aliases": [
+      "eye_of_wedjat",
+      "eye_of_wadjet",
+      "eye_of_wdjat"
+    ],
+    "label_zh": "荷鲁斯之眼",
+    "post_count": 1859
+  },
+  {
+    "tag": "orange_pupils",
+    "category": "eyes",
+    "weight": 3.25,
+    "aliases": [],
+    "label_zh": "橙色瞳孔",
+    "post_count": 1751
+  },
+  {
+    "tag": "no_blindfold",
+    "category": "eyes",
+    "weight": 3.23,
+    "aliases": [],
+    "label_zh": "去掉了(原设有的)蒙眼要素",
+    "post_count": 1692
+  },
+  {
+    "tag": "no_eyepatch",
+    "category": "eyes",
+    "weight": 3.22,
+    "aliases": [],
+    "label_zh": "去掉了(原设有的)眼罩",
+    "post_count": 1658
+  },
+  {
+    "tag": "butterfly-shaped_pupils",
+    "category": "eyes",
+    "weight": 3.22,
+    "aliases": [],
+    "label_zh": "蝴蝶形瞳孔",
+    "post_count": 1655
+  },
+  {
+    "tag": "solid_circle_pupils",
+    "category": "eyes",
+    "weight": 3.2,
+    "aliases": [
+      "(o)_(o)"
+    ],
+    "label_zh": "Q版实心圆瞳孔",
+    "post_count": 1573
+  },
+  {
+    "tag": "heart-shaped_eyes",
+    "category": "eyes",
+    "weight": 3.2,
+    "aliases": [
+      "heart_eyes",
+      "heart_eye",
+      "♥_♥"
+    ],
+    "label_zh": "心形眼睛",
+    "post_count": 1559
+  },
+  {
+    "tag": "green_eyeshadow",
+    "category": "eyes",
+    "weight": 3.18,
+    "aliases": [],
+    "label_zh": "绿色眼影",
+    "post_count": 1506
+  },
+  {
+    "tag": "cross-eyed",
+    "category": "eyes",
+    "weight": 3.13,
+    "aliases": [
+      "cross_eyed",
+      "crossed_eyes"
+    ],
+    "label_zh": "斗鸡眼",
+    "post_count": 1336
+  },
+  {
+    "tag": "clock_eyes",
+    "category": "eyes",
+    "weight": 3.08,
+    "aliases": [
+      "clock_eyed"
+    ],
+    "label_zh": "钟眼",
+    "post_count": 1192
+  },
+  {
+    "tag": "extra_pupils",
+    "category": "eyes",
+    "weight": 3.02,
+    "aliases": [
+      "polycoria",
+      "extra_irises",
+      "multiple_pupils"
+    ],
+    "label_zh": "额外的瞳孔",
+    "post_count": 1042
+  },
+  {
+    "tag": "square_pupils",
+    "category": "eyes",
+    "weight": 3.0,
+    "aliases": [],
+    "label_zh": "方形瞳孔",
+    "post_count": 979
+  },
+  {
+    "tag": "shiny_eyes",
+    "category": "eyes",
+    "weight": 2.95,
+    "aliases": [],
+    "label_zh": "闪亮的眼睛",
+    "post_count": 877
+  },
+  {
+    "tag": "dilated_pupils",
+    "category": "eyes",
+    "weight": 2.9,
+    "aliases": [],
+    "label_zh": "瞳孔散大",
+    "post_count": 779
+  },
+  {
+    "tag": "evil_eyes",
+    "category": "eyes",
+    "weight": 2.84,
+    "aliases": [],
+    "label_zh": "邪恶的眼睛",
+    "post_count": 686
+  },
+  {
+    "tag": "rectangular_pupils",
+    "category": "eyes",
+    "weight": 2.77,
+    "aliases": [],
+    "label_zh": "长方形瞳孔",
+    "post_count": 573
+  },
+  {
+    "tag": "dot_pupils",
+    "category": "eyes",
+    "weight": 2.54,
+    "aliases": [],
+    "label_zh": "点瞳孔",
+    "post_count": 336
+  },
+  {
+    "tag": "hidden_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "隐藏眼睛",
+    "post_count": 0
+  },
+  {
+    "tag": "covering_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "遮住眼睛",
+    "post_count": 0
+  },
+  {
+    "tag": "devil_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "魔鬼眼",
+    "post_count": 0
+  },
+  {
+    "tag": "devil_pupils",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "魔瞳",
+    "post_count": 0
+  },
+  {
+    "tag": "snake_pupils",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "蛇瞳",
+    "post_count": 0
+  },
+  {
+    "tag": "pupils_sparkling",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "瞳孔闪烁",
+    "post_count": 0
+  },
+  {
+    "tag": "color_contact_lenses",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "美瞳",
+    "post_count": 0
+  },
+  {
+    "tag": "longeyelashes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "长睫毛",
+    "post_count": 0
+  },
+  {
+    "tag": "light_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "明亮的眼睛",
+    "post_count": 0
+  },
+  {
+    "tag": "anime_style_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "动画眼",
+    "post_count": 0
+  },
+  {
+    "tag": "water_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "水汪汪",
+    "post_count": 0
+  },
+  {
+    "tag": "beautiful_detailed_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "美丽的眼睛",
+    "post_count": 0
+  },
+  {
+    "tag": "sparkling_anime_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "闪光动画眼",
+    "post_count": 0
+  },
+  {
+    "tag": "light_brown_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "浅棕色眼睛",
+    "post_count": 0
+  },
+  {
+    "tag": "silver_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "银色的眼睛",
+    "post_count": 0
+  },
+  {
+    "tag": "spiral_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "漩涡眼",
+    "post_count": 0
+  },
+  {
+    "tag": "sharp_eyes",
+    "category": "eyes",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "锐利的眼",
+    "post_count": 0
+  }
+]

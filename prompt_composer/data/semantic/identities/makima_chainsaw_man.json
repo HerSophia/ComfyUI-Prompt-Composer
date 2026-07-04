@@ -1,0 +1,30 @@
+{
+  "id": "makima_chainsaw_man",
+  "name": "玛奇玛",
+  "identity_tags": [
+    "makima_(chainsaw_man)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "braided_ponytail",
+      "ponytail",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "ringed_eyes"
+    ]
+  },
+  "default_clothing": [
+    "business_suit",
+    "shirt_tucked_in",
+    "suit",
+    "long_coat"
+  ],
+  "optional_clothing": []
+}

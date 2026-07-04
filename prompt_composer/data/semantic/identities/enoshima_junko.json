@@ -1,0 +1,29 @@
+{
+  "id": "enoshima_junko",
+  "name": "江之岛盾子",
+  "identity_tags": [
+    "enoshima_junko"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "white_necktie",
+    "knee_boots",
+    "high_heel_boots",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

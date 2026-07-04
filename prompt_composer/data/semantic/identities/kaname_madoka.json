@@ -1,0 +1,30 @@
+{
+  "id": "kaname_madoka",
+  "name": "鹿目圆香",
+  "identity_tags": [
+    "kaname_madoka"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "drill_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "mitakihara_school_uniform",
+    "bubble_skirt",
+    "ribbon_choker",
+    "dress_bow"
+  ],
+  "optional_clothing": []
+}

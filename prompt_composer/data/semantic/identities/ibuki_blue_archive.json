@@ -1,0 +1,29 @@
+{
+  "id": "ibuki_blue_archive",
+  "name": "伊吹",
+  "identity_tags": [
+    "ibuki_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "side_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "pinafore_dress",
+    "bloomers",
+    "oversized_clothes",
+    "pleated_dress"
+  ],
+  "optional_clothing": []
+}

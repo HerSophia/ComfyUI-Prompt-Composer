@@ -1,0 +1,29 @@
+{
+  "id": "kirigiri_kyoko",
+  "name": "雾切响子",
+  "identity_tags": [
+    "kirigiri_kyoko"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "blunt_bangs",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "knee_boots",
+    "necktie",
+    "open_jacket",
+    "collared_shirt"
+  ],
+  "optional_clothing": []
+}

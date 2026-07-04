@@ -1,0 +1,30 @@
+{
+  "id": "futatsuiwa_mamizou",
+  "name": "二岩猯藏",
+  "identity_tags": [
+    "futatsuiwa_mamizou"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "geta",
+    "bloomers",
+    "haori",
+    "sandals"
+  ],
+  "optional_clothing": []
+}

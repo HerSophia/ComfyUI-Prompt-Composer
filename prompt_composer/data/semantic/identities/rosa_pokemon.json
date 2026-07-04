@@ -1,0 +1,30 @@
+{
+  "id": "rosa_pokemon",
+  "name": "水户",
+  "identity_tags": [
+    "rosa_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "hair_bun",
+      "double_bun",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "black_pantyhose",
+    "shirt_lift",
+    "denim_shorts",
+    "short_shorts"
+  ],
+  "optional_clothing": []
+}

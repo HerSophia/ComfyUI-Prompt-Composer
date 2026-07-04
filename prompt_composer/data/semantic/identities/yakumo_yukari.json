@@ -1,0 +1,30 @@
+{
+  "id": "yakumo_yukari",
+  "name": "八云紫",
+  "identity_tags": [
+    "yakumo_yukari"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ribbon_choker",
+    "skirt_set",
+    "arm_garter",
+    "frilled_dress"
+  ],
+  "optional_clothing": []
+}

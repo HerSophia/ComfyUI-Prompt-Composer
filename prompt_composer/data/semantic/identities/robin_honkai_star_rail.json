@@ -1,0 +1,26 @@
+{
+  "id": "robin_honkai_star_rail",
+  "name": "知更鸟",
+  "identity_tags": [
+    "robin_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "aqua"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair"
+    ],
+    "eyes": [
+      "aqua_eyes"
+    ]
+  },
+  "default_clothing": [
+    "strapless_dress",
+    "off-shoulder_dress",
+    "high_heels",
+    "dress"
+  ],
+  "optional_clothing": []
+}

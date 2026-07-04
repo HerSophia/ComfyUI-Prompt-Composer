@@ -1,0 +1,30 @@
+{
+  "id": "megumin",
+  "name": "惠惠",
+  "identity_tags": [
+    "megumin"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "blunt_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "bandaged_leg",
+    "mismatched_legwear",
+    "off-shoulder_dress",
+    "belt_collar"
+  ],
+  "optional_clothing": []
+}

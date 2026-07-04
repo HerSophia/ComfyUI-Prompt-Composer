@@ -1,0 +1,30 @@
+{
+  "id": "shanghai_doll",
+  "name": "上海娃娃",
+  "identity_tags": [
+    "shanghai_doll"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "ahoge",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "capelet",
+    "waist_apron",
+    "apron",
+    "skirt_set"
+  ],
+  "optional_clothing": []
+}

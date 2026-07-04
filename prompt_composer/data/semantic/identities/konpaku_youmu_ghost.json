@@ -1,0 +1,30 @@
+{
+  "id": "konpaku_youmu_ghost",
+  "name": "魂魄妖梦（半灵）",
+  "identity_tags": [
+    "konpaku_youmu_(ghost)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "bob_cut",
+      "blunt_bangs",
+      "twin_braids"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "skirt_set",
+    "bobby_socks",
+    "vest",
+    "mary_janes"
+  ],
+  "optional_clothing": []
+}

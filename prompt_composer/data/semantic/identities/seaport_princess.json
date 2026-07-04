@@ -1,0 +1,30 @@
+{
+  "id": "seaport_princess",
+  "name": "泊地栖姬",
+  "identity_tags": [
+    "seaport_princess"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "glowing_eyes"
+    ]
+  },
+  "default_clothing": [
+    "ribbed_dress",
+    "sweater_dress",
+    "ribbed_sweater",
+    "gothic_lolita"
+  ],
+  "optional_clothing": []
+}

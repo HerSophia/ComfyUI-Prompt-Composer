@@ -1,0 +1,29 @@
+{
+  "id": "inugami_korone_1st_costume",
+  "name": "戌神沁音",
+  "identity_tags": [
+    "inugami_korone_(1st_costume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twin_braids",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "loose_socks",
+    "sleeveless_dress",
+    "open_jacket",
+    "hoodie"
+  ],
+  "optional_clothing": []
+}

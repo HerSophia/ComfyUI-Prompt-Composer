@@ -1,0 +1,27 @@
+{
+  "id": "satonaka_chie",
+  "name": "里中千枝",
+  "identity_tags": [
+    "satonaka_chie"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "track_jacket",
+    "bike_shorts",
+    "jacket",
+    "school_uniform"
+  ],
+  "optional_clothing": []
+}

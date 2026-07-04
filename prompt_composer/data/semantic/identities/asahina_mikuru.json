@@ -1,0 +1,28 @@
+{
+  "id": "asahina_mikuru",
+  "name": "朝比奈实玖瑠",
+  "identity_tags": [
+    "asahina_mikuru"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "kita_high_school_uniform",
+    "cardigan",
+    "serafuku",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

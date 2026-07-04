@@ -1,0 +1,29 @@
+{
+  "id": "junko_touhou",
+  "name": "纯狐",
+  "identity_tags": [
+    "junko_(touhou)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "wavy_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "eyes_visible_through_hair"
+    ]
+  },
+  "default_clothing": [
+    "multicolored_skirt",
+    "neck_ruff",
+    "chinese_clothes",
+    "off-shoulder_shirt"
+  ],
+  "optional_clothing": []
+}

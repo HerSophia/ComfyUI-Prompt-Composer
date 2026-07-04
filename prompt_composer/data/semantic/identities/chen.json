@@ -1,0 +1,30 @@
+{
+  "id": "chen",
+  "name": "橙",
+  "identity_tags": [
+    "chen"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twin_braids",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "skirt_set",
+    "bobby_socks",
+    "bloomers",
+    "vest"
+  ],
+  "optional_clothing": []
+}

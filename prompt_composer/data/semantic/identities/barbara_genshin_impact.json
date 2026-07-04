@@ -1,0 +1,30 @@
+{
+  "id": "barbara_genshin_impact",
+  "name": "芭芭拉",
+  "identity_tags": [
+    "barbara_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "drill_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "casual_one-piece_swimsuit",
+    "white_pantyhose",
+    "thighband_pantyhose",
+    "strapless_dress"
+  ],
+  "optional_clothing": []
+}

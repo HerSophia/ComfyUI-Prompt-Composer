@@ -1,0 +1,30 @@
+{
+  "id": "i_58_kancolle",
+  "name": "伊58",
+  "identity_tags": [
+    "i-58_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "swimsuit_under_clothes",
+    "school_swimsuit",
+    "one-piece_swimsuit",
+    "sailor_shirt"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "iono_pokemon",
+  "name": "奇树",
+  "identity_tags": [
+    "iono_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "symbol_in_eye"
+    ]
+  },
+  "default_clothing": [
+    "single_leg_pantyhose",
+    "oversized_clothes",
+    "two-tone_jacket",
+    "sleeveless_shirt"
+  ],
+  "optional_clothing": []
+}

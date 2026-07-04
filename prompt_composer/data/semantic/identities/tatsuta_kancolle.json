@@ -1,0 +1,30 @@
+{
+  "id": "tatsuta_kancolle",
+  "name": "龙田",
+  "identity_tags": [
+    "tatsuta_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "military_uniform",
+    "neck_ribbon",
+    "capelet"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "senjougahara_hitagi",
+  "name": "战场原黑仪",
+  "identity_tags": [
+    "senjougahara_hitagi"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "naoetsu_high_school_uniform",
+    "school_uniform",
+    "necktie",
+    "black_thighhighs"
+  ],
+  "optional_clothing": []
+}

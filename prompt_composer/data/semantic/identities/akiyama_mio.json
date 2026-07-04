@@ -1,0 +1,30 @@
+{
+  "id": "akiyama_mio",
+  "name": "秋山澪",
+  "identity_tags": [
+    "akiyama_mio"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "hime_cut",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "black_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sakuragaoka_high_school_uniform",
+    "uwabaki",
+    "blazer",
+    "casual"
+  ],
+  "optional_clothing": []
+}

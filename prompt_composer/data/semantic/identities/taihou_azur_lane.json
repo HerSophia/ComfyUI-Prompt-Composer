@@ -1,0 +1,30 @@
+{
+  "id": "taihou_azur_lane",
+  "name": "大凤",
+  "identity_tags": [
+    "taihou_(azur_lane)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "crossed_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "evening_gown",
+    "highleg_bikini",
+    "button_gap",
+    "backless_dress"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ichinose_shiki",
+  "name": "一之濑志希",
+  "identity_tags": [
+    "ichinose_shiki"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "wavy_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "camisole",
+    "cardigan",
+    "necklace",
+    "dress_shirt"
+  ],
+  "optional_clothing": []
+}

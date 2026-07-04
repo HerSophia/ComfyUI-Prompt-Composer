@@ -1,0 +1,30 @@
+{
+  "id": "yuudachi_kai_ni_kancolle",
+  "name": "夕立改二",
+  "identity_tags": [
+    "yuudachi_kai_ni_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "hair_flaps",
+      "ahoge",
+      "straight_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sailor_bikini",
+    "red_neckerchief",
+    "serafuku",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "tag": "upper_body",
+    "category": "camera",
+    "weight": 6.03,
+    "aliases": [
+      "bust"
+    ],
+    "label_zh": "上半身",
+    "post_count": 1062919
+  },
+  {
+    "tag": "cowboy_shot",
+    "category": "camera",
+    "weight": 5.88,
+    "aliases": [],
+    "label_zh": "上半身+上半大腿(牛仔镜头)",
+    "post_count": 765048
+  },
+  {
+    "tag": "solo_focus",
+    "category": "camera",
+    "weight": 5.66,
+    "aliases": [],
+    "label_zh": "聚焦在单个人物(适合复杂场景)",
+    "post_count": 457946
+  },
+  {
+    "tag": "profile",
+    "category": "camera",
+    "weight": 5.22,
+    "aliases": [
+      "in_profile"
+    ],
+    "label_zh": "侧面肖像画(portrait的侧脸版)",
+    "post_count": 166857
+  },
+  {
+    "tag": "portrait",
+    "category": "camera",
+    "weight": 5.08,
+    "aliases": [
+      "headshot_(composition)"
+    ],
+    "label_zh": "肖像画(脸+肩+偶尔再加胸)",
+    "post_count": 121534
+  },
+  {
+    "tag": "close-up",
+    "category": "camera",
+    "weight": 4.76,
+    "aliases": [
+      "close_up",
+      "closeup"
+    ],
+    "label_zh": "特写镜头",
+    "post_count": 58106
+  },
+  {
+    "tag": "foot_focus",
+    "category": "camera",
+    "weight": 4.53,
+    "aliases": [
+      "feet_focus",
+      "pov_feet"
+    ],
+    "label_zh": "聚焦在脚上",
+    "post_count": 33947
+  },
+  {
+    "tag": "wide_shot",
+    "category": "camera",
+    "weight": 4.33,
+    "aliases": [],
+    "label_zh": "全景镜头(广角镜头)",
+    "post_count": 21305
+  },
+  {
+    "tag": "hip_focus",
+    "category": "camera",
+    "weight": 4.2,
+    "aliases": [
+      "hips"
+    ],
+    "label_zh": "聚焦在臀部",
+    "post_count": 15934
+  },
+  {
+    "tag": "lower_body",
+    "category": "camera",
+    "weight": 3.87,
+    "aliases": [
+      "legs_only"
+    ],
+    "label_zh": "下半身",
+    "post_count": 7393
+  },
+  {
+    "tag": "medium_shot",
+    "category": "camera",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "中景镜头",
+    "post_count": 0
+  },
+  {
+    "tag": "full_shot",
+    "category": "camera",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "全身像",
+    "post_count": 0
+  },
+  {
+    "tag": "bust",
+    "category": "camera",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "半身像",
+    "post_count": 0
+  },
+  {
+    "tag": "face_focus",
+    "category": "camera",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "聚焦在面部",
+    "post_count": 0
+  },
+  {
+    "tag": "eyes_focus",
+    "category": "camera",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "聚焦在眼睛",
+    "post_count": 0
+  }
+]

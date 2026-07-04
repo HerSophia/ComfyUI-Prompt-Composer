@@ -1,0 +1,30 @@
+{
+  "id": "tainaka_ritsu",
+  "name": "田井中律",
+  "identity_tags": [
+    "tainaka_ritsu"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "forehead",
+      "hime_cut"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sakuragaoka_high_school_uniform",
+    "uwabaki",
+    "blazer",
+    "casual"
+  ],
+  "optional_clothing": []
+}

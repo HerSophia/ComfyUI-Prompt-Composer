@@ -1,0 +1,29 @@
+{
+  "id": "kurosawa_ruby",
+  "name": "黑泽露比",
+  "identity_tags": [
+    "kurosawa_ruby"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twintails",
+      "hair_bun",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "uranohoshi_school_uniform",
+    "serafuku",
+    "neckerchief",
+    "kneehighs"
+  ],
+  "optional_clothing": []
+}

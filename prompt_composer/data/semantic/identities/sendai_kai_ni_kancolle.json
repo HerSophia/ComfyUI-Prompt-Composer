@@ -1,0 +1,29 @@
+{
+  "id": "sendai_kai_ni_kancolle",
+  "name": "川内改二",
+  "identity_tags": [
+    "sendai_kai_ni_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "hair_bun",
+      "double_bun",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "single_sock",
+    "uneven_legwear",
+    "double-breasted",
+    "serafuku"
+  ],
+  "optional_clothing": []
+}

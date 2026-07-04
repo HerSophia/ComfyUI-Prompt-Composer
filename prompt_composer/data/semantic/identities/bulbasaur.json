@@ -1,0 +1,27 @@
+{
+  "id": "bulbasaur",
+  "name": "妙蛙种子",
+  "identity_tags": [
+    "bulbasaur"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "pants",
+    "shoes",
+    "shorts",
+    "jacket"
+  ],
+  "optional_clothing": []
+}

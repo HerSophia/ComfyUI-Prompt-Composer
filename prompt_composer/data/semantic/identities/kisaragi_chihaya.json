@@ -1,0 +1,30 @@
+{
+  "id": "kisaragi_chihaya",
+  "name": "如月千早",
+  "identity_tags": [
+    "kisaragi_chihaya"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "one-piece_swimsuit",
+    "bikini",
+    "swimsuit",
+    "necklace"
+  ],
+  "optional_clothing": []
+}

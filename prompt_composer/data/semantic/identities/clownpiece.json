@@ -1,0 +1,30 @@
+{
+  "id": "clownpiece",
+  "name": "克劳恩皮丝",
+  "identity_tags": [
+    "clownpiece"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "wavy_hair",
+      "twintails",
+      "drill_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "neck_ruff",
+    "striped_dress",
+    "multicolored_skirt",
+    "american_flag_bikini"
+  ],
+  "optional_clothing": []
+}

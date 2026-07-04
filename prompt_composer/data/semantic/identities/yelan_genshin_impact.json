@@ -1,0 +1,30 @@
+{
+  "id": "yelan_genshin_impact",
+  "name": "夜兰",
+  "identity_tags": [
+    "yelan_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "bob_cut",
+      "blunt_bangs",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "jacket_on_shoulders",
+    "fur-trimmed_jacket",
+    "neck_ring",
+    "tight_pants"
+  ],
+  "optional_clothing": []
+}

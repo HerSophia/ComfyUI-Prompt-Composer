@@ -1,0 +1,30 @@
+{
+  "id": "jeanne_d_arc_alter_avenger_fate",
+  "name": "贞德〔Alter·Avenger〕",
+  "identity_tags": [
+    "jeanne_d'arc_alter_(avenger)_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tsurime"
+    ]
+  },
+  "default_clothing": [
+    "armored_dress",
+    "chaldea_uniform",
+    "faulds",
+    "fur-trimmed_coat"
+  ],
+  "optional_clothing": []
+}

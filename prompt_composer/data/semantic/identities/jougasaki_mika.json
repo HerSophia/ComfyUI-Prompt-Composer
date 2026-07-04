@@ -1,0 +1,30 @@
+{
+  "id": "jougasaki_mika",
+  "name": "城崎美嘉",
+  "identity_tags": [
+    "jougasaki_mika"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tsurime"
+    ]
+  },
+  "default_clothing": [
+    "clothes_around_waist",
+    "plaid_skirt",
+    "sweater_vest",
+    "necklace"
+  ],
+  "optional_clothing": []
+}

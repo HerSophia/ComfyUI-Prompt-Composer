@@ -1,0 +1,29 @@
+{
+  "id": "yoimiya_genshin_impact",
+  "name": "宵宫",
+  "identity_tags": [
+    "yoimiya_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "ahoge",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "bandaged_leg",
+    "short_kimono",
+    "geta",
+    "obi"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "maekawa_miku",
+  "name": "前川未来",
+  "identity_tags": [
+    "maekawa_miku"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "neck_bell",
+    "blazer",
+    "necklace",
+    "bikini"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sendai_kancolle",
+  "name": "川内",
+  "identity_tags": [
+    "sendai_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "hair_bun",
+      "double_bun",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "single_sock",
+    "uneven_legwear",
+    "double-breasted",
+    "serafuku"
+  ],
+  "optional_clothing": []
+}

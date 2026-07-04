@@ -1,0 +1,30 @@
+{
+  "id": "merlin_prismriver",
+  "name": "梅露兰·普莉兹姆利巴",
+  "identity_tags": [
+    "merlin_prismriver"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "skirt_set",
+    "vest",
+    "ascot",
+    "capelet"
+  ],
+  "optional_clothing": []
+}

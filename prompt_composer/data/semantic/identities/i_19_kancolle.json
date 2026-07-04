@@ -1,0 +1,30 @@
+{
+  "id": "i_19_kancolle",
+  "name": "伊19",
+  "identity_tags": [
+    "i-19_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "school_swimsuit",
+    "swimsuit_under_clothes",
+    "one-piece_swimsuit",
+    "swimsuit"
+  ],
+  "optional_clothing": []
+}

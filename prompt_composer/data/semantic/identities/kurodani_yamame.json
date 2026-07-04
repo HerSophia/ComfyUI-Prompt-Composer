@@ -1,0 +1,30 @@
+{
+  "id": "kurodani_yamame",
+  "name": "黑谷山女",
+  "identity_tags": [
+    "kurodani_yamame"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "twintails",
+      "hair_bun"
+    ],
+    "eyes": [
+      "red_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "pinafore_dress",
+    "geta",
+    "skirt_set",
+    "adapted_costume"
+  ],
+  "optional_clothing": []
+}

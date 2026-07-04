@@ -1,0 +1,27 @@
+{
+  "id": "kyon",
+  "name": "阿虚",
+  "identity_tags": [
+    "kyon"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "kita_high_school_uniform",
+    "blazer",
+    "summer_uniform",
+    "cardigan"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "mejiro_mcqueen_umamusume",
+  "name": "目白麦昆",
+  "identity_tags": [
+    "mejiro_mcqueen_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "swept_bangs",
+      "ponytail",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "summer_uniform",
+    "track_jacket",
+    "bowtie"
+  ],
+  "optional_clothing": []
+}

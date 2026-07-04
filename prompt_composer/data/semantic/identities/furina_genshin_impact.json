@@ -1,0 +1,30 @@
+{
+  "id": "furina_genshin_impact",
+  "name": "芙宁娜",
+  "identity_tags": [
+    "furina_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ahoge",
+      "wavy_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "ascot",
+    "thigh_strap",
+    "shorts",
+    "short_shorts"
+  ],
+  "optional_clothing": []
+}

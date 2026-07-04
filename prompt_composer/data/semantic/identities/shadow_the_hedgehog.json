@@ -1,0 +1,26 @@
+{
+  "id": "shadow_the_hedgehog",
+  "name": "夏特",
+  "identity_tags": [
+    "shadow_the_hedgehog"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "shoes",
+    "boots",
+    "pants",
+    "dress"
+  ],
+  "optional_clothing": []
+}

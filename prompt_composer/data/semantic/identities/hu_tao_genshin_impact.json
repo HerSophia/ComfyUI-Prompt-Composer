@@ -1,0 +1,30 @@
+{
+  "id": "hu_tao_genshin_impact",
+  "name": "胡桃",
+  "identity_tags": [
+    "hu_tao_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "chinese_clothes",
+    "bead_necklace",
+    "white_necktie",
+    "short_shorts"
+  ],
+  "optional_clothing": []
+}

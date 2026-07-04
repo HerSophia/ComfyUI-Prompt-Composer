@@ -1,0 +1,30 @@
+{
+  "id": "ch_en_arknights",
+  "name": "陈",
+  "identity_tags": [
+    "ch'en_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "china_dress",
+    "short_shorts",
+    "chinese_clothes",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

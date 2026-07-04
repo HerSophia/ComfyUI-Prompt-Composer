@@ -1,0 +1,30 @@
+{
+  "id": "ryoshu_project_moon",
+  "name": "良秀",
+  "identity_tags": [
+    "ryoshu_(project_moon)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "bob_cut",
+      "ponytail",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "collared_shirt",
+    "pants",
+    "vest",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

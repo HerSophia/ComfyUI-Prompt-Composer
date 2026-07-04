@@ -1,0 +1,27 @@
+{
+  "id": "elysia_herrscher_of_human_ego_honkai_impact",
+  "name": "爱莉希雅（人之律者）",
+  "identity_tags": [
+    "elysia_(herrscher_of_human:_ego)_(honkai_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "corset",
+    "high_heel_boots",
+    "short_shorts",
+    "bare_legs"
+  ],
+  "optional_clothing": []
+}

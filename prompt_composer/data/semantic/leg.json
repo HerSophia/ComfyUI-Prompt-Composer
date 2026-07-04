@@ -1,0 +1,504 @@
+[
+  {
+    "tag": "sitting",
+    "category": "leg",
+    "weight": 6.08,
+    "aliases": [
+      "sitting_down",
+      "sit"
+    ],
+    "label_zh": "坐",
+    "post_count": 1200547
+  },
+  {
+    "tag": "feet",
+    "category": "leg",
+    "weight": 5.4,
+    "aliases": [
+      "foot"
+    ],
+    "label_zh": "脚",
+    "post_count": 250443
+  },
+  {
+    "tag": "feet_out_of_frame",
+    "category": "leg",
+    "weight": 5.32,
+    "aliases": [],
+    "label_zh": "双脚不在图内",
+    "post_count": 209693
+  },
+  {
+    "tag": "legs",
+    "category": "leg",
+    "weight": 5.24,
+    "aliases": [
+      "leg"
+    ],
+    "label_zh": "双腿",
+    "post_count": 173870
+  },
+  {
+    "tag": "thick_thighs",
+    "category": "leg",
+    "weight": 5.15,
+    "aliases": [
+      "fat_thighs",
+      "big_thighs",
+      "thunder_thighs",
+      "thighthick"
+    ],
+    "label_zh": "肉腿",
+    "post_count": 141089
+  },
+  {
+    "tag": "squatting",
+    "category": "leg",
+    "weight": 5.06,
+    "aliases": [
+      "crouched",
+      "crouching",
+      "squat",
+      "crouch"
+    ],
+    "label_zh": "蹲下",
+    "post_count": 114486
+  },
+  {
+    "tag": "leg_up",
+    "category": "leg",
+    "weight": 5.01,
+    "aliases": [
+      "one_leg_raised"
+    ],
+    "label_zh": "抬起腿",
+    "post_count": 102512
+  },
+  {
+    "tag": "wariza",
+    "category": "leg",
+    "weight": 5.01,
+    "aliases": [
+      "w_legs",
+      "w-legs",
+      "w_sitting",
+      "w-sitting"
+    ],
+    "label_zh": "鸭子坐",
+    "post_count": 101335
+  },
+  {
+    "tag": "crossed_legs",
+    "category": "leg",
+    "weight": 4.99,
+    "aliases": [
+      "crossed_legs_(standing)",
+      "crossed_legs_(lying)",
+      "crossed_legs_(sitting)",
+      "legs_crossed"
+    ],
+    "label_zh": "二郎腿",
+    "post_count": 97768
+  },
+  {
+    "tag": "straddling",
+    "category": "leg",
+    "weight": 4.96,
+    "aliases": [
+      "straddle"
+    ],
+    "label_zh": "跨坐",
+    "post_count": 91995
+  },
+  {
+    "tag": "all_fours",
+    "category": "leg",
+    "weight": 4.87,
+    "aliases": [
+      "on_all_fours",
+      "hands_and_knees",
+      "all-fours"
+    ],
+    "label_zh": "四肢着地",
+    "post_count": 73602
+  },
+  {
+    "tag": "cropped_legs",
+    "category": "leg",
+    "weight": 4.81,
+    "aliases": [
+      "cropped_feet"
+    ],
+    "label_zh": "只画了一部分腿",
+    "post_count": 64258
+  },
+  {
+    "tag": "knee_up",
+    "category": "leg",
+    "weight": 4.73,
+    "aliases": [],
+    "label_zh": "顶起膝盖",
+    "post_count": 53458
+  },
+  {
+    "tag": "legs_apart",
+    "category": "leg",
+    "weight": 4.64,
+    "aliases": [],
+    "label_zh": "两腿分开",
+    "post_count": 43947
+  },
+  {
+    "tag": "legs_up",
+    "category": "leg",
+    "weight": 4.64,
+    "aliases": [],
+    "label_zh": "抬一只腿",
+    "post_count": 43753
+  },
+  {
+    "tag": "knees_together_feet_apart",
+    "category": "leg",
+    "weight": 4.59,
+    "aliases": [
+      "knees_touching"
+    ],
+    "label_zh": "膝盖合并，两脚分开",
+    "post_count": 38862
+  },
+  {
+    "tag": "foot_out_of_frame",
+    "category": "leg",
+    "weight": 4.56,
+    "aliases": [],
+    "label_zh": "单脚不在图内",
+    "post_count": 36579
+  },
+  {
+    "tag": "legs_together",
+    "category": "leg",
+    "weight": 4.55,
+    "aliases": [
+      "knees_together",
+      "knees_together_feet_together"
+    ],
+    "label_zh": "两腿并拢",
+    "post_count": 35091
+  },
+  {
+    "tag": "sitting_on_person",
+    "category": "leg",
+    "weight": 4.49,
+    "aliases": [
+      "sitting_on"
+    ],
+    "label_zh": "坐在人身上",
+    "post_count": 31237
+  },
+  {
+    "tag": "yokozuwari",
+    "category": "leg",
+    "weight": 4.39,
+    "aliases": [],
+    "label_zh": "侧身坐",
+    "post_count": 24301
+  },
+  {
+    "tag": "tiptoes",
+    "category": "leg",
+    "weight": 4.23,
+    "aliases": [
+      "tip_toe",
+      "tip-toe",
+      "tip_toes",
+      "tip-toes",
+      "tiptoe"
+    ],
+    "label_zh": "踮起脚尖",
+    "post_count": 16796
+  },
+  {
+    "tag": "sitting_on_lap",
+    "category": "leg",
+    "weight": 4.22,
+    "aliases": [
+      "sitting_in_lap",
+      "lap_sitting"
+    ],
+    "label_zh": "坐在大腿上",
+    "post_count": 16403
+  },
+  {
+    "tag": "pigeon-toed",
+    "category": "leg",
+    "weight": 4.14,
+    "aliases": [
+      "pigeon_toed",
+      "pigeon_toes",
+      "intoed"
+    ],
+    "label_zh": "萌向的内八腿",
+    "post_count": 13829
+  },
+  {
+    "tag": "knees",
+    "category": "leg",
+    "weight": 4.13,
+    "aliases": [
+      "knee"
+    ],
+    "label_zh": "膝盖",
+    "post_count": 13517
+  },
+  {
+    "tag": "feet_up",
+    "category": "leg",
+    "weight": 4.06,
+    "aliases": [],
+    "label_zh": "翘起脚",
+    "post_count": 11381
+  },
+  {
+    "tag": "crossed_ankles",
+    "category": "leg",
+    "weight": 3.87,
+    "aliases": [],
+    "label_zh": "交叉脚踝",
+    "post_count": 7391
+  },
+  {
+    "tag": "on_lap",
+    "category": "leg",
+    "weight": 3.72,
+    "aliases": [],
+    "label_zh": "在膝盖上",
+    "post_count": 5198
+  },
+  {
+    "tag": "footprints",
+    "category": "leg",
+    "weight": 3.62,
+    "aliases": [
+      "footprint"
+    ],
+    "label_zh": "脚印",
+    "post_count": 4166
+  },
+  {
+    "tag": "leg_belt",
+    "category": "leg",
+    "weight": 3.55,
+    "aliases": [],
+    "label_zh": "腿部系着带子",
+    "post_count": 3511
+  },
+  {
+    "tag": "sitting_on_stairs",
+    "category": "leg",
+    "weight": 3.54,
+    "aliases": [],
+    "label_zh": "坐在楼梯上",
+    "post_count": 3480
+  },
+  {
+    "tag": "ankle_strap",
+    "category": "leg",
+    "weight": 3.51,
+    "aliases": [],
+    "label_zh": "脚踝丝环",
+    "post_count": 3225
+  },
+  {
+    "tag": "sitting_in_tree",
+    "category": "leg",
+    "weight": 3.46,
+    "aliases": [
+      "sitting_on_tree",
+      "tree_sitting"
+    ],
+    "label_zh": "坐在树上",
+    "post_count": 2870
+  },
+  {
+    "tag": "high_kick",
+    "category": "leg",
+    "weight": 3.39,
+    "aliases": [],
+    "label_zh": "高踢",
+    "post_count": 2454
+  },
+  {
+    "tag": "animal_on_lap",
+    "category": "leg",
+    "weight": 3.38,
+    "aliases": [],
+    "label_zh": "膝盖上有动物",
+    "post_count": 2410
+  },
+  {
+    "tag": "sidesaddle",
+    "category": "leg",
+    "weight": 3.35,
+    "aliases": [],
+    "label_zh": "侧坐在鞍上",
+    "post_count": 2206
+  },
+  {
+    "tag": "tail_between_legs",
+    "category": "leg",
+    "weight": 3.33,
+    "aliases": [],
+    "label_zh": "尾巴蜷到两腿之间",
+    "post_count": 2127
+  },
+  {
+    "tag": "multiple_legs",
+    "category": "leg",
+    "weight": 3.25,
+    "aliases": [],
+    "label_zh": "多足角色",
+    "post_count": 1757
+  },
+  {
+    "tag": "sitting_on_table",
+    "category": "leg",
+    "weight": 3.22,
+    "aliases": [],
+    "label_zh": "坐在桌子上",
+    "post_count": 1643
+  },
+  {
+    "tag": "sitting_backwards",
+    "category": "leg",
+    "weight": 3.17,
+    "aliases": [
+      "backwards_sitting"
+    ],
+    "label_zh": "向后坐",
+    "post_count": 1461
+  },
+  {
+    "tag": "butterfly_sitting",
+    "category": "leg",
+    "weight": 3.15,
+    "aliases": [
+      "butterfly_pose"
+    ],
+    "label_zh": "蝴蝶坐",
+    "post_count": 1400
+  },
+  {
+    "tag": "ankle_wrap",
+    "category": "leg",
+    "weight": 3.05,
+    "aliases": [
+      "ankle_wraps"
+    ],
+    "label_zh": "脚踝套",
+    "post_count": 1116
+  },
+  {
+    "tag": "sitting_on_water",
+    "category": "leg",
+    "weight": 2.93,
+    "aliases": [],
+    "label_zh": "坐在水上",
+    "post_count": 832
+  },
+  {
+    "tag": "standing_split,_leg_up",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "M字摆腿",
+    "post_count": 0
+  },
+  {
+    "tag": "curtsy",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "屈膝礼（女仆行礼）",
+    "post_count": 0
+  },
+  {
+    "tag": "open_stance",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "稍息",
+    "post_count": 0
+  },
+  {
+    "tag": "sitting_on_xx",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "坐在物体上",
+    "post_count": 0
+  },
+  {
+    "tag": "sitting_on_railing",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "坐在栏杆上",
+    "post_count": 0
+  },
+  {
+    "tag": "sitting_on_rock",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "坐在石头",
+    "post_count": 0
+  },
+  {
+    "tag": "sitting_on_chair",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "坐在椅子上",
+    "post_count": 0
+  },
+  {
+    "tag": "sitting_on_bed",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "坐在床上",
+    "post_count": 0
+  },
+  {
+    "tag": "sitting_on_desk",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "坐在课桌上",
+    "post_count": 0
+  },
+  {
+    "tag": "one_knee",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "一只膝盖",
+    "post_count": 0
+  },
+  {
+    "tag": "no_legs",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "没画出腿",
+    "post_count": 0
+  },
+  {
+    "tag": "toe-point",
+    "category": "leg",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "趾尖",
+    "post_count": 0
+  }
+]

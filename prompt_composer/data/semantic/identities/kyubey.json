@@ -1,0 +1,30 @@
+{
+  "id": "kyubey",
+  "name": "丘比",
+  "identity_tags": [
+    "kyubey"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "drill_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "mitakihara_school_uniform",
+    "bubble_skirt",
+    "corset",
+    "cape"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "shigure_kai_ni_kancolle",
+  "name": "时雨改二",
+  "identity_tags": [
+    "shigure_kai_ni_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "hair_flaps",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sailor_bikini",
+    "red_neckerchief",
+    "naval_uniform",
+    "serafuku"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "princess_daisy",
+  "name": "黛西公主",
+  "identity_tags": [
+    "princess_daisy"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "overalls",
+    "long_dress",
+    "high_heels",
+    "crop_top"
+  ],
+  "optional_clothing": []
+}

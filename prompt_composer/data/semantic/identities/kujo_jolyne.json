@@ -1,0 +1,29 @@
+{
+  "id": "kujo_jolyne",
+  "name": "空条徐伦",
+  "identity_tags": [
+    "kujo_jolyne"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "hair_bun",
+      "double_bun",
+      "braided_ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "halterneck",
+    "crop_top",
+    "pants",
+    "school_uniform"
+  ],
+  "optional_clothing": []
+}

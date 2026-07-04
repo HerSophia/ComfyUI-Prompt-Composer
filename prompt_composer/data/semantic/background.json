@@ -1,0 +1,2212 @@
+[
+  {
+    "tag": "simple_background",
+    "category": "background",
+    "weight": 6.4,
+    "aliases": [
+      "/simplebg",
+      "/sbg"
+    ],
+    "label_zh": "简单的背景",
+    "post_count": 2519895
+  },
+  {
+    "tag": "white_background",
+    "category": "background",
+    "weight": 6.32,
+    "aliases": [
+      "/whitebg",
+      "/wbg"
+    ],
+    "label_zh": "白色背景",
+    "post_count": 2076969
+  },
+  {
+    "tag": "outdoors",
+    "category": "background",
+    "weight": 5.86,
+    "aliases": [
+      "outside",
+      "outdoor"
+    ],
+    "label_zh": "室外",
+    "post_count": 717343
+  },
+  {
+    "tag": "sky",
+    "category": "background",
+    "weight": 5.75,
+    "aliases": [
+      "sky_background"
+    ],
+    "label_zh": "天空",
+    "post_count": 562603
+  },
+  {
+    "tag": "day",
+    "category": "background",
+    "weight": 5.62,
+    "aliases": [],
+    "label_zh": "白天",
+    "post_count": 420550
+  },
+  {
+    "tag": "grey_background",
+    "category": "background",
+    "weight": 5.54,
+    "aliases": [
+      "/graybg",
+      "/greybg",
+      "gray_background"
+    ],
+    "label_zh": "灰色背景",
+    "post_count": 348477
+  },
+  {
+    "tag": "blurry",
+    "category": "background",
+    "weight": 5.46,
+    "aliases": [
+      "blurred"
+    ],
+    "label_zh": "背景模糊",
+    "post_count": 288673
+  },
+  {
+    "tag": "border",
+    "category": "background",
+    "weight": 5.34,
+    "aliases": [
+      "windowboxed",
+      "bordered",
+      "windowbox"
+    ],
+    "label_zh": "边框",
+    "post_count": 220510
+  },
+  {
+    "tag": "gradient_background",
+    "category": "background",
+    "weight": 5.24,
+    "aliases": [
+      "/gradientbg",
+      "/gbg"
+    ],
+    "label_zh": "渐变的背景",
+    "post_count": 174453
+  },
+  {
+    "tag": "night",
+    "category": "background",
+    "weight": 5.19,
+    "aliases": [],
+    "label_zh": "夜晚",
+    "post_count": 155036
+  },
+  {
+    "tag": "transparent_background",
+    "category": "background",
+    "weight": 5.18,
+    "aliases": [
+      "/transparentbg",
+      "/tbg",
+      "transparent_png",
+      "transparent_gif"
+    ],
+    "label_zh": "透明背景",
+    "post_count": 152287
+  },
+  {
+    "tag": "chair",
+    "category": "background",
+    "weight": 5.12,
+    "aliases": [
+      "chairs"
+    ],
+    "label_zh": "椅子",
+    "post_count": 132249
+  },
+  {
+    "tag": "ocean",
+    "category": "background",
+    "weight": 5.11,
+    "aliases": [
+      "sea"
+    ],
+    "label_zh": "海洋",
+    "post_count": 128284
+  },
+  {
+    "tag": "bed",
+    "category": "background",
+    "weight": 5.11,
+    "aliases": [],
+    "label_zh": "床",
+    "post_count": 128124
+  },
+  {
+    "tag": "depth_of_field",
+    "category": "background",
+    "weight": 5.08,
+    "aliases": [
+      "focus_blur",
+      "/dof"
+    ],
+    "label_zh": "景深(画法)",
+    "post_count": 119711
+  },
+  {
+    "tag": "black_background",
+    "category": "background",
+    "weight": 5.07,
+    "aliases": [
+      "/blackbg"
+    ],
+    "label_zh": "黑色背景",
+    "post_count": 118516
+  },
+  {
+    "tag": "beach",
+    "category": "background",
+    "weight": 5.07,
+    "aliases": [],
+    "label_zh": "海边",
+    "post_count": 117117
+  },
+  {
+    "tag": "bed_sheet",
+    "category": "background",
+    "weight": 5.06,
+    "aliases": [
+      "bedsheet",
+      "sheets",
+      "bedsheets",
+      "bedsheet",
+      "bed_sheets",
+      "sheet"
+    ],
+    "label_zh": "床单",
+    "post_count": 115220
+  },
+  {
+    "tag": "table",
+    "category": "background",
+    "weight": 5.04,
+    "aliases": [],
+    "label_zh": "桌子",
+    "post_count": 109346
+  },
+  {
+    "tag": "moon",
+    "category": "background",
+    "weight": 4.99,
+    "aliases": [],
+    "label_zh": "月亮",
+    "post_count": 96952
+  },
+  {
+    "tag": "stuffed_animal",
+    "category": "background",
+    "weight": 4.94,
+    "aliases": [
+      "plushy",
+      "plushies",
+      "stuffed_animals",
+      "plushie",
+      "nuigurumi"
+    ],
+    "label_zh": "毛绒玩偶",
+    "post_count": 87500
+  },
+  {
+    "tag": "curtains",
+    "category": "background",
+    "weight": 4.93,
+    "aliases": [
+      "drapes",
+      "curtain"
+    ],
+    "label_zh": "窗帘",
+    "post_count": 85334
+  },
+  {
+    "tag": "star_(sky)",
+    "category": "background",
+    "weight": 4.89,
+    "aliases": [
+      "stars_(sky)"
+    ],
+    "label_zh": "星星(天空中的)",
+    "post_count": 78238
+  },
+  {
+    "tag": "building",
+    "category": "background",
+    "weight": 4.89,
+    "aliases": [
+      "buildings"
+    ],
+    "label_zh": "建筑",
+    "post_count": 77709
+  },
+  {
+    "tag": "polka_dot",
+    "category": "background",
+    "weight": 4.89,
+    "aliases": [
+      "polka-dot",
+      "polka_dots"
+    ],
+    "label_zh": "圆斑背景",
+    "post_count": 76889
+  },
+  {
+    "tag": "couch",
+    "category": "background",
+    "weight": 4.84,
+    "aliases": [
+      "settee",
+      "sofa"
+    ],
+    "label_zh": "沙发",
+    "post_count": 69840
+  },
+  {
+    "tag": "scenery",
+    "category": "background",
+    "weight": 4.84,
+    "aliases": [
+      "scenic"
+    ],
+    "label_zh": "风景",
+    "post_count": 69529
+  },
+  {
+    "tag": "crescent",
+    "category": "background",
+    "weight": 4.83,
+    "aliases": [
+      "crescent_moon_symbol"
+    ],
+    "label_zh": "月牙",
+    "post_count": 67028
+  },
+  {
+    "tag": "nature",
+    "category": "background",
+    "weight": 4.79,
+    "aliases": [],
+    "label_zh": "大自然",
+    "post_count": 62010
+  },
+  {
+    "tag": "two-tone_background",
+    "category": "background",
+    "weight": 4.77,
+    "aliases": [
+      "/two-tonebg"
+    ],
+    "label_zh": "双色调背景",
+    "post_count": 58527
+  },
+  {
+    "tag": "brown_background",
+    "category": "background",
+    "weight": 4.75,
+    "aliases": [
+      "/brownbg"
+    ],
+    "label_zh": "棕色背景",
+    "post_count": 56720
+  },
+  {
+    "tag": "full_moon",
+    "category": "background",
+    "weight": 4.71,
+    "aliases": [
+      "fullmoon"
+    ],
+    "label_zh": "满月",
+    "post_count": 51299
+  },
+  {
+    "tag": "starry_sky",
+    "category": "background",
+    "weight": 4.69,
+    "aliases": [],
+    "label_zh": "星空",
+    "post_count": 48889
+  },
+  {
+    "tag": "rain",
+    "category": "background",
+    "weight": 4.64,
+    "aliases": [
+      "raining"
+    ],
+    "label_zh": "下雨",
+    "post_count": 44105
+  },
+  {
+    "tag": "blurry_foreground",
+    "category": "background",
+    "weight": 4.59,
+    "aliases": [],
+    "label_zh": "前景模糊",
+    "post_count": 38829
+  },
+  {
+    "tag": "sunset",
+    "category": "background",
+    "weight": 4.56,
+    "aliases": [],
+    "label_zh": "日落",
+    "post_count": 36323
+  },
+  {
+    "tag": "tiles",
+    "category": "background",
+    "weight": 4.53,
+    "aliases": [
+      "tile"
+    ],
+    "label_zh": "瓷砖",
+    "post_count": 33756
+  },
+  {
+    "tag": "stairs",
+    "category": "background",
+    "weight": 4.53,
+    "aliases": [
+      "stairway",
+      "staircase",
+      "stair",
+      "steps"
+    ],
+    "label_zh": "楼梯",
+    "post_count": 33554
+  },
+  {
+    "tag": "city",
+    "category": "background",
+    "weight": 4.51,
+    "aliases": [],
+    "label_zh": "城市",
+    "post_count": 32120
+  },
+  {
+    "tag": "mountain",
+    "category": "background",
+    "weight": 4.48,
+    "aliases": [
+      "mountains"
+    ],
+    "label_zh": "山脉",
+    "post_count": 29935
+  },
+  {
+    "tag": "fence",
+    "category": "background",
+    "weight": 4.47,
+    "aliases": [],
+    "label_zh": "栅栏",
+    "post_count": 29596
+  },
+  {
+    "tag": "floral_background",
+    "category": "background",
+    "weight": 4.46,
+    "aliases": [
+      "/floralbg",
+      "flower_background"
+    ],
+    "label_zh": "花朵点缀的背景",
+    "post_count": 29124
+  },
+  {
+    "tag": "door",
+    "category": "background",
+    "weight": 4.46,
+    "aliases": [
+      "doors"
+    ],
+    "label_zh": "门",
+    "post_count": 28558
+  },
+  {
+    "tag": "underwater",
+    "category": "background",
+    "weight": 4.44,
+    "aliases": [
+      "under_water"
+    ],
+    "label_zh": "水中",
+    "post_count": 27823
+  },
+  {
+    "tag": "sun",
+    "category": "background",
+    "weight": 4.43,
+    "aliases": [],
+    "label_zh": "太阳",
+    "post_count": 27028
+  },
+  {
+    "tag": "classroom",
+    "category": "background",
+    "weight": 4.37,
+    "aliases": [
+      "class_room"
+    ],
+    "label_zh": "教室",
+    "post_count": 23683
+  },
+  {
+    "tag": "onsen",
+    "category": "background",
+    "weight": 4.37,
+    "aliases": [
+      "hot_springs",
+      "hot_spring",
+      "hotspring"
+    ],
+    "label_zh": "温泉",
+    "post_count": 23236
+  },
+  {
+    "tag": "school_desk",
+    "category": "background",
+    "weight": 4.35,
+    "aliases": [],
+    "label_zh": "课桌",
+    "post_count": 22525
+  },
+  {
+    "tag": "road",
+    "category": "background",
+    "weight": 4.35,
+    "aliases": [],
+    "label_zh": "道路",
+    "post_count": 22258
+  },
+  {
+    "tag": "cityscape",
+    "category": "background",
+    "weight": 4.34,
+    "aliases": [],
+    "label_zh": "城市背景",
+    "post_count": 22112
+  },
+  {
+    "tag": "space",
+    "category": "background",
+    "weight": 4.34,
+    "aliases": [
+      "outer_space"
+    ],
+    "label_zh": "太空",
+    "post_count": 21921
+  },
+  {
+    "tag": "bench",
+    "category": "background",
+    "weight": 4.31,
+    "aliases": [],
+    "label_zh": "长凳",
+    "post_count": 20186
+  },
+  {
+    "tag": "tatami",
+    "category": "background",
+    "weight": 4.3,
+    "aliases": [],
+    "label_zh": "榻榻米",
+    "post_count": 19906
+  },
+  {
+    "tag": "architecture",
+    "category": "background",
+    "weight": 4.3,
+    "aliases": [],
+    "label_zh": "建筑",
+    "post_count": 19778
+  },
+  {
+    "tag": "field",
+    "category": "background",
+    "weight": 4.29,
+    "aliases": [],
+    "label_zh": "田园",
+    "post_count": 19340
+  },
+  {
+    "tag": "fantasy",
+    "category": "background",
+    "weight": 4.28,
+    "aliases": [],
+    "label_zh": "幻想风格",
+    "post_count": 18965
+  },
+  {
+    "tag": "bedroom",
+    "category": "background",
+    "weight": 4.28,
+    "aliases": [],
+    "label_zh": "卧室",
+    "post_count": 18871
+  },
+  {
+    "tag": "snowflakes",
+    "category": "background",
+    "weight": 4.24,
+    "aliases": [
+      "snowflake"
+    ],
+    "label_zh": "雪花",
+    "post_count": 17233
+  },
+  {
+    "tag": "east_asian_architecture",
+    "category": "background",
+    "weight": 4.2,
+    "aliases": [
+      "chinese_architecture",
+      "japanese_architecture"
+    ],
+    "label_zh": "东亚建物",
+    "post_count": 15724
+  },
+  {
+    "tag": "torii",
+    "category": "background",
+    "weight": 4.19,
+    "aliases": [
+      "shrine_gate",
+      "torii_(gate)",
+      "torii_gate"
+    ],
+    "label_zh": "鸟居",
+    "post_count": 15535
+  },
+  {
+    "tag": "crescent_moon",
+    "category": "background",
+    "weight": 4.18,
+    "aliases": [],
+    "label_zh": "新月",
+    "post_count": 15225
+  },
+  {
+    "tag": "bathroom",
+    "category": "background",
+    "weight": 4.17,
+    "aliases": [],
+    "label_zh": "浴室",
+    "post_count": 14914
+  },
+  {
+    "tag": "sliding_doors",
+    "category": "background",
+    "weight": 4.15,
+    "aliases": [
+      "sliding_door"
+    ],
+    "label_zh": "推拉门",
+    "post_count": 14133
+  },
+  {
+    "tag": "ripples",
+    "category": "background",
+    "weight": 4.15,
+    "aliases": [
+      "ripple"
+    ],
+    "label_zh": "涟漪",
+    "post_count": 14040
+  },
+  {
+    "tag": "ruins",
+    "category": "background",
+    "weight": 4.14,
+    "aliases": [
+      "ruin"
+    ],
+    "label_zh": "废墟",
+    "post_count": 13829
+  },
+  {
+    "tag": "power_lines",
+    "category": "background",
+    "weight": 4.12,
+    "aliases": [
+      "power_line"
+    ],
+    "label_zh": "电线杆和电线",
+    "post_count": 13172
+  },
+  {
+    "tag": "lamppost",
+    "category": "background",
+    "weight": 4.12,
+    "aliases": [
+      "lamp_post",
+      "lamp-post",
+      "street_lights",
+      "street_light",
+      "streetlights",
+      "streetlamp",
+      "streetlight",
+      "street_lamp"
+    ],
+    "label_zh": "路灯",
+    "post_count": 13084
+  },
+  {
+    "tag": "planet",
+    "category": "background",
+    "weight": 4.12,
+    "aliases": [
+      "planets"
+    ],
+    "label_zh": "星球",
+    "post_count": 13081
+  },
+  {
+    "tag": "checkered_background",
+    "category": "background",
+    "weight": 4.1,
+    "aliases": [
+      "/ckbg",
+      "/checkbg",
+      "/checkeredbg"
+    ],
+    "label_zh": "方格背景",
+    "post_count": 12653
+  },
+  {
+    "tag": "rainbow",
+    "category": "background",
+    "weight": 4.1,
+    "aliases": [
+      "rainbows"
+    ],
+    "label_zh": "彩虹",
+    "post_count": 12511
+  },
+  {
+    "tag": "bridge",
+    "category": "background",
+    "weight": 4.1,
+    "aliases": [],
+    "label_zh": "桥",
+    "post_count": 12501
+  },
+  {
+    "tag": "flower_field",
+    "category": "background",
+    "weight": 4.08,
+    "aliases": [],
+    "label_zh": "花田",
+    "post_count": 12140
+  },
+  {
+    "tag": "dripping",
+    "category": "background",
+    "weight": 4.08,
+    "aliases": [],
+    "label_zh": "滴水",
+    "post_count": 12004
+  },
+  {
+    "tag": "futon",
+    "category": "background",
+    "weight": 4.04,
+    "aliases": [],
+    "label_zh": "日本床垫",
+    "post_count": 10952
+  },
+  {
+    "tag": "street",
+    "category": "background",
+    "weight": 4.03,
+    "aliases": [],
+    "label_zh": "街道",
+    "post_count": 10635
+  },
+  {
+    "tag": "pillow_hug",
+    "category": "background",
+    "weight": 4.02,
+    "aliases": [],
+    "label_zh": "抱枕",
+    "post_count": 10556
+  },
+  {
+    "tag": "skyscraper",
+    "category": "background",
+    "weight": 4.02,
+    "aliases": [],
+    "label_zh": "摩天楼",
+    "post_count": 10399
+  },
+  {
+    "tag": "river",
+    "category": "background",
+    "weight": 4.0,
+    "aliases": [],
+    "label_zh": "河流",
+    "post_count": 10009
+  },
+  {
+    "tag": "castle",
+    "category": "background",
+    "weight": 3.99,
+    "aliases": [],
+    "label_zh": "城堡",
+    "post_count": 9730
+  },
+  {
+    "tag": "waves",
+    "category": "background",
+    "weight": 3.98,
+    "aliases": [],
+    "label_zh": "波浪",
+    "post_count": 9629
+  },
+  {
+    "tag": "landscape",
+    "category": "background",
+    "weight": 3.97,
+    "aliases": [],
+    "label_zh": "景观",
+    "post_count": 9357
+  },
+  {
+    "tag": "viewfinder",
+    "category": "background",
+    "weight": 3.97,
+    "aliases": [
+      "camcorder_interface",
+      "camera_frame"
+    ],
+    "label_zh": "相机取景框",
+    "post_count": 9354
+  },
+  {
+    "tag": "gradient_sky",
+    "category": "background",
+    "weight": 3.97,
+    "aliases": [],
+    "label_zh": "倾斜的天空",
+    "post_count": 9302
+  },
+  {
+    "tag": "kitchen",
+    "category": "background",
+    "weight": 3.95,
+    "aliases": [],
+    "label_zh": "厨房",
+    "post_count": 8865
+  },
+  {
+    "tag": "kotatsu",
+    "category": "background",
+    "weight": 3.93,
+    "aliases": [],
+    "label_zh": "被炉",
+    "post_count": 8558
+  },
+  {
+    "tag": "abstract_background",
+    "category": "background",
+    "weight": 3.93,
+    "aliases": [
+      "/abstractbg"
+    ],
+    "label_zh": "抽象背景",
+    "post_count": 8446
+  },
+  {
+    "tag": "heart_background",
+    "category": "background",
+    "weight": 3.93,
+    "aliases": [
+      "/heartbg"
+    ],
+    "label_zh": "桃色背景",
+    "post_count": 8415
+  },
+  {
+    "tag": "stage",
+    "category": "background",
+    "weight": 3.92,
+    "aliases": [],
+    "label_zh": "舞台",
+    "post_count": 8401
+  },
+  {
+    "tag": "pillarboxed",
+    "category": "background",
+    "weight": 3.91,
+    "aliases": [
+      "pillarbox"
+    ],
+    "label_zh": "柱状画布背景",
+    "post_count": 8157
+  },
+  {
+    "tag": "road_sign",
+    "category": "background",
+    "weight": 3.91,
+    "aliases": [
+      "street_sign",
+      "traffic_sign",
+      "roadsign"
+    ],
+    "label_zh": "路标",
+    "post_count": 8146
+  },
+  {
+    "tag": "armchair",
+    "category": "background",
+    "weight": 3.91,
+    "aliases": [],
+    "label_zh": "扶手椅",
+    "post_count": 8072
+  },
+  {
+    "tag": "crowd",
+    "category": "background",
+    "weight": 3.91,
+    "aliases": [],
+    "label_zh": "人群",
+    "post_count": 8065
+  },
+  {
+    "tag": "halftone_background",
+    "category": "background",
+    "weight": 3.9,
+    "aliases": [
+      "/halftonebg",
+      "/htbg"
+    ],
+    "label_zh": "网点图背景",
+    "post_count": 7890
+  },
+  {
+    "tag": "office_chair",
+    "category": "background",
+    "weight": 3.89,
+    "aliases": [
+      "computer_chair"
+    ],
+    "label_zh": "办公椅",
+    "post_count": 7801
+  },
+  {
+    "tag": "tower",
+    "category": "background",
+    "weight": 3.88,
+    "aliases": [],
+    "label_zh": "塔",
+    "post_count": 7629
+  },
+  {
+    "tag": "shop",
+    "category": "background",
+    "weight": 3.88,
+    "aliases": [
+      "store",
+      "shops"
+    ],
+    "label_zh": "商店",
+    "post_count": 7612
+  },
+  {
+    "tag": "lake",
+    "category": "background",
+    "weight": 3.88,
+    "aliases": [],
+    "label_zh": "湖泊",
+    "post_count": 7532
+  },
+  {
+    "tag": "toilet",
+    "category": "background",
+    "weight": 3.87,
+    "aliases": [],
+    "label_zh": "马桶",
+    "post_count": 7345
+  },
+  {
+    "tag": "waterfall",
+    "category": "background",
+    "weight": 3.86,
+    "aliases": [],
+    "label_zh": "瀑布",
+    "post_count": 7256
+  },
+  {
+    "tag": "argyle_background",
+    "category": "background",
+    "weight": 3.85,
+    "aliases": [
+      "diamond_background",
+      "/argbg",
+      "/argylebg"
+    ],
+    "label_zh": "菱形背景",
+    "post_count": 7026
+  },
+  {
+    "tag": "rubber_duck",
+    "category": "background",
+    "weight": 3.83,
+    "aliases": [
+      "rubber_ducky",
+      "rubber_duckie"
+    ],
+    "label_zh": "橡皮鸭",
+    "post_count": 6750
+  },
+  {
+    "tag": "library",
+    "category": "background",
+    "weight": 3.82,
+    "aliases": [],
+    "label_zh": "图书馆",
+    "post_count": 6603
+  },
+  {
+    "tag": "city_lights",
+    "category": "background",
+    "weight": 3.79,
+    "aliases": [],
+    "label_zh": "城市灯光背景",
+    "post_count": 6180
+  },
+  {
+    "tag": "sparkle_background",
+    "category": "background",
+    "weight": 3.79,
+    "aliases": [],
+    "label_zh": "闪着星光的背景",
+    "post_count": 6126
+  },
+  {
+    "tag": "dusk",
+    "category": "background",
+    "weight": 3.74,
+    "aliases": [],
+    "label_zh": "黄昏",
+    "post_count": 5522
+  },
+  {
+    "tag": "path",
+    "category": "background",
+    "weight": 3.72,
+    "aliases": [],
+    "label_zh": "路径",
+    "post_count": 5281
+  },
+  {
+    "tag": "seashell",
+    "category": "background",
+    "weight": 3.7,
+    "aliases": [
+      "seashells"
+    ],
+    "label_zh": "海贝",
+    "post_count": 4967
+  },
+  {
+    "tag": "restaurant",
+    "category": "background",
+    "weight": 3.69,
+    "aliases": [],
+    "label_zh": "饭店",
+    "post_count": 4899
+  },
+  {
+    "tag": "carpet",
+    "category": "background",
+    "weight": 3.69,
+    "aliases": [],
+    "label_zh": "地毯",
+    "post_count": 4853
+  },
+  {
+    "tag": "church",
+    "category": "background",
+    "weight": 3.68,
+    "aliases": [],
+    "label_zh": "教堂",
+    "post_count": 4773
+  },
+  {
+    "tag": "shower_head",
+    "category": "background",
+    "weight": 3.67,
+    "aliases": [],
+    "label_zh": "淋浴喷头",
+    "post_count": 4646
+  },
+  {
+    "tag": "tombstone",
+    "category": "background",
+    "weight": 3.66,
+    "aliases": [
+      "grave_stone",
+      "headstone",
+      "gravestone"
+    ],
+    "label_zh": "墓碑",
+    "post_count": 4594
+  },
+  {
+    "tag": "cliff",
+    "category": "background",
+    "weight": 3.66,
+    "aliases": [],
+    "label_zh": "悬崖",
+    "post_count": 4578
+  },
+  {
+    "tag": "moonlight",
+    "category": "background",
+    "weight": 3.65,
+    "aliases": [],
+    "label_zh": "月光",
+    "post_count": 4504
+  },
+  {
+    "tag": "bamboo_forest",
+    "category": "background",
+    "weight": 3.65,
+    "aliases": [],
+    "label_zh": "竹林",
+    "post_count": 4465
+  },
+  {
+    "tag": "vending_machine",
+    "category": "background",
+    "weight": 3.62,
+    "aliases": [],
+    "label_zh": "自动贩卖机",
+    "post_count": 4191
+  },
+  {
+    "tag": "alley",
+    "category": "background",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "小巷",
+    "post_count": 4077
+  },
+  {
+    "tag": "cafe",
+    "category": "background",
+    "weight": 3.61,
+    "aliases": [
+      "coffee_shop"
+    ],
+    "label_zh": "咖啡馆",
+    "post_count": 4031
+  },
+  {
+    "tag": "cyberpunk",
+    "category": "background",
+    "weight": 3.6,
+    "aliases": [],
+    "label_zh": "赛博朋克",
+    "post_count": 3946
+  },
+  {
+    "tag": "plaid_background",
+    "category": "background",
+    "weight": 3.57,
+    "aliases": [
+      "/plaidbg"
+    ],
+    "label_zh": "格子呢背景",
+    "post_count": 3693
+  },
+  {
+    "tag": "railroad_tracks",
+    "category": "background",
+    "weight": 3.52,
+    "aliases": [
+      "railway_tracks",
+      "railroad",
+      "train_tracks"
+    ],
+    "label_zh": "铁轨",
+    "post_count": 3316
+  },
+  {
+    "tag": "wheelchair",
+    "category": "background",
+    "weight": 3.52,
+    "aliases": [],
+    "label_zh": "轮椅",
+    "post_count": 3280
+  },
+  {
+    "tag": "neon_lights",
+    "category": "background",
+    "weight": 3.52,
+    "aliases": [],
+    "label_zh": "霓虹灯",
+    "post_count": 3276
+  },
+  {
+    "tag": "train_station",
+    "category": "background",
+    "weight": 3.49,
+    "aliases": [],
+    "label_zh": "火车站",
+    "post_count": 3047
+  },
+  {
+    "tag": "air_conditioner",
+    "category": "background",
+    "weight": 3.47,
+    "aliases": [
+      "a/c",
+      "aircon"
+    ],
+    "label_zh": "空调",
+    "post_count": 2956
+  },
+  {
+    "tag": "concert",
+    "category": "background",
+    "weight": 3.47,
+    "aliases": [],
+    "label_zh": "音乐会",
+    "post_count": 2940
+  },
+  {
+    "tag": "pavement",
+    "category": "background",
+    "weight": 3.46,
+    "aliases": [],
+    "label_zh": "路面",
+    "post_count": 2864
+  },
+  {
+    "tag": "folding_chair",
+    "category": "background",
+    "weight": 3.45,
+    "aliases": [],
+    "label_zh": "折叠椅",
+    "post_count": 2816
+  },
+  {
+    "tag": "stadium",
+    "category": "background",
+    "weight": 3.44,
+    "aliases": [],
+    "label_zh": "体育场",
+    "post_count": 2748
+  },
+  {
+    "tag": "ferris_wheel",
+    "category": "background",
+    "weight": 3.44,
+    "aliases": [],
+    "label_zh": "摩天轮",
+    "post_count": 2747
+  },
+  {
+    "tag": "lounge_chair",
+    "category": "background",
+    "weight": 3.44,
+    "aliases": [
+      "sun_lounger"
+    ],
+    "label_zh": "躺椅",
+    "post_count": 2741
+  },
+  {
+    "tag": "soap",
+    "category": "background",
+    "weight": 3.44,
+    "aliases": [],
+    "label_zh": "肥皂",
+    "post_count": 2728
+  },
+  {
+    "tag": "park",
+    "category": "background",
+    "weight": 3.44,
+    "aliases": [],
+    "label_zh": "公园",
+    "post_count": 2718
+  },
+  {
+    "tag": "fireplace",
+    "category": "background",
+    "weight": 3.43,
+    "aliases": [],
+    "label_zh": "壁炉",
+    "post_count": 2660
+  },
+  {
+    "tag": "graveyard",
+    "category": "background",
+    "weight": 3.42,
+    "aliases": [
+      "cemetery"
+    ],
+    "label_zh": "墓地",
+    "post_count": 2641
+  },
+  {
+    "tag": "yes-no_pillow",
+    "category": "background",
+    "weight": 3.42,
+    "aliases": [],
+    "label_zh": "Yes/No枕头",
+    "post_count": 2613
+  },
+  {
+    "tag": "fountain",
+    "category": "background",
+    "weight": 3.38,
+    "aliases": [],
+    "label_zh": "喷泉",
+    "post_count": 2380
+  },
+  {
+    "tag": "traffic_cone",
+    "category": "background",
+    "weight": 3.37,
+    "aliases": [
+      "pylon_(traffic)",
+      "road_cone",
+      "traffic_cones"
+    ],
+    "label_zh": "路障",
+    "post_count": 2310
+  },
+  {
+    "tag": "stream",
+    "category": "background",
+    "weight": 3.36,
+    "aliases": [
+      "creek"
+    ],
+    "label_zh": "溪流",
+    "post_count": 2271
+  },
+  {
+    "tag": "flashback",
+    "category": "background",
+    "weight": 3.3,
+    "aliases": [],
+    "label_zh": "回忆场景",
+    "post_count": 2005
+  },
+  {
+    "tag": "seaweed",
+    "category": "background",
+    "weight": 3.29,
+    "aliases": [],
+    "label_zh": "海藻",
+    "post_count": 1925
+  },
+  {
+    "tag": "bus_stop",
+    "category": "background",
+    "weight": 3.29,
+    "aliases": [
+      "busstop"
+    ],
+    "label_zh": "巴士车站",
+    "post_count": 1919
+  },
+  {
+    "tag": "convenience_store",
+    "category": "background",
+    "weight": 3.28,
+    "aliases": [
+      "konbini"
+    ],
+    "label_zh": "便利店",
+    "post_count": 1902
+  },
+  {
+    "tag": "aquarium",
+    "category": "background",
+    "weight": 3.27,
+    "aliases": [],
+    "label_zh": "水族馆",
+    "post_count": 1870
+  },
+  {
+    "tag": "wrestling_ring",
+    "category": "background",
+    "weight": 3.27,
+    "aliases": [],
+    "label_zh": "摔角场",
+    "post_count": 1849
+  },
+  {
+    "tag": "wheat_field",
+    "category": "background",
+    "weight": 3.24,
+    "aliases": [],
+    "label_zh": "麦田",
+    "post_count": 1710
+  },
+  {
+    "tag": "floating_island",
+    "category": "background",
+    "weight": 3.22,
+    "aliases": [],
+    "label_zh": "浮岛",
+    "post_count": 1651
+  },
+  {
+    "tag": "toilet_stall",
+    "category": "background",
+    "weight": 3.21,
+    "aliases": [
+      "stall_(toilet)",
+      "restroom_stall"
+    ],
+    "label_zh": "厕所隔间",
+    "post_count": 1612
+  },
+  {
+    "tag": "infirmary",
+    "category": "background",
+    "weight": 3.2,
+    "aliases": [
+      "nurse's_office",
+      "nurse_office"
+    ],
+    "label_zh": "医务室",
+    "post_count": 1576
+  },
+  {
+    "tag": "rounded_corners",
+    "category": "background",
+    "weight": 3.19,
+    "aliases": [],
+    "label_zh": "背景或画框是圆角",
+    "post_count": 1534
+  },
+  {
+    "tag": "grave",
+    "category": "background",
+    "weight": 3.16,
+    "aliases": [],
+    "label_zh": "坟墓",
+    "post_count": 1449
+  },
+  {
+    "tag": "carousel",
+    "category": "background",
+    "weight": 3.16,
+    "aliases": [
+      "merry-go-round",
+      "merry_go_round"
+    ],
+    "label_zh": "旋转木马",
+    "post_count": 1434
+  },
+  {
+    "tag": "casino",
+    "category": "background",
+    "weight": 3.14,
+    "aliases": [],
+    "label_zh": "赌场",
+    "post_count": 1373
+  },
+  {
+    "tag": "meteor_shower",
+    "category": "background",
+    "weight": 3.13,
+    "aliases": [],
+    "label_zh": "流星雨",
+    "post_count": 1331
+  },
+  {
+    "tag": "amusement_park",
+    "category": "background",
+    "weight": 3.11,
+    "aliases": [],
+    "label_zh": "游乐园",
+    "post_count": 1267
+  },
+  {
+    "tag": "temple",
+    "category": "background",
+    "weight": 3.09,
+    "aliases": [],
+    "label_zh": "寺庙",
+    "post_count": 1218
+  },
+  {
+    "tag": "prison",
+    "category": "background",
+    "weight": 3.07,
+    "aliases": [
+      "jail"
+    ],
+    "label_zh": "监狱",
+    "post_count": 1174
+  },
+  {
+    "tag": "volcano",
+    "category": "background",
+    "weight": 3.07,
+    "aliases": [],
+    "label_zh": "火山",
+    "post_count": 1159
+  },
+  {
+    "tag": "dungeon",
+    "category": "background",
+    "weight": 3.07,
+    "aliases": [],
+    "label_zh": "地牢",
+    "post_count": 1153
+  },
+  {
+    "tag": "movie_theater",
+    "category": "background",
+    "weight": 3.07,
+    "aliases": [
+      "cinema"
+    ],
+    "label_zh": "电影院",
+    "post_count": 1152
+  },
+  {
+    "tag": "honeycomb_background",
+    "category": "background",
+    "weight": 3.06,
+    "aliases": [
+      "hexagonal_background",
+      "/honeycombbg"
+    ],
+    "label_zh": "蜂窝风格背景",
+    "post_count": 1148
+  },
+  {
+    "tag": "market_stall",
+    "category": "background",
+    "weight": 3.05,
+    "aliases": [
+      "stall_(market)",
+      "stall"
+    ],
+    "label_zh": "市场摊位",
+    "post_count": 1120
+  },
+  {
+    "tag": "playground",
+    "category": "background",
+    "weight": 3.04,
+    "aliases": [],
+    "label_zh": "游乐场",
+    "post_count": 1096
+  },
+  {
+    "tag": "rice_paddy",
+    "category": "background",
+    "weight": 3.04,
+    "aliases": [
+      "rice_field"
+    ],
+    "label_zh": "稻田",
+    "post_count": 1086
+  },
+  {
+    "tag": "swirl",
+    "category": "background",
+    "weight": 3.01,
+    "aliases": [],
+    "label_zh": "漩涡",
+    "post_count": 1014
+  },
+  {
+    "tag": "rainbow_background",
+    "category": "background",
+    "weight": 2.99,
+    "aliases": [
+      "/rainbowbg"
+    ],
+    "label_zh": "彩虹背景",
+    "post_count": 965
+  },
+  {
+    "tag": "laboratory",
+    "category": "background",
+    "weight": 2.94,
+    "aliases": [],
+    "label_zh": "实验室",
+    "post_count": 861
+  },
+  {
+    "tag": "greenhouse",
+    "category": "background",
+    "weight": 2.91,
+    "aliases": [],
+    "label_zh": "温室",
+    "post_count": 810
+  },
+  {
+    "tag": "phone_booth",
+    "category": "background",
+    "weight": 2.91,
+    "aliases": [
+      "telephone_booth",
+      "phonebooth"
+    ],
+    "label_zh": "电话亭",
+    "post_count": 796
+  },
+  {
+    "tag": "tunnel",
+    "category": "background",
+    "weight": 2.9,
+    "aliases": [],
+    "label_zh": "隧道",
+    "post_count": 782
+  },
+  {
+    "tag": "handrail",
+    "category": "background",
+    "weight": 2.89,
+    "aliases": [],
+    "label_zh": "栏杆",
+    "post_count": 762
+  },
+  {
+    "tag": "bakery",
+    "category": "background",
+    "weight": 2.88,
+    "aliases": [],
+    "label_zh": "面包店",
+    "post_count": 755
+  },
+  {
+    "tag": "squat_toilet",
+    "category": "background",
+    "weight": 2.88,
+    "aliases": [],
+    "label_zh": "蹲便器",
+    "post_count": 748
+  },
+  {
+    "tag": "bubble_background",
+    "category": "background",
+    "weight": 2.87,
+    "aliases": [],
+    "label_zh": "气泡背景",
+    "post_count": 724
+  },
+  {
+    "tag": "star_trail",
+    "category": "background",
+    "weight": 2.83,
+    "aliases": [
+      "star_trailing",
+      "star_trails"
+    ],
+    "label_zh": "星星轨迹",
+    "post_count": 664
+  },
+  {
+    "tag": "cathedral",
+    "category": "background",
+    "weight": 2.82,
+    "aliases": [],
+    "label_zh": "大教堂",
+    "post_count": 658
+  },
+  {
+    "tag": "supermarket",
+    "category": "background",
+    "weight": 2.82,
+    "aliases": [],
+    "label_zh": "超市",
+    "post_count": 656
+  },
+  {
+    "tag": "canyon",
+    "category": "background",
+    "weight": 2.78,
+    "aliases": [],
+    "label_zh": "峡谷",
+    "post_count": 588
+  },
+  {
+    "tag": "harbor",
+    "category": "background",
+    "weight": 2.78,
+    "aliases": [
+      "harbour"
+    ],
+    "label_zh": "港口",
+    "post_count": 586
+  },
+  {
+    "tag": "mattress",
+    "category": "background",
+    "weight": 2.74,
+    "aliases": [],
+    "label_zh": "床垫；褥子",
+    "post_count": 540
+  },
+  {
+    "tag": "satellite",
+    "category": "background",
+    "weight": 2.74,
+    "aliases": [],
+    "label_zh": "卫星",
+    "post_count": 537
+  },
+  {
+    "tag": "clothes_rack",
+    "category": "background",
+    "weight": 2.72,
+    "aliases": [],
+    "label_zh": "衣架",
+    "post_count": 519
+  },
+  {
+    "tag": "gothic_architecture",
+    "category": "background",
+    "weight": 2.72,
+    "aliases": [],
+    "label_zh": "哥特式建筑",
+    "post_count": 510
+  },
+  {
+    "tag": "otaku_room",
+    "category": "background",
+    "weight": 2.71,
+    "aliases": [
+      "otakuroom"
+    ],
+    "label_zh": "宅男房间",
+    "post_count": 500
+  },
+  {
+    "tag": "airport",
+    "category": "background",
+    "weight": 2.71,
+    "aliases": [],
+    "label_zh": "机场",
+    "post_count": 498
+  },
+  {
+    "tag": "izakaya",
+    "category": "background",
+    "weight": 2.62,
+    "aliases": [],
+    "label_zh": "居酒屋",
+    "post_count": 407
+  },
+  {
+    "tag": "theater",
+    "category": "background",
+    "weight": 2.58,
+    "aliases": [],
+    "label_zh": "剧院",
+    "post_count": 374
+  },
+  {
+    "tag": "clubroom",
+    "category": "background",
+    "weight": 2.57,
+    "aliases": [],
+    "label_zh": "俱乐部",
+    "post_count": 363
+  },
+  {
+    "tag": "museum",
+    "category": "background",
+    "weight": 2.55,
+    "aliases": [],
+    "label_zh": "博物馆",
+    "post_count": 342
+  },
+  {
+    "tag": "treehouse",
+    "category": "background",
+    "weight": 2.53,
+    "aliases": [],
+    "label_zh": "树屋",
+    "post_count": 328
+  },
+  {
+    "tag": "zoo",
+    "category": "background",
+    "weight": 2.52,
+    "aliases": [],
+    "label_zh": "动物园",
+    "post_count": 318
+  },
+  {
+    "tag": "courtroom",
+    "category": "background",
+    "weight": 2.5,
+    "aliases": [],
+    "label_zh": "法庭",
+    "post_count": 308
+  },
+  {
+    "tag": "arena",
+    "category": "background",
+    "weight": 2.49,
+    "aliases": [],
+    "label_zh": "竞技场",
+    "post_count": 296
+  },
+  {
+    "tag": "warehouse",
+    "category": "background",
+    "weight": 2.47,
+    "aliases": [],
+    "label_zh": "仓库",
+    "post_count": 283
+  },
+  {
+    "tag": "waterpark",
+    "category": "background",
+    "weight": 2.46,
+    "aliases": [],
+    "label_zh": "水上乐园",
+    "post_count": 277
+  },
+  {
+    "tag": "cafeteria",
+    "category": "background",
+    "weight": 2.39,
+    "aliases": [],
+    "label_zh": "自助餐厅",
+    "post_count": 237
+  },
+  {
+    "tag": "glacier",
+    "category": "background",
+    "weight": 2.35,
+    "aliases": [],
+    "label_zh": "冰川",
+    "post_count": 214
+  },
+  {
+    "tag": "beige_background",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "米色背景",
+    "post_count": 0
+  },
+  {
+    "tag": "tan_background",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "棕褐色背景",
+    "post_count": 0
+  },
+  {
+    "tag": "multicolored_background",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "多彩的背景",
+    "post_count": 0
+  },
+  {
+    "tag": "starry_background",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "星空背景",
+    "post_count": 0
+  },
+  {
+    "tag": "clock_background",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "时钟背景",
+    "post_count": 0
+  },
+  {
+    "tag": "windowboxed",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "套着画框(背景)",
+    "post_count": 0
+  },
+  {
+    "tag": "rainy_days",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "雨天",
+    "post_count": 0
+  },
+  {
+    "tag": "cloudy",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "多云",
+    "post_count": 0
+  },
+  {
+    "tag": "stars",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "星星",
+    "post_count": 0
+  },
+  {
+    "tag": "sea",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "大海",
+    "post_count": 0
+  },
+  {
+    "tag": "hills",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "山丘",
+    "post_count": 0
+  },
+  {
+    "tag": "grove",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "树林",
+    "post_count": 0
+  },
+  {
+    "tag": "savanna",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "大草原",
+    "post_count": 0
+  },
+  {
+    "tag": "flower_sea",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "花海",
+    "post_count": 0
+  },
+  {
+    "tag": "flowers_meadows",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "繁花草甸",
+    "post_count": 0
+  },
+  {
+    "tag": "alps",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "阿尔卑斯山脉",
+    "post_count": 0
+  },
+  {
+    "tag": "dreamy_forest",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "梦幻之森(虚幻感.光粒子幽静)",
+    "post_count": 0
+  },
+  {
+    "tag": "night_sky",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "夜空",
+    "post_count": 0
+  },
+  {
+    "tag": "hyper_galaxy",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "超级银河",
+    "post_count": 0
+  },
+  {
+    "tag": "scarlet_moon",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "猩红月亮",
+    "post_count": 0
+  },
+  {
+    "tag": "from_space_station",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "空间站",
+    "post_count": 0
+  },
+  {
+    "tag": "swimming_pool",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "游泳池",
+    "post_count": 0
+  },
+  {
+    "tag": "cyberpunk_city",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "赛博朋克城市",
+    "post_count": 0
+  },
+  {
+    "tag": "chinese_style_architecture",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "古风建筑",
+    "post_count": 0
+  },
+  {
+    "tag": "bustling_city",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "繁华都市",
+    "post_count": 0
+  },
+  {
+    "tag": "coffee_house",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "咖啡馆",
+    "post_count": 0
+  },
+  {
+    "tag": "gym",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "健身房",
+    "post_count": 0
+  },
+  {
+    "tag": "engine_room",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "轮机舱",
+    "post_count": 0
+  },
+  {
+    "tag": "street_lamp",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "路灯",
+    "post_count": 0
+  },
+  {
+    "tag": "building_ruins",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "建筑废墟",
+    "post_count": 0
+  },
+  {
+    "tag": "bar",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "酒吧",
+    "post_count": 0
+  },
+  {
+    "tag": "disney_land",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "迪士尼乐园",
+    "post_count": 0
+  },
+  {
+    "tag": "japanese_hotel",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "日本旅馆",
+    "post_count": 0
+  },
+  {
+    "tag": "billiard",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "台球桌",
+    "post_count": 0
+  },
+  {
+    "tag": "monolith",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "巨大的石头物体",
+    "post_count": 0
+  },
+  {
+    "tag": "chinese_style_loft",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "中式阁楼",
+    "post_count": 0
+  },
+  {
+    "tag": "traditional_chinese_room",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "传统中式客房",
+    "post_count": 0
+  },
+  {
+    "tag": "turret",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "塔楼",
+    "post_count": 0
+  },
+  {
+    "tag": "reservoir",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "水库",
+    "post_count": 0
+  },
+  {
+    "tag": "railroad",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "铁路",
+    "post_count": 0
+  },
+  {
+    "tag": "railway",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "铁路",
+    "post_count": 0
+  },
+  {
+    "tag": "remains",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "废墟",
+    "post_count": 0
+  },
+  {
+    "tag": "rubble_ruins",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "废墟",
+    "post_count": 0
+  },
+  {
+    "tag": "downtown",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "市中心",
+    "post_count": 0
+  },
+  {
+    "tag": "avenue",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "大街",
+    "post_count": 0
+  },
+  {
+    "tag": "indoor",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "室内",
+    "post_count": 0
+  },
+  {
+    "tag": "dormitory",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "宿舍",
+    "post_count": 0
+  },
+  {
+    "tag": "electrical_room",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "配电房",
+    "post_count": 0
+  },
+  {
+    "tag": "beach_chair",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "沙滩椅",
+    "post_count": 0
+  },
+  {
+    "tag": "dumpling_hug_pillow",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "团子抱枕",
+    "post_count": 0
+  },
+  {
+    "tag": "stuffed_bunny",
+    "category": "background",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "毛绒兔子",
+    "post_count": 0
+  }
+]

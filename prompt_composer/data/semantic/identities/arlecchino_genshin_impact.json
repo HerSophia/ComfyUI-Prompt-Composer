@@ -1,0 +1,29 @@
+{
+  "id": "arlecchino_genshin_impact",
+  "name": "阿蕾奇诺",
+  "identity_tags": [
+    "arlecchino_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "black_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "fur-trimmed_coat",
+    "leggings",
+    "pants",
+    "suit"
+  ],
+  "optional_clothing": []
+}

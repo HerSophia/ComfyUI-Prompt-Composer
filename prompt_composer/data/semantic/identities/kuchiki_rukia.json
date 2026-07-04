@@ -1,0 +1,27 @@
+{
+  "id": "kuchiki_rukia",
+  "name": "朽木露琪亚",
+  "identity_tags": [
+    "kuchiki_rukia"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tsurime"
+    ]
+  },
+  "default_clothing": [
+    "kimono",
+    "japanese_clothes",
+    "sash",
+    "alternate_costume"
+  ],
+  "optional_clothing": []
+}

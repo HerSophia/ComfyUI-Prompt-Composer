@@ -1,0 +1,30 @@
+{
+  "id": "shameimaru_aya",
+  "name": "射命丸文",
+  "identity_tags": [
+    "shameimaru_aya"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "ahoge",
+      "twin_braids"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "geta",
+    "checkered_skirt",
+    "ribbon-trimmed_skirt",
+    "untucked_shirt"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kaga_azur_lane",
+  "name": "加贺",
+  "identity_tags": [
+    "kaga_(azur_lane)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "blunt_bangs",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eyeliner"
+    ]
+  },
+  "default_clothing": [
+    "hakama_skirt",
+    "kimono",
+    "japanese_clothes",
+    "sash"
+  ],
+  "optional_clothing": []
+}

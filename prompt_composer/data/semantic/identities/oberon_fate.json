@@ -1,0 +1,29 @@
+{
+  "id": "oberon_fate",
+  "name": "奥伯龙",
+  "identity_tags": [
+    "oberon_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "cloak",
+    "cape",
+    "robe",
+    "white_shirt"
+  ],
+  "optional_clothing": []
+}

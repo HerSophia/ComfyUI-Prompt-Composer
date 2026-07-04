@@ -1,0 +1,29 @@
+{
+  "id": "nanashi_mumei_1st_costume",
+  "name": "七诗睦头无",
+  "identity_tags": [
+    "nanashi_mumei_(1st_costume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "ahoge",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "single_sock",
+    "corset",
+    "cloak",
+    "ankle_boots"
+  ],
+  "optional_clothing": []
+}

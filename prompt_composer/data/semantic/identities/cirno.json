@@ -1,0 +1,30 @@
+{
+  "id": "cirno",
+  "name": "琪露诺",
+  "identity_tags": [
+    "cirno"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "side_ponytail",
+      "ahoge",
+      "twin_braids"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "pinafore_dress",
+    "bloomers",
+    "bobby_socks",
+    "skirt_set"
+  ],
+  "optional_clothing": []
+}

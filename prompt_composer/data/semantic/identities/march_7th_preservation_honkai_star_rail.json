@@ -1,0 +1,27 @@
+{
+  "id": "march_7th_preservation_honkai_star_rail",
+  "name": "三月七（存护）",
+  "identity_tags": [
+    "march_7th_(preservation)_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "overskirt",
+    "corset",
+    "ankle_boots",
+    "black_choker"
+  ],
+  "optional_clothing": []
+}

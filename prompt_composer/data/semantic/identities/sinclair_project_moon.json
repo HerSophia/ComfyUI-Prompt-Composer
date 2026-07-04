@@ -1,0 +1,26 @@
+{
+  "id": "sinclair_project_moon",
+  "name": "辛克莱",
+  "identity_tags": [
+    "sinclair_(project_moon)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "suspenders",
+    "suit",
+    "necktie",
+    "collared_shirt"
+  ],
+  "optional_clothing": []
+}

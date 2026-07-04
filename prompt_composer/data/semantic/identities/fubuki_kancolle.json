@@ -1,0 +1,30 @@
+{
+  "id": "fubuki_kancolle",
+  "name": "吹雪",
+  "identity_tags": [
+    "fubuki_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "short_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "muneate",
+    "serafuku",
+    "rigging"
+  ],
+  "optional_clothing": []
+}

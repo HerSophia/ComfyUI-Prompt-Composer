@@ -1,0 +1,30 @@
+{
+  "id": "lyrica_prismriver",
+  "name": "莉莉卡·普莉兹姆利巴",
+  "identity_tags": [
+    "lyrica_prismriver"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "skirt_set",
+    "vest",
+    "ascot",
+    "capelet"
+  ],
+  "optional_clothing": []
+}

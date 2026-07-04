@@ -1,0 +1,30 @@
+{
+  "id": "scaramouche_genshin_impact",
+  "name": "散兵",
+  "identity_tags": [
+    "scaramouche_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "side_ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "red_eyeshadow"
+    ]
+  },
+  "default_clothing": [
+    "japanese_armor",
+    "furisode",
+    "kariginu",
+    "stirrup_legwear"
+  ],
+  "optional_clothing": []
+}

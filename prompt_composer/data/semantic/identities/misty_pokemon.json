@@ -1,0 +1,29 @@
+{
+  "id": "misty_pokemon",
+  "name": "小霞",
+  "identity_tags": [
+    "misty_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "side_ponytail",
+      "ponytail",
+      "short_ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "suspender_shorts",
+    "denim_shorts",
+    "suspenders",
+    "competition_swimsuit"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "minamoto_no_raikou_fate",
+  "name": "源赖光",
+  "identity_tags": [
+    "minamoto_no_raikou_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ponytail",
+      "bob_cut",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "eyeliner"
+    ]
+  },
+  "default_clothing": [
+    "eyepatch_bikini",
+    "chaldea_uniform",
+    "japanese_armor",
+    "pelvic_curtain"
+  ],
+  "optional_clothing": []
+}

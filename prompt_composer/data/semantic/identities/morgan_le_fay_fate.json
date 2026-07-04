@@ -1,0 +1,29 @@
+{
+  "id": "morgan_le_fay_fate",
+  "name": "摩根",
+  "identity_tags": [
+    "morgan_le_fay_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "pelvic_curtain",
+    "thigh_boots",
+    "clothing_cutout",
+    "high_heels"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "izuna_blue_archive",
+  "name": "久田伊头奈",
+  "identity_tags": [
+    "izuna_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "red_eyeshadow"
+    ]
+  },
+  "default_clothing": [
+    "striped_bikini",
+    "micro_shorts",
+    "denim_shorts",
+    "highleg_bikini"
+  ],
+  "optional_clothing": []
+}

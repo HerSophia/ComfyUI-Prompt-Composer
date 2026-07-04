@@ -1,0 +1,30 @@
+{
+  "id": "z1_leberecht_maass_kancolle",
+  "name": "Z1",
+  "identity_tags": [
+    "z1_leberecht_maass_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "blunt_bangs",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sailor_bikini",
+    "sailor_dress",
+    "microdress",
+    "iron_cross"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kosaka_honoka",
+  "name": "高坂穗乃果",
+  "identity_tags": [
+    "kosaka_honoka"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "otonokizaka_school_uniform",
+    "summer_uniform",
+    "blazer",
+    "sweater_vest"
+  ],
+  "optional_clothing": []
+}

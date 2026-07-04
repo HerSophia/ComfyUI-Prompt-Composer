@@ -1,0 +1,30 @@
+{
+  "id": "kagamine_len",
+  "name": "镜音连",
+  "identity_tags": [
+    "kagamine_len"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "short_ponytail",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "leg_warmers",
+    "sailor_collar",
+    "sleeveless_shirt",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

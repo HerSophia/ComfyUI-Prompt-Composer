@@ -1,0 +1,30 @@
+{
+  "id": "texas_arknights",
+  "name": "德克萨斯",
+  "identity_tags": [
+    "texas_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "striped_shorts",
+    "fur-trimmed_jacket",
+    "jacket_on_shoulders",
+    "black_pantyhose"
+  ],
+  "optional_clothing": []
+}

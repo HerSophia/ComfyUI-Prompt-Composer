@@ -1,0 +1,29 @@
+{
+  "id": "satono_diamond_umamusume",
+  "name": "里见光钻",
+  "identity_tags": [
+    "satono_diamond_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "competition_school_swimsuit",
+    "sailor_shirt",
+    "summer_uniform",
+    "corset"
+  ],
+  "optional_clothing": []
+}

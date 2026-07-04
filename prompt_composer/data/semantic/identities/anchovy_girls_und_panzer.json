@@ -1,0 +1,30 @@
+{
+  "id": "anchovy_girls_und_panzer",
+  "name": "凤尾鱼",
+  "identity_tags": [
+    "anchovy_(girls_und_panzer)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "drill_hair",
+      "twintails",
+      "twin_braids"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "kindergarten_uniform",
+    "ooarai_school_uniform",
+    "dress_shirt",
+    "white_pantyhose"
+  ],
+  "optional_clothing": []
+}

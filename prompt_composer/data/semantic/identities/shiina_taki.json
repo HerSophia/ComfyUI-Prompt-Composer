@@ -1,0 +1,27 @@
+{
+  "id": "shiina_taki",
+  "name": "椎名立希",
+  "identity_tags": [
+    "shiina_taki"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "hanasakigawa_school_uniform",
+    "sailor_dress",
+    "black_choker",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

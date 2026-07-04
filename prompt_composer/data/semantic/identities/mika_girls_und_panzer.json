@@ -1,0 +1,29 @@
+{
+  "id": "mika_girls_und_panzer",
+  "name": "米卡（少女与装甲）",
+  "identity_tags": [
+    "mika_(girls_und_panzer)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "drill_hair",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "kindergarten_uniform",
+    "track_jacket",
+    "ooarai_school_uniform",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

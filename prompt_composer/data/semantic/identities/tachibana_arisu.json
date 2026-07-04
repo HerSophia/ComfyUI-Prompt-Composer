@@ -1,0 +1,29 @@
+{
+  "id": "tachibana_arisu",
+  "name": "橘爱丽丝",
+  "identity_tags": [
+    "tachibana_arisu"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "frilled_dress",
+    "one-piece_swimsuit",
+    "sleeveless_dress",
+    "socks"
+  ],
+  "optional_clothing": []
+}

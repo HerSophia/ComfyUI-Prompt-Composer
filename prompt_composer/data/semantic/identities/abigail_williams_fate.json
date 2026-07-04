@@ -1,0 +1,30 @@
+{
+  "id": "abigail_williams_fate",
+  "name": "阿比盖尔·威廉姆斯",
+  "identity_tags": [
+    "abigail_williams_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "forehead",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "ribbed_dress",
+    "bloomers",
+    "strapless_bikini",
+    "chaldea_uniform"
+  ],
+  "optional_clothing": []
+}

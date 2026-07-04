@@ -1,0 +1,30 @@
+{
+  "id": "suzuya_kancolle",
+  "name": "铃谷",
+  "identity_tags": [
+    "suzuya_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "blazer",
+    "cardigan",
+    "brown_sweater"
+  ],
+  "optional_clothing": []
+}

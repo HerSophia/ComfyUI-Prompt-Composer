@@ -1,0 +1,30 @@
+{
+  "id": "ouro_kronii",
+  "name": "杜灵·克罗尼",
+  "identity_tags": [
+    "ouro_kronii"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "sleeveless_turtleneck",
+    "striped_skirt",
+    "trench_coat",
+    "jeans"
+  ],
+  "optional_clothing": []
+}

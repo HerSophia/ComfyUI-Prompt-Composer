@@ -1,0 +1,27 @@
+{
+  "id": "nozomi_blue_archive",
+  "name": "望",
+  "identity_tags": [
+    "nozomi_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "double-breasted",
+    "white_pantyhose",
+    "no_shoes",
+    "pantyhose"
+  ],
+  "optional_clothing": []
+}

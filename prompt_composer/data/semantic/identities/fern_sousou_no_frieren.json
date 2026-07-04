@@ -1,0 +1,30 @@
+{
+  "id": "fern_sousou_no_frieren",
+  "name": "费伦",
+  "identity_tags": [
+    "fern_(sousou_no_frieren)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "blunt_bangs",
+      "twintails",
+      "straight_hair"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "purple_pupils"
+    ]
+  },
+  "default_clothing": [
+    "robe",
+    "long_coat",
+    "long_dress",
+    "capelet"
+  ],
+  "optional_clothing": []
+}

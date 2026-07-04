@@ -1,0 +1,30 @@
+{
+  "id": "adachi_rei",
+  "name": "足立令",
+  "identity_tags": [
+    "adachi_rei"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "orange"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "side_ponytail",
+      "drill_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "orange_eyes",
+      "empty_eyes"
+    ]
+  },
+  "default_clothing": [
+    "leggings",
+    "open_jacket",
+    "sneakers",
+    "shirt_tucked_in"
+  ],
+  "optional_clothing": []
+}

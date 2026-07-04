@@ -1,0 +1,30 @@
+{
+  "id": "tokoyami_towa",
+  "name": "常暗永远",
+  "identity_tags": [
+    "tokoyami_towa"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twintails",
+      "hair_bun",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "aran_sweater",
+    "suspender_skirt",
+    "frilled_shirt",
+    "high-waist_skirt"
+  ],
+  "optional_clothing": []
+}

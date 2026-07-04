@@ -1,0 +1,29 @@
+{
+  "id": "shiori_novella",
+  "name": "诗织·诺薇拉",
+  "identity_tags": [
+    "shiori_novella"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "fur-trimmed_coat",
+    "black_choker",
+    "fur-trimmed_jacket",
+    "choker"
+  ],
+  "optional_clothing": []
+}

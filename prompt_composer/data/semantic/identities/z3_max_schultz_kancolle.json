@@ -1,0 +1,30 @@
+{
+  "id": "z3_max_schultz_kancolle",
+  "name": "Z3",
+  "identity_tags": [
+    "z3_max_schultz_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "blunt_bangs",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sailor_bikini",
+    "microdress",
+    "sailor_dress",
+    "lowleg_bikini"
+  ],
+  "optional_clothing": []
+}

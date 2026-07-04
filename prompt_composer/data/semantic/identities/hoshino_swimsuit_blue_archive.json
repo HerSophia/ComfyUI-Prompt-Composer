@@ -1,0 +1,30 @@
+{
+  "id": "hoshino_swimsuit_blue_archive",
+  "name": "小鸟游星野（泳装）",
+  "identity_tags": [
+    "hoshino_(swimsuit)_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "frilled_bikini",
+    "bikini_skirt",
+    "competition_swimsuit",
+    "bikini"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "izumi_sagiri",
+  "name": "和泉纱雾",
+  "identity_tags": [
+    "izumi_sagiri"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tareme"
+    ]
+  },
+  "default_clothing": [
+    "pajamas",
+    "barefoot",
+    "t-shirt",
+    "bare_legs"
+  ],
+  "optional_clothing": []
+}

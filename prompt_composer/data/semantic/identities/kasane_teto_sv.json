@@ -1,0 +1,29 @@
+{
+  "id": "kasane_teto_sv",
+  "name": "重音Teto",
+  "identity_tags": [
+    "kasane_teto_(sv)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "drill_hair",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "double-breasted",
+    "striped_skirt",
+    "layered_skirt",
+    "lace-up_boots"
+  ],
+  "optional_clothing": []
+}

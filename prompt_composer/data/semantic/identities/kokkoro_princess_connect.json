@@ -1,0 +1,30 @@
+{
+  "id": "kokkoro_princess_connect",
+  "name": "可可萝",
+  "identity_tags": [
+    "kokkoro_(princess_connect!)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "antenna_hair",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "eyes_visible_through_hair"
+    ]
+  },
+  "default_clothing": [
+    "casual_one-piece_swimsuit",
+    "sleeveless_dress",
+    "one-piece_swimsuit",
+    "sandals"
+  ],
+  "optional_clothing": []
+}

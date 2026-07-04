@@ -1,0 +1,28 @@
+{
+  "id": "motoori_kosuzu",
+  "name": "本居小铃",
+  "identity_tags": [
+    "motoori_kosuzu"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "kimono",
+    "apron",
+    "hakama_skirt",
+    "japanese_clothes"
+  ],
+  "optional_clothing": []
+}

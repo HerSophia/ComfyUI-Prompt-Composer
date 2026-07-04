@@ -1,0 +1,28 @@
+{
+  "id": "black_rock_shooter_character",
+  "name": "黑岩射手（角色）",
+  "identity_tags": [
+    "black_rock_shooter_(character)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "flaming_eye"
+    ]
+  },
+  "default_clothing": [
+    "front-tie_top",
+    "front-tie_bikini_top",
+    "knee_boots",
+    "short_shorts"
+  ],
+  "optional_clothing": []
+}

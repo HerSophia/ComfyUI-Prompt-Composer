@@ -1,0 +1,28 @@
+{
+  "id": "aubrey_omori",
+  "name": "奥布里（大森）",
+  "identity_tags": [
+    "aubrey_(omori)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "black_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "denim_skirt",
+    "sweater_vest",
+    "overalls",
+    "tank_top"
+  ],
+  "optional_clothing": []
+}

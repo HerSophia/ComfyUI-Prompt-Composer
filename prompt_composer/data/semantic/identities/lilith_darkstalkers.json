@@ -1,0 +1,26 @@
+{
+  "id": "lilith_darkstalkers",
+  "name": "莉莉丝",
+  "identity_tags": [
+    "lilith_(darkstalkers)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "heart_cutout",
+    "leotard",
+    "highleg",
+    "high_heel_boots"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "natsu_blue_archive",
+  "name": "圣秋",
+  "identity_tags": [
+    "natsu_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "side_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "red_neckerchief",
+    "print_shirt",
+    "cardigan",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

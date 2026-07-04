@@ -1,0 +1,30 @@
+{
+  "id": "takao_kancolle",
+  "name": "高雄",
+  "identity_tags": [
+    "takao_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "military_uniform",
+    "garter_straps",
+    "ascot",
+    "rigging"
+  ],
+  "optional_clothing": []
+}

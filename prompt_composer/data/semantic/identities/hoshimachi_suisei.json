@@ -1,0 +1,30 @@
+{
+  "id": "hoshimachi_suisei",
+  "name": "星街彗星",
+  "identity_tags": [
+    "hoshimachi_suisei"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "side_ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol_in_eye"
+    ]
+  },
+  "default_clothing": [
+    "plaid_dress",
+    "single_sock",
+    "plaid_shirt",
+    "mismatched_legwear"
+  ],
+  "optional_clothing": []
+}

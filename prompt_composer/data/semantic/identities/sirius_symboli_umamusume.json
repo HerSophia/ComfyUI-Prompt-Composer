@@ -1,0 +1,28 @@
+{
+  "id": "sirius_symboli_umamusume",
+  "name": "天狼星象征",
+  "identity_tags": [
+    "sirius_symboli_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "summer_uniform",
+    "alternate_costume",
+    "sailor_collar",
+    "pants"
+  ],
+  "optional_clothing": []
+}

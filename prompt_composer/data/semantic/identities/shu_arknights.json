@@ -1,0 +1,27 @@
+{
+  "id": "shu_arknights",
+  "name": "黍",
+  "identity_tags": [
+    "shu_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair"
+    ],
+    "eyes": [
+      "green_eyes",
+      "eyeliner"
+    ]
+  },
+  "default_clothing": [
+    "necklace",
+    "open_jacket",
+    "pants",
+    "jacket"
+  ],
+  "optional_clothing": []
+}

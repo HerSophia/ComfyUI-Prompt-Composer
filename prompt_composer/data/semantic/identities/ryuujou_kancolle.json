@@ -1,0 +1,30 @@
+{
+  "id": "ryuujou_kancolle",
+  "name": "ryuujou（舰队系列）",
+  "identity_tags": [
+    "ryuujou_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "kariginu",
+    "muneate",
+    "naval_uniform",
+    "hakama_skirt"
+  ],
+  "optional_clothing": []
+}

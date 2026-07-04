@@ -1,0 +1,29 @@
+{
+  "id": "yuki_setsuna",
+  "name": "优木雪菜",
+  "identity_tags": [
+    "yuki_setsuna"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "hair_bun",
+      "twin_braids"
+    ],
+    "eyes": [
+      "grey_eyes"
+    ]
+  },
+  "default_clothing": [
+    "summer_uniform",
+    "plaid_skirt",
+    "neck_ribbon",
+    "dress_shirt"
+  ],
+  "optional_clothing": []
+}

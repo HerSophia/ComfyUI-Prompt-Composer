@@ -1,0 +1,29 @@
+{
+  "id": "akamatsu_kaede",
+  "name": "赤松枫",
+  "identity_tags": [
+    "akamatsu_kaede"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "twintails",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "pink_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sweater_vest",
+    "vest",
+    "kneehighs",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

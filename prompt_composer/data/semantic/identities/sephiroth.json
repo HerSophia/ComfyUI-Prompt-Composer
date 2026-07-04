@@ -1,0 +1,29 @@
+{
+  "id": "sephiroth",
+  "name": "萨菲罗斯",
+  "identity_tags": [
+    "sephiroth"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "long_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "long_coat",
+    "sleeveless_turtleneck",
+    "shoulder_armor",
+    "armor"
+  ],
+  "optional_clothing": []
+}

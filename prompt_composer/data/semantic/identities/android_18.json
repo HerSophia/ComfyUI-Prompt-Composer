@@ -1,0 +1,27 @@
+{
+  "id": "android_18",
+  "name": "人造人18号",
+  "identity_tags": [
+    "android_18"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "forehead"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "denim_skirt",
+    "jeans",
+    "vest",
+    "crop_top"
+  ],
+  "optional_clothing": []
+}

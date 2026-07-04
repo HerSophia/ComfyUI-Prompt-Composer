@@ -1,0 +1,29 @@
+{
+  "id": "tomoe_gozen_fate",
+  "name": "巴御前",
+  "identity_tags": [
+    "tomoe_gozen_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ponytail",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "hakama_pants",
+    "japanese_armor",
+    "short_kimono",
+    "sleeveless_turtleneck"
+  ],
+  "optional_clothing": []
+}

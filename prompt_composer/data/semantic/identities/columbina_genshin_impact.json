@@ -1,0 +1,25 @@
+{
+  "id": "columbina_genshin_impact",
+  "name": "哥伦比娅",
+  "identity_tags": [
+    "columbina_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "fur-trimmed_coat",
+    "bowtie",
+    "dress"
+  ],
+  "optional_clothing": []
+}

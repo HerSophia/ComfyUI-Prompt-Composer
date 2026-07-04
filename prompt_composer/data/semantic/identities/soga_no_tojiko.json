@@ -1,0 +1,30 @@
+{
+  "id": "soga_no_tojiko",
+  "name": "苏我屠自古",
+  "identity_tags": [
+    "soga_no_tojiko"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ponytail",
+      "ahoge",
+      "twin_braids"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ofuda_on_clothes",
+    "kariginu",
+    "japanese_clothes",
+    "adapted_costume"
+  ],
+  "optional_clothing": []
+}

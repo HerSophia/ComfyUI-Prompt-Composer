@@ -1,0 +1,30 @@
+{
+  "id": "alice_margatroid",
+  "name": "爱丽丝·玛格特罗依德",
+  "identity_tags": [
+    "alice_margatroid"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "ahoge",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "capelet",
+    "waist_apron",
+    "sash",
+    "skirt_set"
+  ],
+  "optional_clothing": []
+}

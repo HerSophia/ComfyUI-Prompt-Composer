@@ -1,0 +1,30 @@
+{
+  "id": "taihou_kancolle",
+  "name": "大凤",
+  "identity_tags": [
+    "taihou_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bike_shorts",
+    "muneate",
+    "shorts_under_skirt",
+    "hakama_skirt"
+  ],
+  "optional_clothing": []
+}

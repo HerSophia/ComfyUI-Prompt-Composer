@@ -1,0 +1,30 @@
+{
+  "id": "shishiro_botan",
+  "name": "狮白牡丹",
+  "identity_tags": [
+    "shishiro_botan"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "messy_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "grey_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "single_leg_pantyhose",
+    "fur-trimmed_jacket",
+    "crop_top",
+    "sleeveless_shirt"
+  ],
+  "optional_clothing": []
+}

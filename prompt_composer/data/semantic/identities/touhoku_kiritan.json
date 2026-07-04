@@ -1,0 +1,30 @@
+{
+  "id": "touhoku_kiritan",
+  "name": "东北切蒲英",
+  "identity_tags": [
+    "touhoku_kiritan"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "twintails",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "red_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "short_kimono",
+    "tabi",
+    "obi",
+    "sash"
+  ],
+  "optional_clothing": []
+}

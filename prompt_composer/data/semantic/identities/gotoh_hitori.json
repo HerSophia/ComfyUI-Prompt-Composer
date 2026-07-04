@@ -1,0 +1,30 @@
+{
+  "id": "gotoh_hitori",
+  "name": "后藤一里",
+  "identity_tags": [
+    "gotoh_hitori"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ahoge",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "track_jacket",
+    "track_pants",
+    "partially_unzipped",
+    "loafers"
+  ],
+  "optional_clothing": []
+}

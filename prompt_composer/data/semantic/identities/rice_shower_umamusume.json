@@ -1,0 +1,30 @@
+{
+  "id": "rice_shower_umamusume",
+  "name": "米浴",
+  "identity_tags": [
+    "rice_shower_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "swept_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "off-shoulder_dress",
+    "sailor_shirt",
+    "fur_collar",
+    "halloween_costume"
+  ],
+  "optional_clothing": []
+}

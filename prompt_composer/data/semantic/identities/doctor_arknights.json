@@ -1,0 +1,30 @@
+{
+  "id": "doctor_arknights",
+  "name": "博士",
+  "identity_tags": [
+    "doctor_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "hooded_coat",
+    "off-shoulder_dress",
+    "open_jacket",
+    "jacket"
+  ],
+  "optional_clothing": []
+}

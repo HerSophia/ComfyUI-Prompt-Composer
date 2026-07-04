@@ -1,0 +1,30 @@
+{
+  "id": "amber_genshin_impact",
+  "name": "安柏",
+  "identity_tags": [
+    "amber_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "crossed_bangs",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "goggles_around_neck",
+    "shrug_(clothing)",
+    "short_shorts",
+    "thigh_boots"
+  ],
+  "optional_clothing": []
+}

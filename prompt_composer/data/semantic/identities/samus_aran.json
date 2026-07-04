@@ -1,0 +1,30 @@
+{
+  "id": "samus_aran",
+  "name": "萨姆斯·阿兰",
+  "identity_tags": [
+    "samus_aran"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "high_ponytail",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "power_armor",
+    "shiny_clothes",
+    "full_armor",
+    "shoe_soles"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "samidare_kancolle",
+  "name": "五月雨",
+  "identity_tags": [
+    "samidare_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "swept_bangs",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sleeveless_shirt",
+    "serafuku",
+    "neckerchief",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

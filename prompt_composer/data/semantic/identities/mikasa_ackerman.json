@@ -1,0 +1,28 @@
+{
+  "id": "mikasa_ackerman",
+  "name": "三笠·阿克曼",
+  "identity_tags": [
+    "mikasa_ackerman"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "black_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "paradis_military_uniform",
+    "thigh_strap",
+    "knee_boots",
+    "pants"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "hijiri_byakuren",
+  "name": "圣白莲",
+  "identity_tags": [
+    "hijiri_byakuren"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "wavy_hair",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "layered_dress",
+    "sailor",
+    "bead_necklace",
+    "plaid_shirt"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "angelina_arknights",
+  "name": "安洁莉娜",
+  "identity_tags": [
+    "angelina_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "casual_one-piece_swimsuit",
+    "open_jacket",
+    "one-piece_swimsuit",
+    "sneakers"
+  ],
+  "optional_clothing": []
+}

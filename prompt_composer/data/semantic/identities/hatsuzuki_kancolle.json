@@ -1,0 +1,29 @@
+{
+  "id": "hatsuzuki_kancolle",
+  "name": "初月",
+  "identity_tags": [
+    "hatsuzuki_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "hair_flaps",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "corset",
+    "neckerchief",
+    "serafuku",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

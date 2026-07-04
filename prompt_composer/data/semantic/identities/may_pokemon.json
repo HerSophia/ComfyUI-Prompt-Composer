@@ -1,0 +1,30 @@
+{
+  "id": "may_pokemon",
+  "name": "小遥",
+  "identity_tags": [
+    "may_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bike_shorts",
+    "shorts_under_skirt",
+    "sleeveless_shirt",
+    "overalls"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nakiri_ayame",
+  "name": "百鬼绫目",
+  "identity_tags": [
+    "nakiri_ayame"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "hair_bun",
+      "double_bun",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "short_kimono",
+    "obi",
+    "kimono",
+    "japanese_clothes"
+  ],
+  "optional_clothing": []
+}

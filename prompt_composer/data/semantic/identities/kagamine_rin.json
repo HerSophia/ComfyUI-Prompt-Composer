@@ -1,0 +1,30 @@
+{
+  "id": "kagamine_rin",
+  "name": "镜音铃",
+  "identity_tags": [
+    "kagamine_rin"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "swept_bangs",
+      "short_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "leg_warmers",
+    "dress_bow",
+    "sleeveless_shirt",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

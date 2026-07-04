@@ -1,0 +1,30 @@
+{
+  "id": "edelgard_von_hresvelg",
+  "name": "埃德尔加德·冯·赫雷斯维尔格",
+  "identity_tags": [
+    "edelgard_von_hresvelg"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "hair_bun",
+      "forehead",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "garreg_mach_monastery_uniform",
+    "cape",
+    "ascot",
+    "armor"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "wise_zenless_zone_zero",
+  "name": "哲",
+  "identity_tags": [
+    "wise_(zenless_zone_zero)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "crossed_bangs",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "pants",
+    "jacket",
+    "open_jacket",
+    "black_choker"
+  ],
+  "optional_clothing": []
+}

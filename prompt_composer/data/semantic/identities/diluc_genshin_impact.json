@@ -1,0 +1,30 @@
+{
+  "id": "diluc_genshin_impact",
+  "name": "迪卢克",
+  "identity_tags": [
+    "diluc_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ponytail",
+      "antenna_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "vest",
+    "pants",
+    "necktie",
+    "capelet"
+  ],
+  "optional_clothing": []
+}

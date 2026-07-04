@@ -1,0 +1,30 @@
+{
+  "id": "kirisame_marisa",
+  "name": "雾雨魔理沙",
+  "identity_tags": [
+    "kirisame_marisa"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "twin_braids",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "waist_apron",
+    "skirt_set",
+    "bloomers",
+    "bobby_socks"
+  ],
+  "optional_clothing": []
+}

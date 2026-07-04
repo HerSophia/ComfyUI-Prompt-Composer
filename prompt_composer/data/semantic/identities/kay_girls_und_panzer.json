@@ -1,0 +1,29 @@
+{
+  "id": "kay_girls_und_panzer",
+  "name": "凯（少女与装甲）",
+  "identity_tags": [
+    "kay_(girls_und_panzer)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "drill_hair",
+      "twin_braids"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "american_flag_bikini",
+    "bomber_jacket",
+    "untucked_shirt",
+    "cutoffs"
+  ],
+  "optional_clothing": []
+}

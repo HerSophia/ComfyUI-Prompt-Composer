@@ -1,0 +1,30 @@
+{
+  "id": "nazrin",
+  "name": "娜兹琳",
+  "identity_tags": [
+    "nazrin"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "twin_braids",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "sailor",
+    "capelet",
+    "skirt_set",
+    "bloomers"
+  ],
+  "optional_clothing": []
+}

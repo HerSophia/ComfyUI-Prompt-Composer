@@ -1,0 +1,28 @@
+{
+  "id": "glaceon",
+  "name": "冰伊布",
+  "identity_tags": [
+    "glaceon"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "waist_cape",
+    "neck_ring",
+    "sash",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

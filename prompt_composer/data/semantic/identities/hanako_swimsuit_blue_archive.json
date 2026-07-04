@@ -1,0 +1,30 @@
+{
+  "id": "hanako_swimsuit_blue_archive",
+  "name": "浦和花子（泳装）",
+  "identity_tags": [
+    "hanako_(swimsuit)_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "twintails",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "green_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "oversized_shirt",
+    "wet_shirt",
+    "oversized_clothes",
+    "partially_unbuttoned"
+  ],
+  "optional_clothing": []
+}

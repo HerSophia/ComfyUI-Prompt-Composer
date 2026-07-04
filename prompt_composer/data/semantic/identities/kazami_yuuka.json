@@ -1,0 +1,30 @@
+{
+  "id": "kazami_yuuka",
+  "name": "风见幽香",
+  "identity_tags": [
+    "kazami_yuuka"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "wavy_hair",
+      "twin_braids",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "skirt_set",
+    "plaid_pants",
+    "plaid_skirt",
+    "ascot"
+  ],
+  "optional_clothing": []
+}

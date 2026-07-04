@@ -1,0 +1,28 @@
+{
+  "id": "uzumaki_naruto",
+  "name": "漩涡鸣人",
+  "identity_tags": [
+    "uzumaki_naruto"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sandals",
+    "pants",
+    "jacket",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

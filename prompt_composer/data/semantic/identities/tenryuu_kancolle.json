@@ -1,0 +1,30 @@
+{
+  "id": "tenryuu_kancolle",
+  "name": "天龙",
+  "identity_tags": [
+    "tenryuu_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "muneate",
+    "fur-trimmed_jacket",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "giorno_giovanna",
+  "name": "乔鲁诺·乔巴拿",
+  "identity_tags": [
+    "giorno_giovanna"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "pants",
+    "school_uniform",
+    "jacket"
+  ],
+  "optional_clothing": []
+}

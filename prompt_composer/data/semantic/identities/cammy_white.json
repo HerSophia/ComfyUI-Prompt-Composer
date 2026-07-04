@@ -1,0 +1,29 @@
+{
+  "id": "cammy_white",
+  "name": "嘉米",
+  "identity_tags": [
+    "cammy_white"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "ahoge",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "yoga_pants",
+    "tight_pants",
+    "highleg",
+    "leotard"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "toyosatomimi_no_miko",
+  "name": "丰聪耳神子",
+  "identity_tags": [
+    "toyosatomimi_no_miko"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "ahoge",
+      "twin_braids"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "kariginu",
+    "ofuda_on_clothes",
+    "plaid_shirt",
+    "bubble_skirt"
+  ],
+  "optional_clothing": []
+}

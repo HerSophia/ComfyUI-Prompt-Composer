@@ -1,0 +1,29 @@
+{
+  "id": "atlanta_kancolle",
+  "name": "亚特兰大",
+  "identity_tags": [
+    "atlanta_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "hair_flaps",
+      "ponytail"
+    ],
+    "eyes": [
+      "grey_eyes"
+    ]
+  },
+  "default_clothing": [
+    "suspender_skirt",
+    "high-waist_skirt",
+    "suspenders",
+    "dress_shirt"
+  ],
+  "optional_clothing": []
+}

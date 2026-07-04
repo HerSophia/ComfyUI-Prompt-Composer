@@ -1,0 +1,27 @@
+{
+  "id": "togawa_sakiko",
+  "name": "丰川祥子",
+  "identity_tags": [
+    "togawa_sakiko"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "corset",
+    "plaid_skirt",
+    "ascot",
+    "neck_ribbon"
+  ],
+  "optional_clothing": []
+}

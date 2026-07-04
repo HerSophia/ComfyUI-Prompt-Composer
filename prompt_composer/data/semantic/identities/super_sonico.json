@@ -1,0 +1,27 @@
+{
+  "id": "super_sonico",
+  "name": "超级索尼子",
+  "identity_tags": [
+    "super_sonico"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "front-tie_top",
+    "bikini",
+    "swimsuit",
+    "necklace"
+  ],
+  "optional_clothing": []
+}

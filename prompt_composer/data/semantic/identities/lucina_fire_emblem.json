@@ -1,0 +1,29 @@
+{
+  "id": "lucina_fire_emblem",
+  "name": "卢西纳",
+  "identity_tags": [
+    "lucina_(fire_emblem)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "cape",
+    "shoulder_armor",
+    "ribbed_sweater",
+    "armor"
+  ],
+  "optional_clothing": []
+}

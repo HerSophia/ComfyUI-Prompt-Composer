@@ -1,0 +1,29 @@
+{
+  "id": "hilbert_pokemon",
+  "name": "黑连",
+  "identity_tags": [
+    "hilbert_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "high_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "denim_shorts",
+    "vest",
+    "short_shorts",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

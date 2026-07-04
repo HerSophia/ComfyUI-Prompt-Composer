@@ -1,0 +1,30 @@
+{
+  "id": "northern_ocean_princess",
+  "name": "北方栖姬",
+  "identity_tags": [
+    "northern_ocean_princess"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "ribbed_dress",
+    "naval_uniform",
+    "anklet",
+    "hakama_skirt"
+  ],
+  "optional_clothing": []
+}

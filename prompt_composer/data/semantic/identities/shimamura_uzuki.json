@@ -1,0 +1,30 @@
+{
+  "id": "shimamura_uzuki",
+  "name": "岛村卯月",
+  "identity_tags": [
+    "shimamura_uzuki"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "blazer",
+    "striped_bikini",
+    "buruma",
+    "plaid_skirt"
+  ],
+  "optional_clothing": []
+}

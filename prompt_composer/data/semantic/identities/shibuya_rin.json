@@ -1,0 +1,30 @@
+{
+  "id": "shibuya_rin",
+  "name": "涩谷凛",
+  "identity_tags": [
+    "shibuya_rin"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "straight_hair"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "loose_necktie",
+    "cardigan",
+    "necklace",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "matara_okina",
+  "name": "摩多罗隐岐奈",
+  "identity_tags": [
+    "matara_okina"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "eyes_visible_through_hair"
+    ]
+  },
+  "default_clothing": [
+    "multicolored_dress",
+    "waist_apron",
+    "cape",
+    "apron"
+  ],
+  "optional_clothing": []
+}

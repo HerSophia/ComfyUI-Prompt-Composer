@@ -1,0 +1,29 @@
+{
+  "id": "shiroko_terror_blue_archive",
+  "name": "砂狼白子（Terror）",
+  "identity_tags": [
+    "shiroko_terror_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "mismatched_pupils"
+    ]
+  },
+  "default_clothing": [
+    "black_choker",
+    "competition_swimsuit",
+    "choker",
+    "thigh_strap"
+  ],
+  "optional_clothing": []
+}

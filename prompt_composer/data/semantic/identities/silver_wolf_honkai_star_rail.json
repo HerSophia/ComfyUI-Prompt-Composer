@@ -1,0 +1,30 @@
+{
+  "id": "silver_wolf_honkai_star_rail",
+  "name": "银狼",
+  "identity_tags": [
+    "silver_wolf_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "drill_hair",
+      "ponytail",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "grey_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "fur-trimmed_jacket",
+    "bandaid_on_leg",
+    "cropped_jacket",
+    "fishnets"
+  ],
+  "optional_clothing": []
+}

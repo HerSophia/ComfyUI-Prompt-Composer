@@ -1,0 +1,30 @@
+{
+  "id": "ijichi_nijika",
+  "name": "伊地知虹夏",
+  "identity_tags": [
+    "ijichi_nijika"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "track_jacket",
+    "track_pants",
+    "sweater_vest",
+    "bowtie"
+  ],
+  "optional_clothing": []
+}

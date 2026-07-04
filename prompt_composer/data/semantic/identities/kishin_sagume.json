@@ -1,0 +1,29 @@
+{
+  "id": "kishin_sagume",
+  "name": "稀神探女",
+  "identity_tags": [
+    "kishin_sagume"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "collared_dress",
+    "bowtie",
+    "open_jacket",
+    "open_clothes"
+  ],
+  "optional_clothing": []
+}

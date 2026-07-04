@@ -1,0 +1,30 @@
+{
+  "id": "asahina_mafuyu",
+  "name": "朝比奈真冬",
+  "identity_tags": [
+    "asahina_mafuyu"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ponytail",
+      "high_ponytail",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "empty_eyes"
+    ]
+  },
+  "default_clothing": [
+    "red_neckerchief",
+    "cardigan",
+    "neckerchief",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

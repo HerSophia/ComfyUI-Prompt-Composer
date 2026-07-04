@@ -1,0 +1,30 @@
+{
+  "id": "asuna_bunny_blue_archive",
+  "name": "一之濑明日奈（兔女郎）",
+  "identity_tags": [
+    "asuna_(bunny)_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "light_brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "light_brown_hair",
+      "long_bangs",
+      "ponytail",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "thighband_pantyhose",
+    "leotard",
+    "highleg",
+    "bowtie"
+  ],
+  "optional_clothing": []
+}

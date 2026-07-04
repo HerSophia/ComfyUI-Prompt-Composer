@@ -1,0 +1,30 @@
+{
+  "id": "illyasviel_von_einzbern",
+  "name": "伊莉雅斯菲尔·冯·爱因兹贝伦",
+  "identity_tags": [
+    "illyasviel_von_einzbern"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "pink_thighhighs",
+    "casual_one-piece_swimsuit",
+    "fur_collar",
+    "layered_skirt"
+  ],
+  "optional_clothing": []
+}

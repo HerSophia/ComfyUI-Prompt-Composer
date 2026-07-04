@@ -1,0 +1,30 @@
+{
+  "id": "stocking_psg",
+  "name": "无政府状态放养",
+  "identity_tags": [
+    "stocking_(psg)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "gothic_lolita",
+    "corset",
+    "thighhighs",
+    "high_heels"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "nice_nature_umamusume",
+  "name": "好望角",
+  "identity_tags": [
+    "nice_nature_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "summer_uniform",
+    "track_jacket",
+    "casual"
+  ],
+  "optional_clothing": []
+}

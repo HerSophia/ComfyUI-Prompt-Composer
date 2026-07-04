@@ -1,0 +1,29 @@
+{
+  "id": "seiun_sky_umamusume",
+  "name": "成田白仁",
+  "identity_tags": [
+    "seiun_sky_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "ponytail",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "overalls",
+    "summer_uniform",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

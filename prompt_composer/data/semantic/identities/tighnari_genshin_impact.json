@@ -1,0 +1,30 @@
+{
+  "id": "tighnari_genshin_impact",
+  "name": "提纳里",
+  "identity_tags": [
+    "tighnari_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "bob_cut",
+      "ahoge",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "green_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "hoodie",
+    "capelet",
+    "cape",
+    "sash"
+  ],
+  "optional_clothing": []
+}

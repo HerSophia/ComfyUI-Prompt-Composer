@@ -1,0 +1,30 @@
+{
+  "id": "isokaze_kancolle",
+  "name": "矶风",
+  "identity_tags": [
+    "isokaze_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "uneven_legwear",
+    "single_sock",
+    "serafuku",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

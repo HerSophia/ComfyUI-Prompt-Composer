@@ -1,0 +1,28 @@
+{
+  "id": "florian_pokemon",
+  "name": "小陆",
+  "identity_tags": [
+    "florian_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "crossed_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "necktie",
+    "shorts",
+    "school_uniform",
+    "collared_shirt"
+  ],
+  "optional_clothing": []
+}

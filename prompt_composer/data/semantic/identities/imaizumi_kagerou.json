@@ -1,0 +1,30 @@
+{
+  "id": "imaizumi_kagerou",
+  "name": "今泉影狼",
+  "identity_tags": [
+    "imaizumi_kagerou"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "drill_hair",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "off-shoulder_dress",
+    "multicolored_dress",
+    "layered_dress",
+    "obi"
+  ],
+  "optional_clothing": []
+}

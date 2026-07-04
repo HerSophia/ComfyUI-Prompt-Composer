@@ -1,0 +1,30 @@
+{
+  "id": "amamiya_ren",
+  "name": "雨宫莲",
+  "identity_tags": [
+    "amamiya_ren"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "ponytail",
+      "messy_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "plaid_pants",
+    "fur-trimmed_jacket",
+    "pants",
+    "plaid_skirt"
+  ],
+  "optional_clothing": []
+}

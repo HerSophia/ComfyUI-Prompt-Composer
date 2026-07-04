@@ -1,0 +1,30 @@
+{
+  "id": "ooyodo_kancolle",
+  "name": "大淀",
+  "identity_tags": [
+    "ooyodo_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "serafuku",
+    "military_uniform",
+    "hakama_skirt"
+  ],
+  "optional_clothing": []
+}

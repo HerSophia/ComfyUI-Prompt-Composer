@@ -1,0 +1,30 @@
+{
+  "id": "komeiji_koishi",
+  "name": "古明地恋",
+  "identity_tags": [
+    "komeiji_koishi"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "wavy_hair",
+      "twin_braids",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "blouse",
+    "plaid_shirt",
+    "bubble_skirt",
+    "print_skirt"
+  ],
+  "optional_clothing": []
+}

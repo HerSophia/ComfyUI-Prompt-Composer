@@ -1,0 +1,30 @@
+{
+  "id": "prinz_eugen_azur_lane",
+  "name": "欧根亲王",
+  "identity_tags": [
+    "prinz_eugen_(azur_lane)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "antenna_hair",
+      "swept_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "eyes_visible_through_hair"
+    ]
+  },
+  "default_clothing": [
+    "iron_cross",
+    "garter_straps",
+    "rigging",
+    "wedding_dress"
+  ],
+  "optional_clothing": []
+}

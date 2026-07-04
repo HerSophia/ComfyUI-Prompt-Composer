@@ -1,0 +1,30 @@
+{
+  "id": "hieda_no_akyuu",
+  "name": "稗田阿求",
+  "identity_tags": [
+    "hieda_no_akyuu"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twintails",
+      "bob_cut",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "hakama_skirt",
+    "kimono",
+    "japanese_clothes",
+    "obi"
+  ],
+  "optional_clothing": []
+}

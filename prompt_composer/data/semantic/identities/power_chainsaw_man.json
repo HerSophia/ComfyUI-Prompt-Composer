@@ -1,0 +1,30 @@
+{
+  "id": "power_chainsaw_man",
+  "name": "帕瓦",
+  "identity_tags": [
+    "power_(chainsaw_man)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "braided_ponytail",
+      "ponytail",
+      "short_ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "business_suit",
+    "jacket_partially_removed",
+    "shirt_tucked_in",
+    "suit"
+  ],
+  "optional_clothing": []
+}

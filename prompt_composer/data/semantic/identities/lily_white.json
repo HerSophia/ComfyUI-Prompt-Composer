@@ -1,0 +1,30 @@
+{
+  "id": "lily_white",
+  "name": "莉莉白",
+  "identity_tags": [
+    "lily_white"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "side_ponytail",
+      "twin_braids",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "capelet",
+    "skirt_set",
+    "ascot",
+    "bowtie"
+  ],
+  "optional_clothing": []
+}

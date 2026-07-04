@@ -1,0 +1,29 @@
+{
+  "id": "shampoo_ranma_1_2",
+  "name": "珊璞",
+  "identity_tags": [
+    "shampoo_(ranma_1/2)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "hair_bun",
+      "double_bun",
+      "braided_ponytail"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "chinese_clothes",
+    "china_dress",
+    "side_slit",
+    "maid_apron"
+  ],
+  "optional_clothing": []
+}

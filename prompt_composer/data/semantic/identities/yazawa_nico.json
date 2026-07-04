@@ -1,0 +1,30 @@
+{
+  "id": "yazawa_nico",
+  "name": "矢泽妮可",
+  "identity_tags": [
+    "yazawa_nico"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "otonokizaka_school_uniform",
+    "bikini_skirt",
+    "blazer",
+    "summer_uniform"
+  ],
+  "optional_clothing": []
+}

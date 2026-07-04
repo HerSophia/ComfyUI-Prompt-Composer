@@ -1,0 +1,29 @@
+{
+  "id": "oboro_kancolle",
+  "name": "胧",
+  "identity_tags": [
+    "oboro_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "serafuku",
+    "sailor_collar",
+    "kneehighs",
+    "school_uniform"
+  ],
+  "optional_clothing": []
+}

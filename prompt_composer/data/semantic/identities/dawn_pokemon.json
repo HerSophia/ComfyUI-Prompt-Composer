@@ -1,0 +1,30 @@
+{
+  "id": "dawn_pokemon",
+  "name": "小光",
+  "identity_tags": [
+    "dawn_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "over-kneehighs",
+    "winter_clothes",
+    "sleeveless_shirt",
+    "overalls"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "verniy_kancolle",
+  "name": "维尔尼",
+  "identity_tags": [
+    "verniy_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "serafuku",
+    "sailor_collar",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

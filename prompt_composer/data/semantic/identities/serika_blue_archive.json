@@ -1,0 +1,30 @@
+{
+  "id": "serika_blue_archive",
+  "name": "黑见芹香",
+  "identity_tags": [
+    "serika_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "mismatched_pupils"
+    ]
+  },
+  "default_clothing": [
+    "frilled_bikini",
+    "bikini_skirt",
+    "miko",
+    "competition_swimsuit"
+  ],
+  "optional_clothing": []
+}

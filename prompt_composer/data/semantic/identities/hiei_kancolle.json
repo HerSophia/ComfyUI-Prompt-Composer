@@ -1,0 +1,30 @@
+{
+  "id": "hiei_kancolle",
+  "name": "比叡",
+  "identity_tags": [
+    "hiei_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "muneate",
+    "plaid_skirt",
+    "thigh_boots",
+    "japanese_clothes"
+  ],
+  "optional_clothing": []
+}

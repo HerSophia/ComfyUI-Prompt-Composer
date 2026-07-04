@@ -1,0 +1,30 @@
+{
+  "id": "hiryuu_kancolle",
+  "name": "飞龙",
+  "identity_tags": [
+    "hiryuu_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "muneate",
+    "hakama_skirt",
+    "japanese_clothes",
+    "kimono"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "shijou_takane",
+  "name": "四条贵音",
+  "identity_tags": [
+    "shijou_takane"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ponytail",
+      "blunt_bangs",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bikini",
+    "swimsuit",
+    "necklace",
+    "high_heels"
+  ],
+  "optional_clothing": []
+}

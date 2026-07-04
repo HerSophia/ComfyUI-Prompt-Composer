@@ -1,0 +1,30 @@
+{
+  "id": "sakurai_momoka",
+  "name": "樱井桃华",
+  "identity_tags": [
+    "sakurai_momoka"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "wavy_hair",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "school_swimsuit",
+    "frilled_dress",
+    "one-piece_swimsuit",
+    "white_thighhighs"
+  ],
+  "optional_clothing": []
+}

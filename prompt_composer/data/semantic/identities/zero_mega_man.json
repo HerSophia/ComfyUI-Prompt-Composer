@@ -1,0 +1,26 @@
+{
+  "id": "zero_mega_man",
+  "name": "零（洛克人）",
+  "identity_tags": [
+    "zero_(mega_man)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "helmet",
+    "armor",
+    "boots"
+  ],
+  "optional_clothing": []
+}

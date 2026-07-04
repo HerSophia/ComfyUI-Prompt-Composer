@@ -1,0 +1,28 @@
+{
+  "id": "roronoa_zoro",
+  "name": "罗罗诺亚·索隆",
+  "identity_tags": [
+    "roronoa_zoro"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "suit",
+    "sandals",
+    "kimono",
+    "pants"
+  ],
+  "optional_clothing": []
+}

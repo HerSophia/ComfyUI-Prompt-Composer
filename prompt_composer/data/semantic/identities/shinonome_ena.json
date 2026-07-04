@@ -1,0 +1,29 @@
+{
+  "id": "shinonome_ena",
+  "name": "东云绘",
+  "identity_tags": [
+    "shinonome_ena"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "side_ponytail",
+      "ponytail",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "cardigan",
+    "plaid_skirt",
+    "bowtie",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

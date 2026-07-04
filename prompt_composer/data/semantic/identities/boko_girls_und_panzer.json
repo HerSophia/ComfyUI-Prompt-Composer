@@ -1,0 +1,29 @@
+{
+  "id": "boko_girls_und_panzer",
+  "name": "boko（少女与装甲）",
+  "identity_tags": [
+    "boko_(girls_und_panzer)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "blunt_bangs",
+      "drill_hair"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "ooarai_school_uniform",
+    "suspender_skirt",
+    "layered_skirt",
+    "animal_costume"
+  ],
+  "optional_clothing": []
+}

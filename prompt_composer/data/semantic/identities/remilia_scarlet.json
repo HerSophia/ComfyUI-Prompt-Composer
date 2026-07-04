@@ -1,0 +1,30 @@
+{
+  "id": "remilia_scarlet",
+  "name": "蕾米莉亚·斯卡蕾特",
+  "identity_tags": [
+    "remilia_scarlet"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twin_braids",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "skirt_set",
+    "ascot",
+    "bobby_socks",
+    "ribbon-trimmed_skirt"
+  ],
+  "optional_clothing": []
+}

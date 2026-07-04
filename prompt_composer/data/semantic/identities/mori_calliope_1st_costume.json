@@ -1,0 +1,28 @@
+{
+  "id": "mori_calliope_1st_costume",
+  "name": "森美声",
+  "identity_tags": [
+    "mori_calliope_(1st_costume)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "straight_hair"
+    ],
+    "eyes": [
+      "pink_eyes"
+    ]
+  },
+  "default_clothing": [
+    "cloak",
+    "side_slit",
+    "cape",
+    "clothing_cutout"
+  ],
+  "optional_clothing": []
+}

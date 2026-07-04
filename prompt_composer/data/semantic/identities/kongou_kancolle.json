@@ -1,0 +1,30 @@
+{
+  "id": "kongou_kancolle",
+  "name": "金刚",
+  "identity_tags": [
+    "kongou_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "muneate",
+    "thigh_boots",
+    "hakama_skirt"
+  ],
+  "optional_clothing": []
+}

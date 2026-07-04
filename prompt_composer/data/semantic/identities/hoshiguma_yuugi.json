@@ -1,0 +1,30 @@
+{
+  "id": "hoshiguma_yuugi",
+  "name": "星熊游戏",
+  "identity_tags": [
+    "hoshiguma_yuugi"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "twin_braids",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "geta",
+    "striped_skirt",
+    "long_skirt",
+    "buruma"
+  ],
+  "optional_clothing": []
+}

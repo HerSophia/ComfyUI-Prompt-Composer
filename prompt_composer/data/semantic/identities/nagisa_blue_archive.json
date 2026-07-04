@@ -1,0 +1,29 @@
+{
+  "id": "nagisa_blue_archive",
+  "name": "桐藤渚",
+  "identity_tags": [
+    "nagisa_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "hair_bun",
+      "forehead",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "capelet",
+    "white_pantyhose",
+    "neckerchief",
+    "black_pantyhose"
+  ],
+  "optional_clothing": []
+}

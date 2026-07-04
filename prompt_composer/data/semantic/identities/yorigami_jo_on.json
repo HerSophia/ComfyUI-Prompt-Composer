@@ -1,0 +1,28 @@
+{
+  "id": "yorigami_jo_on",
+  "name": "依神女苑",
+  "identity_tags": [
+    "yorigami_jo'on"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "orange"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "drill_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "orange_eyes"
+    ]
+  },
+  "default_clothing": [
+    "hoodie",
+    "necklace",
+    "sleeveless_dress",
+    "dress"
+  ],
+  "optional_clothing": []
+}

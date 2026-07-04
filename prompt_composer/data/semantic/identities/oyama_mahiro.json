@@ -1,0 +1,30 @@
+{
+  "id": "oyama_mahiro",
+  "name": "小山真广",
+  "identity_tags": [
+    "oyama_mahiro"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "oversized_shirt",
+    "oversized_clothes",
+    "suspender_skirt",
+    "frilled_choker"
+  ],
+  "optional_clothing": []
+}

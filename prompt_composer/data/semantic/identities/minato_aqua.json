@@ -1,0 +1,30 @@
+{
+  "id": "minato_aqua",
+  "name": "凑阿库娅",
+  "identity_tags": [
+    "minato_aqua"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "twintails",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "ribbon_choker",
+    "dress_bow",
+    "striped_bikini",
+    "high-waist_skirt"
+  ],
+  "optional_clothing": []
+}

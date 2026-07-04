@@ -1,0 +1,29 @@
+{
+  "id": "fujishima_megumi",
+  "name": "藤岛惠",
+  "identity_tags": [
+    "fujishima_megumi"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sailor_dress",
+    "neckerchief",
+    "sailor_collar",
+    "school_uniform"
+  ],
+  "optional_clothing": []
+}

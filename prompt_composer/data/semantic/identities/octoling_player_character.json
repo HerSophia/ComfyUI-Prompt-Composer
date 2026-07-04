@@ -1,0 +1,29 @@
+{
+  "id": "octoling_player_character",
+  "name": "章鱼妹",
+  "identity_tags": [
+    "octoling_player_character"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "blunt_bangs",
+      "ponytail",
+      "drill_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "dolphin_shorts",
+    "bike_shorts",
+    "print_shirt",
+    "pencil_skirt"
+  ],
+  "optional_clothing": []
+}

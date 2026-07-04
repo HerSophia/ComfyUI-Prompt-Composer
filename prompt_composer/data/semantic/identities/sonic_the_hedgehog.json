@@ -1,0 +1,27 @@
+{
+  "id": "sonic_the_hedgehog",
+  "name": "索尼克",
+  "identity_tags": [
+    "sonic_the_hedgehog"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sneakers",
+    "shoes",
+    "helmet",
+    "socks"
+  ],
+  "optional_clothing": []
+}

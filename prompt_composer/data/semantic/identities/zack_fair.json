@@ -1,0 +1,27 @@
+{
+  "id": "zack_fair",
+  "name": "扎克斯·菲尔",
+  "identity_tags": [
+    "zack_fair"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "braided_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sleeveless_turtleneck",
+    "shoulder_armor",
+    "turtleneck_sweater",
+    "suspenders"
+  ],
+  "optional_clothing": []
+}

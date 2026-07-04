@@ -1,0 +1,315 @@
+[
+  {
+    "tag": "christmas",
+    "category": "lighting",
+    "weight": 4.75,
+    "aliases": [
+      "xmas",
+      "crhistmas"
+    ],
+    "label_zh": "圣诞节",
+    "post_count": 55890
+  },
+  {
+    "tag": "lens_flare",
+    "category": "lighting",
+    "weight": 4.67,
+    "aliases": [
+      "lensflare"
+    ],
+    "label_zh": "透镜光晕",
+    "post_count": 46620
+  },
+  {
+    "tag": "halloween",
+    "category": "lighting",
+    "weight": 4.63,
+    "aliases": [],
+    "label_zh": "万圣节",
+    "post_count": 42784
+  },
+  {
+    "tag": "new_year",
+    "category": "lighting",
+    "weight": 4.48,
+    "aliases": [
+      "new_years",
+      "newyear"
+    ],
+    "label_zh": "新年",
+    "post_count": 30528
+  },
+  {
+    "tag": "valentine",
+    "category": "lighting",
+    "weight": 4.45,
+    "aliases": [
+      "valentines_day",
+      "valentine's_day",
+      "valentien",
+      "valentines"
+    ],
+    "label_zh": "情人节",
+    "post_count": 28275
+  },
+  {
+    "tag": "fireworks",
+    "category": "lighting",
+    "weight": 4.23,
+    "aliases": [
+      "firework"
+    ],
+    "label_zh": "焰火",
+    "post_count": 17022
+  },
+  {
+    "tag": "explosion",
+    "category": "lighting",
+    "weight": 4.16,
+    "aliases": [],
+    "label_zh": "爆炸",
+    "post_count": 14381
+  },
+  {
+    "tag": "year_of_the_rabbit",
+    "category": "lighting",
+    "weight": 3.56,
+    "aliases": [],
+    "label_zh": "兔年",
+    "post_count": 3606
+  },
+  {
+    "tag": "tanabata",
+    "category": "lighting",
+    "weight": 3.43,
+    "aliases": [],
+    "label_zh": "七夕节",
+    "post_count": 2651
+  },
+  {
+    "tag": "summer_festival",
+    "category": "lighting",
+    "weight": 3.38,
+    "aliases": [],
+    "label_zh": "夏日祭",
+    "post_count": 2388
+  },
+  {
+    "tag": "lantern_festival",
+    "category": "lighting",
+    "weight": 2.73,
+    "aliases": [],
+    "label_zh": "元宵节",
+    "post_count": 525
+  },
+  {
+    "tag": "mid-autumn_festival",
+    "category": "lighting",
+    "weight": 2.54,
+    "aliases": [
+      "zhongqiu_jie"
+    ],
+    "label_zh": "中秋节",
+    "post_count": 335
+  },
+  {
+    "tag": "mosaic_background",
+    "category": "lighting",
+    "weight": 2.52,
+    "aliases": [],
+    "label_zh": "马赛克背景",
+    "post_count": 319
+  },
+  {
+    "tag": "rim_light",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "轮廓光",
+    "post_count": 0
+  },
+  {
+    "tag": "volumetric_lighting",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "体积光",
+    "post_count": 0
+  },
+  {
+    "tag": "glowing_neon_lights",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "霓虹灯",
+    "post_count": 0
+  },
+  {
+    "tag": "cinematic_lighting",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "电影级光照",
+    "post_count": 0
+  },
+  {
+    "tag": "metallic_luster",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "金属光泽",
+    "post_count": 0
+  },
+  {
+    "tag": "moody_lighting",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "氛围光照",
+    "post_count": 0
+  },
+  {
+    "tag": "tyndall_effect",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "丁达尔效应",
+    "post_count": 0
+  },
+  {
+    "tag": "light_leaks",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "漏光光效",
+    "post_count": 0
+  },
+  {
+    "tag": "background_light",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "背景光",
+    "post_count": 0
+  },
+  {
+    "tag": "available_light",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "自然光",
+    "post_count": 0
+  },
+  {
+    "tag": "water_vapor",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "蒸汽",
+    "post_count": 0
+  },
+  {
+    "tag": "ceiling_window",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "落地窗",
+    "post_count": 0
+  },
+  {
+    "tag": "colourful_glass",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "彩色玻璃",
+    "post_count": 0
+  },
+  {
+    "tag": "stain_glass",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "染色玻璃",
+    "post_count": 0
+  },
+  {
+    "tag": "graffiti_wall",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "涂鸦墙",
+    "post_count": 0
+  },
+  {
+    "tag": "liquid_background,_sputtered_water",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "液体背景",
+    "post_count": 0
+  },
+  {
+    "tag": "magic_circles",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "魔法环",
+    "post_count": 0
+  },
+  {
+    "tag": "fluorescent_mushroom_forests_background",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "荧光蘑菇森林",
+    "post_count": 0
+  },
+  {
+    "tag": "(((colorful_bubble)))",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "彩色泡泡",
+    "post_count": 0
+  },
+  {
+    "tag": "in_the_ocean",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "海边日落",
+    "post_count": 0
+  },
+  {
+    "tag": "against_backlight_at_dusk",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "傍晚背对阳光",
+    "post_count": 0
+  },
+  {
+    "tag": "golden_hour_lighting",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "黄金时段照明",
+    "post_count": 0
+  },
+  {
+    "tag": "strong_rim_light",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "强边缘光",
+    "post_count": 0
+  },
+  {
+    "tag": "intense_shadows",
+    "category": "lighting",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "强阴影",
+    "post_count": 0
+  }
+]

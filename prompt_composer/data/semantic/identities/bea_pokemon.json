@@ -1,0 +1,28 @@
+{
+  "id": "bea_pokemon",
+  "name": "彩豆",
+  "identity_tags": [
+    "bea_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "hair_bun"
+    ],
+    "eyes": [
+      "grey_eyes"
+    ]
+  },
+  "default_clothing": [
+    "print_shirt",
+    "tied_shirt",
+    "side_slit",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

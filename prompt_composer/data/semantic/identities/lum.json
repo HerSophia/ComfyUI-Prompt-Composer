@@ -1,0 +1,26 @@
+{
+  "id": "lum",
+  "name": "拉姆",
+  "identity_tags": [
+    "lum"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "strapless_bikini",
+    "print_bikini",
+    "knee_boots",
+    "bikini"
+  ],
+  "optional_clothing": []
+}

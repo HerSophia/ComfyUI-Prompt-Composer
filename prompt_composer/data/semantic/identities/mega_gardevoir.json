@@ -1,0 +1,27 @@
+{
+  "id": "mega_gardevoir",
+  "name": "超级沙奈朵",
+  "identity_tags": [
+    "mega_gardevoir"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "bob_cut"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "strapless_dress",
+    "long_dress",
+    "dress"
+  ],
+  "optional_clothing": []
+}

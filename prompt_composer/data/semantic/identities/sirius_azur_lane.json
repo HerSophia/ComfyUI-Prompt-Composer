@@ -1,0 +1,30 @@
+{
+  "id": "sirius_azur_lane",
+  "name": "天狼星",
+  "identity_tags": [
+    "sirius_(azur_lane)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "twintails",
+      "crossed_bangs",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "red_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "frilled_choker",
+    "o-ring_bikini",
+    "china_dress",
+    "pelvic_curtain"
+  ],
+  "optional_clothing": []
+}

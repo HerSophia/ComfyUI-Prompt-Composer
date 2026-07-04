@@ -1,0 +1,30 @@
+{
+  "id": "unryuu_kancolle",
+  "name": "云龙",
+  "identity_tags": [
+    "unryuu_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "wavy_hair",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "jitome"
+    ]
+  },
+  "default_clothing": [
+    "clothing_cutout",
+    "crop_top",
+    "alternate_costume",
+    "miniskirt"
+  ],
+  "optional_clothing": []
+}

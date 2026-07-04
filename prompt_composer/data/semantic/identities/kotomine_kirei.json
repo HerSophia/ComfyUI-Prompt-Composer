@@ -1,0 +1,27 @@
+{
+  "id": "kotomine_kirei",
+  "name": "言峰绮礼",
+  "identity_tags": [
+    "kotomine_kirei"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "cross_necklace",
+    "necklace",
+    "dress",
+    "thighhighs"
+  ],
+  "optional_clothing": []
+}

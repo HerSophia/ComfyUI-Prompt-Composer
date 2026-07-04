@@ -1,0 +1,30 @@
+{
+  "id": "aki_shizuha",
+  "name": "秋静叶",
+  "identity_tags": [
+    "aki_shizuha"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "side_ponytail",
+      "twin_braids",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "geta",
+    "skirt_set",
+    "apron",
+    "ascot"
+  ],
+  "optional_clothing": []
+}

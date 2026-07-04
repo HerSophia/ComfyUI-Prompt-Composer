@@ -1,0 +1,30 @@
+{
+  "id": "lappland_arknights",
+  "name": "拉普兰德",
+  "identity_tags": [
+    "lappland_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "messy_hair",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "grey_eyes",
+      "eye_contact"
+    ]
+  },
+  "default_clothing": [
+    "short_shorts",
+    "high-waist_skirt",
+    "fur-trimmed_jacket",
+    "open_jacket"
+  ],
+  "optional_clothing": []
+}

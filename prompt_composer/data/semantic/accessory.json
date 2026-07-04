@@ -1,0 +1,3434 @@
+[
+  {
+    "tag": "long_sleeves",
+    "category": "accessory",
+    "weight": 6.33,
+    "aliases": [
+      "long_sleeve",
+      "/lsleeves"
+    ],
+    "label_zh": "长袖",
+    "post_count": 2118297
+  },
+  {
+    "tag": "hair_ornament",
+    "category": "accessory",
+    "weight": 6.27,
+    "aliases": [
+      "/hornament",
+      "hair_decs",
+      "hair_accessories",
+      "hair_ornaments",
+      "hair_accessory"
+    ],
+    "label_zh": "发饰",
+    "post_count": 1861577
+  },
+  {
+    "tag": "gloves",
+    "category": "accessory",
+    "weight": 6.25,
+    "aliases": [
+      "glove"
+    ],
+    "label_zh": "手套",
+    "post_count": 1762345
+  },
+  {
+    "tag": "hat",
+    "category": "accessory",
+    "weight": 6.19,
+    "aliases": [],
+    "label_zh": "帽子",
+    "post_count": 1555203
+  },
+  {
+    "tag": "jewelry",
+    "category": "accessory",
+    "weight": 6.16,
+    "aliases": [
+      "jewellery",
+      "jewelery"
+    ],
+    "label_zh": "首饰",
+    "post_count": 1439124
+  },
+  {
+    "tag": "ribbon",
+    "category": "accessory",
+    "weight": 6.13,
+    "aliases": [
+      "ribbons"
+    ],
+    "label_zh": "丝带",
+    "post_count": 1346344
+  },
+  {
+    "tag": "short_sleeves",
+    "category": "accessory",
+    "weight": 5.91,
+    "aliases": [
+      "/ssleeves"
+    ],
+    "label_zh": "短袖",
+    "post_count": 821111
+  },
+  {
+    "tag": "earrings",
+    "category": "accessory",
+    "weight": 5.89,
+    "aliases": [
+      "grey_earrings",
+      "black_earrings",
+      "white_earrings",
+      "yellow_earrings",
+      "green_earrings",
+      "aqua_earrings",
+      "purple_earrings",
+      "pink_earrings",
+      "brown_earrings",
+      "red_earrings",
+      "blue_earrings",
+      "ear_rings",
+      "ear_ring",
+      "earring"
+    ],
+    "label_zh": "耳环",
+    "post_count": 768180
+  },
+  {
+    "tag": "hair_ribbon",
+    "category": "accessory",
+    "weight": 5.87,
+    "aliases": [
+      "ribbon_hair_ornament",
+      "/hribbon",
+      "ribbon_in_hair",
+      "ribbons_in_hair",
+      "hair_ribbons"
+    ],
+    "label_zh": "发_带",
+    "post_count": 738708
+  },
+  {
+    "tag": "hair_bow",
+    "category": "accessory",
+    "weight": 5.83,
+    "aliases": [
+      "hairbow",
+      "hair_bows"
+    ],
+    "label_zh": "蝴蝶结发饰",
+    "post_count": 682013
+  },
+  {
+    "tag": "hairband",
+    "category": "accessory",
+    "weight": 5.8,
+    "aliases": [
+      "hair_band"
+    ],
+    "label_zh": "发_带",
+    "post_count": 628585
+  },
+  {
+    "tag": "sleeveless",
+    "category": "accessory",
+    "weight": 5.76,
+    "aliases": [
+      "no_sleeves"
+    ],
+    "label_zh": "无袖",
+    "post_count": 570358
+  },
+  {
+    "tag": "detached_sleeves",
+    "category": "accessory",
+    "weight": 5.73,
+    "aliases": [
+      "detached_sleeve",
+      "naked_sleeves",
+      "/dsleeves",
+      "armsleeves"
+    ],
+    "label_zh": "分离式袖子",
+    "post_count": 535614
+  },
+  {
+    "tag": "puffy_sleeves",
+    "category": "accessory",
+    "weight": 5.67,
+    "aliases": [
+      "/psleeves",
+      "puffy_shoulders"
+    ],
+    "label_zh": "蓬松的袖子",
+    "post_count": 473028
+  },
+  {
+    "tag": "glasses",
+    "category": "accessory",
+    "weight": 5.66,
+    "aliases": [
+      "meganeko",
+      "megane",
+      "meganekko"
+    ],
+    "label_zh": "眼镜",
+    "post_count": 461673
+  },
+  {
+    "tag": "belt",
+    "category": "accessory",
+    "weight": 5.66,
+    "aliases": [
+      "belts"
+    ],
+    "label_zh": "皮带",
+    "post_count": 461090
+  },
+  {
+    "tag": "hairclip",
+    "category": "accessory",
+    "weight": 5.63,
+    "aliases": [
+      "barrette",
+      "hair_clips",
+      "hair_clip",
+      "hairclips"
+    ],
+    "label_zh": "发_夹",
+    "post_count": 425850
+  },
+  {
+    "tag": "halo",
+    "category": "accessory",
+    "weight": 5.62,
+    "aliases": [],
+    "label_zh": "光环",
+    "post_count": 414828
+  },
+  {
+    "tag": "elbow_gloves",
+    "category": "accessory",
+    "weight": 5.58,
+    "aliases": [
+      "opera_gloves",
+      "long_gloves",
+      "/eg"
+    ],
+    "label_zh": "长袖手套（肘部手套）",
+    "post_count": 379079
+  },
+  {
+    "tag": "hair_flower",
+    "category": "accessory",
+    "weight": 5.56,
+    "aliases": [
+      "flower_hair_ornament",
+      "/hflower",
+      "hair_flowers",
+      "flower_in_hair",
+      "hairflower"
+    ],
+    "label_zh": "头发上别着花",
+    "post_count": 362836
+  },
+  {
+    "tag": "fingerless_gloves",
+    "category": "accessory",
+    "weight": 5.53,
+    "aliases": [
+      "fingerless_glove"
+    ],
+    "label_zh": "露指手套",
+    "post_count": 339458
+  },
+  {
+    "tag": "wide_sleeves",
+    "category": "accessory",
+    "weight": 5.52,
+    "aliases": [
+      "/wsleeves"
+    ],
+    "label_zh": "宽袖",
+    "post_count": 329686
+  },
+  {
+    "tag": "scarf",
+    "category": "accessory",
+    "weight": 5.42,
+    "aliases": [
+      "muffler"
+    ],
+    "label_zh": "围巾",
+    "post_count": 264438
+  },
+  {
+    "tag": "collar",
+    "category": "accessory",
+    "weight": 5.4,
+    "aliases": [],
+    "label_zh": "项圈",
+    "post_count": 251161
+  },
+  {
+    "tag": "bracelet",
+    "category": "accessory",
+    "weight": 5.39,
+    "aliases": [
+      "wristlet",
+      "bracelets"
+    ],
+    "label_zh": "手链",
+    "post_count": 245807
+  },
+  {
+    "tag": "puffy_short_sleeves",
+    "category": "accessory",
+    "weight": 5.37,
+    "aliases": [
+      "short_puffy_sleeves"
+    ],
+    "label_zh": "蓬蓬短袖",
+    "post_count": 234098
+  },
+  {
+    "tag": "sleeves_past_wrists",
+    "category": "accessory",
+    "weight": 5.34,
+    "aliases": [
+      "sleeves_past_wrist"
+    ],
+    "label_zh": "袖子过腕",
+    "post_count": 216397
+  },
+  {
+    "tag": "fur_trim",
+    "category": "accessory",
+    "weight": 5.33,
+    "aliases": [
+      "fur_lining"
+    ],
+    "label_zh": "皮草饰边",
+    "post_count": 214876
+  },
+  {
+    "tag": "wrist_cuffs",
+    "category": "accessory",
+    "weight": 5.29,
+    "aliases": [
+      "detached_cuffs",
+      "wristcuff",
+      "wristcuffs",
+      "wrist_cuff"
+    ],
+    "label_zh": "和袖子分开的手腕的袖口",
+    "post_count": 194151
+  },
+  {
+    "tag": "maid_headdress",
+    "category": "accessory",
+    "weight": 5.28,
+    "aliases": [
+      "maid_cachusha",
+      "maid_headband"
+    ],
+    "label_zh": "女仆头饰",
+    "post_count": 188483
+  },
+  {
+    "tag": "mask",
+    "category": "accessory",
+    "weight": 5.24,
+    "aliases": [
+      "masks"
+    ],
+    "label_zh": "面具",
+    "post_count": 175508
+  },
+  {
+    "tag": "turtleneck",
+    "category": "accessory",
+    "weight": 5.21,
+    "aliases": [
+      "turtle_neck"
+    ],
+    "label_zh": "高领服饰",
+    "post_count": 163368
+  },
+  {
+    "tag": "bell",
+    "category": "accessory",
+    "weight": 5.18,
+    "aliases": [
+      "bells"
+    ],
+    "label_zh": "铃铛",
+    "post_count": 150270
+  },
+  {
+    "tag": "beret",
+    "category": "accessory",
+    "weight": 5.13,
+    "aliases": [],
+    "label_zh": "贝雷帽",
+    "post_count": 134623
+  },
+  {
+    "tag": "sunglasses",
+    "category": "accessory",
+    "weight": 5.11,
+    "aliases": [
+      "shades"
+    ],
+    "label_zh": "太阳镜",
+    "post_count": 129574
+  },
+  {
+    "tag": "witch_hat",
+    "category": "accessory",
+    "weight": 5.1,
+    "aliases": [
+      "witchhat",
+      "witches_hat"
+    ],
+    "label_zh": "魔女帽",
+    "post_count": 126172
+  },
+  {
+    "tag": "headphones",
+    "category": "accessory",
+    "weight": 5.1,
+    "aliases": [
+      "headphone"
+    ],
+    "label_zh": "耳机",
+    "post_count": 125041
+  },
+  {
+    "tag": "headband",
+    "category": "accessory",
+    "weight": 5.09,
+    "aliases": [
+      "head_band"
+    ],
+    "label_zh": "头带",
+    "post_count": 123758
+  },
+  {
+    "tag": "ring",
+    "category": "accessory",
+    "weight": 5.06,
+    "aliases": [
+      "rings"
+    ],
+    "label_zh": "戒指",
+    "post_count": 115861
+  },
+  {
+    "tag": "frilled_sleeves",
+    "category": "accessory",
+    "weight": 5.03,
+    "aliases": [
+      "ruffled_sleeves"
+    ],
+    "label_zh": "褶袖边",
+    "post_count": 107931
+  },
+  {
+    "tag": "gem",
+    "category": "accessory",
+    "weight": 5.01,
+    "aliases": [
+      "gemstones",
+      "gemstone",
+      "precious_stones",
+      "precious_stone",
+      "gems",
+      "jewels",
+      "jewel"
+    ],
+    "label_zh": "宝石",
+    "post_count": 103335
+  },
+  {
+    "tag": "x_hair_ornament",
+    "category": "accessory",
+    "weight": 5.01,
+    "aliases": [],
+    "label_zh": "x_发饰",
+    "post_count": 101715
+  },
+  {
+    "tag": "headgear",
+    "category": "accessory",
+    "weight": 4.98,
+    "aliases": [],
+    "label_zh": "头部饰品(含一定科幻元素)",
+    "post_count": 96455
+  },
+  {
+    "tag": "mob_cap",
+    "category": "accessory",
+    "weight": 4.98,
+    "aliases": [
+      "pillow_hat",
+      "pillowhat"
+    ],
+    "label_zh": "头巾式室内女帽",
+    "post_count": 95214
+  },
+  {
+    "tag": "cross",
+    "category": "accessory",
+    "weight": 4.98,
+    "aliases": [],
+    "label_zh": "十字",
+    "post_count": 95087
+  },
+  {
+    "tag": "hair_tubes",
+    "category": "accessory",
+    "weight": 4.97,
+    "aliases": [
+      "hair_tube"
+    ],
+    "label_zh": "发管",
+    "post_count": 93988
+  },
+  {
+    "tag": "juliet_sleeves",
+    "category": "accessory",
+    "weight": 4.96,
+    "aliases": [
+      "puffy_shoulder_long_sleeves",
+      "puffy_shoulders_long_sleeves"
+    ],
+    "label_zh": "朱丽叶袖",
+    "post_count": 91894
+  },
+  {
+    "tag": "tassel",
+    "category": "accessory",
+    "weight": 4.95,
+    "aliases": [
+      "tassle",
+      "tassels"
+    ],
+    "label_zh": "流苏",
+    "post_count": 90042
+  },
+  {
+    "tag": "crown",
+    "category": "accessory",
+    "weight": 4.95,
+    "aliases": [],
+    "label_zh": "皇冠",
+    "post_count": 89510
+  },
+  {
+    "tag": "puffy_long_sleeves",
+    "category": "accessory",
+    "weight": 4.95,
+    "aliases": [
+      "bishop_sleeves",
+      "long_puffy_sleeves"
+    ],
+    "label_zh": "蓬蓬长袖",
+    "post_count": 89385
+  },
+  {
+    "tag": "single_hair_bun",
+    "category": "accessory",
+    "weight": 4.94,
+    "aliases": [
+      "hair_bun",
+      "hairbun",
+      "bun"
+    ],
+    "label_zh": "发髻(单)",
+    "post_count": 86672
+  },
+  {
+    "tag": "eyewear_on_head",
+    "category": "accessory",
+    "weight": 4.93,
+    "aliases": [
+      "sunglasses_on_head",
+      "glasses_on_head"
+    ],
+    "label_zh": "眼镜别在头上",
+    "post_count": 85916
+  },
+  {
+    "tag": "bandaid",
+    "category": "accessory",
+    "weight": 4.93,
+    "aliases": [
+      "band-aid",
+      "band_aids",
+      "band-aid",
+      "bandaids"
+    ],
+    "label_zh": "创可贴",
+    "post_count": 85843
+  },
+  {
+    "tag": "brooch",
+    "category": "accessory",
+    "weight": 4.93,
+    "aliases": [
+      "broach"
+    ],
+    "label_zh": "胸针",
+    "post_count": 84690
+  },
+  {
+    "tag": "head_wings",
+    "category": "accessory",
+    "weight": 4.93,
+    "aliases": [
+      "headwings"
+    ],
+    "label_zh": "头上有翅膀",
+    "post_count": 84385
+  },
+  {
+    "tag": "tiara",
+    "category": "accessory",
+    "weight": 4.91,
+    "aliases": [],
+    "label_zh": "头冠",
+    "post_count": 80934
+  },
+  {
+    "tag": "goggles",
+    "category": "accessory",
+    "weight": 4.9,
+    "aliases": [],
+    "label_zh": "风镜",
+    "post_count": 78831
+  },
+  {
+    "tag": "hat_ribbon",
+    "category": "accessory",
+    "weight": 4.89,
+    "aliases": [
+      "hatband",
+      "hat_ribbons"
+    ],
+    "label_zh": "带有缎带的帽子",
+    "post_count": 78440
+  },
+  {
+    "tag": "armband",
+    "category": "accessory",
+    "weight": 4.87,
+    "aliases": [
+      "arm_band",
+      "armbands",
+      "arm_band"
+    ],
+    "label_zh": "袖章(臂带)",
+    "post_count": 74604
+  },
+  {
+    "tag": "hat_bow",
+    "category": "accessory",
+    "weight": 4.87,
+    "aliases": [],
+    "label_zh": "带有蝴蝶结的帽子",
+    "post_count": 74523
+  },
+  {
+    "tag": "sleeves_past_fingers",
+    "category": "accessory",
+    "weight": 4.84,
+    "aliases": [
+      "moe_sleeves"
+    ],
+    "label_zh": "袖子过指",
+    "post_count": 68963
+  },
+  {
+    "tag": "o-ring",
+    "category": "accessory",
+    "weight": 4.83,
+    "aliases": [
+      "o_ring"
+    ],
+    "label_zh": "带O型环的衣物",
+    "post_count": 67513
+  },
+  {
+    "tag": "round_eyewear",
+    "category": "accessory",
+    "weight": 4.83,
+    "aliases": [
+      "circular_eyewear",
+      "round_glasses"
+    ],
+    "label_zh": "圆框眼镜",
+    "post_count": 67158
+  },
+  {
+    "tag": "bridal_gauntlets",
+    "category": "accessory",
+    "weight": 4.82,
+    "aliases": [
+      "bridal_gauntlet"
+    ],
+    "label_zh": "新娘手套",
+    "post_count": 66007
+  },
+  {
+    "tag": "baseball_cap",
+    "category": "accessory",
+    "weight": 4.82,
+    "aliases": [],
+    "label_zh": "棒球帽",
+    "post_count": 65386
+  },
+  {
+    "tag": "wristband",
+    "category": "accessory",
+    "weight": 4.82,
+    "aliases": [
+      "wristbands",
+      "wrist_bands",
+      "wrist_band"
+    ],
+    "label_zh": "腕带",
+    "post_count": 65332
+  },
+  {
+    "tag": "pom_pom_(clothes)",
+    "category": "accessory",
+    "weight": 4.81,
+    "aliases": [
+      "pom_pom_(clothing)"
+    ],
+    "label_zh": "小绒球(衣物挂件)",
+    "post_count": 65147
+  },
+  {
+    "tag": "hair_bobbles",
+    "category": "accessory",
+    "weight": 4.81,
+    "aliases": [
+      "/hbobbles",
+      "hair_bobble",
+      "ball_braids"
+    ],
+    "label_zh": "头绳",
+    "post_count": 64607
+  },
+  {
+    "tag": "single_earring",
+    "category": "accessory",
+    "weight": 4.8,
+    "aliases": [
+      "one_earring"
+    ],
+    "label_zh": "只一边戴着耳环",
+    "post_count": 63591
+  },
+  {
+    "tag": "hair_rings",
+    "category": "accessory",
+    "weight": 4.78,
+    "aliases": [
+      "hair_ring",
+      "hair_loop",
+      "hair_loops"
+    ],
+    "label_zh": "发_圈",
+    "post_count": 60579
+  },
+  {
+    "tag": "brown_gloves",
+    "category": "accessory",
+    "weight": 4.78,
+    "aliases": [],
+    "label_zh": "棕色手套",
+    "post_count": 60426
+  },
+  {
+    "tag": "semi-rimless_eyewear",
+    "category": "accessory",
+    "weight": 4.77,
+    "aliases": [
+      "semi-rimless_glasses",
+      "half-rim_glasses",
+      "half_rim_glasses",
+      "semi_rimless_glasses"
+    ],
+    "label_zh": "半无框眼镜",
+    "post_count": 58968
+  },
+  {
+    "tag": "armlet",
+    "category": "accessory",
+    "weight": 4.77,
+    "aliases": [
+      "armlets",
+      "arm_bracelets"
+    ],
+    "label_zh": "臂镯",
+    "post_count": 58480
+  },
+  {
+    "tag": "single_glove",
+    "category": "accessory",
+    "weight": 4.73,
+    "aliases": [
+      "one_glove"
+    ],
+    "label_zh": "单只手套",
+    "post_count": 53528
+  },
+  {
+    "tag": "sleeves_rolled_up",
+    "category": "accessory",
+    "weight": 4.73,
+    "aliases": [
+      "sleeves_folded_up",
+      "folded_sleeves",
+      "sleeves_rolled",
+      "rolled_sleeves",
+      "rolled-up_sleeves",
+      "rolled_up_sleeves"
+    ],
+    "label_zh": "单只袖子卷起",
+    "post_count": 53397
+  },
+  {
+    "tag": "black-framed_eyewear",
+    "category": "accessory",
+    "weight": 4.71,
+    "aliases": [
+      "black-framed_glasses"
+    ],
+    "label_zh": "黑框眼镜",
+    "post_count": 50965
+  },
+  {
+    "tag": "star_hair_ornament",
+    "category": "accessory",
+    "weight": 4.68,
+    "aliases": [],
+    "label_zh": "星星发饰",
+    "post_count": 47887
+  },
+  {
+    "tag": "hair_behind_ear",
+    "category": "accessory",
+    "weight": 4.68,
+    "aliases": [],
+    "label_zh": "耳后有头发",
+    "post_count": 47738
+  },
+  {
+    "tag": "santa_hat",
+    "category": "accessory",
+    "weight": 4.67,
+    "aliases": [
+      "christmas_hat",
+      "stocking_cap"
+    ],
+    "label_zh": "圣诞帽",
+    "post_count": 46917
+  },
+  {
+    "tag": "headset",
+    "category": "accessory",
+    "weight": 4.67,
+    "aliases": [],
+    "label_zh": "头戴式耳机",
+    "post_count": 46619
+  },
+  {
+    "tag": "lace",
+    "category": "accessory",
+    "weight": 4.67,
+    "aliases": [],
+    "label_zh": "蕾丝",
+    "post_count": 46485
+  },
+  {
+    "tag": "goggles_on_head",
+    "category": "accessory",
+    "weight": 4.66,
+    "aliases": [
+      "goggle_on_head"
+    ],
+    "label_zh": "头上别着护目镜",
+    "post_count": 45803
+  },
+  {
+    "tag": "pendant",
+    "category": "accessory",
+    "weight": 4.65,
+    "aliases": [],
+    "label_zh": "吊坠",
+    "post_count": 44391
+  },
+  {
+    "tag": "tokin_hat",
+    "category": "accessory",
+    "weight": 4.64,
+    "aliases": [
+      "tokin"
+    ],
+    "label_zh": "大礼帽",
+    "post_count": 43947
+  },
+  {
+    "tag": "top_hat",
+    "category": "accessory",
+    "weight": 4.63,
+    "aliases": [
+      "magician_hat",
+      "tophat"
+    ],
+    "label_zh": "高顶礼帽",
+    "post_count": 43079
+  },
+  {
+    "tag": "bandaged_arm",
+    "category": "accessory",
+    "weight": 4.62,
+    "aliases": [
+      "bandaged_arms"
+    ],
+    "label_zh": "绷带手臂",
+    "post_count": 41692
+  },
+  {
+    "tag": "layered_sleeves",
+    "category": "accessory",
+    "weight": 4.62,
+    "aliases": [],
+    "label_zh": "分层袖子",
+    "post_count": 41497
+  },
+  {
+    "tag": "mouth_mask",
+    "category": "accessory",
+    "weight": 4.61,
+    "aliases": [
+      "face_mask"
+    ],
+    "label_zh": "口罩",
+    "post_count": 40903
+  },
+  {
+    "tag": "hat_ornament",
+    "category": "accessory",
+    "weight": 4.61,
+    "aliases": [],
+    "label_zh": "带有饰物的帽子",
+    "post_count": 40746
+  },
+  {
+    "tag": "hairpin",
+    "category": "accessory",
+    "weight": 4.61,
+    "aliases": [
+      "hairpins",
+      "hair_pin"
+    ],
+    "label_zh": "发夹",
+    "post_count": 40490
+  },
+  {
+    "tag": "red-framed_eyewear",
+    "category": "accessory",
+    "weight": 4.61,
+    "aliases": [
+      "red-framed_glasses",
+      "red-rimmed_glasses",
+      "red_framed_glasses"
+    ],
+    "label_zh": "红框眼镜",
+    "post_count": 40325
+  },
+  {
+    "tag": "hoop_earrings",
+    "category": "accessory",
+    "weight": 4.6,
+    "aliases": [
+      "hoop_earring"
+    ],
+    "label_zh": "环状耳环",
+    "post_count": 40221
+  },
+  {
+    "tag": "tinted_eyewear",
+    "category": "accessory",
+    "weight": 4.59,
+    "aliases": [
+      "colored_lenses"
+    ],
+    "label_zh": "有色眼镜",
+    "post_count": 38709
+  },
+  {
+    "tag": "heart_hair_ornament",
+    "category": "accessory",
+    "weight": 4.59,
+    "aliases": [],
+    "label_zh": "心形发饰",
+    "post_count": 38651
+  },
+  {
+    "tag": "stud_earrings",
+    "category": "accessory",
+    "weight": 4.59,
+    "aliases": [
+      "ear_studs",
+      "ear_stud"
+    ],
+    "label_zh": "耳钉",
+    "post_count": 38525
+  },
+  {
+    "tag": "sun_hat",
+    "category": "accessory",
+    "weight": 4.59,
+    "aliases": [
+      "sunhat"
+    ],
+    "label_zh": "太阳帽",
+    "post_count": 38513
+  },
+  {
+    "tag": "partially_fingerless_gloves",
+    "category": "accessory",
+    "weight": 4.57,
+    "aliases": [
+      "partly_fingerless_gloves"
+    ],
+    "label_zh": "部分露指手套",
+    "post_count": 37543
+  },
+  {
+    "tag": "circlet",
+    "category": "accessory",
+    "weight": 4.57,
+    "aliases": [],
+    "label_zh": "头冠",
+    "post_count": 36978
+  },
+  {
+    "tag": "back_bow",
+    "category": "accessory",
+    "weight": 4.56,
+    "aliases": [],
+    "label_zh": "(服饰)打在背后的结",
+    "post_count": 36460
+  },
+  {
+    "tag": "under-rim_eyewear",
+    "category": "accessory",
+    "weight": 4.55,
+    "aliases": [
+      "under-rim_glasses",
+      "under_rim_glasses"
+    ],
+    "label_zh": "带框眼镜",
+    "post_count": 35751
+  },
+  {
+    "tag": "drawstring",
+    "category": "accessory",
+    "weight": 4.55,
+    "aliases": [
+      "drawstrings"
+    ],
+    "label_zh": "衣服的抽绳",
+    "post_count": 35498
+  },
+  {
+    "tag": "mini_hat",
+    "category": "accessory",
+    "weight": 4.55,
+    "aliases": [
+      "minihat",
+      "tiny_hat"
+    ],
+    "label_zh": "迷你帽",
+    "post_count": 35256
+  },
+  {
+    "tag": "arrow_(symbol)",
+    "category": "accessory",
+    "weight": 4.55,
+    "aliases": [
+      "directional_arrows",
+      "directional_arrow",
+      "directional_arrows"
+    ],
+    "label_zh": "箭头",
+    "post_count": 35079
+  },
+  {
+    "tag": "nontraditional_miko",
+    "category": "accessory",
+    "weight": 4.54,
+    "aliases": [],
+    "label_zh": "改款过的日本服饰",
+    "post_count": 34679
+  },
+  {
+    "tag": "center_frills",
+    "category": "accessory",
+    "weight": 4.53,
+    "aliases": [
+      "centre_frills"
+    ],
+    "label_zh": "中心褶花边",
+    "post_count": 33935
+  },
+  {
+    "tag": "hat_flower",
+    "category": "accessory",
+    "weight": 4.52,
+    "aliases": [],
+    "label_zh": "带着花的帽子",
+    "post_count": 33062
+  },
+  {
+    "tag": "crystal",
+    "category": "accessory",
+    "weight": 4.51,
+    "aliases": [
+      "crystals"
+    ],
+    "label_zh": "水晶",
+    "post_count": 32367
+  },
+  {
+    "tag": "butterfly_hair_ornament",
+    "category": "accessory",
+    "weight": 4.51,
+    "aliases": [],
+    "label_zh": "蝴蝶发饰",
+    "post_count": 32279
+  },
+  {
+    "tag": "nurse_cap",
+    "category": "accessory",
+    "weight": 4.5,
+    "aliases": [
+      "nurse_hat"
+    ],
+    "label_zh": "护士帽",
+    "post_count": 31365
+  },
+  {
+    "tag": "animal_hood",
+    "category": "accessory",
+    "weight": 4.49,
+    "aliases": [],
+    "label_zh": "兽耳头罩",
+    "post_count": 30802
+  },
+  {
+    "tag": "bandana",
+    "category": "accessory",
+    "weight": 4.49,
+    "aliases": [
+      "bandanna"
+    ],
+    "label_zh": "头巾",
+    "post_count": 30749
+  },
+  {
+    "tag": "military_hat",
+    "category": "accessory",
+    "weight": 4.48,
+    "aliases": [
+      "military_cap"
+    ],
+    "label_zh": "军帽",
+    "post_count": 30391
+  },
+  {
+    "tag": "straw_hat",
+    "category": "accessory",
+    "weight": 4.48,
+    "aliases": [],
+    "label_zh": "草帽",
+    "post_count": 30233
+  },
+  {
+    "tag": "two-sided_fabric",
+    "category": "accessory",
+    "weight": 4.48,
+    "aliases": [],
+    "label_zh": "双层样式的服饰画法",
+    "post_count": 30151
+  },
+  {
+    "tag": "hair_tie",
+    "category": "accessory",
+    "weight": 4.48,
+    "aliases": [
+      "hair_ties",
+      "hairtie"
+    ],
+    "label_zh": "发_带",
+    "post_count": 29945
+  },
+  {
+    "tag": "bespectacled",
+    "category": "accessory",
+    "weight": 4.46,
+    "aliases": [],
+    "label_zh": "戴眼镜的",
+    "post_count": 28961
+  },
+  {
+    "tag": "cross-laced_clothes",
+    "category": "accessory",
+    "weight": 4.46,
+    "aliases": [
+      "cross-laced_clothing"
+    ],
+    "label_zh": "交叉花边服饰",
+    "post_count": 28602
+  },
+  {
+    "tag": "hair_bell",
+    "category": "accessory",
+    "weight": 4.46,
+    "aliases": [
+      "bell_hair_ornament",
+      "hairbells",
+      "hair_bells",
+      "hairbell"
+    ],
+    "label_zh": "头发上系着铃铛",
+    "post_count": 28584
+  },
+  {
+    "tag": "breast_pocket",
+    "category": "accessory",
+    "weight": 4.45,
+    "aliases": [
+      "chest_pocket",
+      "shirt_pocket"
+    ],
+    "label_zh": "胸口的袋子",
+    "post_count": 28184
+  },
+  {
+    "tag": "blindfold",
+    "category": "accessory",
+    "weight": 4.44,
+    "aliases": [
+      "blindfolded"
+    ],
+    "label_zh": "眼罩",
+    "post_count": 27804
+  },
+  {
+    "tag": "food-themed_hair_ornament",
+    "category": "accessory",
+    "weight": 4.42,
+    "aliases": [
+      "food_hair_ornament",
+      "food_themed_hair_ornament"
+    ],
+    "label_zh": "食物主题发饰",
+    "post_count": 26530
+  },
+  {
+    "tag": "newsboy_cap",
+    "category": "accessory",
+    "weight": 4.42,
+    "aliases": [
+      "cabbie_hat"
+    ],
+    "label_zh": "报童帽",
+    "post_count": 26202
+  },
+  {
+    "tag": "half_gloves",
+    "category": "accessory",
+    "weight": 4.41,
+    "aliases": [
+      "short_gloves"
+    ],
+    "label_zh": "很短的手套",
+    "post_count": 25941
+  },
+  {
+    "tag": "mask_on_head",
+    "category": "accessory",
+    "weight": 4.41,
+    "aliases": [],
+    "label_zh": "掀到头上的面具",
+    "post_count": 25666
+  },
+  {
+    "tag": "headpiece",
+    "category": "accessory",
+    "weight": 4.41,
+    "aliases": [],
+    "label_zh": "头饰",
+    "post_count": 25599
+  },
+  {
+    "tag": "forehead_jewel",
+    "category": "accessory",
+    "weight": 4.4,
+    "aliases": [
+      "forehead_gem"
+    ],
+    "label_zh": "额前有宝石",
+    "post_count": 25008
+  },
+  {
+    "tag": "hair_stick",
+    "category": "accessory",
+    "weight": 4.37,
+    "aliases": [
+      "hair_sticks"
+    ],
+    "label_zh": "发棒",
+    "post_count": 23336
+  },
+  {
+    "tag": "mini_crown",
+    "category": "accessory",
+    "weight": 4.36,
+    "aliases": [
+      "tiny_crown"
+    ],
+    "label_zh": "迷你皇冠",
+    "post_count": 23048
+  },
+  {
+    "tag": "vambraces",
+    "category": "accessory",
+    "weight": 4.35,
+    "aliases": [
+      "vambrace"
+    ],
+    "label_zh": "下臂护甲",
+    "post_count": 22410
+  },
+  {
+    "tag": "emblem",
+    "category": "accessory",
+    "weight": 4.34,
+    "aliases": [],
+    "label_zh": "徽章",
+    "post_count": 21722
+  },
+  {
+    "tag": "sailor_hat",
+    "category": "accessory",
+    "weight": 4.33,
+    "aliases": [
+      "sailor_cap"
+    ],
+    "label_zh": "水手帽",
+    "post_count": 21407
+  },
+  {
+    "tag": "headdress",
+    "category": "accessory",
+    "weight": 4.33,
+    "aliases": [],
+    "label_zh": "头部穿戴物(偏笼统)",
+    "post_count": 21238
+  },
+  {
+    "tag": "frog_hair_ornament",
+    "category": "accessory",
+    "weight": 4.32,
+    "aliases": [],
+    "label_zh": "青蛙发饰",
+    "post_count": 21120
+  },
+  {
+    "tag": "bangle",
+    "category": "accessory",
+    "weight": 4.32,
+    "aliases": [
+      "bangles"
+    ],
+    "label_zh": "手镯",
+    "post_count": 21089
+  },
+  {
+    "tag": "asymmetrical_gloves",
+    "category": "accessory",
+    "weight": 4.32,
+    "aliases": [],
+    "label_zh": "不对称的手套",
+    "post_count": 21023
+  },
+  {
+    "tag": "paw_gloves",
+    "category": "accessory",
+    "weight": 4.31,
+    "aliases": [],
+    "label_zh": "爪子手套(分指手套)",
+    "post_count": 20628
+  },
+  {
+    "tag": "triangular_headpiece",
+    "category": "accessory",
+    "weight": 4.31,
+    "aliases": [],
+    "label_zh": "三角头饰",
+    "post_count": 20473
+  },
+  {
+    "tag": "mechanical_halo",
+    "category": "accessory",
+    "weight": 4.31,
+    "aliases": [],
+    "label_zh": "机械光环",
+    "post_count": 20296
+  },
+  {
+    "tag": "bridal_veil",
+    "category": "accessory",
+    "weight": 4.31,
+    "aliases": [
+      "wedding_veil"
+    ],
+    "label_zh": "新娘头纱",
+    "post_count": 20202
+  },
+  {
+    "tag": "frilled_hairband",
+    "category": "accessory",
+    "weight": 4.3,
+    "aliases": [],
+    "label_zh": "褶边发带",
+    "post_count": 19868
+  },
+  {
+    "tag": "mittens",
+    "category": "accessory",
+    "weight": 4.3,
+    "aliases": [
+      "mitts"
+    ],
+    "label_zh": "连指手套(两指手套)",
+    "post_count": 19847
+  },
+  {
+    "tag": "chest_jewel",
+    "category": "accessory",
+    "weight": 4.29,
+    "aliases": [
+      "gem_on_chest",
+      "chest_gem"
+    ],
+    "label_zh": "胸前宝石",
+    "post_count": 19659
+  },
+  {
+    "tag": "anchor_symbol",
+    "category": "accessory",
+    "weight": 4.29,
+    "aliases": [],
+    "label_zh": "锚符号",
+    "post_count": 19573
+  },
+  {
+    "tag": "head_wreath",
+    "category": "accessory",
+    "weight": 4.29,
+    "aliases": [
+      "flower_crown"
+    ],
+    "label_zh": "头花环",
+    "post_count": 19341
+  },
+  {
+    "tag": "horn_ornament",
+    "category": "accessory",
+    "weight": 4.28,
+    "aliases": [],
+    "label_zh": "角上有饰物",
+    "post_count": 19125
+  },
+  {
+    "tag": "star_earrings",
+    "category": "accessory",
+    "weight": 4.27,
+    "aliases": [
+      "star_earring"
+    ],
+    "label_zh": "星形耳环",
+    "post_count": 18595
+  },
+  {
+    "tag": "leaf_hair_ornament",
+    "category": "accessory",
+    "weight": 4.26,
+    "aliases": [
+      "hair_leaf"
+    ],
+    "label_zh": "叶子发饰",
+    "post_count": 18292
+  },
+  {
+    "tag": "animal_hat",
+    "category": "accessory",
+    "weight": 4.26,
+    "aliases": [],
+    "label_zh": "动物帽",
+    "post_count": 18275
+  },
+  {
+    "tag": "tilted_headwear",
+    "category": "accessory",
+    "weight": 4.26,
+    "aliases": [
+      "tilted_hat"
+    ],
+    "label_zh": "倾斜的头饰",
+    "post_count": 18255
+  },
+  {
+    "tag": "hat_feather",
+    "category": "accessory",
+    "weight": 4.26,
+    "aliases": [
+      "feathered_hat",
+      "feather_in_hat",
+      "feather_hat_ornament"
+    ],
+    "label_zh": "带有羽毛的帽子",
+    "post_count": 18018
+  },
+  {
+    "tag": "fox_mask",
+    "category": "accessory",
+    "weight": 4.25,
+    "aliases": [
+      "kitsune_mask"
+    ],
+    "label_zh": "狐狸面具",
+    "post_count": 17826
+  },
+  {
+    "tag": "see-through_sleeves",
+    "category": "accessory",
+    "weight": 4.25,
+    "aliases": [
+      "transparent_sleeves"
+    ],
+    "label_zh": "透明袖子",
+    "post_count": 17644
+  },
+  {
+    "tag": "fur-trimmed_sleeves",
+    "category": "accessory",
+    "weight": 4.24,
+    "aliases": [],
+    "label_zh": "毛边袖子",
+    "post_count": 17551
+  },
+  {
+    "tag": "stitches",
+    "category": "accessory",
+    "weight": 4.24,
+    "aliases": [],
+    "label_zh": "缝饰",
+    "post_count": 17525
+  },
+  {
+    "tag": "snake_hair_ornament",
+    "category": "accessory",
+    "weight": 4.24,
+    "aliases": [],
+    "label_zh": "蛇形发饰",
+    "post_count": 17177
+  },
+  {
+    "tag": "heart_earrings",
+    "category": "accessory",
+    "weight": 4.23,
+    "aliases": [
+      "heart_earring"
+    ],
+    "label_zh": "心形耳环",
+    "post_count": 17076
+  },
+  {
+    "tag": "head_fins",
+    "category": "accessory",
+    "weight": 4.23,
+    "aliases": [
+      "ear_fins",
+      "fin_ears",
+      "fish_ears",
+      "headfins"
+    ],
+    "label_zh": "头鳍",
+    "post_count": 17059
+  },
+  {
+    "tag": "knee_pads",
+    "category": "accessory",
+    "weight": 4.23,
+    "aliases": [
+      "kneepad",
+      "knee_pad",
+      "kneepads"
+    ],
+    "label_zh": "护膝",
+    "post_count": 16821
+  },
+  {
+    "tag": "earmuffs",
+    "category": "accessory",
+    "weight": 4.23,
+    "aliases": [
+      "earmuff",
+      "ear_muffs"
+    ],
+    "label_zh": "耳罩",
+    "post_count": 16815
+  },
+  {
+    "tag": "animal_on_head",
+    "category": "accessory",
+    "weight": 4.23,
+    "aliases": [],
+    "label_zh": "头上有动物",
+    "post_count": 16789
+  },
+  {
+    "tag": "fur-trimmed_gloves",
+    "category": "accessory",
+    "weight": 4.21,
+    "aliases": [],
+    "label_zh": "毛边手套",
+    "post_count": 16256
+  },
+  {
+    "tag": "crescent_hair_ornament",
+    "category": "accessory",
+    "weight": 4.21,
+    "aliases": [],
+    "label_zh": "月牙发饰",
+    "post_count": 16204
+  },
+  {
+    "tag": "lolita_hairband",
+    "category": "accessory",
+    "weight": 4.21,
+    "aliases": [
+      "lolita_headband"
+    ],
+    "label_zh": "洛丽塔发带",
+    "post_count": 16098
+  },
+  {
+    "tag": "cross_hair_ornament",
+    "category": "accessory",
+    "weight": 4.18,
+    "aliases": [],
+    "label_zh": "十字发饰",
+    "post_count": 15258
+  },
+  {
+    "tag": "flat_cap",
+    "category": "accessory",
+    "weight": 4.18,
+    "aliases": [],
+    "label_zh": "鸭舌帽",
+    "post_count": 15138
+  },
+  {
+    "tag": "asymmetrical_clothes",
+    "category": "accessory",
+    "weight": 4.17,
+    "aliases": [
+      "/acl",
+      "asymmetrical_clothing"
+    ],
+    "label_zh": "不对称的服饰",
+    "post_count": 14694
+  },
+  {
+    "tag": "raglan_sleeves",
+    "category": "accessory",
+    "weight": 4.15,
+    "aliases": [],
+    "label_zh": "插肩袖",
+    "post_count": 14266
+  },
+  {
+    "tag": "topknot",
+    "category": "accessory",
+    "weight": 4.15,
+    "aliases": [
+      "top_knot"
+    ],
+    "label_zh": "纂",
+    "post_count": 14097
+  },
+  {
+    "tag": "garrison_cap",
+    "category": "accessory",
+    "weight": 4.15,
+    "aliases": [
+      "pilotka"
+    ],
+    "label_zh": "驻军帽",
+    "post_count": 14086
+  },
+  {
+    "tag": "o-ring_top",
+    "category": "accessory",
+    "weight": 4.14,
+    "aliases": [
+      "o_ring_top",
+      "o-ring_bikini_top"
+    ],
+    "label_zh": "带O型环的上衣",
+    "post_count": 13887
+  },
+  {
+    "tag": "earphones",
+    "category": "accessory",
+    "weight": 4.13,
+    "aliases": [],
+    "label_zh": "耳机",
+    "post_count": 13621
+  },
+  {
+    "tag": "multicolored_gloves",
+    "category": "accessory",
+    "weight": 4.13,
+    "aliases": [],
+    "label_zh": "多色款手套",
+    "post_count": 13517
+  },
+  {
+    "tag": "mini_top_hat",
+    "category": "accessory",
+    "weight": 4.12,
+    "aliases": [
+      "tiny_top_hat",
+      "mini_tophat"
+    ],
+    "label_zh": "迷你礼帽",
+    "post_count": 13034
+  },
+  {
+    "tag": "leaf_on_head",
+    "category": "accessory",
+    "weight": 4.1,
+    "aliases": [],
+    "label_zh": "头上的叶子",
+    "post_count": 12452
+  },
+  {
+    "tag": "cross_earrings",
+    "category": "accessory",
+    "weight": 4.09,
+    "aliases": [],
+    "label_zh": "十字耳环",
+    "post_count": 12335
+  },
+  {
+    "tag": "monocle",
+    "category": "accessory",
+    "weight": 4.09,
+    "aliases": [],
+    "label_zh": "单片眼镜",
+    "post_count": 12238
+  },
+  {
+    "tag": "fur-trimmed_headwear",
+    "category": "accessory",
+    "weight": 4.08,
+    "aliases": [
+      "fur-trimmed_hat"
+    ],
+    "label_zh": "毛边头饰",
+    "post_count": 12011
+  },
+  {
+    "tag": "mismatched_gloves",
+    "category": "accessory",
+    "weight": 4.08,
+    "aliases": [],
+    "label_zh": "双色手套",
+    "post_count": 11926
+  },
+  {
+    "tag": "fringe_trim",
+    "category": "accessory",
+    "weight": 4.07,
+    "aliases": [
+      "fringe"
+    ],
+    "label_zh": "须边(围巾末端",
+    "post_count": 11870
+  },
+  {
+    "tag": "cowboy_hat",
+    "category": "accessory",
+    "weight": 4.06,
+    "aliases": [],
+    "label_zh": "牛仔帽",
+    "post_count": 11555
+  },
+  {
+    "tag": "print_gloves",
+    "category": "accessory",
+    "weight": 4.06,
+    "aliases": [],
+    "label_zh": "印花手套",
+    "post_count": 11491
+  },
+  {
+    "tag": "flag_print",
+    "category": "accessory",
+    "weight": 4.05,
+    "aliases": [],
+    "label_zh": "旗印",
+    "post_count": 11280
+  },
+  {
+    "tag": "skull_hair_ornament",
+    "category": "accessory",
+    "weight": 4.05,
+    "aliases": [],
+    "label_zh": "骷髅发饰",
+    "post_count": 11183
+  },
+  {
+    "tag": "rimless_eyewear",
+    "category": "accessory",
+    "weight": 4.05,
+    "aliases": [
+      "rimless_glasses"
+    ],
+    "label_zh": "无框眼镜",
+    "post_count": 11102
+  },
+  {
+    "tag": "adjusting_headwear",
+    "category": "accessory",
+    "weight": 4.04,
+    "aliases": [
+      "adjusting_hat"
+    ],
+    "label_zh": "整理头饰",
+    "post_count": 11050
+  },
+  {
+    "tag": "jester_cap",
+    "category": "accessory",
+    "weight": 4.04,
+    "aliases": [
+      "jester_hat"
+    ],
+    "label_zh": "小丑帽",
+    "post_count": 10950
+  },
+  {
+    "tag": "forehead_protector",
+    "category": "accessory",
+    "weight": 4.04,
+    "aliases": [],
+    "label_zh": "护额",
+    "post_count": 10936
+  },
+  {
+    "tag": "asymmetrical_sleeves",
+    "category": "accessory",
+    "weight": 4.04,
+    "aliases": [],
+    "label_zh": "不对称袖子",
+    "post_count": 10853
+  },
+  {
+    "tag": "cat_ear_headphones",
+    "category": "accessory",
+    "weight": 4.01,
+    "aliases": [],
+    "label_zh": "猫耳式耳机",
+    "post_count": 10289
+  },
+  {
+    "tag": "single_elbow_glove",
+    "category": "accessory",
+    "weight": 4.0,
+    "aliases": [
+      "one_elbow_glove"
+    ],
+    "label_zh": "单手戴着过肘的手套",
+    "post_count": 9978
+  },
+  {
+    "tag": "radio_antenna",
+    "category": "accessory",
+    "weight": 4.0,
+    "aliases": [],
+    "label_zh": "天线",
+    "post_count": 9926
+  },
+  {
+    "tag": "plaid_scarf",
+    "category": "accessory",
+    "weight": 3.99,
+    "aliases": [],
+    "label_zh": "格子围巾",
+    "post_count": 9743
+  },
+  {
+    "tag": "hachimaki",
+    "category": "accessory",
+    "weight": 3.99,
+    "aliases": [],
+    "label_zh": "扎头巾(名词)",
+    "post_count": 9739
+  },
+  {
+    "tag": "metal_collar",
+    "category": "accessory",
+    "weight": 3.97,
+    "aliases": [],
+    "label_zh": "金属项圈",
+    "post_count": 9336
+  },
+  {
+    "tag": "frilled_gloves",
+    "category": "accessory",
+    "weight": 3.96,
+    "aliases": [],
+    "label_zh": "花边手套",
+    "post_count": 9197
+  },
+  {
+    "tag": "single_detached_sleeve",
+    "category": "accessory",
+    "weight": 3.96,
+    "aliases": [],
+    "label_zh": "单边没脱掉的袖子",
+    "post_count": 9031
+  },
+  {
+    "tag": "musical_note_hair_ornament",
+    "category": "accessory",
+    "weight": 3.95,
+    "aliases": [
+      "fortissimo_hair_ornament",
+      "bass_clef_hair_ornament",
+      "treble_clef_hair_ornament"
+    ],
+    "label_zh": "音符发饰",
+    "post_count": 8982
+  },
+  {
+    "tag": "cat_hair_ornament",
+    "category": "accessory",
+    "weight": 3.94,
+    "aliases": [],
+    "label_zh": "猫系发饰",
+    "post_count": 8739
+  },
+  {
+    "tag": "single_sleeve",
+    "category": "accessory",
+    "weight": 3.94,
+    "aliases": [
+      "one_sleeve"
+    ],
+    "label_zh": "单袖",
+    "post_count": 8708
+  },
+  {
+    "tag": "anchor_hair_ornament",
+    "category": "accessory",
+    "weight": 3.94,
+    "aliases": [],
+    "label_zh": "锚形发饰",
+    "post_count": 8701
+  },
+  {
+    "tag": "fur_hat",
+    "category": "accessory",
+    "weight": 3.93,
+    "aliases": [],
+    "label_zh": "皮帽",
+    "post_count": 8554
+  },
+  {
+    "tag": "multiple_earrings",
+    "category": "accessory",
+    "weight": 3.93,
+    "aliases": [],
+    "label_zh": "多个耳环",
+    "post_count": 8416
+  },
+  {
+    "tag": "striped_scarf",
+    "category": "accessory",
+    "weight": 3.92,
+    "aliases": [],
+    "label_zh": "条纹围巾",
+    "post_count": 8402
+  },
+  {
+    "tag": "backwards_hat",
+    "category": "accessory",
+    "weight": 3.91,
+    "aliases": [
+      "hat_backwards",
+      "cap_backwards"
+    ],
+    "label_zh": "反扣的帽子",
+    "post_count": 8076
+  },
+  {
+    "tag": "bandage_over_one_eye",
+    "category": "accessory",
+    "weight": 3.9,
+    "aliases": [
+      "bandaged_eye",
+      "bandages_over_one_eye",
+      "/booe"
+    ],
+    "label_zh": "用绷带包扎一只眼睛",
+    "post_count": 7922
+  },
+  {
+    "tag": "brown_scarf",
+    "category": "accessory",
+    "weight": 3.9,
+    "aliases": [],
+    "label_zh": "棕色围巾",
+    "post_count": 7887
+  },
+  {
+    "tag": "side_cutout",
+    "category": "accessory",
+    "weight": 3.89,
+    "aliases": [],
+    "label_zh": "侧边开口的服饰",
+    "post_count": 7740
+  },
+  {
+    "tag": "pirate_hat",
+    "category": "accessory",
+    "weight": 3.89,
+    "aliases": [],
+    "label_zh": "海盗帽",
+    "post_count": 7701
+  },
+  {
+    "tag": "goggles_on_headwear",
+    "category": "accessory",
+    "weight": 3.88,
+    "aliases": [
+      "goggles_on_helmet",
+      "goggles_on_hat"
+    ],
+    "label_zh": "帽子上的护目镜",
+    "post_count": 7582
+  },
+  {
+    "tag": "flower_earrings",
+    "category": "accessory",
+    "weight": 3.88,
+    "aliases": [
+      "rose_earrings",
+      "flower_earring"
+    ],
+    "label_zh": "花耳环",
+    "post_count": 7502
+  },
+  {
+    "tag": "hairpods",
+    "category": "accessory",
+    "weight": 3.87,
+    "aliases": [],
+    "label_zh": "头发上成对的像无线蓝牙的发饰",
+    "post_count": 7367
+  },
+  {
+    "tag": "opaque_glasses",
+    "category": "accessory",
+    "weight": 3.87,
+    "aliases": [],
+    "label_zh": "没透出眼睛的眼镜",
+    "post_count": 7344
+  },
+  {
+    "tag": "carrot_hair_ornament",
+    "category": "accessory",
+    "weight": 3.86,
+    "aliases": [],
+    "label_zh": "胡萝卜发饰",
+    "post_count": 7170
+  },
+  {
+    "tag": "chef_hat",
+    "category": "accessory",
+    "weight": 3.84,
+    "aliases": [],
+    "label_zh": "厨师帽",
+    "post_count": 6890
+  },
+  {
+    "tag": "surgical_mask",
+    "category": "accessory",
+    "weight": 3.83,
+    "aliases": [
+      "medical_mask"
+    ],
+    "label_zh": "医用口罩",
+    "post_count": 6805
+  },
+  {
+    "tag": "bone_hair_ornament",
+    "category": "accessory",
+    "weight": 3.83,
+    "aliases": [],
+    "label_zh": "骨头状饰品",
+    "post_count": 6681
+  },
+  {
+    "tag": "sideless_outfit",
+    "category": "accessory",
+    "weight": 3.82,
+    "aliases": [],
+    "label_zh": "侧面没有布料的服饰",
+    "post_count": 6664
+  },
+  {
+    "tag": "wizard_hat",
+    "category": "accessory",
+    "weight": 3.82,
+    "aliases": [],
+    "label_zh": "巫师帽子",
+    "post_count": 6620
+  },
+  {
+    "tag": "latin_cross",
+    "category": "accessory",
+    "weight": 3.8,
+    "aliases": [
+      "christian_cross"
+    ],
+    "label_zh": "拉丁式十字架",
+    "post_count": 6363
+  },
+  {
+    "tag": "large_hat",
+    "category": "accessory",
+    "weight": 3.8,
+    "aliases": [
+      "big_hat"
+    ],
+    "label_zh": "大帽子",
+    "post_count": 6326
+  },
+  {
+    "tag": "puffy_detached_sleeves",
+    "category": "accessory",
+    "weight": 3.8,
+    "aliases": [],
+    "label_zh": "蓬蓬的袖子",
+    "post_count": 6242
+  },
+  {
+    "tag": "horned_helmet",
+    "category": "accessory",
+    "weight": 3.78,
+    "aliases": [],
+    "label_zh": "带角头盔",
+    "post_count": 6052
+  },
+  {
+    "tag": "police_hat",
+    "category": "accessory",
+    "weight": 3.77,
+    "aliases": [],
+    "label_zh": "警察帽",
+    "post_count": 5916
+  },
+  {
+    "tag": "torn_sleeves",
+    "category": "accessory",
+    "weight": 3.76,
+    "aliases": [
+      "ripped_sleeves"
+    ],
+    "label_zh": "撕裂的袖子",
+    "post_count": 5808
+  },
+  {
+    "tag": "cat_hat",
+    "category": "accessory",
+    "weight": 3.76,
+    "aliases": [
+      "cathat"
+    ],
+    "label_zh": "猫耳帽子",
+    "post_count": 5788
+  },
+  {
+    "tag": "striped_sleeves",
+    "category": "accessory",
+    "weight": 3.76,
+    "aliases": [],
+    "label_zh": "条纹袖子",
+    "post_count": 5748
+  },
+  {
+    "tag": "sleeves_pushed_up",
+    "category": "accessory",
+    "weight": 3.76,
+    "aliases": [],
+    "label_zh": "袖子上推",
+    "post_count": 5722
+  },
+  {
+    "tag": "bird_on_head",
+    "category": "accessory",
+    "weight": 3.76,
+    "aliases": [],
+    "label_zh": "头上的鸟",
+    "post_count": 5706
+  },
+  {
+    "tag": "single_kneehigh",
+    "category": "accessory",
+    "weight": 3.75,
+    "aliases": [
+      "one_kneehigh"
+    ],
+    "label_zh": "单边穿着过膝服饰",
+    "post_count": 5567
+  },
+  {
+    "tag": "clover_hair_ornament",
+    "category": "accessory",
+    "weight": 3.74,
+    "aliases": [],
+    "label_zh": "三叶草发饰",
+    "post_count": 5534
+  },
+  {
+    "tag": "blue-framed_eyewear",
+    "category": "accessory",
+    "weight": 3.73,
+    "aliases": [
+      "blue-framed_glasses"
+    ],
+    "label_zh": "蓝框眼镜",
+    "post_count": 5393
+  },
+  {
+    "tag": "horned_headwear",
+    "category": "accessory",
+    "weight": 3.73,
+    "aliases": [],
+    "label_zh": "角状头饰",
+    "post_count": 5387
+  },
+  {
+    "tag": "bat_hair_ornament",
+    "category": "accessory",
+    "weight": 3.73,
+    "aliases": [],
+    "label_zh": "蝙蝠发饰",
+    "post_count": 5378
+  },
+  {
+    "tag": "gas_mask",
+    "category": "accessory",
+    "weight": 3.71,
+    "aliases": [
+      "gas-mask"
+    ],
+    "label_zh": "防毒面具",
+    "post_count": 5075
+  },
+  {
+    "tag": "loose_belt",
+    "category": "accessory",
+    "weight": 3.69,
+    "aliases": [],
+    "label_zh": "松散的带子(衣物)",
+    "post_count": 4878
+  },
+  {
+    "tag": "fur_scarf",
+    "category": "accessory",
+    "weight": 3.69,
+    "aliases": [],
+    "label_zh": "皮草围巾",
+    "post_count": 4877
+  },
+  {
+    "tag": "sunburst",
+    "category": "accessory",
+    "weight": 3.68,
+    "aliases": [],
+    "label_zh": "旭日形首饰",
+    "post_count": 4785
+  },
+  {
+    "tag": "party_hat",
+    "category": "accessory",
+    "weight": 3.67,
+    "aliases": [
+      "birthday_hat",
+      "party_hats"
+    ],
+    "label_zh": "派对帽",
+    "post_count": 4712
+  },
+  {
+    "tag": "snowflake_hair_ornament",
+    "category": "accessory",
+    "weight": 3.67,
+    "aliases": [],
+    "label_zh": "雪花发饰",
+    "post_count": 4672
+  },
+  {
+    "tag": "fish_hair_ornament",
+    "category": "accessory",
+    "weight": 3.67,
+    "aliases": [],
+    "label_zh": "鱼形发饰",
+    "post_count": 4649
+  },
+  {
+    "tag": "skull_and_crossbones",
+    "category": "accessory",
+    "weight": 3.66,
+    "aliases": [],
+    "label_zh": "头骨和交叉的骨头",
+    "post_count": 4606
+  },
+  {
+    "tag": "over-rim_eyewear",
+    "category": "accessory",
+    "weight": 3.66,
+    "aliases": [
+      "over-rim_glasses",
+      "over_rim_glasses"
+    ],
+    "label_zh": "下半无框眼镜",
+    "post_count": 4530
+  },
+  {
+    "tag": "no_eyewear",
+    "category": "accessory",
+    "weight": 3.64,
+    "aliases": [
+      "no_glasses"
+    ],
+    "label_zh": "去掉了(原设有的)眼镜",
+    "post_count": 4379
+  },
+  {
+    "tag": "helm",
+    "category": "accessory",
+    "weight": 3.64,
+    "aliases": [],
+    "label_zh": "戴着头盔的",
+    "post_count": 4317
+  },
+  {
+    "tag": "uneven_sleeves",
+    "category": "accessory",
+    "weight": 3.64,
+    "aliases": [
+      "asymmetrical_sleeves"
+    ],
+    "label_zh": "不均匀的袖子",
+    "post_count": 4314
+  },
+  {
+    "tag": "hands_in_opposite_sleeves",
+    "category": "accessory",
+    "weight": 3.63,
+    "aliases": [
+      "hands_in_sleeves"
+    ],
+    "label_zh": "双手交叉伸进袖子里",
+    "post_count": 4285
+  },
+  {
+    "tag": "lace-trimmed_sleeves",
+    "category": "accessory",
+    "weight": 3.62,
+    "aliases": [],
+    "label_zh": "蕾丝边袖子",
+    "post_count": 4163
+  },
+  {
+    "tag": "pillbox_hat",
+    "category": "accessory",
+    "weight": 3.62,
+    "aliases": [],
+    "label_zh": "药盒帽",
+    "post_count": 4116
+  },
+  {
+    "tag": "porkpie_hat",
+    "category": "accessory",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "道士帽",
+    "post_count": 4101
+  },
+  {
+    "tag": "turban",
+    "category": "accessory",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "穆斯林头巾",
+    "post_count": 4054
+  },
+  {
+    "tag": "bear_hair_ornament",
+    "category": "accessory",
+    "weight": 3.59,
+    "aliases": [],
+    "label_zh": "熊印花头饰",
+    "post_count": 3885
+  },
+  {
+    "tag": "school_hat",
+    "category": "accessory",
+    "weight": 3.58,
+    "aliases": [
+      "kindergarten_hat"
+    ],
+    "label_zh": "校帽",
+    "post_count": 3818
+  },
+  {
+    "tag": "oni_mask",
+    "category": "accessory",
+    "weight": 3.56,
+    "aliases": [],
+    "label_zh": "鬼面具",
+    "post_count": 3637
+  },
+  {
+    "tag": "alternate_headwear",
+    "category": "accessory",
+    "weight": 3.56,
+    "aliases": [
+      "alternate_hat_color",
+      "alternative_hat",
+      "alternate_hat",
+      "/ahw",
+      "alternative_headwear"
+    ],
+    "label_zh": "与原设不同的头饰",
+    "post_count": 3592
+  },
+  {
+    "tag": "brown-framed_eyewear",
+    "category": "accessory",
+    "weight": 3.54,
+    "aliases": [
+      "brown-framed_glasses"
+    ],
+    "label_zh": "棕色镜框眼镜",
+    "post_count": 3462
+  },
+  {
+    "tag": "latex_gloves",
+    "category": "accessory",
+    "weight": 3.53,
+    "aliases": [],
+    "label_zh": "乳胶手套",
+    "post_count": 3385
+  },
+  {
+    "tag": "feather-trimmed_sleeves",
+    "category": "accessory",
+    "weight": 3.53,
+    "aliases": [],
+    "label_zh": "羽毛装饰的袖子",
+    "post_count": 3382
+  },
+  {
+    "tag": "skull_earrings",
+    "category": "accessory",
+    "weight": 3.52,
+    "aliases": [
+      "skull_earring"
+    ],
+    "label_zh": "骷髅耳环",
+    "post_count": 3278
+  },
+  {
+    "tag": "bucket_hat",
+    "category": "accessory",
+    "weight": 3.51,
+    "aliases": [],
+    "label_zh": "渔夫帽",
+    "post_count": 3231
+  },
+  {
+    "tag": "d-pad_hair_ornament",
+    "category": "accessory",
+    "weight": 3.5,
+    "aliases": [],
+    "label_zh": "方向键发饰",
+    "post_count": 3165
+  },
+  {
+    "tag": "baseball_mitt",
+    "category": "accessory",
+    "weight": 3.5,
+    "aliases": [
+      "baseball_glove"
+    ],
+    "label_zh": "棒球手套",
+    "post_count": 3130
+  },
+  {
+    "tag": "striped_gloves",
+    "category": "accessory",
+    "weight": 3.5,
+    "aliases": [],
+    "label_zh": "条纹手套",
+    "post_count": 3128
+  },
+  {
+    "tag": "horns_through_headwear",
+    "category": "accessory",
+    "weight": 3.5,
+    "aliases": [
+      "antlers_through_headwear"
+    ],
+    "label_zh": "为角留了洞的头饰",
+    "post_count": 3119
+  },
+  {
+    "tag": "single_vertical_stripe",
+    "category": "accessory",
+    "weight": 3.49,
+    "aliases": [],
+    "label_zh": "露出单边服饰上的垂直条纹",
+    "post_count": 3103
+  },
+  {
+    "tag": "diving_mask",
+    "category": "accessory",
+    "weight": 3.49,
+    "aliases": [],
+    "label_zh": "潜水面罩",
+    "post_count": 3100
+  },
+  {
+    "tag": "sunflower_hair_ornament",
+    "category": "accessory",
+    "weight": 3.47,
+    "aliases": [],
+    "label_zh": "向日葵发饰",
+    "post_count": 2962
+  },
+  {
+    "tag": "pearl_bracelet",
+    "category": "accessory",
+    "weight": 3.46,
+    "aliases": [],
+    "label_zh": "珍珠手链",
+    "post_count": 2885
+  },
+  {
+    "tag": "mismatched_sleeves",
+    "category": "accessory",
+    "weight": 3.46,
+    "aliases": [],
+    "label_zh": "不匹配的袖子",
+    "post_count": 2880
+  },
+  {
+    "tag": "dixie_cup_hat",
+    "category": "accessory",
+    "weight": 3.46,
+    "aliases": [],
+    "label_zh": "狗盆帽",
+    "post_count": 2864
+  },
+  {
+    "tag": "skull_mask",
+    "category": "accessory",
+    "weight": 3.45,
+    "aliases": [],
+    "label_zh": "骷髅面具",
+    "post_count": 2806
+  },
+  {
+    "tag": "leather_gloves",
+    "category": "accessory",
+    "weight": 3.45,
+    "aliases": [],
+    "label_zh": "皮手套",
+    "post_count": 2792
+  },
+  {
+    "tag": "cat_on_head",
+    "category": "accessory",
+    "weight": 3.44,
+    "aliases": [],
+    "label_zh": "头上趴着猫",
+    "post_count": 2718
+  },
+  {
+    "tag": "bowl_hat",
+    "category": "accessory",
+    "weight": 3.43,
+    "aliases": [],
+    "label_zh": "碗状帽子",
+    "post_count": 2689
+  },
+  {
+    "tag": "full-length_zipper",
+    "category": "accessory",
+    "weight": 3.42,
+    "aliases": [
+      "full_length_zipper"
+    ],
+    "label_zh": "有整件衣物长的拉链",
+    "post_count": 2622
+  },
+  {
+    "tag": "strawberry_hair_ornament",
+    "category": "accessory",
+    "weight": 3.42,
+    "aliases": [],
+    "label_zh": "草莓发饰",
+    "post_count": 2611
+  },
+  {
+    "tag": "ribbed_sleeves",
+    "category": "accessory",
+    "weight": 3.41,
+    "aliases": [],
+    "label_zh": "棱纹袖子",
+    "post_count": 2590
+  },
+  {
+    "tag": "half_mask",
+    "category": "accessory",
+    "weight": 3.41,
+    "aliases": [],
+    "label_zh": "半面罩",
+    "post_count": 2537
+  },
+  {
+    "tag": "ninja_mask",
+    "category": "accessory",
+    "weight": 3.39,
+    "aliases": [],
+    "label_zh": "忍者面具",
+    "post_count": 2445
+  },
+  {
+    "tag": "torn_gloves",
+    "category": "accessory",
+    "weight": 3.37,
+    "aliases": [
+      "ripped_gloves"
+    ],
+    "label_zh": "破损的手套",
+    "post_count": 2324
+  },
+  {
+    "tag": "oven_mitts",
+    "category": "accessory",
+    "weight": 3.36,
+    "aliases": [
+      "oven_mitt",
+      "oven_mittens"
+    ],
+    "label_zh": "隔热手套",
+    "post_count": 2279
+  },
+  {
+    "tag": "crystal_earrings",
+    "category": "accessory",
+    "weight": 3.35,
+    "aliases": [],
+    "label_zh": "水晶耳环",
+    "post_count": 2228
+  },
+  {
+    "tag": "no_gloves",
+    "category": "accessory",
+    "weight": 3.34,
+    "aliases": [],
+    "label_zh": "去掉了(原设有的)手套",
+    "post_count": 2183
+  },
+  {
+    "tag": "coke-bottle_glasses",
+    "category": "accessory",
+    "weight": 3.34,
+    "aliases": [
+      "swirly_glasses",
+      "spiral_glasses"
+    ],
+    "label_zh": "厚如玻璃瓶底的圆眼镜",
+    "post_count": 2173
+  },
+  {
+    "tag": "pinching_sleeves",
+    "category": "accessory",
+    "weight": 3.32,
+    "aliases": [
+      "sleeve_hold"
+    ],
+    "label_zh": "掐袖子",
+    "post_count": 2100
+  },
+  {
+    "tag": "lace-trimmed_gloves",
+    "category": "accessory",
+    "weight": 3.32,
+    "aliases": [],
+    "label_zh": "蕾丝边手套",
+    "post_count": 2092
+  },
+  {
+    "tag": "scarf_over_mouth",
+    "category": "accessory",
+    "weight": 3.32,
+    "aliases": [],
+    "label_zh": "围巾在嘴上",
+    "post_count": 2076
+  },
+  {
+    "tag": "hat_tip",
+    "category": "accessory",
+    "weight": 3.32,
+    "aliases": [
+      "tipping_hat"
+    ],
+    "label_zh": "捏着帽檐",
+    "post_count": 2062
+  },
+  {
+    "tag": "masked",
+    "category": "accessory",
+    "weight": 3.31,
+    "aliases": [],
+    "label_zh": "蒙面",
+    "post_count": 2054
+  },
+  {
+    "tag": "print_headwear",
+    "category": "accessory",
+    "weight": 3.3,
+    "aliases": [
+      "print_hat"
+    ],
+    "label_zh": "印花头饰",
+    "post_count": 1969
+  },
+  {
+    "tag": "hat_over_one_eye",
+    "category": "accessory",
+    "weight": 3.3,
+    "aliases": [],
+    "label_zh": "帽子遮住了一只眼",
+    "post_count": 1964
+  },
+  {
+    "tag": "floating_scarf",
+    "category": "accessory",
+    "weight": 3.29,
+    "aliases": [
+      "flowing_scarf"
+    ],
+    "label_zh": "漂浮围巾",
+    "post_count": 1962
+  },
+  {
+    "tag": "sideways_hat",
+    "category": "accessory",
+    "weight": 3.26,
+    "aliases": [],
+    "label_zh": "帽舌划到侧面",
+    "post_count": 1822
+  },
+  {
+    "tag": "amulet",
+    "category": "accessory",
+    "weight": 3.25,
+    "aliases": [],
+    "label_zh": "护身符",
+    "post_count": 1772
+  },
+  {
+    "tag": "bird_mask",
+    "category": "accessory",
+    "weight": 3.25,
+    "aliases": [],
+    "label_zh": "鸟面具",
+    "post_count": 1759
+  },
+  {
+    "tag": "double_vertical_stripe",
+    "category": "accessory",
+    "weight": 3.25,
+    "aliases": [],
+    "label_zh": "服饰上有两条平行条纹",
+    "post_count": 1755
+  },
+  {
+    "tag": "hat_with_ears",
+    "category": "accessory",
+    "weight": 3.25,
+    "aliases": [
+      "hat_ears"
+    ],
+    "label_zh": "带耳朵的帽子",
+    "post_count": 1755
+  },
+  {
+    "tag": "bowler_hat",
+    "category": "accessory",
+    "weight": 3.24,
+    "aliases": [],
+    "label_zh": "圆顶礼帽",
+    "post_count": 1747
+  },
+  {
+    "tag": "diving_mask_on_head",
+    "category": "accessory",
+    "weight": 3.24,
+    "aliases": [],
+    "label_zh": "头戴式潜水面罩",
+    "post_count": 1714
+  },
+  {
+    "tag": "lace-trimmed_hairband",
+    "category": "accessory",
+    "weight": 3.19,
+    "aliases": [],
+    "label_zh": "蕾丝边饰发带",
+    "post_count": 1547
+  },
+  {
+    "tag": "multicolored_scarf",
+    "category": "accessory",
+    "weight": 3.19,
+    "aliases": [],
+    "label_zh": "五彩围巾",
+    "post_count": 1535
+  },
+  {
+    "tag": "single_head_wing",
+    "category": "accessory",
+    "weight": 3.19,
+    "aliases": [],
+    "label_zh": "单侧头上有翅膀",
+    "post_count": 1535
+  },
+  {
+    "tag": "pill_earrings",
+    "category": "accessory",
+    "weight": 3.17,
+    "aliases": [],
+    "label_zh": "药丸样式的耳环",
+    "post_count": 1466
+  },
+  {
+    "tag": "rice_hat",
+    "category": "accessory",
+    "weight": 3.15,
+    "aliases": [],
+    "label_zh": "斗笠",
+    "post_count": 1412
+  },
+  {
+    "tag": "behind-the-head_headphones",
+    "category": "accessory",
+    "weight": 3.15,
+    "aliases": [],
+    "label_zh": "从后脑戴上的耳机",
+    "post_count": 1392
+  },
+  {
+    "tag": "corsage",
+    "category": "accessory",
+    "weight": 3.13,
+    "aliases": [
+      "flower_in_breast_pocket"
+    ],
+    "label_zh": "胸花",
+    "post_count": 1337
+  },
+  {
+    "tag": "arm_out_of_sleeve",
+    "category": "accessory",
+    "weight": 3.12,
+    "aliases": [
+      "single_unworn_sleeve",
+      "arm_in_one_sleeve"
+    ],
+    "label_zh": "袖子里的手臂",
+    "post_count": 1298
+  },
+  {
+    "tag": "st._gloriana's_(emblem)",
+    "category": "accessory",
+    "weight": 3.11,
+    "aliases": [],
+    "label_zh": "圣葛罗莉安娜女学园校徽",
+    "post_count": 1293
+  },
+  {
+    "tag": "long_scarf",
+    "category": "accessory",
+    "weight": 3.11,
+    "aliases": [],
+    "label_zh": "长围巾",
+    "post_count": 1264
+  },
+  {
+    "tag": "adjusting_scarf",
+    "category": "accessory",
+    "weight": 3.09,
+    "aliases": [],
+    "label_zh": "调整围巾",
+    "post_count": 1227
+  },
+  {
+    "tag": "masquerade_mask",
+    "category": "accessory",
+    "weight": 3.09,
+    "aliases": [],
+    "label_zh": "化妆舞会面具",
+    "post_count": 1224
+  },
+  {
+    "tag": "latex_thighhighs",
+    "category": "accessory",
+    "weight": 3.07,
+    "aliases": [],
+    "label_zh": "乳胶材质的长筒袜",
+    "post_count": 1175
+  },
+  {
+    "tag": "pumpkin_hat",
+    "category": "accessory",
+    "weight": 3.07,
+    "aliases": [],
+    "label_zh": "南瓜帽",
+    "post_count": 1167
+  },
+  {
+    "tag": "pumpkin_hair_ornament",
+    "category": "accessory",
+    "weight": 3.04,
+    "aliases": [],
+    "label_zh": "南瓜发饰",
+    "post_count": 1094
+  },
+  {
+    "tag": "mask_lift",
+    "category": "accessory",
+    "weight": 3.03,
+    "aliases": [],
+    "label_zh": "抬起面罩",
+    "post_count": 1059
+  },
+  {
+    "tag": "tengu_mask",
+    "category": "accessory",
+    "weight": 3.02,
+    "aliases": [],
+    "label_zh": "天狗面具",
+    "post_count": 1046
+  },
+  {
+    "tag": "torn_hat",
+    "category": "accessory",
+    "weight": 3.01,
+    "aliases": [],
+    "label_zh": "撕裂的帽子",
+    "post_count": 1005
+  },
+  {
+    "tag": "print_scarf",
+    "category": "accessory",
+    "weight": 3.0,
+    "aliases": [],
+    "label_zh": "印花围巾",
+    "post_count": 984
+  },
+  {
+    "tag": "heart_lock_(kantai_collection)",
+    "category": "accessory",
+    "weight": 2.98,
+    "aliases": [],
+    "label_zh": "舰娘锁(舰C)",
+    "post_count": 956
+  },
+  {
+    "tag": "see-through_thighhighs",
+    "category": "accessory",
+    "weight": 2.97,
+    "aliases": [],
+    "label_zh": "透明的长筒袜",
+    "post_count": 928
+  },
+  {
+    "tag": "mini_witch_hat",
+    "category": "accessory",
+    "weight": 2.96,
+    "aliases": [],
+    "label_zh": "迷你魔女帽",
+    "post_count": 912
+  },
+  {
+    "tag": "sleeve_rolled_up",
+    "category": "accessory",
+    "weight": 2.95,
+    "aliases": [],
+    "label_zh": "袖子卷起",
+    "post_count": 888
+  },
+  {
+    "tag": "plague_doctor_mask",
+    "category": "accessory",
+    "weight": 2.94,
+    "aliases": [],
+    "label_zh": "瘟疫医生口罩",
+    "post_count": 864
+  },
+  {
+    "tag": "puppet_rings",
+    "category": "accessory",
+    "weight": 2.91,
+    "aliases": [],
+    "label_zh": "木偶戒指",
+    "post_count": 808
+  },
+  {
+    "tag": "hockey_mask",
+    "category": "accessory",
+    "weight": 2.88,
+    "aliases": [],
+    "label_zh": "曲棍球面具",
+    "post_count": 745
+  },
+  {
+    "tag": "scarf_bow",
+    "category": "accessory",
+    "weight": 2.84,
+    "aliases": [],
+    "label_zh": "围巾蝴蝶结",
+    "post_count": 677
+  },
+  {
+    "tag": "vertical-striped_scarf",
+    "category": "accessory",
+    "weight": 2.73,
+    "aliases": [],
+    "label_zh": "竖条纹围巾",
+    "post_count": 524
+  },
+  {
+    "tag": "arm_scarf",
+    "category": "accessory",
+    "weight": 2.72,
+    "aliases": [],
+    "label_zh": "手臂围巾",
+    "post_count": 509
+  },
+  {
+    "tag": "polka_dot_scarf",
+    "category": "accessory",
+    "weight": 2.69,
+    "aliases": [],
+    "label_zh": "波点围巾",
+    "post_count": 483
+  },
+  {
+    "tag": "crooked_eyewear",
+    "category": "accessory",
+    "weight": 2.65,
+    "aliases": [
+      "eyewear_slip"
+    ],
+    "label_zh": "歪斜的眼镜",
+    "post_count": 432
+  },
+  {
+    "tag": "scarf_pull",
+    "category": "accessory",
+    "weight": 2.5,
+    "aliases": [],
+    "label_zh": "扯围巾",
+    "post_count": 309
+  },
+  {
+    "tag": "argyle_scarf",
+    "category": "accessory",
+    "weight": 2.49,
+    "aliases": [],
+    "label_zh": "菱形围巾",
+    "post_count": 300
+  },
+  {
+    "tag": "horse_mask",
+    "category": "accessory",
+    "weight": 2.4,
+    "aliases": [],
+    "label_zh": "马面具",
+    "post_count": 244
+  },
+  {
+    "tag": "scarf_on_head",
+    "category": "accessory",
+    "weight": 2.37,
+    "aliases": [],
+    "label_zh": "头上的围巾",
+    "post_count": 223
+  },
+  {
+    "tag": "frilled",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "褶边",
+    "post_count": 0
+  },
+  {
+    "tag": "fur-trimmed",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "毛边的",
+    "post_count": 0
+  },
+  {
+    "tag": "halter_top",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "吊带式的上身的服饰",
+    "post_count": 0
+  },
+  {
+    "tag": "multicolored_legwear",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "多色款腿部服饰",
+    "post_count": 0
+  },
+  {
+    "tag": "navy_blue_legwear",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "海军蓝腿部服饰",
+    "post_count": 0
+  },
+  {
+    "tag": "beige_scarf",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "米色围巾",
+    "post_count": 0
+  },
+  {
+    "tag": "scarf_removed",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "围巾被取下",
+    "post_count": 0
+  },
+  {
+    "tag": "holding_scarf",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "拿着围巾",
+    "post_count": 0
+  },
+  {
+    "tag": "eyewear_removed",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "取下眼镜",
+    "post_count": 0
+  },
+  {
+    "tag": "visor",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "面罩",
+    "post_count": 0
+  },
+  {
+    "tag": "mask_removed",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "摘下的面具",
+    "post_count": 0
+  },
+  {
+    "tag": "sleeves_past_elbows",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "袖子过肘",
+    "post_count": 0
+  },
+  {
+    "tag": "sleeves_folded_up",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "叠起来的袖子",
+    "post_count": 0
+  },
+  {
+    "tag": "gloves_removed",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "脱下手套",
+    "post_count": 0
+  },
+  {
+    "tag": "long_gloves",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "长手套",
+    "post_count": 0
+  },
+  {
+    "tag": "headwear",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "头饰",
+    "post_count": 0
+  },
+  {
+    "tag": "headwear_removed",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "头饰已移除",
+    "post_count": 0
+  },
+  {
+    "tag": "helmet_removed",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "摘下头盔",
+    "post_count": 0
+  },
+  {
+    "tag": "kerchief",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "方头巾",
+    "post_count": 0
+  },
+  {
+    "tag": "stone",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "石头",
+    "post_count": 0
+  },
+  {
+    "tag": "brown_headwear",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "棕色头饰",
+    "post_count": 0
+  },
+  {
+    "tag": "no_headwear",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "去掉了(原设有的)头饰",
+    "post_count": 0
+  },
+  {
+    "tag": "bunny_hair_ornament",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "兔子饰品",
+    "post_count": 0
+  },
+  {
+    "tag": "forehead_kiss",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "亲吻额头",
+    "post_count": 0
+  },
+  {
+    "tag": "head",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "头",
+    "post_count": 0
+  },
+  {
+    "tag": "head_mounted_display",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "戴着头戴显示设备",
+    "post_count": 0
+  },
+  {
+    "tag": "inter_headset",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "EVA神经连接器",
+    "post_count": 0
+  },
+  {
+    "tag": "no_hat",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "没有帽子",
+    "post_count": 0
+  },
+  {
+    "tag": "side_cap",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "侧边帽",
+    "post_count": 0
+  },
+  {
+    "tag": "cabbie_hat",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "出租车司机帽",
+    "post_count": 0
+  },
+  {
+    "tag": "hardhat",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "安全帽",
+    "post_count": 0
+  },
+  {
+    "tag": "bobblehat",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "泡泡帽",
+    "post_count": 0
+  },
+  {
+    "tag": "pillow_hat",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "枕帽",
+    "post_count": 0
+  },
+  {
+    "tag": "bowknot_over_white_beret",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "白色贝雷帽上的蝴蝶结",
+    "post_count": 0
+  },
+  {
+    "tag": "hat_removed",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "帽子被摘下",
+    "post_count": 0
+  },
+  {
+    "tag": "what_if",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "另一条世界线",
+    "post_count": 0
+  },
+  {
+    "tag": "wedding_band",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "婚戒",
+    "post_count": 0
+  },
+  {
+    "tag": "belly_chain_",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "肚链",
+    "post_count": 0
+  },
+  {
+    "tag": "drop_earrings",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "耳坠",
+    "post_count": 0
+  },
+  {
+    "tag": "sapphire_brooch",
+    "category": "accessory",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "蓝宝石胸针",
+    "post_count": 0
+  }
+]

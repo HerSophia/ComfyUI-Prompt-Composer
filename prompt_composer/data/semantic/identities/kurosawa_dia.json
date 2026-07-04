@@ -1,0 +1,29 @@
+{
+  "id": "kurosawa_dia",
+  "name": "黑泽黛雅",
+  "identity_tags": [
+    "kurosawa_dia"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "blunt_bangs",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "uranohoshi_school_uniform",
+    "serafuku",
+    "neckerchief",
+    "kneehighs"
+  ],
+  "optional_clothing": []
+}

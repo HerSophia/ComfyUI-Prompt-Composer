@@ -1,0 +1,30 @@
+{
+  "id": "noa_blue_archive",
+  "name": "上崎筮乃",
+  "identity_tags": [
+    "noa_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "blunt_bangs",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "jacket_partially_removed",
+    "pajamas",
+    "buruma",
+    "gym_uniform"
+  ],
+  "optional_clothing": []
+}

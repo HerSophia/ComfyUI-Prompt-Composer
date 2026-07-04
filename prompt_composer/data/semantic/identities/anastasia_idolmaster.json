@@ -1,0 +1,29 @@
+{
+  "id": "anastasia_idolmaster",
+  "name": "安娜斯塔西娅",
+  "identity_tags": [
+    "anastasia_(idolmaster)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "drill_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "necklace",
+    "sweater",
+    "bikini",
+    "swimsuit"
+  ],
+  "optional_clothing": []
+}

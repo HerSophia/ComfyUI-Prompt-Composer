@@ -1,0 +1,30 @@
+{
+  "id": "midori_blue_archive",
+  "name": "才羽绿",
+  "identity_tags": [
+    "midori_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "blunt_bangs",
+      "twintails",
+      "forehead"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "short_necktie",
+    "maid_apron",
+    "suspender_skirt",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

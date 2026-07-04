@@ -1,0 +1,29 @@
+{
+  "id": "shigure_ui_vtuber",
+  "name": "时雨羽衣",
+  "identity_tags": [
+    "shigure_ui_(vtuber)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "blunt_bangs",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "pinafore_dress",
+    "bandaid_on_leg",
+    "pleated_dress",
+    "double-breasted"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "eevee",
+  "name": "伊布",
+  "identity_tags": [
+    "eevee"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "hoodie",
+    "shorts",
+    "shoes",
+    "pants"
+  ],
+  "optional_clothing": []
+}

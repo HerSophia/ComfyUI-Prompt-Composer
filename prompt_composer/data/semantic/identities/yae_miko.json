@@ -1,0 +1,30 @@
+{
+  "id": "yae_miko",
+  "name": "八重神子",
+  "identity_tags": [
+    "yae_miko"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "blunt_bangs",
+      "crossed_bangs",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "miko",
+    "anklet",
+    "japanese_clothes",
+    "obi"
+  ],
+  "optional_clothing": []
+}

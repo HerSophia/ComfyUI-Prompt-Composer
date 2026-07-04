@@ -1,0 +1,30 @@
+{
+  "id": "seia_blue_archive",
+  "name": "圣娅",
+  "identity_tags": [
+    "seia_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "forehead",
+      "hair_bun",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "short_necktie",
+    "white_pantyhose",
+    "backless_dress",
+    "double-breasted"
+  ],
+  "optional_clothing": []
+}

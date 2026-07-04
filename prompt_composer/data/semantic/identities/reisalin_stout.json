@@ -1,0 +1,26 @@
+{
+  "id": "reisalin_stout",
+  "name": "莱莎丽茵·斯托特",
+  "identity_tags": [
+    "reisalin_stout"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "star_necklace",
+    "short_shorts",
+    "necklace",
+    "toeless_legwear"
+  ],
+  "optional_clothing": []
+}

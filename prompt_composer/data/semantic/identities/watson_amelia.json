@@ -1,0 +1,30 @@
+{
+  "id": "watson_amelia",
+  "name": "华生·艾米莉亚",
+  "identity_tags": [
+    "watson_amelia"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "bob_cut",
+      "blunt_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "short_necktie",
+    "high-waist_skirt",
+    "plaid_skirt",
+    "animal_costume"
+  ],
+  "optional_clothing": []
+}

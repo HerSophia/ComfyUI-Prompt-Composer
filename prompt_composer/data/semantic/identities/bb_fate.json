@@ -1,0 +1,30 @@
+{
+  "id": "bb_fate",
+  "name": "BB",
+  "identity_tags": [
+    "bb_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twin_braids",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "popped_collar",
+    "micro_shorts",
+    "high-waist_skirt",
+    "neck_ribbon"
+  ],
+  "optional_clothing": []
+}

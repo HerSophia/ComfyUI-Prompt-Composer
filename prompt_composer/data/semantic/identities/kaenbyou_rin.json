@@ -1,0 +1,30 @@
+{
+  "id": "kaenbyou_rin",
+  "name": "火焰猫燐",
+  "identity_tags": [
+    "kaenbyou_rin"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twin_braids",
+      "twintails",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "red_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "leg_ribbon",
+    "slippers",
+    "blouse",
+    "adapted_costume"
+  ],
+  "optional_clothing": []
+}

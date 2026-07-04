@@ -1,0 +1,30 @@
+{
+  "id": "symboli_rudolf_umamusume",
+  "name": "鲁道夫象征",
+  "identity_tags": [
+    "symboli_rudolf_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ponytail",
+      "ahoge",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "aiguillette",
+    "sailor_shirt",
+    "summer_uniform",
+    "double-breasted"
+  ],
+  "optional_clothing": []
+}

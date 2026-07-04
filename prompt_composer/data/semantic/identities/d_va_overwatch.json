@@ -1,0 +1,29 @@
+{
+  "id": "d_va_overwatch",
+  "name": "D.Va",
+  "identity_tags": [
+    "d.va_(overwatch)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "swept_bangs",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "korean_clothes",
+    "mecha",
+    "headphones_around_neck",
+    "shoulder_armor"
+  ],
+  "optional_clothing": []
+}

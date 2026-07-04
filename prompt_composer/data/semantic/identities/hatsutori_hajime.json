@@ -1,0 +1,17 @@
+{
+  "id": "hatsutori_hajime",
+  "name": "初鸟始",
+  "identity_tags": [
+    "hatsutori_hajime"
+  ],
+  "locked_features": {
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [],
+  "optional_clothing": []
+}

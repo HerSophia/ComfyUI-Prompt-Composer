@@ -1,0 +1,30 @@
+{
+  "id": "medusa_rider_fate",
+  "name": "美杜莎〔Rider〕",
+  "identity_tags": [
+    "medusa_(rider)_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "forehead",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "square_pupils"
+    ]
+  },
+  "default_clothing": [
+    "strapless_dress",
+    "jeans",
+    "thigh_boots",
+    "sweater"
+  ],
+  "optional_clothing": []
+}

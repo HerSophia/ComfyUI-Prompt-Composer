@@ -1,0 +1,30 @@
+{
+  "id": "uzuki_kancolle",
+  "name": "卯月",
+  "identity_tags": [
+    "uzuki_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "serafuku",
+    "frilled_skirt",
+    "sailor_collar",
+    "kneehighs"
+  ],
+  "optional_clothing": []
+}

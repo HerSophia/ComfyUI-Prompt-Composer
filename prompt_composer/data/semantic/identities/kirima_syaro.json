@@ -1,0 +1,30 @@
+{
+  "id": "kirima_syaro",
+  "name": "桐间纱路",
+  "identity_tags": [
+    "kirima_syaro"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "blunt_bangs",
+      "twintails",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "frilled_shirt",
+    "waist_apron",
+    "apron",
+    "frilled_skirt"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "takanashi_kiara",
+  "name": "小鸟游琪亚拉",
+  "identity_tags": [
+    "takanashi_kiara"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "ponytail",
+      "twin_braids"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "leggings",
+    "off-shoulder_sweater",
+    "animal_costume",
+    "denim_shorts"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kumano_kancolle",
+  "name": "熊野",
+  "identity_tags": [
+    "kumano_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "twintails",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "blazer",
+    "cardigan",
+    "ascot",
+    "frilled_skirt"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "shiranui_mai",
+  "name": "不知火舞",
+  "identity_tags": [
+    "shiranui_mai"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "high_ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "pelvic_curtain",
+    "tabi",
+    "obi",
+    "sash"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "meltryllis_fate",
+  "name": "梅尔特莉莉丝",
+  "identity_tags": [
+    "meltryllis_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ahoge",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "armored_boots",
+    "chaldea_uniform",
+    "greaves",
+    "animal_costume"
+  ],
+  "optional_clothing": []
+}

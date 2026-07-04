@@ -1,0 +1,30 @@
+{
+  "id": "hk416_girls_frontline",
+  "name": "HK416",
+  "identity_tags": [
+    "hk416_(girls'_frontline)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "blunt_bangs",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "iron_cross",
+    "military_jacket",
+    "plaid_skirt",
+    "strapless_dress"
+  ],
+  "optional_clothing": []
+}

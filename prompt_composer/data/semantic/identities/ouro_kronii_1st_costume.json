@@ -1,0 +1,29 @@
+{
+  "id": "ouro_kronii_1st_costume",
+  "name": "杜灵·克罗尼",
+  "identity_tags": [
+    "ouro_kronii_(1st_costume)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "striped_skirt",
+    "sleeveless_turtleneck",
+    "cropped_shirt",
+    "clothing_cutout"
+  ],
+  "optional_clothing": []
+}

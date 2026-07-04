@@ -1,0 +1,30 @@
+{
+  "id": "onozuka_komachi",
+  "name": "小野塚小町",
+  "identity_tags": [
+    "onozuka_komachi"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twin_braids",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ribbon-trimmed_skirt",
+    "obi",
+    "geta",
+    "tabi"
+  ],
+  "optional_clothing": []
+}

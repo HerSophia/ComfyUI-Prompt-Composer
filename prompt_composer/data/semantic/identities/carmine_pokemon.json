@@ -1,0 +1,29 @@
+{
+  "id": "carmine_pokemon",
+  "name": "红叶",
+  "identity_tags": [
+    "carmine_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "crossed_bangs",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "mole_on_neck",
+    "pants",
+    "jacket",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

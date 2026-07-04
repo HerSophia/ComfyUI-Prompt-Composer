@@ -1,0 +1,30 @@
+{
+  "id": "ereshkigal_fate",
+  "name": "埃列什基伽勒",
+  "identity_tags": [
+    "ereshkigal_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "hooded_cloak",
+    "chaldea_uniform",
+    "single_leg_pantyhose",
+    "cloak"
+  ],
+  "optional_clothing": []
+}

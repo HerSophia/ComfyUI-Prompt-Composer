@@ -1,0 +1,28 @@
+{
+  "id": "admire_vega_umamusume",
+  "name": "爱丽数码",
+  "identity_tags": [
+    "admire_vega_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "white_necktie",
+    "sailor_shirt",
+    "casual",
+    "track_jacket"
+  ],
+  "optional_clothing": []
+}

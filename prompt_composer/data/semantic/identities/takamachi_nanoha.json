@@ -1,0 +1,30 @@
+{
+  "id": "takamachi_nanoha",
+  "name": "高町奈叶",
+  "identity_tags": [
+    "takamachi_nanoha"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "military_uniform",
+    "casual",
+    "cape",
+    "thighhighs"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "vertin_reverse_1999",
+  "name": "维尔汀",
+  "identity_tags": [
+    "vertin_(reverse:1999)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "hair_bun"
+    ],
+    "eyes": [
+      "grey_eyes"
+    ]
+  },
+  "default_clothing": [
+    "waistcoat",
+    "ascot",
+    "knee_boots",
+    "vest"
+  ],
+  "optional_clothing": []
+}

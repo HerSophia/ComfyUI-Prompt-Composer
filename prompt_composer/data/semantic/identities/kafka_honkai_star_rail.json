@@ -1,0 +1,30 @@
+{
+  "id": "kafka_honkai_star_rail",
+  "name": "卡芙卡",
+  "identity_tags": [
+    "kafka_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ponytail",
+      "drill_hair",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "harness",
+    "jacket_on_shoulders",
+    "fur-trimmed_jacket",
+    "thigh_boots"
+  ],
+  "optional_clothing": []
+}

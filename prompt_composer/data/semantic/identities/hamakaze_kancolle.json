@@ -1,0 +1,30 @@
+{
+  "id": "hamakaze_kancolle",
+  "name": "滨风",
+  "identity_tags": [
+    "hamakaze_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "hair_bun",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "thighband_pantyhose",
+    "serafuku",
+    "neckerchief",
+    "yukata"
+  ],
+  "optional_clothing": []
+}

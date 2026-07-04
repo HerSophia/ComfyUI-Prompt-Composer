@@ -1,0 +1,29 @@
+{
+  "id": "kaban_kemono_friends",
+  "name": "小包",
+  "identity_tags": [
+    "kaban_(kemono_friends)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "wavy_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tareme"
+    ]
+  },
+  "default_clothing": [
+    "print_skirt",
+    "helmet",
+    "high-waist_skirt",
+    "fur_collar"
+  ],
+  "optional_clothing": []
+}

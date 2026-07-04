@@ -1,0 +1,28 @@
+{
+  "id": "takakura_ken_dandadan",
+  "name": "奥卡伦（dandadan）",
+  "identity_tags": [
+    "takakura_ken_(dandadan)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "messy_hair",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "loose_socks",
+    "sweater",
+    "black_choker",
+    "bowtie"
+  ],
+  "optional_clothing": []
+}

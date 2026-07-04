@@ -1,0 +1,30 @@
+{
+  "id": "jintsuu_kancolle",
+  "name": "神通",
+  "identity_tags": [
+    "jintsuu_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "hair_bun",
+      "double_bun",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "double-breasted",
+    "serafuku",
+    "neckerchief",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "yuubari_kancolle",
+  "name": "夕张",
+  "identity_tags": [
+    "yuubari_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ponytail",
+      "blunt_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "serafuku",
+    "tank_top",
+    "black_pantyhose",
+    "pantyhose"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "paimon_genshin_impact",
+  "name": "派蒙",
+  "identity_tags": [
+    "paimon_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "bead_necklace",
+    "bodystocking",
+    "japanese_armor",
+    "cape"
+  ],
+  "optional_clothing": []
+}

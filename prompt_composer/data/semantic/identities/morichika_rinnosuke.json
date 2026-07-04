@@ -1,0 +1,30 @@
+{
+  "id": "morichika_rinnosuke",
+  "name": "森近霖之助",
+  "identity_tags": [
+    "morichika_rinnosuke"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "twin_braids",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "skirt_set",
+    "casual",
+    "ascot",
+    "waist_apron"
+  ],
+  "optional_clothing": []
+}

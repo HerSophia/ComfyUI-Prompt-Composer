@@ -1,0 +1,30 @@
+{
+  "id": "link",
+  "name": "林克",
+  "identity_tags": [
+    "link"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "short_ponytail",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "tunic",
+    "arabian_clothes",
+    "long_dress",
+    "strapless_dress"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ooi_kancolle",
+  "name": "大井",
+  "identity_tags": [
+    "ooi_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "blunt_bangs",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "serafuku",
+    "neckerchief",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "misaka_mikoto",
+  "name": "御坂美琴",
+  "identity_tags": [
+    "misaka_mikoto"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "bob_cut",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "tokiwadai_school_uniform",
+    "summer_uniform",
+    "shorts_under_skirt",
+    "sweater_vest"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "misumi_uika",
+  "name": "三角初华",
+  "identity_tags": [
+    "misumi_uika"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "corset",
+    "clothing_cutout",
+    "ascot",
+    "neck_ribbon"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aisaka_taiga",
+  "name": "逢坂大河",
+  "identity_tags": [
+    "aisaka_taiga"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "double-breasted",
+    "blazer",
+    "school_swimsuit",
+    "neck_ribbon"
+  ],
+  "optional_clothing": []
+}

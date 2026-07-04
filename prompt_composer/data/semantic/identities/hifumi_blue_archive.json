@@ -1,0 +1,29 @@
+{
+  "id": "hifumi_blue_archive",
+  "name": "阿joubi二三",
+  "identity_tags": [
+    "hifumi_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "light_brown",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "light_brown_hair",
+      "twintails",
+      "ahoge",
+      "hair_flaps"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "frilled_bikini",
+    "cardigan",
+    "black_pantyhose",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "doremy_sweet",
+  "name": "哆来梦",
+  "identity_tags": [
+    "doremy_sweet"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "multicolored_dress",
+    "nightgown",
+    "capelet",
+    "dress"
+  ],
+  "optional_clothing": []
+}

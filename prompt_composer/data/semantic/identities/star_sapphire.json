@@ -1,0 +1,30 @@
+{
+  "id": "star_sapphire",
+  "name": "斯塔萨菲雅",
+  "identity_tags": [
+    "star_sapphire"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "drill_hair",
+      "blunt_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bloomers",
+    "skirt_set",
+    "ascot",
+    "waist_apron"
+  ],
+  "optional_clothing": []
+}

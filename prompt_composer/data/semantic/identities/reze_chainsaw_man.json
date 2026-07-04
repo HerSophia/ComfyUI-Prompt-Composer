@@ -1,0 +1,29 @@
+{
+  "id": "reze_chainsaw_man",
+  "name": "蕾塞",
+  "identity_tags": [
+    "reze_(chainsaw_man)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "hair_bun",
+      "braided_ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "ringed_eyes"
+    ]
+  },
+  "default_clothing": [
+    "shirt_tucked_in",
+    "black_choker",
+    "neck_ribbon",
+    "sleeveless_shirt"
+  ],
+  "optional_clothing": []
+}

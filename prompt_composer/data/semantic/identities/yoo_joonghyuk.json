@@ -1,0 +1,19 @@
+{
+  "id": "yoo_joonghyuk",
+  "name": "刘中赫",
+  "identity_tags": [
+    "yoo_joonghyuk"
+  ],
+  "locked_features": {
+    "hair_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair"
+    ]
+  },
+  "default_clothing": [
+    "shirt"
+  ],
+  "optional_clothing": []
+}

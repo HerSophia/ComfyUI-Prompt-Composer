@@ -1,0 +1,30 @@
+{
+  "id": "asashio_kancolle",
+  "name": "朝潮",
+  "identity_tags": [
+    "asashio_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "side_ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "pinafore_dress",
+    "suspender_skirt",
+    "suspenders",
+    "naval_uniform"
+  ],
+  "optional_clothing": []
+}

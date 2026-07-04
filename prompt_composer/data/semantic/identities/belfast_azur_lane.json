@@ -1,0 +1,30 @@
+{
+  "id": "belfast_azur_lane",
+  "name": "贝尔法斯特",
+  "identity_tags": [
+    "belfast_(azur_lane)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "swept_bangs",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "aran_sweater",
+    "off-shoulder_sweater",
+    "brown_sweater",
+    "maid_apron"
+  ],
+  "optional_clothing": []
+}

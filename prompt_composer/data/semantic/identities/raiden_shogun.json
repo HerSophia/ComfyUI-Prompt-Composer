@@ -1,0 +1,30 @@
+{
+  "id": "raiden_shogun",
+  "name": "雷电将军",
+  "identity_tags": [
+    "raiden_shogun"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "blunt_bangs",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "obi",
+    "short_kimono",
+    "shrug_(clothing)",
+    "sash"
+  ],
+  "optional_clothing": []
+}

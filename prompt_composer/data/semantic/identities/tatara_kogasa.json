@@ -1,0 +1,30 @@
+{
+  "id": "tatara_kogasa",
+  "name": "多多良小伞",
+  "identity_tags": [
+    "tatara_kogasa"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ahoge",
+      "ponytail",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "geta",
+    "sailor",
+    "vest",
+    "skirt_set"
+  ],
+  "optional_clothing": []
+}

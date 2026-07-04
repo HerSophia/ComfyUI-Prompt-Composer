@@ -1,0 +1,28 @@
+{
+  "id": "shokuhou_misaki",
+  "name": "食蜂操祈",
+  "identity_tags": [
+    "shokuhou_misaki"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "tokiwadai_school_uniform",
+    "summer_uniform",
+    "gym_shorts",
+    "sweater_vest"
+  ],
+  "optional_clothing": []
+}

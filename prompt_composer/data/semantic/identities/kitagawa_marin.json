@@ -1,0 +1,30 @@
+{
+  "id": "kitagawa_marin",
+  "name": "喜多川海梦",
+  "identity_tags": [
+    "kitagawa_marin"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "swept_bangs",
+      "blunt_bangs",
+      "straight_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "print_bikini",
+    "tied_shirt",
+    "loose_necktie",
+    "string_bikini"
+  ],
+  "optional_clothing": []
+}

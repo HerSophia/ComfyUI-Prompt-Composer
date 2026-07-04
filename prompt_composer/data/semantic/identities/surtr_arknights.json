@@ -1,0 +1,28 @@
+{
+  "id": "surtr_arknights",
+  "name": "史尔特尔",
+  "identity_tags": [
+    "surtr_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "cross_necklace",
+    "criss-cross_halter",
+    "thigh_strap",
+    "halterneck"
+  ],
+  "optional_clothing": []
+}

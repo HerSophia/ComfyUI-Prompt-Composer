@@ -1,0 +1,30 @@
+{
+  "id": "nitocris_fate",
+  "name": "尼托克丽丝",
+  "identity_tags": [
+    "nitocris_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "blunt_bangs",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "competition_swimsuit",
+    "one-piece_swimsuit",
+    "pelvic_curtain",
+    "swimsuit"
+  ],
+  "optional_clothing": []
+}

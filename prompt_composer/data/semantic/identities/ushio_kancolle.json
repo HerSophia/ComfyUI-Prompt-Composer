@@ -1,0 +1,30 @@
+{
+  "id": "ushio_kancolle",
+  "name": "潮",
+  "identity_tags": [
+    "ushio_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "side_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "serafuku",
+    "school_uniform",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "jane_doe_zenless_zone_zero",
+  "name": "简·杜",
+  "identity_tags": [
+    "jane_doe_(zenless_zone_zero)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "blunt_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "single_leg_pantyhose",
+    "fur-trimmed_jacket",
+    "police_uniform",
+    "garter_straps"
+  ],
+  "optional_clothing": []
+}

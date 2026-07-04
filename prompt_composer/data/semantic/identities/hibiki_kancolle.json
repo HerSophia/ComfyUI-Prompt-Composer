@@ -1,0 +1,30 @@
+{
+  "id": "hibiki_kancolle",
+  "name": "响",
+  "identity_tags": [
+    "hibiki_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "red_neckerchief",
+    "serafuku",
+    "naval_uniform",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "nilou_genshin_impact",
+  "name": "妮露",
+  "identity_tags": [
+    "nilou_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "aqua"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twintails",
+      "blunt_bangs",
+      "hair_bun"
+    ],
+    "eyes": [
+      "aqua_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "harem_outfit",
+    "neck_ring",
+    "arabian_clothes",
+    "crop_top"
+  ],
+  "optional_clothing": []
+}

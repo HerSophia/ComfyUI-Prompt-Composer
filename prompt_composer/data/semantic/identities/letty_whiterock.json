@@ -1,0 +1,30 @@
+{
+  "id": "letty_whiterock",
+  "name": "蕾蒂·霍瓦特洛克",
+  "identity_tags": [
+    "letty_whiterock"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "side_ponytail",
+      "twin_braids",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "waist_apron",
+    "bloomers",
+    "skirt_set",
+    "apron"
+  ],
+  "optional_clothing": []
+}

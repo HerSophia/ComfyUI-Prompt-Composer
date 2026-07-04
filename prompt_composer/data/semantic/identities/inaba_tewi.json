@@ -1,0 +1,30 @@
+{
+  "id": "inaba_tewi",
+  "name": "因幡帝",
+  "identity_tags": [
+    "inaba_tewi"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "twin_braids",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "bloomers",
+    "blazer",
+    "necklace",
+    "geta"
+  ],
+  "optional_clothing": []
+}

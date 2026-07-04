@@ -1,0 +1,29 @@
+{
+  "id": "leaf_pokemon",
+  "name": "叶子",
+  "identity_tags": [
+    "leaf_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "hair_flaps",
+      "twintails",
+      "hair_bun"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "loose_socks",
+    "overalls",
+    "sleeveless_shirt",
+    "bike_shorts"
+  ],
+  "optional_clothing": []
+}

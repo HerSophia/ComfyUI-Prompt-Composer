@@ -1,0 +1,27 @@
+{
+  "id": "yuuki_makoto_persona_3",
+  "name": "结城理",
+  "identity_tags": [
+    "yuuki_makoto_(persona_3)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "headphones_around_neck",
+    "neck_ribbon",
+    "school_uniform",
+    "open_jacket"
+  ],
+  "optional_clothing": []
+}

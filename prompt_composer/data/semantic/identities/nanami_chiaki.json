@@ -1,0 +1,30 @@
+{
+  "id": "nanami_chiaki",
+  "name": "七海千秋",
+  "identity_tags": [
+    "nanami_chiaki"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "blunt_bangs",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "neck_ribbon",
+    "shirt_tucked_in",
+    "dress_shirt",
+    "open_jacket"
+  ],
+  "optional_clothing": []
+}

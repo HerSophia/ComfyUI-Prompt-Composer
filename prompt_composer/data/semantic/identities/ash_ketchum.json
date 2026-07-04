@@ -1,0 +1,30 @@
+{
+  "id": "ash_ketchum",
+  "name": "小智",
+  "identity_tags": [
+    "ash_ketchum"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "side_ponytail",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "t-shirt",
+    "striped_shirt",
+    "suspenders",
+    "sneakers"
+  ],
+  "optional_clothing": []
+}

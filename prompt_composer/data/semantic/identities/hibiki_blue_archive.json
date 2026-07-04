@@ -1,0 +1,30 @@
+{
+  "id": "hibiki_blue_archive",
+  "name": "夏叶响",
+  "identity_tags": [
+    "hibiki_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "twintails",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "criss-cross_halter",
+    "crop_top",
+    "fishnets",
+    "sneakers"
+  ],
+  "optional_clothing": []
+}

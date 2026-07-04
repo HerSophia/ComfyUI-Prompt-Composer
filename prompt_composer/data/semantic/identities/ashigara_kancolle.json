@@ -1,0 +1,30 @@
+{
+  "id": "ashigara_kancolle",
+  "name": "足柄",
+  "identity_tags": [
+    "ashigara_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "wavy_hair",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "pencil_skirt",
+    "military_uniform",
+    "white_pantyhose",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

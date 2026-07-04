@@ -1,0 +1,30 @@
+{
+  "id": "kiyohime_fate",
+  "name": "清姬",
+  "identity_tags": [
+    "kiyohime_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "chaldea_uniform",
+    "obi",
+    "frilled_bikini",
+    "kimono"
+  ],
+  "optional_clothing": []
+}

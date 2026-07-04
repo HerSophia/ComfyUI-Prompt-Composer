@@ -1,0 +1,27 @@
+{
+  "id": "chihaya_anon",
+  "name": "千早爱音",
+  "identity_tags": [
+    "chihaya_anon"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "grey"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair"
+    ],
+    "eyes": [
+      "grey_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "plaid_dress",
+    "pinafore_dress",
+    "sweater_vest",
+    "plaid_skirt"
+  ],
+  "optional_clothing": []
+}

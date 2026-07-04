@@ -1,0 +1,30 @@
+{
+  "id": "hakos_baelz",
+  "name": "哈可斯·贝尔兹",
+  "identity_tags": [
+    "hakos_baelz"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "multicolored_skirt",
+    "mismatched_legwear",
+    "off-shoulder_shirt",
+    "cropped_shirt"
+  ],
+  "optional_clothing": []
+}

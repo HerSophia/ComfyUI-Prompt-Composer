@@ -1,0 +1,30 @@
+{
+  "id": "warspite_kancolle",
+  "name": "厌战",
+  "identity_tags": [
+    "warspite_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "hair_bun",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "off-shoulder_dress",
+    "corset",
+    "garter_straps",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kashima_kancolle",
+  "name": "鹿岛",
+  "identity_tags": [
+    "kashima_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "wavy_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tsurime"
+    ]
+  },
+  "default_clothing": [
+    "military_jacket",
+    "military_uniform",
+    "red_neckerchief",
+    "naval_uniform"
+  ],
+  "optional_clothing": []
+}

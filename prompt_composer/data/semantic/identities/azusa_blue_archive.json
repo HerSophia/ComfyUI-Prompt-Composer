@@ -1,0 +1,29 @@
+{
+  "id": "azusa_blue_archive",
+  "name": "白洲梓",
+  "identity_tags": [
+    "azusa_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "crossed_bangs",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "strapless_bikini",
+    "bead_necklace",
+    "frilled_bikini",
+    "bikini_skirt"
+  ],
+  "optional_clothing": []
+}

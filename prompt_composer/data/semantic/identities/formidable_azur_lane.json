@@ -1,0 +1,29 @@
+{
+  "id": "formidable_azur_lane",
+  "name": "可畏",
+  "identity_tags": [
+    "formidable_(azur_lane)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "frilled_dress",
+    "gothic_lolita",
+    "rigging",
+    "criss-cross_halter"
+  ],
+  "optional_clothing": []
+}

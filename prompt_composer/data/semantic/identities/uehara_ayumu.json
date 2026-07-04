@@ -1,0 +1,29 @@
+{
+  "id": "uehara_ayumu",
+  "name": "上原步梦",
+  "identity_tags": [
+    "uehara_ayumu"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "hair_bun",
+      "swept_bangs",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "summer_uniform",
+    "sweater_vest",
+    "plaid_skirt",
+    "neck_ribbon"
+  ],
+  "optional_clothing": []
+}

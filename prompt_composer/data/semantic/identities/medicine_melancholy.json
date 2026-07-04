@@ -1,0 +1,30 @@
+{
+  "id": "medicine_melancholy",
+  "name": "梅蒂欣·梅兰可莉",
+  "identity_tags": [
+    "medicine_melancholy"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "wavy_hair",
+      "twin_braids",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "bubble_skirt",
+    "ribbon-trimmed_skirt",
+    "frilled_shirt",
+    "skirt_set"
+  ],
+  "optional_clothing": []
+}

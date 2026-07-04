@@ -1,0 +1,29 @@
+{
+  "id": "kieran_pokemon",
+  "name": "乌栗",
+  "identity_tags": [
+    "kieran_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "crossed_bangs",
+      "ahoge"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "mole_on_neck",
+    "tank_top",
+    "shorts",
+    "sleeveless_shirt"
+  ],
+  "optional_clothing": []
+}

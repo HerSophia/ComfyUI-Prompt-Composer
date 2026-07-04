@@ -1,0 +1,30 @@
+{
+  "id": "asuna_sao",
+  "name": "亚丝娜",
+  "identity_tags": [
+    "asuna_(sao)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "short_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "breastplate",
+    "armor",
+    "white_thighhighs",
+    "shoulder_armor"
+  ],
+  "optional_clothing": []
+}

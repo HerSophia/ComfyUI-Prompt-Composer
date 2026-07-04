@@ -1,0 +1,30 @@
+{
+  "id": "daiwa_scarlet_umamusume",
+  "name": "大和赤骥",
+  "identity_tags": [
+    "daiwa_scarlet_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "antenna_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "competition_school_swimsuit",
+    "sailor_shirt",
+    "summer_uniform",
+    "layered_skirt"
+  ],
+  "optional_clothing": []
+}

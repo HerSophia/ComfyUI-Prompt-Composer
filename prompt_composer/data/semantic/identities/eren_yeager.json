@@ -1,0 +1,29 @@
+{
+  "id": "eren_yeager",
+  "name": "艾伦·耶格尔",
+  "identity_tags": [
+    "eren_yeager"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "hair_bun",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "paradis_military_uniform",
+    "thigh_strap",
+    "pants",
+    "jacket"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kayoko_blue_archive",
+  "name": "羽川佳世子",
+  "identity_tags": [
+    "kayoko_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ponytail",
+      "side_ponytail",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "red_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "mole_on_neck",
+    "black_choker",
+    "hoodie",
+    "fur-trimmed_coat"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "mori_calliope",
+  "name": "森美声",
+  "identity_tags": [
+    "mori_calliope"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "fishnet_top",
+    "nightgown",
+    "sleepwear",
+    "two-tone_jacket"
+  ],
+  "optional_clothing": []
+}

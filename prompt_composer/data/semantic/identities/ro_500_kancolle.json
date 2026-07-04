@@ -1,0 +1,30 @@
+{
+  "id": "ro_500_kancolle",
+  "name": "呂500",
+  "identity_tags": [
+    "ro-500_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tareme"
+    ]
+  },
+  "default_clothing": [
+    "swimsuit_under_clothes",
+    "school_swimsuit",
+    "old_school_swimsuit",
+    "one-piece_swimsuit"
+  ],
+  "optional_clothing": []
+}

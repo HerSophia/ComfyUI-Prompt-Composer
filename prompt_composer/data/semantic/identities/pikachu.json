@@ -1,0 +1,30 @@
+{
+  "id": "pikachu",
+  "name": "皮卡丘",
+  "identity_tags": [
+    "pikachu"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "tunic",
+    "overalls",
+    "jeans",
+    "t-shirt"
+  ],
+  "optional_clothing": []
+}

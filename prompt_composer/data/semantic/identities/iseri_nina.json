@@ -1,0 +1,29 @@
+{
+  "id": "iseri_nina",
+  "name": "井芹仁菜",
+  "identity_tags": [
+    "iseri_nina"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eye_contact"
+    ]
+  },
+  "default_clothing": [
+    "plaid_skirt",
+    "black_choker",
+    "sweater",
+    "shirt_tucked_in"
+  ],
+  "optional_clothing": []
+}

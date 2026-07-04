@@ -1,0 +1,29 @@
+{
+  "id": "kitasan_black_umamusume",
+  "name": "北部玄驹",
+  "identity_tags": [
+    "kitasan_black_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "twintails",
+      "bob_cut"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "track_jacket",
+    "summer_uniform",
+    "casual"
+  ],
+  "optional_clothing": []
+}

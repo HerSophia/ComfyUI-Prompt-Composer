@@ -1,0 +1,30 @@
+{
+  "id": "alhaitham_genshin_impact",
+  "name": "艾尔海森",
+  "identity_tags": [
+    "alhaitham_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "swept_bangs",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "green_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "sleeveless_shirt",
+    "cape",
+    "pants",
+    "sash"
+  ],
+  "optional_clothing": []
+}

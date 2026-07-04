@@ -1,0 +1,30 @@
+{
+  "id": "pecorine_princess_connect",
+  "name": "佩可莉姆",
+  "identity_tags": [
+    "pecorine_(princess_connect!)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "twintails",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "shrug_(clothing)",
+    "ascot",
+    "shoulder_armor",
+    "bikini"
+  ],
+  "optional_clothing": []
+}

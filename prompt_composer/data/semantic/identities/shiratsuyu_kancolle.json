@@ -1,0 +1,29 @@
+{
+  "id": "shiratsuyu_kancolle",
+  "name": "白露",
+  "identity_tags": [
+    "shiratsuyu_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "hair_flaps",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sailor_bikini",
+    "whistle_around_neck",
+    "red_neckerchief",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

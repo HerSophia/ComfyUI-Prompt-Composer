@@ -1,0 +1,30 @@
+{
+  "id": "manjuu_azur_lane",
+  "name": "蛮啾",
+  "identity_tags": [
+    "manjuu_(azur_lane)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "iron_cross",
+    "o-ring_bikini",
+    "white_pantyhose",
+    "highleg_bikini"
+  ],
+  "optional_clothing": []
+}

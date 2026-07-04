@@ -1,0 +1,30 @@
+{
+  "id": "hilda_pokemon",
+  "name": "白露",
+  "identity_tags": [
+    "hilda_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "high_ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "cutoffs",
+    "denim_shorts",
+    "short_shorts",
+    "vest"
+  ],
+  "optional_clothing": []
+}

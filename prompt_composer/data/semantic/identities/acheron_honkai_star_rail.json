@@ -1,0 +1,29 @@
+{
+  "id": "acheron_honkai_star_rail",
+  "name": "黄泉",
+  "identity_tags": [
+    "acheron_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "criss-cross_halter",
+    "bandaged_leg",
+    "black_choker",
+    "halterneck"
+  ],
+  "optional_clothing": []
+}

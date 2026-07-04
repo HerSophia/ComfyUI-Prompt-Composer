@@ -1,0 +1,30 @@
+{
+  "id": "natsuiro_matsuri",
+  "name": "夏色祭",
+  "identity_tags": [
+    "natsuiro_matsuri"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "side_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "camisole",
+    "off-shoulder_shirt",
+    "cropped_jacket",
+    "frilled_bikini"
+  ],
+  "optional_clothing": []
+}

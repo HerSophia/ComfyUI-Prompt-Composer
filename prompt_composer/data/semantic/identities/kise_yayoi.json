@@ -1,0 +1,30 @@
+{
+  "id": "kise_yayoi",
+  "name": "黄濑弥生",
+  "identity_tags": [
+    "kise_yayoi"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "hair_flaps",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "bike_shorts",
+    "cardigan",
+    "choker",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ultimate_madoka",
+  "name": "究极圆",
+  "identity_tags": [
+    "ultimate_madoka"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "drill_hair",
+      "straight_hair"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "mitakihara_school_uniform",
+    "pink_thighhighs",
+    "layered_dress",
+    "long_dress"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dimitri_alexandre_blaiddyd",
+  "name": "迪米特里·亚历山大·布拉杜德",
+  "identity_tags": [
+    "dimitri_alexandre_blaiddyd"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "garreg_mach_monastery_uniform",
+    "cape",
+    "armor",
+    "pants"
+  ],
+  "optional_clothing": []
+}

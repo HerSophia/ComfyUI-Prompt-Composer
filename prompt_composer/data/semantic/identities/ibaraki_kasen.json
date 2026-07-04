@@ -1,0 +1,30 @@
+{
+  "id": "ibaraki_kasen",
+  "name": "茨木华扇",
+  "identity_tags": [
+    "ibaraki_kasen"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "hair_bun",
+      "double_bun",
+      "ahoge"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ribbon-trimmed_skirt",
+    "chinese_clothes",
+    "blouse",
+    "skirt_set"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,52 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# ---- 测试与覆盖率 ----
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ---- 原始数据 ----
+# raw 目录里是体积很大的 Danbooru 原始数据（tags.json 上百MB、
+# 共现 csv 数百万行）。这些数据只用于离线跑挖掘脚本，不进仓库。
+# 生成后的精简产物（semantic、associations.json等）会正常提交。
+prompt_composer/data/raw/
+
+# ---- 第三方导入数据 ----
+# 从其他插件借来的原始词表，仅供 import_danbooru.py 离线使用，不进仓库。
+来自其他插件的东西/
+
+# ---- 用户覆盖 ----
+# 用户本地覆盖目录，因人而异，不进仓库。
+prompt_composer/data/user/
+
+# ---- 临时文件 ----
+# 开发过程中产生的临时脚本与探针文件。
+# __init__.py 是包入口，不能被忽略，单独放行。
+_*.py
+!__init__.py
+_*.txt
+_*.mjs
+*.tmp
+
+# ---- 编辑器与系统 ----
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ---- 编辑器工作产物 ----
+# .limcode 是编辑器的设计、计划、进度等工作文档目录，不进仓库。
+.limcode/

@@ -1,0 +1,29 @@
+{
+  "id": "elysia_honkai_impact",
+  "name": "爱莉希雅",
+  "identity_tags": [
+    "elysia_(honkai_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "corset",
+    "pearl_necklace",
+    "high_heel_boots",
+    "shrug_(clothing)"
+  ],
+  "optional_clothing": []
+}

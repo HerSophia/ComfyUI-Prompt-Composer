@@ -1,0 +1,29 @@
+{
+  "id": "eila_ilmatar_juutilainen",
+  "name": "埃拉·伊尔玛塔尔·尤蒂莱宁",
+  "identity_tags": [
+    "eila_ilmatar_juutilainen"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "military_uniform",
+    "white_pantyhose",
+    "black_pantyhose",
+    "pantyhose"
+  ],
+  "optional_clothing": []
+}

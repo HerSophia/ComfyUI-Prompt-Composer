@@ -1,0 +1,29 @@
+{
+  "id": "yang_xiao_long",
+  "name": "杨小龙",
+  "identity_tags": [
+    "yang_xiao_long"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "wavy_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "knee_boots",
+    "tank_top",
+    "short_shorts",
+    "cape"
+  ],
+  "optional_clothing": []
+}

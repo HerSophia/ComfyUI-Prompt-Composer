@@ -1,0 +1,29 @@
+{
+  "id": "cheval_grand_umamusume",
+  "name": "冠军很赞",
+  "identity_tags": [
+    "cheval_grand_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "ascot",
+    "cape",
+    "alternate_costume",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

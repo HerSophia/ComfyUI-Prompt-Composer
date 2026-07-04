@@ -1,0 +1,29 @@
+{
+  "id": "hoshizora_rin",
+  "name": "星空凛",
+  "identity_tags": [
+    "hoshizora_rin"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "otonokizaka_school_uniform",
+    "summer_uniform",
+    "blazer",
+    "plaid_skirt"
+  ],
+  "optional_clothing": []
+}

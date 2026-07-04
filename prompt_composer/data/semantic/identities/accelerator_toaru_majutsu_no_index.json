@@ -1,0 +1,27 @@
+{
+  "id": "accelerator_toaru_majutsu_no_index",
+  "name": "一方通行",
+  "identity_tags": [
+    "accelerator_(toaru_majutsu_no_index)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "tokiwadai_school_uniform",
+    "summer_uniform",
+    "striped_shirt",
+    "black_choker"
+  ],
+  "optional_clothing": []
+}

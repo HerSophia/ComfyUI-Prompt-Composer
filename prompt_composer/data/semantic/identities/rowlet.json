@@ -1,0 +1,30 @@
+{
+  "id": "rowlet",
+  "name": "木木枭",
+  "identity_tags": [
+    "rowlet"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "twin_braids",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "tied_shirt",
+    "t-shirt",
+    "striped_shirt",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

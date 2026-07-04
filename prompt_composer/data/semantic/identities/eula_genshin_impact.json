@@ -1,0 +1,30 @@
+{
+  "id": "eula_genshin_impact",
+  "name": "优菈",
+  "identity_tags": [
+    "eula_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "ahoge",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "bodystocking",
+    "harness",
+    "thigh_boots",
+    "leotard"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "yor_briar",
+  "name": "约尔·福杰",
+  "identity_tags": [
+    "yor_briar"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "hair_bun",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "glint"
+    ]
+  },
+  "default_clothing": [
+    "sweater_dress",
+    "off-shoulder_sweater",
+    "back_cutout",
+    "off-shoulder_dress"
+  ],
+  "optional_clothing": []
+}

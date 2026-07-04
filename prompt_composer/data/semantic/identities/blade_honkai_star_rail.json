@@ -1,0 +1,30 @@
+{
+  "id": "blade_honkai_star_rail",
+  "name": "刃",
+  "identity_tags": [
+    "blade_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "ahoge",
+      "drill_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "chinese_clothes",
+    "pants",
+    "jacket",
+    "open_jacket"
+  ],
+  "optional_clothing": []
+}

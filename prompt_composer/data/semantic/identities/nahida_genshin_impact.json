@@ -1,0 +1,30 @@
+{
+  "id": "nahida_genshin_impact",
+  "name": "纳西妲",
+  "identity_tags": [
+    "nahida_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "side_ponytail",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "stirrup_legwear",
+    "bloomers",
+    "toeless_legwear",
+    "sleeveless_dress"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sakura_miko",
+  "name": "樱巫女",
+  "identity_tags": [
+    "sakura_miko"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ahoge",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "symbol_in_eye"
+    ]
+  },
+  "default_clothing": [
+    "vertical-striped_skirt",
+    "letterman_jacket",
+    "sleeveless_kimono",
+    "striped_skirt"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "akagi_kancolle",
+  "name": "赤城",
+  "identity_tags": [
+    "akagi_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "side_ponytail",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "muneate",
+    "hakama_skirt",
+    "naval_uniform",
+    "japanese_clothes"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "jack_the_ripper_fate_apocrypha",
+  "name": "开膛手杰克",
+  "identity_tags": [
+    "jack_the_ripper_(fate/apocrypha)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ahoge",
+      "twin_braids",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "chaldea_uniform",
+    "thigh_boots",
+    "cloak",
+    "black_thighhighs"
+  ],
+  "optional_clothing": []
+}

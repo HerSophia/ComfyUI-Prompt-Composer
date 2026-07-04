@@ -1,0 +1,30 @@
+{
+  "id": "hanekawa_tsubasa",
+  "name": "羽川翼",
+  "identity_tags": [
+    "hanekawa_tsubasa"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twin_braids",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "naoetsu_high_school_uniform",
+    "pajamas",
+    "school_uniform",
+    "barefoot"
+  ],
+  "optional_clothing": []
+}

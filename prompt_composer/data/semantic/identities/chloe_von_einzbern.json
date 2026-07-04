@@ -1,0 +1,29 @@
+{
+  "id": "chloe_von_einzbern",
+  "name": "克洛伊·冯·爱因兹贝伦",
+  "identity_tags": [
+    "chloe_von_einzbern"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "orange"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "twintails",
+      "hair_bun",
+      "ponytail"
+    ],
+    "eyes": [
+      "orange_eyes"
+    ]
+  },
+  "default_clothing": [
+    "waist_cape",
+    "shrug_(clothing)",
+    "camisole",
+    "bikini"
+  ],
+  "optional_clothing": []
+}

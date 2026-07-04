@@ -1,0 +1,29 @@
+{
+  "id": "miura_azusa",
+  "name": "三浦梓",
+  "identity_tags": [
+    "miura_azusa"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ahoge",
+      "antenna_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "bikini",
+    "swimsuit",
+    "necklace",
+    "barefoot"
+  ],
+  "optional_clothing": []
+}

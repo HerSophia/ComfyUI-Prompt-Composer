@@ -1,0 +1,30 @@
+{
+  "id": "ishtar_fate",
+  "name": "伊什塔尔",
+  "identity_tags": [
+    "ishtar_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "mismatched_bikini",
+    "neck_ring",
+    "uneven_legwear",
+    "anklet"
+  ],
+  "optional_clothing": []
+}

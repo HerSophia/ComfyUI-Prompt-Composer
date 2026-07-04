@@ -1,0 +1,30 @@
+{
+  "id": "mercy_overwatch",
+  "name": "天使",
+  "identity_tags": [
+    "mercy_(overwatch)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "high_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eye_of_horus"
+    ]
+  },
+  "default_clothing": [
+    "faulds",
+    "halloween_costume",
+    "pelvic_curtain",
+    "breastplate"
+  ],
+  "optional_clothing": []
+}

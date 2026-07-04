@@ -1,0 +1,30 @@
+{
+  "id": "denji_chainsaw_man",
+  "name": "电次",
+  "identity_tags": [
+    "denji_(chainsaw_man)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "braided_ponytail",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "ringed_eyes"
+    ]
+  },
+  "default_clothing": [
+    "business_suit",
+    "shirt_tucked_in",
+    "pinafore_dress",
+    "suit"
+  ],
+  "optional_clothing": []
+}

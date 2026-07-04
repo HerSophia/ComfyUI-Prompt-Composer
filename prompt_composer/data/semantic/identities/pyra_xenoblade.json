@@ -1,0 +1,29 @@
+{
+  "id": "pyra_xenoblade",
+  "name": "（异度神剑",
+  "identity_tags": [
+    "pyra_(xenoblade)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "swept_bangs",
+      "bob_cut",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "micro_shorts",
+    "microdress",
+    "competition_swimsuit",
+    "short_shorts"
+  ],
+  "optional_clothing": []
+}

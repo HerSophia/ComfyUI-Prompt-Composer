@@ -1,0 +1,30 @@
+{
+  "id": "kagiyama_hina",
+  "name": "键山雏",
+  "identity_tags": [
+    "kagiyama_hina"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "blunt_bangs",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "geta",
+    "lace-up_boots",
+    "frilled_dress",
+    "skirt_set"
+  ],
+  "optional_clothing": []
+}

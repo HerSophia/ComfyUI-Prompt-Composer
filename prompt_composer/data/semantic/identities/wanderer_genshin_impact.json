@@ -1,0 +1,30 @@
+{
+  "id": "wanderer_genshin_impact",
+  "name": "流浪者",
+  "identity_tags": [
+    "wanderer_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "side_ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "red_eyeshadow"
+    ]
+  },
+  "default_clothing": [
+    "japanese_armor",
+    "furisode",
+    "stirrup_legwear",
+    "leg_warmers"
+  ],
+  "optional_clothing": []
+}

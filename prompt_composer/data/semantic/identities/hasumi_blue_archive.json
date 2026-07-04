@@ -1,0 +1,29 @@
+{
+  "id": "hasumi_blue_archive",
+  "name": "杏山莲见",
+  "identity_tags": [
+    "hasumi_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "high_ponytail",
+      "long_bangs"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "gym_shorts",
+    "gym_uniform",
+    "partially_unzipped",
+    "track_jacket"
+  ],
+  "optional_clothing": []
+}

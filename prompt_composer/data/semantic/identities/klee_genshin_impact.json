@@ -1,0 +1,30 @@
+{
+  "id": "klee_genshin_impact",
+  "name": "可莉",
+  "identity_tags": [
+    "klee_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "bloomers",
+    "hooded_coat",
+    "bead_necklace",
+    "knee_boots"
+  ],
+  "optional_clothing": []
+}

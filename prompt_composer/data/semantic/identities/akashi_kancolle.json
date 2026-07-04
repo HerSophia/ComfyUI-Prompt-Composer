@@ -1,0 +1,30 @@
+{
+  "id": "akashi_kancolle",
+  "name": "明石（舰队collection）道具店娘（舰队collection）",
+  "identity_tags": [
+    "akashi_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "serafuku",
+    "hakama_skirt",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

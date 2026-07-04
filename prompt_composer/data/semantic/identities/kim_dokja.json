@@ -1,0 +1,21 @@
+{
+  "id": "kim_dokja",
+  "name": "金独子",
+  "identity_tags": [
+    "kim_dokja"
+  ],
+  "locked_features": {
+    "hair_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair"
+    ]
+  },
+  "default_clothing": [
+    "pants",
+    "collared_shirt",
+    "shirt"
+  ],
+  "optional_clothing": []
+}

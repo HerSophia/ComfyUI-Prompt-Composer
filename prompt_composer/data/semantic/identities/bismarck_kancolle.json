@@ -1,0 +1,30 @@
+{
+  "id": "bismarck_kancolle",
+  "name": "俾斯麦",
+  "identity_tags": [
+    "bismarck_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "iron_cross",
+    "military_uniform",
+    "sailor_dress",
+    "off-shoulder_dress"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fujita_kotone",
+  "name": "藤田琴音",
+  "identity_tags": [
+    "fujita_kotone"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "plaid_skirt",
+    "open_jacket",
+    "bare_legs",
+    "jacket"
+  ],
+  "optional_clothing": []
+}

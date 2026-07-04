@@ -1,0 +1,30 @@
+{
+  "id": "haruna_kancolle",
+  "name": "榛名",
+  "identity_tags": [
+    "haruna_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "muneate",
+    "naval_uniform",
+    "hakama_skirt",
+    "thigh_boots"
+  ],
+  "optional_clothing": []
+}

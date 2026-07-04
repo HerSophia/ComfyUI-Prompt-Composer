@@ -1,0 +1,29 @@
+{
+  "id": "belle_zenless_zone_zero",
+  "name": "铃",
+  "identity_tags": [
+    "belle_(zenless_zone_zero)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "crossed_bangs",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "shirt_lift",
+    "black_thighhighs",
+    "open_jacket",
+    "jacket"
+  ],
+  "optional_clothing": []
+}

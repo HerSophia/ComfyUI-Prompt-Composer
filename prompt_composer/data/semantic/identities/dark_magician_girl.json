@@ -1,0 +1,27 @@
+{
+  "id": "dark_magician_girl",
+  "name": "黑魔法少女",
+  "identity_tags": [
+    "dark_magician_girl"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "green_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "showgirl_skirt",
+    "pelvic_curtain",
+    "off-shoulder_dress",
+    "boots"
+  ],
+  "optional_clothing": []
+}

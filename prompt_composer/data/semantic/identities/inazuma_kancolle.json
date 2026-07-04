@@ -1,0 +1,30 @@
+{
+  "id": "inazuma_kancolle",
+  "name": "电",
+  "identity_tags": [
+    "inazuma_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "red_neckerchief",
+    "serafuku",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

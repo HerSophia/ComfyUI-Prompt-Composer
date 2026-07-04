@@ -1,0 +1,30 @@
+{
+  "id": "nero_claudius_fate",
+  "name": "尼禄·克劳狄乌斯",
+  "identity_tags": [
+    "nero_claudius_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "hair_bun",
+      "twintails"
+    ],
+    "eyes": [
+      "green_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "striped_bikini",
+    "criss-cross_halter",
+    "chaldea_uniform",
+    "showgirl_skirt"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "katsushika_hokusai_fate",
+  "name": "葛饰北斋",
+  "identity_tags": [
+    "katsushika_hokusai_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "hair_bun",
+      "blunt_bangs",
+      "forehead"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "obi",
+    "sash",
+    "fur_collar",
+    "kimono"
+  ],
+  "optional_clothing": []
+}

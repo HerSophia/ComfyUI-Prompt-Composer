@@ -1,0 +1,29 @@
+{
+  "id": "octoling_girl",
+  "name": "八角女孩",
+  "identity_tags": [
+    "octoling_girl"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ponytail",
+      "blunt_bangs",
+      "drill_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "dolphin_shorts",
+    "bike_shorts",
+    "pencil_skirt",
+    "sneakers"
+  ],
+  "optional_clothing": []
+}

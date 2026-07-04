@@ -1,0 +1,30 @@
+{
+  "id": "usada_pekora_1st_costume",
+  "name": "兔田佩克拉",
+  "identity_tags": [
+    "usada_pekora_(1st_costume)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twin_braids",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "leotard_under_clothes",
+    "fur-trimmed_dress",
+    "fur-trimmed_coat",
+    "strapless_dress"
+  ],
+  "optional_clothing": []
+}

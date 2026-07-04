@@ -1,0 +1,28 @@
+{
+  "id": "ikari_shinji",
+  "name": "碇真嗣",
+  "identity_tags": [
+    "ikari_shinji"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "mecha",
+    "pants",
+    "dress_shirt",
+    "school_uniform"
+  ],
+  "optional_clothing": []
+}

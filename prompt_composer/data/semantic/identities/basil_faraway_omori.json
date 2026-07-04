@@ -1,0 +1,28 @@
+{
+  "id": "basil_faraway_omori",
+  "name": "贝瑟尔（现实）",
+  "identity_tags": [
+    "basil_(faraway)_(omori)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "sweater_vest",
+    "collared_shirt",
+    "shorts",
+    "socks"
+  ],
+  "optional_clothing": []
+}

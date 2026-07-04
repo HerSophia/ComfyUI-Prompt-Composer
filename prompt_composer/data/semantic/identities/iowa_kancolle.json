@@ -1,0 +1,30 @@
+{
+  "id": "iowa_kancolle",
+  "name": "衣阿华",
+  "identity_tags": [
+    "iowa_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "vertical-striped_skirt",
+    "american_flag_bikini",
+    "mismatched_legwear",
+    "striped_skirt"
+  ],
+  "optional_clothing": []
+}

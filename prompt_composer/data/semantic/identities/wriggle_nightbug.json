@@ -1,0 +1,30 @@
+{
+  "id": "wriggle_nightbug",
+  "name": "莉格露·奈特巴格",
+  "identity_tags": [
+    "wriggle_nightbug"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "side_ponytail",
+      "twin_braids",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "cape",
+    "skirt_set",
+    "ascot",
+    "mary_janes"
+  ],
+  "optional_clothing": []
+}

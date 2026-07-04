@@ -1,0 +1,29 @@
+{
+  "id": "mayuzumi_fuyuko",
+  "name": "黛冬优子",
+  "identity_tags": [
+    "mayuzumi_fuyuko"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "blunt_bangs",
+      "twintails",
+      "hair_bun"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "frilled_shirt",
+    "suspender_skirt",
+    "frilled_bikini",
+    "neck_ribbon"
+  ],
+  "optional_clothing": []
+}

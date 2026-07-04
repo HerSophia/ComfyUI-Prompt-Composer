@@ -1,0 +1,30 @@
+{
+  "id": "ump45_girls_frontline",
+  "name": "UMP45",
+  "identity_tags": [
+    "ump45_(girls'_frontline)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "crossed_bangs",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "black_pantyhose",
+    "open_jacket",
+    "pantyhose",
+    "neck_ribbon"
+  ],
+  "optional_clothing": []
+}

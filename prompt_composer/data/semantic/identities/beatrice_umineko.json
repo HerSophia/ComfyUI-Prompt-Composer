@@ -1,0 +1,30 @@
+{
+  "id": "beatrice_umineko",
+  "name": "贝阿朵莉切",
+  "identity_tags": [
+    "beatrice_(umineko)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "hair_bun",
+      "blunt_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "suit",
+    "choker",
+    "necktie",
+    "dress"
+  ],
+  "optional_clothing": []
+}

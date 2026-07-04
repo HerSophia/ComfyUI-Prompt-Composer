@@ -1,0 +1,29 @@
+{
+  "id": "sanya_v_litvyak",
+  "name": "三亚",
+  "identity_tags": [
+    "sanya_v._litvyak"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "military_uniform",
+    "white_pantyhose",
+    "black_pantyhose",
+    "pantyhose"
+  ],
+  "optional_clothing": []
+}

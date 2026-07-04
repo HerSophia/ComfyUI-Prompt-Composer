@@ -1,0 +1,29 @@
+{
+  "id": "yuki_miku",
+  "name": "雪初音",
+  "identity_tags": [
+    "yuki_miku"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "ahoge",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "fur-trimmed_boots",
+    "fur-trimmed_coat",
+    "capelet",
+    "thigh_boots"
+  ],
+  "optional_clothing": []
+}

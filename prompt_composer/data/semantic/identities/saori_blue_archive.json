@@ -1,0 +1,30 @@
+{
+  "id": "saori_blue_archive",
+  "name": "才羽绿",
+  "identity_tags": [
+    "saori_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "blunt_bangs",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "harness",
+    "leggings",
+    "headphones_around_neck",
+    "strapless_dress"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,250 @@
+[
+  {
+    "tag": "portrait",
+    "priority": 12,
+    "features": { "shot_type": "portrait", "legs_visible": false, "face_priority": true }
+  },
+  {
+    "tag": "upper_body",
+    "priority": 12,
+    "features": { "shot_type": "upper_body", "legs_visible": false }
+  },
+  {
+    "tag": "close-up",
+    "priority": 12,
+    "features": { "shot_type": "close_up", "legs_visible": false, "face_priority": true }
+  },
+  {
+    "tag": "bust",
+    "priority": 11,
+    "features": { "shot_type": "bust", "legs_visible": false }
+  },
+  {
+    "tag": "profile",
+    "priority": 10,
+    "features": { "shot_type": "profile", "face_priority": true }
+  },
+  {
+    "tag": "cowboy_shot",
+    "priority": 12,
+    "features": { "shot_type": "cowboy_shot", "legs_visible": true }
+  },
+  {
+    "tag": "full_shot",
+    "priority": 12,
+    "features": { "shot_type": "full_body", "legs_visible": true }
+  },
+  {
+    "tag": "wide_shot",
+    "priority": 11,
+    "features": { "shot_type": "wide", "legs_visible": true }
+  },
+  {
+    "tag": "lower_body",
+    "priority": 11,
+    "features": { "shot_type": "lower_body", "legs_visible": true }
+  },
+  {
+    "tag": "standing",
+    "priority": 8,
+    "features": { "body_state": "standing", "legs_visible": true }
+  },
+  {
+    "tag": "lying",
+    "priority": 8,
+    "features": { "body_state": "lying", "legs_visible": true }
+  },
+  {
+    "tag": "sitting",
+    "priority": 8,
+    "features": { "body_state": "sitting", "legs_visible": true }
+  },
+  {
+    "tag": "squatting",
+    "priority": 8,
+    "features": { "body_state": "squatting", "legs_visible": true }
+  },
+  {
+    "tag": "kneeling",
+    "priority": 8,
+    "features": { "body_state": "kneeling", "legs_visible": true }
+  },
+  {
+    "tag": "dress",
+    "priority": 20,
+    "conflicts": ["pants", "shorts", "skirt", "overalls", "jumpsuit", "leotard", "swimsuit"],
+    "features": { "clothing_type": "dress" }
+  },
+  {
+    "tag": "skirt",
+    "priority": 16,
+    "conflicts": ["pants", "shorts", "overalls", "jumpsuit", "leotard", "swimsuit"],
+    "features": { "clothing_type": "skirt" }
+  },
+  {
+    "tag": "pants",
+    "priority": 12,
+    "conflicts": ["dress", "skirt", "overalls", "jumpsuit", "leotard", "swimsuit"],
+    "features": { "clothing_type": "pants" }
+  },
+  {
+    "tag": "shorts",
+    "priority": 12,
+    "conflicts": ["dress", "skirt", "overalls", "jumpsuit", "leotard", "swimsuit"],
+    "features": { "clothing_type": "shorts" }
+  },
+  {
+    "tag": "overalls",
+    "priority": 14,
+    "conflicts": ["dress", "skirt", "pants", "shorts", "jumpsuit", "leotard", "swimsuit"],
+    "features": { "clothing_type": "overalls" }
+  },
+  {
+    "tag": "jumpsuit",
+    "priority": 14,
+    "conflicts": ["dress", "skirt", "pants", "shorts", "overalls", "leotard", "swimsuit"],
+    "features": { "clothing_type": "jumpsuit" }
+  },
+  {
+    "tag": "leotard",
+    "priority": 14,
+  "conflicts": ["dress", "skirt", "pants", "shorts", "overalls", "jumpsuit", "swimsuit"],
+    "features": { "clothing_type": "leotard" }
+  },
+  {
+    "tag": "swimsuit",
+    "priority": 13,
+    "conflicts": ["dress", "skirt", "pants", "shorts", "overalls", "jumpsuit", "leotard"],
+  "features": { "clothing_type": "swimsuit" }
+  },
+  {
+    "tag": "skirt_lift",
+    "priority": 30,
+    "requires": ["skirt"],
+    "features": { "hands_visible": true, "hand_action": "lifting_clothing" }
+  },
+  {
+    "tag": "skirt_hold",
+    "priority": 30,
+    "requires": ["skirt"],
+    "features": { "hands_visible": true, "hand_action": "holding_clothing" }
+  },
+  {
+    "tag": "skirt_pull",
+    "priority": 30,
+    "requires": ["skirt"],
+    "features": { "hands_visible": true, "hand_action": "pulling_clothing" }
+  },
+  {
+    "tag": "dress_lift",
+    "priority": 30,
+    "requires": ["dress"],
+    "features": { "hands_visible": true, "hand_action": "lifting_clothing" }
+  },
+  {
+    "tag": "shirt_lift",
+    "priority": 28,
+    "requires": ["shirt"],
+    "features": { "hands_visible": true, "hand_action": "lifting_clothing" }
+  },
+  {
+    "tag": "crossed_legs",
+    "priority": 8,
+    "features": { "legs_visible": true }
+  },
+ {
+    "tag": "shirt",
+    "priority": 10,
+    "features": { "top_type": "shirt" }
+  },
+  {
+    "tag": "blouse",
+    "priority": 10,
+    "features": { "top_type": "blouse" }
+  },
+  {
+    "tag": "t-shirt",
+    "priority": 10,
+    "features": { "top_type": "t-shirt" }
+  },
+  {
+    "tag": "sweater",
+    "priority": 10,
+    "features": { "top_type": "sweater" }
+  },
+  {
+    "tag": "tank_top",
+    "priority": 10,
+    "features": { "top_type": "tank_top" }
+  },
+  {
+ "tag": "crop_top",
+    "priority":10,
+    "features": { "top_type": "crop_top" }
+  },
+  {
+    "tag": "short_hair",
+    "priority": 9,
+    "features": { "hair_length": "short" }
+  },
+  {
+    "tag": "medium_hair",
+    "priority": 9,
+    "features": { "hair_length": "medium" }
+  },
+  {
+    "tag": "long_hair",
+    "priority": 9,
+    "features": { "hair_length": "long" }
+  },
+  {
+    "tag": "very_long_hair",
+    "priority": 9,
+    "features": { "hair_length": "very_long" }
+  },
+  {
+    "tag": "missionary",
+    "priority": 20,
+    "features": { "sex_position": "missionary" }
+  },
+  {
+    "tag": "doggystyle",
+    "priority": 20,
+    "features": { "sex_position": "doggystyle" }
+  },
+  {
+    "tag": "cowgirl_position",
+    "priority": 20,
+    "features": { "sex_position": "cowgirl" }
+  },
+  {
+    "tag": "reverse_cowgirl",
+    "priority": 20,
+    "features": { "sex_position": "reverse_cowgirl" }
+  },
+  {
+    "tag": "girl_on_top",
+    "priority": 20,
+    "features": { "sex_position": "girl_on_top" }
+  },
+  {
+    "tag": "upright_straddle",
+    "priority": 20,
+    "features": { "sex_position": "upright_straddle" }
+  },
+  {
+    "tag": "spitroast",
+    "priority": 20,
+    "features": { "sex_position": "spitroast" }
+  },
+  {
+    "tag": "leg_lock",
+    "priority": 20,
+    "features": { "sex_position": "leg_lock" }
+  },
+  {
+    "tag": "deepthroat",
+    "priority": 22,
+    "requires": ["fellatio"]
+  }
+]

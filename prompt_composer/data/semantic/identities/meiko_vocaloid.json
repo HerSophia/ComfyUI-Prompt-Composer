@@ -1,0 +1,29 @@
+{
+  "id": "meiko_vocaloid",
+  "name": "MEIKO",
+  "identity_tags": [
+    "meiko_(vocaloid)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "crop_top",
+    "sleeveless_shirt",
+    "necktie",
+    "thigh_boots"
+  ],
+  "optional_clothing": []
+}

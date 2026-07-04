@@ -1,0 +1,21 @@
+{
+  "id": "nikki_nikki",
+  "name": "暖暖",
+  "identity_tags": [
+    "nikki_(nikki)"
+  ],
+  "locked_features": {
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "dress",
+    "white_shirt",
+    "shirt"
+  ],
+  "optional_clothing": []
+}

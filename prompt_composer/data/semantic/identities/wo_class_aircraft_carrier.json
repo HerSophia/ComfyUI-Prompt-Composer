@@ -1,0 +1,30 @@
+{
+  "id": "wo_class_aircraft_carrier",
+  "name": "Wo级航空母舰",
+  "identity_tags": [
+    "wo-class_aircraft_carrier"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "glowing_eyes"
+    ]
+  },
+  "default_clothing": [
+    "muneate",
+    "cape",
+    "military_uniform",
+    "serafuku"
+  ],
+  "optional_clothing": []
+}

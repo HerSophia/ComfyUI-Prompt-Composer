@@ -1,0 +1,30 @@
+{
+  "id": "murakumo_kancolle",
+  "name": "村云",
+  "identity_tags": [
+    "murakumo_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "orange"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "blunt_bangs",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "orange_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sailor_dress",
+    "thighband_pantyhose",
+    "naval_uniform",
+    "unbuttoned_shirt"
+  ],
+  "optional_clothing": []
+}

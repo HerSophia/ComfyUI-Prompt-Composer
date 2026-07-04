@@ -1,0 +1,29 @@
+{
+  "id": "nitta_minami",
+  "name": "新田美波",
+  "identity_tags": [
+    "nitta_minami"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "twintails",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "competition_swimsuit",
+    "one-piece_swimsuit",
+    "swimsuit",
+    "necklace"
+  ],
+  "optional_clothing": []
+}

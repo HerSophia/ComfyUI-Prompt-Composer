@@ -1,0 +1,30 @@
+{
+  "id": "sonoda_umi",
+  "name": "园田海未",
+  "identity_tags": [
+    "sonoda_umi"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "twintails",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "otonokizaka_school_uniform",
+    "summer_uniform",
+    "blazer",
+    "sweater_vest"
+  ],
+  "optional_clothing": []
+}

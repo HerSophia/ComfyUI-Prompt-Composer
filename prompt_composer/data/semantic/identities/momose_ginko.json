@@ -1,0 +1,24 @@
+{
+  "id": "momose_ginko",
+  "name": "百濑银子",
+  "identity_tags": [
+    "momose_ginko"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "dress"
+  ],
+  "optional_clothing": []
+}

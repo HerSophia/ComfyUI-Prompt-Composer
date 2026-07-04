@@ -1,0 +1,30 @@
+{
+  "id": "la_darknesss",
+  "name": "拉普拉斯黑暗",
+  "identity_tags": [
+    "la+_darknesss"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "braided_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "single_leg_pantyhose",
+    "ascot",
+    "cropped_shirt",
+    "adapted_costume"
+  ],
+  "optional_clothing": []
+}

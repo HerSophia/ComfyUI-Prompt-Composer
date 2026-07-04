@@ -1,0 +1,30 @@
+{
+  "id": "tsukino_usagi",
+  "name": "月野兔",
+  "identity_tags": [
+    "tsukino_usagi"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sailor_senshi_uniform",
+    "multicolored_skirt",
+    "sailor_collar",
+    "knee_boots"
+  ],
+  "optional_clothing": []
+}

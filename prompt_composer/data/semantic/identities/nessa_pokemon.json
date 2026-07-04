@@ -1,0 +1,30 @@
+{
+  "id": "nessa_pokemon",
+  "name": "露璃娜",
+  "identity_tags": [
+    "nessa_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "hair_bun",
+      "forehead",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "blue_eyeshadow"
+    ]
+  },
+  "default_clothing": [
+    "sportswear",
+    "bike_shorts",
+    "crop_top",
+    "necklace"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "mononobe_no_futo",
+  "name": "物部布都",
+  "identity_tags": [
+    "mononobe_no_futo"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ponytail",
+      "ahoge",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "kariginu",
+    "ofuda_on_clothes",
+    "japanese_clothes",
+    "frilled_skirt"
+  ],
+  "optional_clothing": []
+}

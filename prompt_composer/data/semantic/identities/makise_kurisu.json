@@ -1,0 +1,27 @@
+{
+  "id": "makise_kurisu",
+  "name": "牧濑红莉栖",
+  "identity_tags": [
+    "makise_kurisu"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "straight_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "black_pantyhose",
+    "necktie",
+    "short_shorts",
+    "pantyhose"
+  ],
+  "optional_clothing": []
+}

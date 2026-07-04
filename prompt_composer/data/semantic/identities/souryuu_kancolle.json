@@ -1,0 +1,30 @@
+{
+  "id": "souryuu_kancolle",
+  "name": "苍龙",
+  "identity_tags": [
+    "souryuu_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "muneate",
+    "hakama_skirt",
+    "japanese_clothes",
+    "kimono"
+  ],
+  "optional_clothing": []
+}

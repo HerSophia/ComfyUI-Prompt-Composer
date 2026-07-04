@@ -1,0 +1,30 @@
+{
+  "id": "asuna_blue_archive",
+  "name": "一之濑明日奈",
+  "identity_tags": [
+    "asuna_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "light_brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "light_brown_hair",
+      "long_bangs",
+      "ponytail",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "thighband_pantyhose",
+    "button_gap",
+    "leotard",
+    "highleg"
+  ],
+  "optional_clothing": []
+}

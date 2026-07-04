@@ -1,0 +1,30 @@
+{
+  "id": "inoue_takina",
+  "name": "井上泷菜",
+  "identity_tags": [
+    "inoue_takina"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "bob_cut",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "eye_contact"
+    ]
+  },
+  "default_clothing": [
+    "pleated_dress",
+    "neck_ribbon",
+    "loafers",
+    "kneehighs"
+  ],
+  "optional_clothing": []
+}

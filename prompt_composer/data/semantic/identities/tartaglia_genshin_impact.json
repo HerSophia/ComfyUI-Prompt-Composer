@@ -1,0 +1,30 @@
+{
+  "id": "tartaglia_genshin_impact",
+  "name": "达达利亚",
+  "identity_tags": [
+    "tartaglia_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "ponytail",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "fur-trimmed_coat",
+    "white_necktie",
+    "pants",
+    "suit"
+  ],
+  "optional_clothing": []
+}

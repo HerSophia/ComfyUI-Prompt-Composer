@@ -1,0 +1,29 @@
+{
+  "id": "hyuuga_hinata",
+  "name": "日向雏田",
+  "identity_tags": [
+    "hyuuga_hinata"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "blunt_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "no_pupils"
+    ]
+  },
+  "default_clothing": [
+    "fishnets",
+    "hoodie",
+    "barefoot",
+    "pants"
+  ],
+  "optional_clothing": []
+}

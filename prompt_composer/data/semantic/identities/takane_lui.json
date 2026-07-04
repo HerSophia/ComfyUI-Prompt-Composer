@@ -1,0 +1,29 @@
+{
+  "id": "takane_lui",
+  "name": "鷹岭琉衣",
+  "identity_tags": [
+    "takane_lui"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "ponytail",
+      "bob_cut"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "taut_clothes",
+    "black_choker",
+    "thigh_strap",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

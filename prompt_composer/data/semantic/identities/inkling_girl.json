@@ -1,0 +1,30 @@
+{
+  "id": "inkling_girl",
+  "name": "暗示女孩",
+  "identity_tags": [
+    "inkling_girl"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "blunt_bangs",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "bike_shorts",
+    "dolphin_shorts",
+    "print_shirt",
+    "sneakers"
+  ],
+  "optional_clothing": []
+}

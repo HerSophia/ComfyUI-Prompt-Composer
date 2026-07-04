@@ -1,0 +1,30 @@
+{
+  "id": "toki_blue_archive",
+  "name": "飞鸟马时",
+  "identity_tags": [
+    "toki_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "hair_bun",
+      "blunt_bangs",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "highleg",
+    "leotard",
+    "harness",
+    "white_thighhighs"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,10812 @@
+[
+  {
+    "tag": "adjusting_headwear",
+    "category": "accessory",
+    "label_zh": "整理头饰"
+  },
+  {
+    "tag": "adjusting_scarf",
+    "category": "accessory",
+    "label_zh": "调整围巾"
+  },
+  {
+    "tag": "alternate_headwear",
+    "category": "accessory",
+    "label_zh": "与原设不同的头饰"
+  },
+  {
+    "tag": "amulet",
+    "category": "accessory",
+    "label_zh": "护身符"
+  },
+  {
+    "tag": "anchor_hair_ornament",
+    "category": "accessory",
+    "label_zh": "锚形发饰"
+  },
+  {
+    "tag": "anchor_symbol",
+    "category": "accessory",
+    "label_zh": "锚符号"
+  },
+  {
+    "tag": "animal_hat",
+    "category": "accessory",
+    "label_zh": "动物帽"
+  },
+  {
+    "tag": "animal_hood",
+    "category": "accessory",
+    "label_zh": "兽耳头罩"
+  },
+  {
+    "tag": "animal_on_head",
+    "category": "accessory",
+    "label_zh": "头上有动物"
+  },
+  {
+    "tag": "argyle_scarf",
+    "category": "accessory",
+    "label_zh": "菱形围巾"
+  },
+  {
+    "tag": "arm_out_of_sleeve",
+    "category": "accessory",
+    "label_zh": "袖子里的手臂"
+  },
+  {
+    "tag": "arm_scarf",
+    "category": "accessory",
+    "label_zh": "手臂围巾"
+  },
+  {
+    "tag": "armband",
+    "category": "accessory",
+    "label_zh": "袖章(臂带)"
+  },
+  {
+    "tag": "armlet",
+    "category": "accessory",
+    "label_zh": "臂镯"
+  },
+  {
+    "tag": "arrow_(symbol)",
+    "category": "accessory",
+    "label_zh": "箭头"
+  },
+  {
+    "tag": "asymmetrical_clothes",
+    "category": "accessory",
+    "label_zh": "不对称的服饰"
+  },
+  {
+    "tag": "asymmetrical_gloves",
+    "category": "accessory",
+    "label_zh": "不对称的手套"
+  },
+  {
+    "tag": "asymmetrical_sleeves",
+    "category": "accessory",
+    "label_zh": "不对称袖子"
+  },
+  {
+    "tag": "back_bow",
+    "category": "accessory",
+    "label_zh": "(服饰)打在背后的结"
+  },
+  {
+    "tag": "backwards_hat",
+    "category": "accessory",
+    "label_zh": "反扣的帽子"
+  },
+  {
+    "tag": "bandage_over_one_eye",
+    "category": "accessory",
+    "label_zh": "用绷带包扎一只眼睛"
+  },
+  {
+    "tag": "bandaged_arm",
+    "category": "accessory",
+    "label_zh": "绷带手臂"
+  },
+  {
+    "tag": "bandaid",
+    "category": "accessory",
+    "label_zh": "创可贴"
+  },
+  {
+    "tag": "bandana",
+    "category": "accessory",
+    "label_zh": "头巾"
+  },
+  {
+    "tag": "bangle",
+    "category": "accessory",
+    "label_zh": "手镯"
+  },
+  {
+    "tag": "baseball_cap",
+    "category": "accessory",
+    "label_zh": "棒球帽"
+  },
+  {
+    "tag": "baseball_mitt",
+    "category": "accessory",
+    "label_zh": "棒球手套"
+  },
+  {
+    "tag": "bat_hair_ornament",
+    "category": "accessory",
+    "label_zh": "蝙蝠发饰"
+  },
+  {
+    "tag": "bear_hair_ornament",
+    "category": "accessory",
+    "label_zh": "熊印花头饰"
+  },
+  {
+    "tag": "behind-the-head_headphones",
+    "category": "accessory",
+    "label_zh": "从后脑戴上的耳机"
+  },
+  {
+    "tag": "beige_scarf",
+    "category": "accessory",
+    "label_zh": "米色围巾"
+  },
+  {
+    "tag": "bell",
+    "category": "accessory",
+    "label_zh": "铃铛"
+  },
+  {
+    "tag": "belly_chain_",
+    "category": "accessory",
+    "label_zh": "肚链"
+  },
+  {
+    "tag": "belt",
+    "category": "accessory",
+    "label_zh": "皮带"
+  },
+  {
+    "tag": "beret",
+    "category": "accessory",
+    "label_zh": "贝雷帽"
+  },
+  {
+    "tag": "bespectacled",
+    "category": "accessory",
+    "label_zh": "戴眼镜的"
+  },
+  {
+    "tag": "bird_mask",
+    "category": "accessory",
+    "label_zh": "鸟面具"
+  },
+  {
+    "tag": "bird_on_head",
+    "category": "accessory",
+    "label_zh": "头上的鸟"
+  },
+  {
+    "tag": "black-framed_eyewear",
+    "category": "accessory",
+    "label_zh": "黑框眼镜"
+  },
+  {
+    "tag": "blindfold",
+    "category": "accessory",
+    "label_zh": "眼罩"
+  },
+  {
+    "tag": "blue-framed_eyewear",
+    "category": "accessory",
+    "label_zh": "蓝框眼镜"
+  },
+  {
+    "tag": "bobblehat",
+    "category": "accessory",
+    "label_zh": "泡泡帽"
+  },
+  {
+    "tag": "bone_hair_ornament",
+    "category": "accessory",
+    "label_zh": "骨头状饰品"
+  },
+  {
+    "tag": "bowknot_over_white_beret",
+    "category": "accessory",
+    "label_zh": "白色贝雷帽上的蝴蝶结"
+  },
+  {
+    "tag": "bowl_hat",
+    "category": "accessory",
+    "label_zh": "碗状帽子"
+  },
+  {
+    "tag": "bowler_hat",
+    "category": "accessory",
+    "label_zh": "圆顶礼帽"
+  },
+  {
+    "tag": "bracelet",
+    "category": "accessory",
+    "label_zh": "手链"
+  },
+  {
+    "tag": "breast_pocket",
+    "category": "accessory",
+    "label_zh": "胸口的袋子"
+  },
+  {
+    "tag": "bridal_gauntlets",
+    "category": "accessory",
+    "label_zh": "新娘手套"
+  },
+  {
+    "tag": "bridal_veil",
+    "category": "accessory",
+    "label_zh": "新娘头纱"
+  },
+  {
+    "tag": "brooch",
+    "category": "accessory",
+    "label_zh": "胸针"
+  },
+  {
+    "tag": "brown-framed_eyewear",
+    "category": "accessory",
+    "label_zh": "棕色镜框眼镜"
+  },
+  {
+    "tag": "brown_gloves",
+    "category": "accessory",
+    "label_zh": "棕色手套"
+  },
+  {
+    "tag": "brown_headwear",
+    "category": "accessory",
+    "label_zh": "棕色头饰"
+  },
+  {
+    "tag": "brown_scarf",
+    "category": "accessory",
+    "label_zh": "棕色围巾"
+  },
+  {
+    "tag": "bucket_hat",
+    "category": "accessory",
+    "label_zh": "渔夫帽"
+  },
+  {
+    "tag": "bunny_hair_ornament",
+    "category": "accessory",
+    "label_zh": "兔子饰品"
+  },
+  {
+    "tag": "butterfly_hair_ornament",
+    "category": "accessory",
+    "label_zh": "蝴蝶发饰"
+  },
+  {
+    "tag": "cabbie_hat",
+    "category": "accessory",
+    "label_zh": "出租车司机帽"
+  },
+  {
+    "tag": "carrot_hair_ornament",
+    "category": "accessory",
+    "label_zh": "胡萝卜发饰"
+  },
+  {
+    "tag": "cat_ear_headphones",
+    "category": "accessory",
+    "label_zh": "猫耳式耳机"
+  },
+  {
+    "tag": "cat_hair_ornament",
+    "category": "accessory",
+    "label_zh": "猫系发饰"
+  },
+  {
+    "tag": "cat_hat",
+    "category": "accessory",
+    "label_zh": "猫耳帽子"
+  },
+  {
+    "tag": "cat_on_head",
+    "category": "accessory",
+    "label_zh": "头上趴着猫"
+  },
+  {
+    "tag": "center_frills",
+    "category": "accessory",
+    "label_zh": "中心褶花边"
+  },
+  {
+    "tag": "chef_hat",
+    "category": "accessory",
+    "label_zh": "厨师帽"
+  },
+  {
+    "tag": "chest_jewel",
+    "category": "accessory",
+    "label_zh": "胸前宝石"
+  },
+  {
+    "tag": "circlet",
+    "category": "accessory",
+    "label_zh": "头冠"
+  },
+  {
+    "tag": "clover_hair_ornament",
+    "category": "accessory",
+    "label_zh": "三叶草发饰"
+  },
+  {
+    "tag": "coke-bottle_glasses",
+    "category": "accessory",
+    "label_zh": "厚如玻璃瓶底的圆眼镜"
+  },
+  {
+    "tag": "collar",
+    "category": "accessory",
+    "label_zh": "项圈"
+  },
+  {
+    "tag": "corsage",
+    "category": "accessory",
+    "label_zh": "胸花"
+  },
+  {
+    "tag": "cowboy_hat",
+    "category": "accessory",
+    "label_zh": "牛仔帽"
+  },
+  {
+    "tag": "crescent_hair_ornament",
+    "category": "accessory",
+    "label_zh": "月牙发饰"
+  },
+  {
+    "tag": "crooked_eyewear",
+    "category": "accessory",
+    "label_zh": "歪斜的眼镜"
+  },
+  {
+    "tag": "cross",
+    "category": "accessory",
+    "label_zh": "十字"
+  },
+  {
+    "tag": "cross-laced_clothes",
+    "category": "accessory",
+    "label_zh": "交叉花边服饰"
+  },
+  {
+    "tag": "cross_earrings",
+    "category": "accessory",
+    "label_zh": "十字耳环"
+  },
+  {
+    "tag": "cross_hair_ornament",
+    "category": "accessory",
+    "label_zh": "十字发饰"
+  },
+  {
+    "tag": "crown",
+    "category": "accessory",
+    "label_zh": "皇冠"
+  },
+  {
+    "tag": "crystal",
+    "category": "accessory",
+    "label_zh": "水晶"
+  },
+  {
+    "tag": "crystal_earrings",
+    "category": "accessory",
+    "label_zh": "水晶耳环"
+  },
+  {
+    "tag": "d-pad_hair_ornament",
+    "category": "accessory",
+    "label_zh": "方向键发饰"
+  },
+  {
+    "tag": "detached_sleeves",
+    "category": "accessory",
+    "label_zh": "分离式袖子"
+  },
+  {
+    "tag": "diving_mask",
+    "category": "accessory",
+    "label_zh": "潜水面罩"
+  },
+  {
+    "tag": "diving_mask_on_head",
+    "category": "accessory",
+    "label_zh": "头戴式潜水面罩"
+  },
+  {
+    "tag": "dixie_cup_hat",
+    "category": "accessory",
+    "label_zh": "狗盆帽"
+  },
+  {
+    "tag": "double_vertical_stripe",
+    "category": "accessory",
+    "label_zh": "服饰上有两条平行条纹"
+  },
+  {
+    "tag": "drawstring",
+    "category": "accessory",
+    "label_zh": "衣服的抽绳"
+  },
+  {
+    "tag": "drop_earrings",
+    "category": "accessory",
+    "label_zh": "耳坠"
+  },
+  {
+    "tag": "earmuffs",
+    "category": "accessory",
+    "label_zh": "耳罩"
+  },
+  {
+    "tag": "earphones",
+    "category": "accessory",
+    "label_zh": "耳机"
+  },
+  {
+    "tag": "earrings",
+    "category": "accessory",
+    "label_zh": "耳环"
+  },
+  {
+    "tag": "elbow_gloves",
+    "category": "accessory",
+    "label_zh": "长袖手套（肘部手套）"
+  },
+  {
+    "tag": "emblem",
+    "category": "accessory",
+    "label_zh": "徽章"
+  },
+  {
+    "tag": "eyewear_on_head",
+    "category": "accessory",
+    "label_zh": "眼镜别在头上"
+  },
+  {
+    "tag": "eyewear_removed",
+    "category": "accessory",
+    "label_zh": "取下眼镜"
+  },
+  {
+    "tag": "feather-trimmed_sleeves",
+    "category": "accessory",
+    "label_zh": "羽毛装饰的袖子"
+  },
+  {
+    "tag": "fingerless_gloves",
+    "category": "accessory",
+    "label_zh": "露指手套"
+  },
+  {
+    "tag": "fish_hair_ornament",
+    "category": "accessory",
+    "label_zh": "鱼形发饰"
+  },
+  {
+    "tag": "flag_print",
+    "category": "accessory",
+    "label_zh": "旗印"
+  },
+  {
+    "tag": "flat_cap",
+    "category": "accessory",
+    "label_zh": "鸭舌帽"
+  },
+  {
+    "tag": "floating_scarf",
+    "category": "accessory",
+    "label_zh": "漂浮围巾"
+  },
+  {
+    "tag": "flower_earrings",
+    "category": "accessory",
+    "label_zh": "花耳环"
+  },
+  {
+    "tag": "food-themed_hair_ornament",
+    "category": "accessory",
+    "label_zh": "食物主题发饰"
+  },
+  {
+    "tag": "forehead_jewel",
+    "category": "accessory",
+    "label_zh": "额前有宝石"
+  },
+  {
+    "tag": "forehead_kiss",
+    "category": "accessory",
+    "label_zh": "亲吻额头"
+  },
+  {
+    "tag": "forehead_protector",
+    "category": "accessory",
+    "label_zh": "护额"
+  },
+  {
+    "tag": "fox_mask",
+    "category": "accessory",
+    "label_zh": "狐狸面具"
+  },
+  {
+    "tag": "frilled",
+    "category": "accessory",
+    "label_zh": "褶边"
+  },
+  {
+    "tag": "frilled_gloves",
+    "category": "accessory",
+    "label_zh": "花边手套"
+  },
+  {
+    "tag": "frilled_hairband",
+    "category": "accessory",
+    "label_zh": "褶边发带"
+  },
+  {
+    "tag": "frilled_sleeves",
+    "category": "accessory",
+    "label_zh": "褶袖边"
+  },
+  {
+    "tag": "fringe_trim",
+    "category": "accessory",
+    "label_zh": "须边(围巾末端"
+  },
+  {
+    "tag": "frog_hair_ornament",
+    "category": "accessory",
+    "label_zh": "青蛙发饰"
+  },
+  {
+    "tag": "full-length_zipper",
+    "category": "accessory",
+    "label_zh": "有整件衣物长的拉链"
+  },
+  {
+    "tag": "fur-trimmed",
+    "category": "accessory",
+    "label_zh": "毛边的"
+  },
+  {
+    "tag": "fur-trimmed_gloves",
+    "category": "accessory",
+    "label_zh": "毛边手套"
+  },
+  {
+    "tag": "fur-trimmed_headwear",
+    "category": "accessory",
+    "label_zh": "毛边头饰"
+  },
+  {
+    "tag": "fur-trimmed_sleeves",
+    "category": "accessory",
+    "label_zh": "毛边袖子"
+  },
+  {
+    "tag": "fur_hat",
+    "category": "accessory",
+    "label_zh": "皮帽"
+  },
+  {
+    "tag": "fur_scarf",
+    "category": "accessory",
+    "label_zh": "皮草围巾"
+  },
+  {
+    "tag": "fur_trim",
+    "category": "accessory",
+    "label_zh": "皮草饰边"
+  },
+  {
+    "tag": "garrison_cap",
+    "category": "accessory",
+    "label_zh": "驻军帽"
+  },
+  {
+    "tag": "gas_mask",
+    "category": "accessory",
+    "label_zh": "防毒面具"
+  },
+  {
+    "tag": "gem",
+    "category": "accessory",
+    "label_zh": "宝石"
+  },
+  {
+    "tag": "glasses",
+    "category": "accessory",
+    "label_zh": "眼镜"
+  },
+  {
+    "tag": "gloves",
+    "category": "accessory",
+    "label_zh": "手套"
+  },
+  {
+    "tag": "gloves_removed",
+    "category": "accessory",
+    "label_zh": "脱下手套"
+  },
+  {
+    "tag": "goggles",
+    "category": "accessory",
+    "label_zh": "风镜"
+  },
+  {
+    "tag": "goggles_on_head",
+    "category": "accessory",
+    "label_zh": "头上别着护目镜"
+  },
+  {
+    "tag": "goggles_on_headwear",
+    "category": "accessory",
+    "label_zh": "帽子上的护目镜"
+  },
+  {
+    "tag": "hachimaki",
+    "category": "accessory",
+    "label_zh": "扎头巾(名词)"
+  },
+  {
+    "tag": "hair_behind_ear",
+    "category": "accessory",
+    "label_zh": "耳后有头发"
+  },
+  {
+    "tag": "hair_bell",
+    "category": "accessory",
+    "label_zh": "头发上系着铃铛"
+  },
+  {
+    "tag": "hair_bobbles",
+    "category": "accessory",
+    "label_zh": "头绳"
+  },
+  {
+    "tag": "hair_bow",
+    "category": "accessory",
+    "label_zh": "蝴蝶结发饰"
+  },
+  {
+    "tag": "hair_flower",
+    "category": "accessory",
+    "label_zh": "头发上别着花"
+  },
+  {
+    "tag": "hair_ornament",
+    "category": "accessory",
+    "label_zh": "发饰"
+  },
+  {
+    "tag": "hair_ribbon",
+    "category": "accessory",
+    "label_zh": "发_带"
+  },
+  {
+    "tag": "hair_rings",
+    "category": "accessory",
+    "label_zh": "发_圈"
+  },
+  {
+    "tag": "hair_stick",
+    "category": "accessory",
+    "label_zh": "发棒"
+  },
+  {
+    "tag": "hair_tie",
+    "category": "accessory",
+    "label_zh": "发_带"
+  },
+  {
+    "tag": "hair_tubes",
+    "category": "accessory",
+    "label_zh": "发管"
+  },
+  {
+    "tag": "hairband",
+    "category": "accessory",
+    "label_zh": "发_带"
+  },
+  {
+    "tag": "hairclip",
+    "category": "accessory",
+    "label_zh": "发_夹"
+  },
+  {
+    "tag": "hairpin",
+    "category": "accessory",
+    "label_zh": "发夹"
+  },
+  {
+    "tag": "hairpods",
+    "category": "accessory",
+    "label_zh": "头发上成对的像无线蓝牙的发饰"
+  },
+  {
+    "tag": "half_gloves",
+    "category": "accessory",
+    "label_zh": "很短的手套"
+  },
+  {
+    "tag": "half_mask",
+    "category": "accessory",
+    "label_zh": "半面罩"
+  },
+  {
+    "tag": "halo",
+    "category": "accessory",
+    "label_zh": "光环"
+  },
+  {
+    "tag": "halter_top",
+    "category": "accessory",
+    "label_zh": "吊带式的上身的服饰"
+  },
+  {
+    "tag": "hands_in_opposite_sleeves",
+    "category": "accessory",
+    "label_zh": "双手交叉伸进袖子里"
+  },
+  {
+    "tag": "hardhat",
+    "category": "accessory",
+    "label_zh": "安全帽"
+  },
+  {
+    "tag": "hat",
+    "category": "accessory",
+    "label_zh": "帽子"
+  },
+  {
+    "tag": "hat_bow",
+    "category": "accessory",
+    "label_zh": "带有蝴蝶结的帽子"
+  },
+  {
+    "tag": "hat_feather",
+    "category": "accessory",
+    "label_zh": "带有羽毛的帽子"
+  },
+  {
+    "tag": "hat_flower",
+    "category": "accessory",
+    "label_zh": "带着花的帽子"
+  },
+  {
+    "tag": "hat_ornament",
+    "category": "accessory",
+    "label_zh": "带有饰物的帽子"
+  },
+  {
+    "tag": "hat_over_one_eye",
+    "category": "accessory",
+    "label_zh": "帽子遮住了一只眼"
+  },
+  {
+    "tag": "hat_removed",
+    "category": "accessory",
+    "label_zh": "帽子被摘下"
+  },
+  {
+    "tag": "hat_ribbon",
+    "category": "accessory",
+    "label_zh": "带有缎带的帽子"
+  },
+  {
+    "tag": "hat_tip",
+    "category": "accessory",
+    "label_zh": "捏着帽檐"
+  },
+  {
+    "tag": "hat_with_ears",
+    "category": "accessory",
+    "label_zh": "带耳朵的帽子"
+  },
+  {
+    "tag": "head",
+    "category": "accessory",
+    "label_zh": "头"
+  },
+  {
+    "tag": "head_fins",
+    "category": "accessory",
+    "label_zh": "头鳍"
+  },
+  {
+    "tag": "head_mounted_display",
+    "category": "accessory",
+    "label_zh": "戴着头戴显示设备"
+  },
+  {
+    "tag": "head_wings",
+    "category": "accessory",
+    "label_zh": "头上有翅膀"
+  },
+  {
+    "tag": "head_wreath",
+    "category": "accessory",
+    "label_zh": "头花环"
+  },
+  {
+    "tag": "headband",
+    "category": "accessory",
+    "label_zh": "头带"
+  },
+  {
+    "tag": "headdress",
+    "category": "accessory",
+    "label_zh": "头部穿戴物(偏笼统)"
+  },
+  {
+    "tag": "headgear",
+    "category": "accessory",
+    "label_zh": "头部饰品(含一定科幻元素)"
+  },
+  {
+    "tag": "headphones",
+    "category": "accessory",
+    "label_zh": "耳机"
+  },
+  {
+    "tag": "headpiece",
+    "category": "accessory",
+    "label_zh": "头饰"
+  },
+  {
+    "tag": "headset",
+    "category": "accessory",
+    "label_zh": "头戴式耳机"
+  },
+  {
+    "tag": "headwear",
+    "category": "accessory",
+    "label_zh": "头饰"
+  },
+  {
+    "tag": "headwear_removed",
+    "category": "accessory",
+    "label_zh": "头饰已移除"
+  },
+  {
+    "tag": "heart_earrings",
+    "category": "accessory",
+    "label_zh": "心形耳环"
+  },
+  {
+    "tag": "heart_hair_ornament",
+    "category": "accessory",
+    "label_zh": "心形发饰"
+  },
+  {
+    "tag": "heart_lock_(kantai_collection)",
+    "category": "accessory",
+    "label_zh": "舰娘锁(舰C)"
+  },
+  {
+    "tag": "helm",
+    "category": "accessory",
+    "label_zh": "戴着头盔的"
+  },
+  {
+    "tag": "helmet_removed",
+    "category": "accessory",
+    "label_zh": "摘下头盔"
+  },
+  {
+    "tag": "hockey_mask",
+    "category": "accessory",
+    "label_zh": "曲棍球面具"
+  },
+  {
+    "tag": "holding_scarf",
+    "category": "accessory",
+    "label_zh": "拿着围巾"
+  },
+  {
+    "tag": "hoop_earrings",
+    "category": "accessory",
+    "label_zh": "环状耳环"
+  },
+  {
+    "tag": "horn_ornament",
+    "category": "accessory",
+    "label_zh": "角上有饰物"
+  },
+  {
+    "tag": "horned_headwear",
+    "category": "accessory",
+    "label_zh": "角状头饰"
+  },
+  {
+    "tag": "horned_helmet",
+    "category": "accessory",
+    "label_zh": "带角头盔"
+  },
+  {
+    "tag": "horns_through_headwear",
+    "category": "accessory",
+    "label_zh": "为角留了洞的头饰"
+  },
+  {
+    "tag": "horse_mask",
+    "category": "accessory",
+    "label_zh": "马面具"
+  },
+  {
+    "tag": "inter_headset",
+    "category": "accessory",
+    "label_zh": "EVA神经连接器"
+  },
+  {
+    "tag": "jester_cap",
+    "category": "accessory",
+    "label_zh": "小丑帽"
+  },
+  {
+    "tag": "jewelry",
+    "category": "accessory",
+    "label_zh": "首饰"
+  },
+  {
+    "tag": "juliet_sleeves",
+    "category": "accessory",
+    "label_zh": "朱丽叶袖"
+  },
+  {
+    "tag": "kerchief",
+    "category": "accessory",
+    "label_zh": "方头巾"
+  },
+  {
+    "tag": "knee_pads",
+    "category": "accessory",
+    "label_zh": "护膝"
+  },
+  {
+    "tag": "lace",
+    "category": "accessory",
+    "label_zh": "蕾丝"
+  },
+  {
+    "tag": "lace-trimmed_gloves",
+    "category": "accessory",
+    "label_zh": "蕾丝边手套"
+  },
+  {
+    "tag": "lace-trimmed_hairband",
+    "category": "accessory",
+    "label_zh": "蕾丝边饰发带"
+  },
+  {
+    "tag": "lace-trimmed_sleeves",
+    "category": "accessory",
+    "label_zh": "蕾丝边袖子"
+  },
+  {
+    "tag": "large_hat",
+    "category": "accessory",
+    "label_zh": "大帽子"
+  },
+  {
+    "tag": "latex_gloves",
+    "category": "accessory",
+    "label_zh": "乳胶手套"
+  },
+  {
+    "tag": "latex_thighhighs",
+    "category": "accessory",
+    "label_zh": "乳胶材质的长筒袜"
+  },
+  {
+    "tag": "latin_cross",
+    "category": "accessory",
+    "label_zh": "拉丁式十字架"
+  },
+  {
+    "tag": "layered_sleeves",
+    "category": "accessory",
+    "label_zh": "分层袖子"
+  },
+  {
+    "tag": "leaf_hair_ornament",
+    "category": "accessory",
+    "label_zh": "叶子发饰"
+  },
+  {
+    "tag": "leaf_on_head",
+    "category": "accessory",
+    "label_zh": "头上的叶子"
+  },
+  {
+    "tag": "leather_gloves",
+    "category": "accessory",
+    "label_zh": "皮手套"
+  },
+  {
+    "tag": "lolita_hairband",
+    "category": "accessory",
+    "label_zh": "洛丽塔发带"
+  },
+  {
+    "tag": "long_gloves",
+    "category": "accessory",
+    "label_zh": "长手套"
+  },
+  {
+    "tag": "long_scarf",
+    "category": "accessory",
+    "label_zh": "长围巾"
+  },
+  {
+    "tag": "long_sleeves",
+    "category": "accessory",
+    "label_zh": "长袖"
+  },
+  {
+    "tag": "loose_belt",
+    "category": "accessory",
+    "label_zh": "松散的带子(衣物)"
+  },
+  {
+    "tag": "maid_headdress",
+    "category": "accessory",
+    "label_zh": "女仆头饰"
+  },
+  {
+    "tag": "mask",
+    "category": "accessory",
+    "label_zh": "面具"
+  },
+  {
+    "tag": "mask_lift",
+    "category": "accessory",
+    "label_zh": "抬起面罩"
+  },
+  {
+    "tag": "mask_on_head",
+    "category": "accessory",
+    "label_zh": "掀到头上的面具"
+  },
+  {
+    "tag": "mask_removed",
+    "category": "accessory",
+    "label_zh": "摘下的面具"
+  },
+  {
+    "tag": "masked",
+    "category": "accessory",
+    "label_zh": "蒙面"
+  },
+  {
+    "tag": "masquerade_mask",
+    "category": "accessory",
+    "label_zh": "化妆舞会面具"
+  },
+  {
+    "tag": "mechanical_halo",
+    "category": "accessory",
+    "label_zh": "机械光环"
+  },
+  {
+    "tag": "metal_collar",
+    "category": "accessory",
+    "label_zh": "金属项圈"
+  },
+  {
+    "tag": "military_hat",
+    "category": "accessory",
+    "label_zh": "军帽"
+  },
+  {
+    "tag": "mini_crown",
+    "category": "accessory",
+    "label_zh": "迷你皇冠"
+  },
+  {
+    "tag": "mini_hat",
+    "category": "accessory",
+    "label_zh": "迷你帽"
+  },
+  {
+    "tag": "mini_top_hat",
+    "category": "accessory",
+    "label_zh": "迷你礼帽"
+  },
+  {
+    "tag": "mini_witch_hat",
+    "category": "accessory",
+    "label_zh": "迷你魔女帽"
+  },
+  {
+    "tag": "mismatched_gloves",
+    "category": "accessory",
+    "label_zh": "双色手套"
+  },
+  {
+    "tag": "mismatched_sleeves",
+    "category": "accessory",
+    "label_zh": "不匹配的袖子"
+  },
+  {
+    "tag": "mittens",
+    "category": "accessory",
+    "label_zh": "连指手套(两指手套)"
+  },
+  {
+    "tag": "mob_cap",
+    "category": "accessory",
+    "label_zh": "头巾式室内女帽"
+  },
+  {
+    "tag": "monocle",
+    "category": "accessory",
+    "label_zh": "单片眼镜"
+  },
+  {
+    "tag": "mouth_mask",
+    "category": "accessory",
+    "label_zh": "口罩"
+  },
+  {
+    "tag": "multicolored_gloves",
+    "category": "accessory",
+    "label_zh": "多色款手套"
+  },
+  {
+    "tag": "multicolored_legwear",
+    "category": "accessory",
+    "label_zh": "多色款腿部服饰"
+  },
+  {
+    "tag": "multicolored_scarf",
+    "category": "accessory",
+    "label_zh": "五彩围巾"
+  },
+  {
+    "tag": "multiple_earrings",
+    "category": "accessory",
+    "label_zh": "多个耳环"
+  },
+  {
+    "tag": "musical_note_hair_ornament",
+    "category": "accessory",
+    "label_zh": "音符发饰"
+  },
+  {
+    "tag": "navy_blue_legwear",
+    "category": "accessory",
+    "label_zh": "海军蓝腿部服饰"
+  },
+  {
+    "tag": "newsboy_cap",
+    "category": "accessory",
+    "label_zh": "报童帽"
+  },
+  {
+    "tag": "ninja_mask",
+    "category": "accessory",
+    "label_zh": "忍者面具"
+  },
+  {
+    "tag": "no_eyewear",
+    "category": "accessory",
+    "label_zh": "去掉了(原设有的)眼镜"
+  },
+  {
+    "tag": "no_gloves",
+    "category": "accessory",
+    "label_zh": "去掉了(原设有的)手套"
+  },
+  {
+    "tag": "no_hat",
+    "category": "accessory",
+    "label_zh": "没有帽子"
+  },
+  {
+    "tag": "no_headwear",
+    "category": "accessory",
+    "label_zh": "去掉了(原设有的)头饰"
+  },
+  {
+    "tag": "nontraditional_miko",
+    "category": "accessory",
+    "label_zh": "改款过的日本服饰"
+  },
+  {
+    "tag": "nurse_cap",
+    "category": "accessory",
+    "label_zh": "护士帽"
+  },
+  {
+    "tag": "o-ring",
+    "category": "accessory",
+    "label_zh": "带O型环的衣物"
+  },
+  {
+    "tag": "o-ring_top",
+    "category": "accessory",
+    "label_zh": "带O型环的上衣"
+  },
+  {
+    "tag": "oni_mask",
+    "category": "accessory",
+    "label_zh": "鬼面具"
+  },
+  {
+    "tag": "opaque_glasses",
+    "category": "accessory",
+    "label_zh": "没透出眼睛的眼镜"
+  },
+  {
+    "tag": "oven_mitts",
+    "category": "accessory",
+    "label_zh": "隔热手套"
+  },
+  {
+    "tag": "over-rim_eyewear",
+    "category": "accessory",
+    "label_zh": "下半无框眼镜"
+  },
+  {
+    "tag": "partially_fingerless_gloves",
+    "category": "accessory",
+    "label_zh": "部分露指手套"
+  },
+  {
+    "tag": "party_hat",
+    "category": "accessory",
+    "label_zh": "派对帽"
+  },
+  {
+    "tag": "paw_gloves",
+    "category": "accessory",
+    "label_zh": "爪子手套(分指手套)"
+  },
+  {
+    "tag": "pearl_bracelet",
+    "category": "accessory",
+    "label_zh": "珍珠手链"
+  },
+  {
+    "tag": "pendant",
+    "category": "accessory",
+    "label_zh": "吊坠"
+  },
+  {
+    "tag": "pill_earrings",
+    "category": "accessory",
+    "label_zh": "药丸样式的耳环"
+  },
+  {
+    "tag": "pillbox_hat",
+    "category": "accessory",
+    "label_zh": "药盒帽"
+  },
+  {
+    "tag": "pillow_hat",
+    "category": "accessory",
+    "label_zh": "枕帽"
+  },
+  {
+    "tag": "pinching_sleeves",
+    "category": "accessory",
+    "label_zh": "掐袖子"
+  },
+  {
+    "tag": "pirate_hat",
+    "category": "accessory",
+    "label_zh": "海盗帽"
+  },
+  {
+    "tag": "plague_doctor_mask",
+    "category": "accessory",
+    "label_zh": "瘟疫医生口罩"
+  },
+  {
+    "tag": "plaid_scarf",
+    "category": "accessory",
+    "label_zh": "格子围巾"
+  },
+  {
+    "tag": "police_hat",
+    "category": "accessory",
+    "label_zh": "警察帽"
+  },
+  {
+    "tag": "polka_dot_scarf",
+    "category": "accessory",
+    "label_zh": "波点围巾"
+  },
+  {
+    "tag": "pom_pom_(clothes)",
+    "category": "accessory",
+    "label_zh": "小绒球(衣物挂件)"
+  },
+  {
+    "tag": "porkpie_hat",
+    "category": "accessory",
+    "label_zh": "道士帽"
+  },
+  {
+    "tag": "print_gloves",
+    "category": "accessory",
+    "label_zh": "印花手套"
+  },
+  {
+    "tag": "print_headwear",
+    "category": "accessory",
+    "label_zh": "印花头饰"
+  },
+  {
+    "tag": "print_scarf",
+    "category": "accessory",
+    "label_zh": "印花围巾"
+  },
+  {
+    "tag": "puffy_detached_sleeves",
+    "category": "accessory",
+    "label_zh": "蓬蓬的袖子"
+  },
+  {
+    "tag": "puffy_long_sleeves",
+    "category": "accessory",
+    "label_zh": "蓬蓬长袖"
+  },
+  {
+    "tag": "puffy_short_sleeves",
+    "category": "accessory",
+    "label_zh": "蓬蓬短袖"
+  },
+  {
+    "tag": "puffy_sleeves",
+    "category": "accessory",
+    "label_zh": "蓬松的袖子"
+  },
+  {
+    "tag": "pumpkin_hair_ornament",
+    "category": "accessory",
+    "label_zh": "南瓜发饰"
+  },
+  {
+    "tag": "pumpkin_hat",
+    "category": "accessory",
+    "label_zh": "南瓜帽"
+  },
+  {
+    "tag": "puppet_rings",
+    "category": "accessory",
+    "label_zh": "木偶戒指"
+  },
+  {
+    "tag": "radio_antenna",
+    "category": "accessory",
+    "label_zh": "天线"
+  },
+  {
+    "tag": "raglan_sleeves",
+    "category": "accessory",
+    "label_zh": "插肩袖"
+  },
+  {
+    "tag": "red-framed_eyewear",
+    "category": "accessory",
+    "label_zh": "红框眼镜"
+  },
+  {
+    "tag": "ribbed_sleeves",
+    "category": "accessory",
+    "label_zh": "棱纹袖子"
+  },
+  {
+    "tag": "ribbon",
+    "category": "accessory",
+    "label_zh": "丝带"
+  },
+  {
+    "tag": "rice_hat",
+    "category": "accessory",
+    "label_zh": "斗笠"
+  },
+  {
+    "tag": "rimless_eyewear",
+    "category": "accessory",
+    "label_zh": "无框眼镜"
+  },
+  {
+    "tag": "ring",
+    "category": "accessory",
+    "label_zh": "戒指"
+  },
+  {
+    "tag": "round_eyewear",
+    "category": "accessory",
+    "label_zh": "圆框眼镜"
+  },
+  {
+    "tag": "sailor_hat",
+    "category": "accessory",
+    "label_zh": "水手帽"
+  },
+  {
+    "tag": "santa_hat",
+    "category": "accessory",
+    "label_zh": "圣诞帽"
+  },
+  {
+    "tag": "sapphire_brooch",
+    "category": "accessory",
+    "label_zh": "蓝宝石胸针"
+  },
+  {
+    "tag": "scarf",
+    "category": "accessory",
+    "label_zh": "围巾"
+  },
+  {
+    "tag": "scarf_bow",
+    "category": "accessory",
+    "label_zh": "围巾蝴蝶结"
+  },
+  {
+    "tag": "scarf_on_head",
+    "category": "accessory",
+    "label_zh": "头上的围巾"
+  },
+  {
+    "tag": "scarf_over_mouth",
+    "category": "accessory",
+    "label_zh": "围巾在嘴上"
+  },
+  {
+    "tag": "scarf_pull",
+    "category": "accessory",
+    "label_zh": "扯围巾"
+  },
+  {
+    "tag": "scarf_removed",
+    "category": "accessory",
+    "label_zh": "围巾被取下"
+  },
+  {
+    "tag": "school_hat",
+    "category": "accessory",
+    "label_zh": "校帽"
+  },
+  {
+    "tag": "see-through_sleeves",
+    "category": "accessory",
+    "label_zh": "透明袖子"
+  },
+  {
+    "tag": "see-through_thighhighs",
+    "category": "accessory",
+    "label_zh": "透明的长筒袜"
+  },
+  {
+    "tag": "semi-rimless_eyewear",
+    "category": "accessory",
+    "label_zh": "半无框眼镜"
+  },
+  {
+    "tag": "short_sleeves",
+    "category": "accessory",
+    "label_zh": "短袖"
+  },
+  {
+    "tag": "side_cap",
+    "category": "accessory",
+    "label_zh": "侧边帽"
+  },
+  {
+    "tag": "side_cutout",
+    "category": "accessory",
+    "label_zh": "侧边开口的服饰"
+  },
+  {
+    "tag": "sideless_outfit",
+    "category": "accessory",
+    "label_zh": "侧面没有布料的服饰"
+  },
+  {
+    "tag": "sideways_hat",
+    "category": "accessory",
+    "label_zh": "帽舌划到侧面"
+  },
+  {
+    "tag": "single_detached_sleeve",
+    "category": "accessory",
+    "label_zh": "单边没脱掉的袖子"
+  },
+  {
+    "tag": "single_earring",
+    "category": "accessory",
+    "label_zh": "只一边戴着耳环"
+  },
+  {
+    "tag": "single_elbow_glove",
+    "category": "accessory",
+    "label_zh": "单手戴着过肘的手套"
+  },
+  {
+    "tag": "single_glove",
+    "category": "accessory",
+    "label_zh": "单只手套"
+  },
+  {
+    "tag": "single_hair_bun",
+    "category": "accessory",
+    "label_zh": "发髻(单)"
+  },
+  {
+    "tag": "single_head_wing",
+    "category": "accessory",
+    "label_zh": "单侧头上有翅膀"
+  },
+  {
+    "tag": "single_kneehigh",
+    "category": "accessory",
+    "label_zh": "单边穿着过膝服饰"
+  },
+  {
+    "tag": "single_sleeve",
+    "category": "accessory",
+    "label_zh": "单袖"
+  },
+  {
+    "tag": "single_vertical_stripe",
+    "category": "accessory",
+    "label_zh": "露出单边服饰上的垂直条纹"
+  },
+  {
+    "tag": "skull_and_crossbones",
+    "category": "accessory",
+    "label_zh": "头骨和交叉的骨头"
+  },
+  {
+    "tag": "skull_earrings",
+    "category": "accessory",
+    "label_zh": "骷髅耳环"
+  },
+  {
+    "tag": "skull_hair_ornament",
+    "category": "accessory",
+    "label_zh": "骷髅发饰"
+  },
+  {
+    "tag": "skull_mask",
+    "category": "accessory",
+    "label_zh": "骷髅面具"
+  },
+  {
+    "tag": "sleeve_rolled_up",
+    "category": "accessory",
+    "label_zh": "袖子卷起"
+  },
+  {
+    "tag": "sleeveless",
+    "category": "accessory",
+    "label_zh": "无袖"
+  },
+  {
+    "tag": "sleeves_folded_up",
+    "category": "accessory",
+    "label_zh": "叠起来的袖子"
+  },
+  {
+    "tag": "sleeves_past_elbows",
+    "category": "accessory",
+    "label_zh": "袖子过肘"
+  },
+  {
+    "tag": "sleeves_past_fingers",
+    "category": "accessory",
+    "label_zh": "袖子过指"
+  },
+  {
+    "tag": "sleeves_past_wrists",
+    "category": "accessory",
+    "label_zh": "袖子过腕"
+  },
+  {
+    "tag": "sleeves_pushed_up",
+    "category": "accessory",
+    "label_zh": "袖子上推"
+  },
+  {
+    "tag": "sleeves_rolled_up",
+    "category": "accessory",
+    "label_zh": "单只袖子卷起"
+  },
+  {
+    "tag": "snake_hair_ornament",
+    "category": "accessory",
+    "label_zh": "蛇形发饰"
+  },
+  {
+    "tag": "snowflake_hair_ornament",
+    "category": "accessory",
+    "label_zh": "雪花发饰"
+  },
+  {
+    "tag": "st._gloriana's_(emblem)",
+    "category": "accessory",
+    "label_zh": "圣葛罗莉安娜女学园校徽"
+  },
+  {
+    "tag": "star_earrings",
+    "category": "accessory",
+    "label_zh": "星形耳环"
+  },
+  {
+    "tag": "star_hair_ornament",
+    "category": "accessory",
+    "label_zh": "星星发饰"
+  },
+  {
+    "tag": "stitches",
+    "category": "accessory",
+    "label_zh": "缝饰"
+  },
+  {
+    "tag": "stone",
+    "category": "accessory",
+    "label_zh": "石头"
+  },
+  {
+    "tag": "straw_hat",
+    "category": "accessory",
+    "label_zh": "草帽"
+  },
+  {
+    "tag": "strawberry_hair_ornament",
+    "category": "accessory",
+    "label_zh": "草莓发饰"
+  },
+  {
+    "tag": "striped_gloves",
+    "category": "accessory",
+    "label_zh": "条纹手套"
+  },
+  {
+    "tag": "striped_scarf",
+    "category": "accessory",
+    "label_zh": "条纹围巾"
+  },
+  {
+    "tag": "striped_sleeves",
+    "category": "accessory",
+    "label_zh": "条纹袖子"
+  },
+  {
+    "tag": "stud_earrings",
+    "category": "accessory",
+    "label_zh": "耳钉"
+  },
+  {
+    "tag": "sun_hat",
+    "category": "accessory",
+    "label_zh": "太阳帽"
+  },
+  {
+    "tag": "sunburst",
+    "category": "accessory",
+    "label_zh": "旭日形首饰"
+  },
+  {
+    "tag": "sunflower_hair_ornament",
+    "category": "accessory",
+    "label_zh": "向日葵发饰"
+  },
+  {
+    "tag": "sunglasses",
+    "category": "accessory",
+    "label_zh": "太阳镜"
+  },
+  {
+    "tag": "surgical_mask",
+    "category": "accessory",
+    "label_zh": "医用口罩"
+  },
+  {
+    "tag": "tassel",
+    "category": "accessory",
+    "label_zh": "流苏"
+  },
+  {
+    "tag": "tengu_mask",
+    "category": "accessory",
+    "label_zh": "天狗面具"
+  },
+  {
+    "tag": "tiara",
+    "category": "accessory",
+    "label_zh": "头冠"
+  },
+  {
+    "tag": "tilted_headwear",
+    "category": "accessory",
+    "label_zh": "倾斜的头饰"
+  },
+  {
+    "tag": "tinted_eyewear",
+    "category": "accessory",
+    "label_zh": "有色眼镜"
+  },
+  {
+    "tag": "tokin_hat",
+    "category": "accessory",
+    "label_zh": "大礼帽"
+  },
+  {
+    "tag": "top_hat",
+    "category": "accessory",
+    "label_zh": "高顶礼帽"
+  },
+  {
+    "tag": "topknot",
+    "category": "accessory",
+    "label_zh": "纂"
+  },
+  {
+    "tag": "torn_gloves",
+    "category": "accessory",
+    "label_zh": "破损的手套"
+  },
+  {
+    "tag": "torn_hat",
+    "category": "accessory",
+    "label_zh": "撕裂的帽子"
+  },
+  {
+    "tag": "torn_sleeves",
+    "category": "accessory",
+    "label_zh": "撕裂的袖子"
+  },
+  {
+    "tag": "triangular_headpiece",
+    "category": "accessory",
+    "label_zh": "三角头饰"
+  },
+  {
+    "tag": "turban",
+    "category": "accessory",
+    "label_zh": "穆斯林头巾"
+  },
+  {
+    "tag": "turtleneck",
+    "category": "accessory",
+    "label_zh": "高领服饰"
+  },
+  {
+    "tag": "two-sided_fabric",
+    "category": "accessory",
+    "label_zh": "双层样式的服饰画法"
+  },
+  {
+    "tag": "under-rim_eyewear",
+    "category": "accessory",
+    "label_zh": "带框眼镜"
+  },
+  {
+    "tag": "uneven_sleeves",
+    "category": "accessory",
+    "label_zh": "不均匀的袖子"
+  },
+  {
+    "tag": "vambraces",
+    "category": "accessory",
+    "label_zh": "下臂护甲"
+  },
+  {
+    "tag": "vertical-striped_scarf",
+    "category": "accessory",
+    "label_zh": "竖条纹围巾"
+  },
+  {
+    "tag": "visor",
+    "category": "accessory",
+    "label_zh": "面罩"
+  },
+  {
+    "tag": "wedding_band",
+    "category": "accessory",
+    "label_zh": "婚戒"
+  },
+  {
+    "tag": "what_if",
+    "category": "accessory",
+    "label_zh": "另一条世界线"
+  },
+  {
+    "tag": "wide_sleeves",
+    "category": "accessory",
+    "label_zh": "宽袖"
+  },
+  {
+    "tag": "witch_hat",
+    "category": "accessory",
+    "label_zh": "魔女帽"
+  },
+  {
+    "tag": "wizard_hat",
+    "category": "accessory",
+    "label_zh": "巫师帽子"
+  },
+  {
+    "tag": "wrist_cuffs",
+    "category": "accessory",
+    "label_zh": "和袖子分开的手腕的袖口"
+  },
+  {
+    "tag": "wristband",
+    "category": "accessory",
+    "label_zh": "腕带"
+  },
+  {
+    "tag": "x_hair_ornament",
+    "category": "accessory",
+    "label_zh": "x_发饰"
+  },
+  {
+    "tag": "abstract_background",
+    "category": "background",
+    "label_zh": "抽象背景"
+  },
+  {
+    "tag": "air_conditioner",
+    "category": "background",
+    "label_zh": "空调"
+  },
+  {
+    "tag": "airport",
+    "category": "background",
+    "label_zh": "机场"
+  },
+  {
+    "tag": "alley",
+    "category": "background",
+    "label_zh": "小巷"
+  },
+  {
+    "tag": "alps",
+    "category": "background",
+    "label_zh": "阿尔卑斯山脉"
+  },
+  {
+    "tag": "amusement_park",
+    "category": "background",
+    "label_zh": "游乐园"
+  },
+  {
+    "tag": "aquarium",
+    "category": "background",
+    "label_zh": "水族馆"
+  },
+  {
+    "tag": "architecture",
+    "category": "background",
+    "label_zh": "建筑"
+  },
+  {
+    "tag": "arena",
+    "category": "background",
+    "label_zh": "竞技场"
+  },
+  {
+    "tag": "argyle_background",
+    "category": "background",
+    "label_zh": "菱形背景"
+  },
+  {
+    "tag": "armchair",
+    "category": "background",
+    "label_zh": "扶手椅"
+  },
+  {
+    "tag": "avenue",
+    "category": "background",
+    "label_zh": "大街"
+  },
+  {
+    "tag": "bakery",
+    "category": "background",
+    "label_zh": "面包店"
+  },
+  {
+    "tag": "bamboo_forest",
+    "category": "background",
+    "label_zh": "竹林"
+  },
+  {
+    "tag": "bar",
+    "category": "background",
+    "label_zh": "酒吧"
+  },
+  {
+    "tag": "bathroom",
+    "category": "background",
+    "label_zh": "浴室"
+  },
+  {
+    "tag": "beach",
+    "category": "background",
+    "label_zh": "海边"
+  },
+  {
+    "tag": "beach_chair",
+    "category": "background",
+    "label_zh": "沙滩椅"
+  },
+  {
+    "tag": "bed",
+    "category": "background",
+    "label_zh": "床"
+  },
+  {
+    "tag": "bed_sheet",
+    "category": "background",
+    "label_zh": "床单"
+  },
+  {
+    "tag": "bedroom",
+    "category": "background",
+    "label_zh": "卧室"
+  },
+  {
+    "tag": "beige_background",
+    "category": "background",
+    "label_zh": "米色背景"
+  },
+  {
+    "tag": "bench",
+    "category": "background",
+    "label_zh": "长凳"
+  },
+  {
+    "tag": "billiard",
+    "category": "background",
+    "label_zh": "台球桌"
+  },
+  {
+    "tag": "black_background",
+    "category": "background",
+    "label_zh": "黑色背景"
+  },
+  {
+    "tag": "blurry",
+    "category": "background",
+    "label_zh": "背景模糊"
+  },
+  {
+    "tag": "blurry_foreground",
+    "category": "background",
+    "label_zh": "前景模糊"
+  },
+  {
+    "tag": "border",
+    "category": "background",
+    "label_zh": "边框"
+  },
+  {
+    "tag": "bridge",
+    "category": "background",
+    "label_zh": "桥"
+  },
+  {
+    "tag": "brown_background",
+    "category": "background",
+    "label_zh": "棕色背景"
+  },
+  {
+    "tag": "bubble_background",
+    "category": "background",
+    "label_zh": "气泡背景"
+  },
+  {
+    "tag": "building",
+    "category": "background",
+    "label_zh": "建筑"
+  },
+  {
+    "tag": "building_ruins",
+    "category": "background",
+    "label_zh": "建筑废墟"
+  },
+  {
+    "tag": "bus_stop",
+    "category": "background",
+    "label_zh": "巴士车站"
+  },
+  {
+    "tag": "bustling_city",
+    "category": "background",
+    "label_zh": "繁华都市"
+  },
+  {
+    "tag": "cafe",
+    "category": "background",
+    "label_zh": "咖啡馆"
+  },
+  {
+    "tag": "cafeteria",
+    "category": "background",
+    "label_zh": "自助餐厅"
+  },
+  {
+    "tag": "canyon",
+    "category": "background",
+    "label_zh": "峡谷"
+  },
+  {
+    "tag": "carousel",
+    "category": "background",
+    "label_zh": "旋转木马"
+  },
+  {
+    "tag": "carpet",
+    "category": "background",
+    "label_zh": "地毯"
+  },
+  {
+    "tag": "casino",
+    "category": "background",
+    "label_zh": "赌场"
+  },
+  {
+    "tag": "castle",
+    "category": "background",
+    "label_zh": "城堡"
+  },
+  {
+    "tag": "cathedral",
+    "category": "background",
+    "label_zh": "大教堂"
+  },
+  {
+    "tag": "chair",
+    "category": "background",
+    "label_zh": "椅子"
+  },
+  {
+    "tag": "checkered_background",
+    "category": "background",
+    "label_zh": "方格背景"
+  },
+  {
+    "tag": "chinese_style_architecture",
+    "category": "background",
+    "label_zh": "古风建筑"
+  },
+  {
+    "tag": "chinese_style_loft",
+    "category": "background",
+    "label_zh": "中式阁楼"
+  },
+  {
+    "tag": "church",
+    "category": "background",
+    "label_zh": "教堂"
+  },
+  {
+    "tag": "city",
+    "category": "background",
+    "label_zh": "城市"
+  },
+  {
+    "tag": "city_lights",
+    "category": "background",
+    "label_zh": "城市灯光背景"
+  },
+  {
+    "tag": "cityscape",
+    "category": "background",
+    "label_zh": "城市背景"
+  },
+  {
+    "tag": "classroom",
+    "category": "background",
+    "label_zh": "教室"
+  },
+  {
+    "tag": "cliff",
+    "category": "background",
+    "label_zh": "悬崖"
+  },
+  {
+    "tag": "clock_background",
+    "category": "background",
+    "label_zh": "时钟背景"
+  },
+  {
+    "tag": "clothes_rack",
+    "category": "background",
+    "label_zh": "衣架"
+  },
+  {
+    "tag": "cloudy",
+    "category": "background",
+    "label_zh": "多云"
+  },
+  {
+    "tag": "clubroom",
+    "category": "background",
+    "label_zh": "俱乐部"
+  },
+  {
+    "tag": "coffee_house",
+    "category": "background",
+    "label_zh": "咖啡馆"
+  },
+  {
+    "tag": "concert",
+    "category": "background",
+    "label_zh": "音乐会"
+  },
+  {
+    "tag": "convenience_store",
+    "category": "background",
+    "label_zh": "便利店"
+  },
+  {
+    "tag": "couch",
+    "category": "background",
+    "label_zh": "沙发"
+  },
+  {
+    "tag": "courtroom",
+    "category": "background",
+    "label_zh": "法庭"
+  },
+  {
+    "tag": "crescent",
+    "category": "background",
+    "label_zh": "月牙"
+  },
+  {
+    "tag": "crescent_moon",
+    "category": "background",
+    "label_zh": "新月"
+  },
+  {
+    "tag": "crowd",
+    "category": "background",
+    "label_zh": "人群"
+  },
+  {
+    "tag": "curtains",
+    "category": "background",
+    "label_zh": "窗帘"
+  },
+  {
+    "tag": "cyberpunk",
+    "category": "background",
+    "label_zh": "赛博朋克"
+  },
+  {
+    "tag": "cyberpunk_city",
+    "category": "background",
+    "label_zh": "赛博朋克城市"
+  },
+  {
+    "tag": "day",
+    "category": "background",
+    "label_zh": "白天"
+  },
+  {
+    "tag": "depth_of_field",
+    "category": "background",
+    "label_zh": "景深(画法)"
+  },
+  {
+    "tag": "disney_land",
+    "category": "background",
+    "label_zh": "迪士尼乐园"
+  },
+  {
+    "tag": "door",
+    "category": "background",
+    "label_zh": "门"
+  },
+  {
+    "tag": "dormitory",
+    "category": "background",
+    "label_zh": "宿舍"
+  },
+  {
+    "tag": "downtown",
+    "category": "background",
+    "label_zh": "市中心"
+  },
+  {
+    "tag": "dreamy_forest",
+    "category": "background",
+    "label_zh": "梦幻之森(虚幻感.光粒子幽静)"
+  },
+  {
+    "tag": "dripping",
+    "category": "background",
+    "label_zh": "滴水"
+  },
+  {
+    "tag": "dumpling_hug_pillow",
+    "category": "background",
+    "label_zh": "团子抱枕"
+  },
+  {
+    "tag": "dungeon",
+    "category": "background",
+    "label_zh": "地牢"
+  },
+  {
+    "tag": "dusk",
+    "category": "background",
+    "label_zh": "黄昏"
+  },
+  {
+    "tag": "east_asian_architecture",
+    "category": "background",
+    "label_zh": "东亚建物"
+  },
+  {
+    "tag": "electrical_room",
+    "category": "background",
+    "label_zh": "配电房"
+  },
+  {
+    "tag": "engine_room",
+    "category": "background",
+    "label_zh": "轮机舱"
+  },
+  {
+    "tag": "fantasy",
+    "category": "background",
+    "label_zh": "幻想风格"
+  },
+  {
+    "tag": "fence",
+    "category": "background",
+    "label_zh": "栅栏"
+  },
+  {
+    "tag": "ferris_wheel",
+    "category": "background",
+    "label_zh": "摩天轮"
+  },
+  {
+    "tag": "field",
+    "category": "background",
+    "label_zh": "田园"
+  },
+  {
+    "tag": "fireplace",
+    "category": "background",
+    "label_zh": "壁炉"
+  },
+  {
+    "tag": "flashback",
+    "category": "background",
+    "label_zh": "回忆场景"
+  },
+  {
+    "tag": "floating_island",
+    "category": "background",
+    "label_zh": "浮岛"
+  },
+  {
+    "tag": "floral_background",
+    "category": "background",
+    "label_zh": "花朵点缀的背景"
+  },
+  {
+    "tag": "flower_field",
+    "category": "background",
+    "label_zh": "花田"
+  },
+  {
+    "tag": "flower_sea",
+    "category": "background",
+    "label_zh": "花海"
+  },
+  {
+    "tag": "flowers_meadows",
+    "category": "background",
+    "label_zh": "繁花草甸"
+  },
+  {
+    "tag": "folding_chair",
+    "category": "background",
+    "label_zh": "折叠椅"
+  },
+  {
+    "tag": "fountain",
+    "category": "background",
+    "label_zh": "喷泉"
+  },
+  {
+    "tag": "from_space_station",
+    "category": "background",
+    "label_zh": "空间站"
+  },
+  {
+    "tag": "full_moon",
+    "category": "background",
+    "label_zh": "满月"
+  },
+  {
+    "tag": "futon",
+    "category": "background",
+    "label_zh": "日本床垫"
+  },
+  {
+    "tag": "glacier",
+    "category": "background",
+    "label_zh": "冰川"
+  },
+  {
+    "tag": "gothic_architecture",
+    "category": "background",
+    "label_zh": "哥特式建筑"
+  },
+  {
+    "tag": "gradient_background",
+    "category": "background",
+    "label_zh": "渐变的背景"
+  },
+  {
+    "tag": "gradient_sky",
+    "category": "background",
+    "label_zh": "倾斜的天空"
+  },
+  {
+    "tag": "grave",
+    "category": "background",
+    "label_zh": "坟墓"
+  },
+  {
+    "tag": "graveyard",
+    "category": "background",
+    "label_zh": "墓地"
+  },
+  {
+    "tag": "greenhouse",
+    "category": "background",
+    "label_zh": "温室"
+  },
+  {
+    "tag": "grey_background",
+    "category": "background",
+    "label_zh": "灰色背景"
+  },
+  {
+    "tag": "grove",
+    "category": "background",
+    "label_zh": "树林"
+  },
+  {
+    "tag": "gym",
+    "category": "background",
+    "label_zh": "健身房"
+  },
+  {
+    "tag": "halftone_background",
+    "category": "background",
+    "label_zh": "网点图背景"
+  },
+  {
+    "tag": "handrail",
+    "category": "background",
+    "label_zh": "栏杆"
+  },
+  {
+    "tag": "harbor",
+    "category": "background",
+    "label_zh": "港口"
+  },
+  {
+    "tag": "heart_background",
+    "category": "background",
+    "label_zh": "桃色背景"
+  },
+  {
+    "tag": "hills",
+    "category": "background",
+    "label_zh": "山丘"
+  },
+  {
+    "tag": "honeycomb_background",
+    "category": "background",
+    "label_zh": "蜂窝风格背景"
+  },
+  {
+    "tag": "hyper_galaxy",
+    "category": "background",
+    "label_zh": "超级银河"
+  },
+  {
+    "tag": "indoor",
+    "category": "background",
+    "label_zh": "室内"
+  },
+  {
+    "tag": "infirmary",
+    "category": "background",
+    "label_zh": "医务室"
+  },
+  {
+    "tag": "izakaya",
+    "category": "background",
+    "label_zh": "居酒屋"
+  },
+  {
+    "tag": "japanese_hotel",
+    "category": "background",
+    "label_zh": "日本旅馆"
+  },
+  {
+    "tag": "kitchen",
+    "category": "background",
+    "label_zh": "厨房"
+  },
+  {
+    "tag": "kotatsu",
+    "category": "background",
+    "label_zh": "被炉"
+  },
+  {
+    "tag": "laboratory",
+    "category": "background",
+    "label_zh": "实验室"
+  },
+  {
+    "tag": "lake",
+    "category": "background",
+    "label_zh": "湖泊"
+  },
+  {
+    "tag": "lamppost",
+    "category": "background",
+    "label_zh": "路灯"
+  },
+  {
+    "tag": "landscape",
+    "category": "background",
+    "label_zh": "景观"
+  },
+  {
+    "tag": "library",
+    "category": "background",
+    "label_zh": "图书馆"
+  },
+  {
+    "tag": "lounge_chair",
+    "category": "background",
+    "label_zh": "躺椅"
+  },
+  {
+    "tag": "market_stall",
+    "category": "background",
+    "label_zh": "市场摊位"
+  },
+  {
+    "tag": "mattress",
+    "category": "background",
+    "label_zh": "床垫；褥子"
+  },
+  {
+    "tag": "meteor_shower",
+    "category": "background",
+    "label_zh": "流星雨"
+  },
+  {
+    "tag": "monolith",
+    "category": "background",
+    "label_zh": "巨大的石头物体"
+  },
+  {
+    "tag": "moon",
+    "category": "background",
+    "label_zh": "月亮"
+  },
+  {
+    "tag": "moonlight",
+    "category": "background",
+    "label_zh": "月光"
+  },
+  {
+    "tag": "mountain",
+    "category": "background",
+    "label_zh": "山脉"
+  },
+  {
+    "tag": "movie_theater",
+    "category": "background",
+    "label_zh": "电影院"
+  },
+  {
+    "tag": "multicolored_background",
+    "category": "background",
+    "label_zh": "多彩的背景"
+  },
+  {
+    "tag": "museum",
+    "category": "background",
+    "label_zh": "博物馆"
+  },
+  {
+    "tag": "nature",
+    "category": "background",
+    "label_zh": "大自然"
+  },
+  {
+    "tag": "neon_lights",
+    "category": "background",
+    "label_zh": "霓虹灯"
+  },
+  {
+    "tag": "night",
+    "category": "background",
+    "label_zh": "夜晚"
+  },
+  {
+    "tag": "night_sky",
+    "category": "background",
+    "label_zh": "夜空"
+  },
+  {
+    "tag": "ocean",
+    "category": "background",
+    "label_zh": "海洋"
+  },
+  {
+    "tag": "office_chair",
+    "category": "background",
+    "label_zh": "办公椅"
+  },
+  {
+    "tag": "onsen",
+    "category": "background",
+    "label_zh": "温泉"
+  },
+  {
+    "tag": "otaku_room",
+    "category": "background",
+    "label_zh": "宅男房间"
+  },
+  {
+    "tag": "outdoors",
+    "category": "background",
+    "label_zh": "室外"
+  },
+  {
+    "tag": "park",
+    "category": "background",
+    "label_zh": "公园"
+  },
+  {
+    "tag": "path",
+    "category": "background",
+    "label_zh": "路径"
+  },
+  {
+    "tag": "pavement",
+    "category": "background",
+    "label_zh": "路面"
+  },
+  {
+    "tag": "phone_booth",
+    "category": "background",
+    "label_zh": "电话亭"
+  },
+  {
+    "tag": "pillarboxed",
+    "category": "background",
+    "label_zh": "柱状画布背景"
+  },
+  {
+    "tag": "pillow_hug",
+    "category": "background",
+    "label_zh": "抱枕"
+  },
+  {
+    "tag": "plaid_background",
+    "category": "background",
+    "label_zh": "格子呢背景"
+  },
+  {
+    "tag": "planet",
+    "category": "background",
+    "label_zh": "星球"
+  },
+  {
+    "tag": "playground",
+    "category": "background",
+    "label_zh": "游乐场"
+  },
+  {
+    "tag": "polka_dot",
+    "category": "background",
+    "label_zh": "圆斑背景"
+  },
+  {
+    "tag": "power_lines",
+    "category": "background",
+    "label_zh": "电线杆和电线"
+  },
+  {
+    "tag": "prison",
+    "category": "background",
+    "label_zh": "监狱"
+  },
+  {
+    "tag": "railroad",
+    "category": "background",
+    "label_zh": "铁路"
+  },
+  {
+    "tag": "railroad_tracks",
+    "category": "background",
+    "label_zh": "铁轨"
+  },
+  {
+    "tag": "railway",
+    "category": "background",
+    "label_zh": "铁路"
+  },
+  {
+    "tag": "rain",
+    "category": "background",
+    "label_zh": "下雨"
+  },
+  {
+    "tag": "rainbow",
+    "category": "background",
+    "label_zh": "彩虹"
+  },
+  {
+    "tag": "rainbow_background",
+    "category": "background",
+    "label_zh": "彩虹背景"
+  },
+  {
+    "tag": "rainy_days",
+    "category": "background",
+    "label_zh": "雨天"
+  },
+  {
+    "tag": "remains",
+    "category": "background",
+    "label_zh": "废墟"
+  },
+  {
+    "tag": "reservoir",
+    "category": "background",
+    "label_zh": "水库"
+  },
+  {
+    "tag": "restaurant",
+    "category": "background",
+    "label_zh": "饭店"
+  },
+  {
+    "tag": "rice_paddy",
+    "category": "background",
+    "label_zh": "稻田"
+  },
+  {
+    "tag": "ripples",
+    "category": "background",
+    "label_zh": "涟漪"
+  },
+  {
+    "tag": "river",
+    "category": "background",
+    "label_zh": "河流"
+  },
+  {
+    "tag": "road",
+    "category": "background",
+    "label_zh": "道路"
+  },
+  {
+    "tag": "road_sign",
+    "category": "background",
+    "label_zh": "路标"
+  },
+  {
+    "tag": "rounded_corners",
+    "category": "background",
+    "label_zh": "背景或画框是圆角"
+  },
+  {
+    "tag": "rubber_duck",
+    "category": "background",
+    "label_zh": "橡皮鸭"
+  },
+  {
+    "tag": "rubble_ruins",
+    "category": "background",
+    "label_zh": "废墟"
+  },
+  {
+    "tag": "ruins",
+    "category": "background",
+    "label_zh": "废墟"
+  },
+  {
+    "tag": "satellite",
+    "category": "background",
+    "label_zh": "卫星"
+  },
+  {
+    "tag": "savanna",
+    "category": "background",
+    "label_zh": "大草原"
+  },
+  {
+    "tag": "scarlet_moon",
+    "category": "background",
+    "label_zh": "猩红月亮"
+  },
+  {
+    "tag": "scenery",
+    "category": "background",
+    "label_zh": "风景"
+  },
+  {
+    "tag": "school_desk",
+    "category": "background",
+    "label_zh": "课桌"
+  },
+  {
+    "tag": "sea",
+    "category": "background",
+    "label_zh": "大海"
+  },
+  {
+    "tag": "seashell",
+    "category": "background",
+    "label_zh": "海贝"
+  },
+  {
+    "tag": "seaweed",
+    "category": "background",
+    "label_zh": "海藻"
+  },
+  {
+    "tag": "shop",
+    "category": "background",
+    "label_zh": "商店"
+  },
+  {
+    "tag": "shower_head",
+    "category": "background",
+    "label_zh": "淋浴喷头"
+  },
+  {
+    "tag": "simple_background",
+    "category": "background",
+    "label_zh": "简单的背景"
+  },
+  {
+    "tag": "sky",
+    "category": "background",
+    "label_zh": "天空"
+  },
+  {
+    "tag": "skyscraper",
+    "category": "background",
+    "label_zh": "摩天楼"
+  },
+  {
+    "tag": "sliding_doors",
+    "category": "background",
+    "label_zh": "推拉门"
+  },
+  {
+    "tag": "snowflakes",
+    "category": "background",
+    "label_zh": "雪花"
+  },
+  {
+    "tag": "soap",
+    "category": "background",
+    "label_zh": "肥皂"
+  },
+  {
+    "tag": "space",
+    "category": "background",
+    "label_zh": "太空"
+  },
+  {
+    "tag": "sparkle_background",
+    "category": "background",
+    "label_zh": "闪着星光的背景"
+  },
+  {
+    "tag": "squat_toilet",
+    "category": "background",
+    "label_zh": "蹲便器"
+  },
+  {
+    "tag": "stadium",
+    "category": "background",
+    "label_zh": "体育场"
+  },
+  {
+    "tag": "stage",
+    "category": "background",
+    "label_zh": "舞台"
+  },
+  {
+    "tag": "stairs",
+    "category": "background",
+    "label_zh": "楼梯"
+  },
+  {
+    "tag": "star_(sky)",
+    "category": "background",
+    "label_zh": "星星(天空中的)"
+  },
+  {
+    "tag": "star_trail",
+    "category": "background",
+    "label_zh": "星星轨迹"
+  },
+  {
+    "tag": "starry_background",
+    "category": "background",
+    "label_zh": "星空背景"
+  },
+  {
+    "tag": "starry_sky",
+    "category": "background",
+    "label_zh": "星空"
+  },
+  {
+    "tag": "stars",
+    "category": "background",
+    "label_zh": "星星"
+  },
+  {
+    "tag": "stream",
+    "category": "background",
+    "label_zh": "溪流"
+  },
+  {
+    "tag": "street",
+    "category": "background",
+    "label_zh": "街道"
+  },
+  {
+    "tag": "street_lamp",
+    "category": "background",
+    "label_zh": "路灯"
+  },
+  {
+    "tag": "stuffed_animal",
+    "category": "background",
+    "label_zh": "毛绒玩偶"
+  },
+  {
+    "tag": "stuffed_bunny",
+    "category": "background",
+    "label_zh": "毛绒兔子"
+  },
+  {
+    "tag": "sun",
+    "category": "background",
+    "label_zh": "太阳"
+  },
+  {
+    "tag": "sunset",
+    "category": "background",
+    "label_zh": "日落"
+  },
+  {
+    "tag": "supermarket",
+    "category": "background",
+    "label_zh": "超市"
+  },
+  {
+    "tag": "swimming_pool",
+    "category": "background",
+    "label_zh": "游泳池"
+  },
+  {
+    "tag": "swirl",
+    "category": "background",
+    "label_zh": "漩涡"
+  },
+  {
+    "tag": "table",
+    "category": "background",
+    "label_zh": "桌子"
+  },
+  {
+    "tag": "tan_background",
+    "category": "background",
+    "label_zh": "棕褐色背景"
+  },
+  {
+    "tag": "tatami",
+    "category": "background",
+    "label_zh": "榻榻米"
+  },
+  {
+    "tag": "temple",
+    "category": "background",
+    "label_zh": "寺庙"
+  },
+  {
+    "tag": "theater",
+    "category": "background",
+    "label_zh": "剧院"
+  },
+  {
+    "tag": "tiles",
+    "category": "background",
+    "label_zh": "瓷砖"
+  },
+  {
+    "tag": "toilet",
+    "category": "background",
+    "label_zh": "马桶"
+  },
+  {
+    "tag": "toilet_stall",
+    "category": "background",
+    "label_zh": "厕所隔间"
+  },
+  {
+    "tag": "tombstone",
+    "category": "background",
+    "label_zh": "墓碑"
+  },
+  {
+    "tag": "torii",
+    "category": "background",
+    "label_zh": "鸟居"
+  },
+  {
+    "tag": "tower",
+    "category": "background",
+    "label_zh": "塔"
+  },
+  {
+    "tag": "traditional_chinese_room",
+    "category": "background",
+    "label_zh": "传统中式客房"
+  },
+  {
+    "tag": "traffic_cone",
+    "category": "background",
+    "label_zh": "路障"
+  },
+  {
+    "tag": "train_station",
+    "category": "background",
+    "label_zh": "火车站"
+  },
+  {
+    "tag": "transparent_background",
+    "category": "background",
+    "label_zh": "透明背景"
+  },
+  {
+    "tag": "treehouse",
+    "category": "background",
+    "label_zh": "树屋"
+  },
+  {
+    "tag": "tunnel",
+    "category": "background",
+    "label_zh": "隧道"
+  },
+  {
+    "tag": "turret",
+    "category": "background",
+    "label_zh": "塔楼"
+  },
+  {
+    "tag": "two-tone_background",
+    "category": "background",
+    "label_zh": "双色调背景"
+  },
+  {
+    "tag": "underwater",
+    "category": "background",
+    "label_zh": "水中"
+  },
+  {
+    "tag": "vending_machine",
+    "category": "background",
+    "label_zh": "自动贩卖机"
+  },
+  {
+    "tag": "viewfinder",
+    "category": "background",
+    "label_zh": "相机取景框"
+  },
+  {
+    "tag": "volcano",
+    "category": "background",
+    "label_zh": "火山"
+  },
+  {
+    "tag": "warehouse",
+    "category": "background",
+    "label_zh": "仓库"
+  },
+  {
+    "tag": "waterfall",
+    "category": "background",
+    "label_zh": "瀑布"
+  },
+  {
+    "tag": "waterpark",
+    "category": "background",
+    "label_zh": "水上乐园"
+  },
+  {
+    "tag": "waves",
+    "category": "background",
+    "label_zh": "波浪"
+  },
+  {
+    "tag": "wheat_field",
+    "category": "background",
+    "label_zh": "麦田"
+  },
+  {
+    "tag": "wheelchair",
+    "category": "background",
+    "label_zh": "轮椅"
+  },
+  {
+    "tag": "white_background",
+    "category": "background",
+    "label_zh": "白色背景"
+  },
+  {
+    "tag": "windowboxed",
+    "category": "background",
+    "label_zh": "套着画框(背景)"
+  },
+  {
+    "tag": "wrestling_ring",
+    "category": "background",
+    "label_zh": "摔角场"
+  },
+  {
+    "tag": "yes-no_pillow",
+    "category": "background",
+    "label_zh": "Yes/No枕头"
+  },
+  {
+    "tag": "zoo",
+    "category": "background",
+    "label_zh": "动物园"
+  },
+  {
+    "tag": "armpits",
+    "category": "body",
+    "label_zh": "腋下"
+  },
+  {
+    "tag": "bare_shoulders",
+    "category": "body",
+    "label_zh": "赤肩"
+  },
+  {
+    "tag": "belly",
+    "category": "body",
+    "label_zh": "肚子"
+  },
+  {
+    "tag": "chest",
+    "category": "body",
+    "label_zh": "胸部"
+  },
+  {
+    "tag": "collarbonea",
+    "category": "body",
+    "label_zh": "锁骨"
+  },
+  {
+    "tag": "curvy",
+    "category": "body",
+    "label_zh": "魔鬼身材"
+  },
+  {
+    "tag": "fat",
+    "category": "body",
+    "label_zh": "肥胖"
+  },
+  {
+    "tag": "flat_chest",
+    "category": "body",
+    "label_zh": "贫乳(A_)"
+  },
+  {
+    "tag": "medium_breasts",
+    "category": "body",
+    "label_zh": "中等胸部(C)"
+  },
+  {
+    "tag": "midriff",
+    "category": "body",
+    "label_zh": "腹部"
+  },
+  {
+    "tag": "muscular",
+    "category": "body",
+    "label_zh": "肌肉"
+  },
+  {
+    "tag": "narrow_waist",
+    "category": "body",
+    "label_zh": "细腰"
+  },
+  {
+    "tag": "navel",
+    "category": "body",
+    "label_zh": "肚脐"
+  },
+  {
+    "tag": "petite",
+    "category": "body",
+    "label_zh": "娇小"
+  },
+  {
+    "tag": "plump",
+    "category": "body",
+    "label_zh": "丰满"
+  },
+  {
+    "tag": "skinny",
+    "category": "body",
+    "label_zh": "骨感"
+  },
+  {
+    "tag": "slender",
+    "category": "body",
+    "label_zh": "苗条"
+  },
+  {
+    "tag": "slender_waist",
+    "category": "body",
+    "label_zh": "纤细的腰"
+  },
+  {
+    "tag": "small_breasts",
+    "category": "body",
+    "label_zh": "小胸部(B)"
+  },
+  {
+    "tag": "tall",
+    "category": "body",
+    "label_zh": "高大"
+  },
+  {
+    "tag": "thin",
+    "category": "body",
+    "label_zh": "瘦"
+  },
+  {
+    "tag": "bust",
+    "category": "camera",
+    "label_zh": "半身像"
+  },
+  {
+    "tag": "close-up",
+    "category": "camera",
+    "label_zh": "特写镜头"
+  },
+  {
+    "tag": "cowboy_shot",
+    "category": "camera",
+    "label_zh": "上半身+上半大腿(牛仔镜头)"
+  },
+  {
+    "tag": "eyes_focus",
+    "category": "camera",
+    "label_zh": "聚焦在眼睛"
+  },
+  {
+    "tag": "face_focus",
+    "category": "camera",
+    "label_zh": "聚焦在面部"
+  },
+  {
+    "tag": "foot_focus",
+    "category": "camera",
+    "label_zh": "聚焦在脚上"
+  },
+  {
+    "tag": "full_shot",
+    "category": "camera",
+    "label_zh": "全身像"
+  },
+  {
+    "tag": "hip_focus",
+    "category": "camera",
+    "label_zh": "聚焦在臀部"
+  },
+  {
+    "tag": "lower_body",
+    "category": "camera",
+    "label_zh": "下半身"
+  },
+  {
+    "tag": "medium_shot",
+    "category": "camera",
+    "label_zh": "中景镜头"
+  },
+  {
+    "tag": "portrait",
+    "category": "camera",
+    "label_zh": "肖像画(脸+肩+偶尔再加胸)"
+  },
+  {
+    "tag": "profile",
+    "category": "camera",
+    "label_zh": "侧面肖像画(portrait的侧脸版)"
+  },
+  {
+    "tag": "solo_focus",
+    "category": "camera",
+    "label_zh": "聚焦在单个人物(适合复杂场景)"
+  },
+  {
+    "tag": "upper_body",
+    "category": "camera",
+    "label_zh": "上半身"
+  },
+  {
+    "tag": "wide_shot",
+    "category": "camera",
+    "label_zh": "全景镜头(广角镜头)"
+  },
+  {
+    "tag": "1boy",
+    "category": "character",
+    "label_zh": "1男孩"
+  },
+  {
+    "tag": "1girl",
+    "category": "character",
+    "label_zh": "1女孩"
+  },
+  {
+    "tag": "2boys",
+    "category": "character",
+    "label_zh": "2男孩"
+  },
+  {
+    "tag": "2girls",
+    "category": "character",
+    "label_zh": "2女孩"
+  },
+  {
+    "tag": "3boys",
+    "category": "character",
+    "label_zh": "3男孩"
+  },
+  {
+    "tag": "3girls",
+    "category": "character",
+    "label_zh": "3女孩"
+  },
+  {
+    "tag": "acrobat",
+    "category": "character",
+    "label_zh": "杂技演员"
+  },
+  {
+    "tag": "adorable_girl",
+    "category": "character",
+    "label_zh": "可爱的女孩"
+  },
+  {
+    "tag": "adult",
+    "category": "character",
+    "label_zh": "大人"
+  },
+  {
+    "tag": "agent",
+    "category": "character",
+    "label_zh": "特工"
+  },
+  {
+    "tag": "albino",
+    "category": "character",
+    "label_zh": "白化病患者"
+  },
+  {
+    "tag": "astronaut",
+    "category": "character",
+    "label_zh": "宇航员"
+  },
+  {
+    "tag": "athletes",
+    "category": "character",
+    "label_zh": "运动员"
+  },
+  {
+    "tag": "ballerina",
+    "category": "character",
+    "label_zh": "芭蕾舞演员"
+  },
+  {
+    "tag": "barista",
+    "category": "character",
+    "label_zh": "咖啡师"
+  },
+  {
+    "tag": "bishoujo",
+    "category": "character",
+    "label_zh": "美少女"
+  },
+  {
+    "tag": "black_skin",
+    "category": "character",
+    "label_zh": "黑皮肤"
+  },
+  {
+    "tag": "boy",
+    "category": "character",
+    "label_zh": "男孩"
+  },
+  {
+    "tag": "brown_skin",
+    "category": "character",
+    "label_zh": "棕色皮肤"
+  },
+  {
+    "tag": "cashier",
+    "category": "character",
+    "label_zh": "收银员"
+  },
+  {
+    "tag": "cheerleader",
+    "category": "character",
+    "label_zh": "啦啦队"
+  },
+  {
+    "tag": "chef",
+    "category": "character",
+    "label_zh": "厨师"
+  },
+  {
+    "tag": "child",
+    "category": "character",
+    "label_zh": "儿童"
+  },
+  {
+    "tag": "crossdressing",
+    "category": "character",
+    "label_zh": "伪娘"
+  },
+  {
+    "tag": "dancer",
+    "category": "character",
+    "label_zh": "舞者"
+  },
+  {
+    "tag": "dancing_girl",
+    "category": "character",
+    "label_zh": "舞女"
+  },
+  {
+    "tag": "dark_skin",
+    "category": "character",
+    "label_zh": "黑皮肤"
+  },
+  {
+    "tag": "deep_skin",
+    "category": "character",
+    "label_zh": "深色皮肤"
+  },
+  {
+    "tag": "detective",
+    "category": "character",
+    "label_zh": "侦探"
+  },
+  {
+    "tag": "diver",
+    "category": "character",
+    "label_zh": "潜水员"
+  },
+  {
+    "tag": "doctor",
+    "category": "character",
+    "label_zh": "医生"
+  },
+  {
+    "tag": "doll",
+    "category": "character",
+    "label_zh": "人偶"
+  },
+  {
+    "tag": "early_teen",
+    "category": "character",
+    "label_zh": "青少年早期（11-15）"
+  },
+  {
+    "tag": "elder",
+    "category": "character",
+    "label_zh": "老人"
+  },
+  {
+    "tag": "fair_skin",
+    "category": "character",
+    "label_zh": "白皙的皮肤"
+  },
+  {
+    "tag": "female",
+    "category": "character",
+    "label_zh": "女性"
+  },
+  {
+    "tag": "firefighter",
+    "category": "character",
+    "label_zh": "消防员"
+  },
+  {
+    "tag": "girl",
+    "category": "character",
+    "label_zh": "女孩"
+  },
+  {
+    "tag": "goalkeeper",
+    "category": "character",
+    "label_zh": "守门员"
+  },
+  {
+    "tag": "gyaru",
+    "category": "character",
+    "label_zh": "辣妹"
+  },
+  {
+    "tag": "gym_leader",
+    "category": "character",
+    "label_zh": "体操教练"
+  },
+  {
+    "tag": "housemaid",
+    "category": "character",
+    "label_zh": "女仆"
+  },
+  {
+    "tag": "idol",
+    "category": "character",
+    "label_zh": "偶像"
+  },
+  {
+    "tag": "kawaii",
+    "category": "character",
+    "label_zh": "可爱"
+  },
+  {
+    "tag": "kindergartener",
+    "category": "character",
+    "label_zh": "幼儿园"
+  },
+  {
+    "tag": "knight",
+    "category": "character",
+    "label_zh": "骑士"
+  },
+  {
+    "tag": "lifeguard",
+    "category": "character",
+    "label_zh": "救生员"
+  },
+  {
+    "tag": "little_boy",
+    "category": "character",
+    "label_zh": "小男孩"
+  },
+  {
+    "tag": "little_girl",
+    "category": "character",
+    "label_zh": "小女孩"
+  },
+  {
+    "tag": "loli",
+    "category": "character",
+    "label_zh": "萝莉"
+  },
+  {
+    "tag": "magician",
+    "category": "character",
+    "label_zh": "魔术师"
+  },
+  {
+    "tag": "maid",
+    "category": "character",
+    "label_zh": "女仆"
+  },
+  {
+    "tag": "mailman",
+    "category": "character",
+    "label_zh": "邮递员"
+  },
+  {
+    "tag": "male",
+    "category": "character",
+    "label_zh": "男性"
+  },
+  {
+    "tag": "mature",
+    "category": "character",
+    "label_zh": "成熟"
+  },
+  {
+    "tag": "mature_female",
+    "category": "character",
+    "label_zh": "成熟女性"
+  },
+  {
+    "tag": "monk",
+    "category": "character",
+    "label_zh": "和尚"
+  },
+  {
+    "tag": "motorcyclist",
+    "category": "character",
+    "label_zh": "摩托车手"
+  },
+  {
+    "tag": "multiple_girls",
+    "category": "character",
+    "label_zh": "多个女孩"
+  },
+  {
+    "tag": "nun",
+    "category": "character",
+    "label_zh": "修女"
+  },
+  {
+    "tag": "nurse",
+    "category": "character",
+    "label_zh": "护士"
+  },
+  {
+    "tag": "office_lady",
+    "category": "character",
+    "label_zh": "职场女性"
+  },
+  {
+    "tag": "ojousama",
+    "category": "character",
+    "label_zh": "大小姐"
+  },
+  {
+    "tag": "old",
+    "category": "character",
+    "label_zh": "老年"
+  },
+  {
+    "tag": "otoko_no_ko",
+    "category": "character",
+    "label_zh": "伪娘"
+  },
+  {
+    "tag": "pale_skin",
+    "category": "character",
+    "label_zh": "苍白的皮肤"
+  },
+  {
+    "tag": "pilot",
+    "category": "character",
+    "label_zh": "飞行员"
+  },
+  {
+    "tag": "poet",
+    "category": "character",
+    "label_zh": "诗人"
+  },
+  {
+    "tag": "police",
+    "category": "character",
+    "label_zh": "警察"
+  },
+  {
+    "tag": "priest",
+    "category": "character",
+    "label_zh": "牧师"
+  },
+  {
+    "tag": "princess",
+    "category": "character",
+    "label_zh": "公主"
+  },
+  {
+    "tag": "queen",
+    "category": "character",
+    "label_zh": "女王"
+  },
+  {
+    "tag": "race_queen",
+    "category": "character",
+    "label_zh": "赛车女郎"
+  },
+  {
+    "tag": "racer",
+    "category": "character",
+    "label_zh": "赛车手"
+  },
+  {
+    "tag": "samurai",
+    "category": "character",
+    "label_zh": "日本武士"
+  },
+  {
+    "tag": "scientist",
+    "category": "character",
+    "label_zh": "科学家"
+  },
+  {
+    "tag": "shiny_skin",
+    "category": "character",
+    "label_zh": "有光泽的皮肤"
+  },
+  {
+    "tag": "shota",
+    "category": "character",
+    "label_zh": "正太"
+  },
+  {
+    "tag": "sisters",
+    "category": "character",
+    "label_zh": "姐妹"
+  },
+  {
+    "tag": "soldier",
+    "category": "character",
+    "label_zh": "士兵"
+  },
+  {
+    "tag": "solo",
+    "category": "character",
+    "label_zh": "单人"
+  },
+  {
+    "tag": "stewardess",
+    "category": "character",
+    "label_zh": "空姐"
+  },
+  {
+    "tag": "student",
+    "category": "character",
+    "label_zh": "学生"
+  },
+  {
+    "tag": "tan",
+    "category": "character",
+    "label_zh": "日晒"
+  },
+  {
+    "tag": "tanlines",
+    "category": "character",
+    "label_zh": "日晒痕迹"
+  },
+  {
+    "tag": "tattoo",
+    "category": "character",
+    "label_zh": "纹身"
+  },
+  {
+    "tag": "teacher",
+    "category": "character",
+    "label_zh": "老师"
+  },
+  {
+    "tag": "teen",
+    "category": "character",
+    "label_zh": "青少年(13-19)"
+  },
+  {
+    "tag": "teenager",
+    "category": "character",
+    "label_zh": "青少年(13-19)"
+  },
+  {
+    "tag": "toddler",
+    "category": "character",
+    "label_zh": "幼童"
+  },
+  {
+    "tag": "trap",
+    "category": "character",
+    "label_zh": "伪娘"
+  },
+  {
+    "tag": "underage",
+    "category": "character",
+    "label_zh": "未成年"
+  },
+  {
+    "tag": "wa_maid",
+    "category": "character",
+    "label_zh": "和风女仆"
+  },
+  {
+    "tag": "waitress",
+    "category": "character",
+    "label_zh": "女服务员"
+  },
+  {
+    "tag": "white_marble_glowing_skin",
+    "category": "character",
+    "label_zh": "白色大理石发光皮肤"
+  },
+  {
+    "tag": "white_skin",
+    "category": "character",
+    "label_zh": "白皮肤"
+  },
+  {
+    "tag": "adapted_costume",
+    "category": "clothing",
+    "label_zh": "原设服装改编"
+  },
+  {
+    "tag": "aiguillette",
+    "category": "clothing",
+    "label_zh": "肩带"
+  },
+  {
+    "tag": "alternate_costume",
+    "category": "clothing",
+    "label_zh": "与原设不同衣服"
+  },
+  {
+    "tag": "american_flag_bikini",
+    "category": "clothing",
+    "label_zh": "美国国旗比基尼"
+  },
+  {
+    "tag": "animal_costume",
+    "category": "clothing",
+    "label_zh": "动物系套装(皮套)"
+  },
+  {
+    "tag": "animal_feet",
+    "category": "clothing",
+    "label_zh": "动物脚"
+  },
+  {
+    "tag": "ankle_boots",
+    "category": "clothing",
+    "label_zh": "踝靴"
+  },
+  {
+    "tag": "ankle_socks",
+    "category": "clothing",
+    "label_zh": "踝袜"
+  },
+  {
+    "tag": "anklet",
+    "category": "clothing",
+    "label_zh": "脚环"
+  },
+  {
+    "tag": "apron",
+    "category": "clothing",
+    "label_zh": "围裙"
+  },
+  {
+    "tag": "arabian_clothes",
+    "category": "clothing",
+    "label_zh": "阿拉伯服饰"
+  },
+  {
+    "tag": "aran_sweater",
+    "category": "clothing",
+    "label_zh": "爱尔兰毛衣"
+  },
+  {
+    "tag": "arm_garter",
+    "category": "clothing",
+    "label_zh": "手臂袜带"
+  },
+  {
+    "tag": "armor",
+    "category": "clothing",
+    "label_zh": "盔甲"
+  },
+  {
+    "tag": "armored_boots",
+    "category": "clothing",
+    "label_zh": "装甲靴"
+  },
+  {
+    "tag": "armored_dress",
+    "category": "clothing",
+    "label_zh": "战甲裙"
+  },
+  {
+    "tag": "ascot",
+    "category": "clothing",
+    "label_zh": "领巾状宽领带"
+  },
+  {
+    "tag": "back_cutout",
+    "category": "clothing",
+    "label_zh": "露背上衣"
+  },
+  {
+    "tag": "backless_dress",
+    "category": "clothing",
+    "label_zh": "露背连衣裙"
+  },
+  {
+    "tag": "bandaged_leg",
+    "category": "clothing",
+    "label_zh": "包扎过的腿"
+  },
+  {
+    "tag": "bandaid_on_knee",
+    "category": "clothing",
+    "label_zh": "膝盖上的创可贴"
+  },
+  {
+    "tag": "bandaid_on_leg",
+    "category": "clothing",
+    "label_zh": "腿上的绷带"
+  },
+  {
+    "tag": "bare_legs",
+    "category": "clothing",
+    "label_zh": "裸腿"
+  },
+  {
+    "tag": "barefoot",
+    "category": "clothing",
+    "label_zh": "赤脚"
+  },
+  {
+    "tag": "baseball_uniform",
+    "category": "clothing",
+    "label_zh": "棒球服"
+  },
+  {
+    "tag": "bead_necklace",
+    "category": "clothing",
+    "label_zh": "珠子项链"
+  },
+  {
+    "tag": "belt_collar",
+    "category": "clothing",
+    "label_zh": "皮带颈环"
+  },
+  {
+    "tag": "bike_shorts",
+    "category": "clothing",
+    "label_zh": "自行车短裤"
+  },
+  {
+    "tag": "bikini",
+    "category": "clothing",
+    "label_zh": "比基尼"
+  },
+  {
+    "tag": "bikini_skirt",
+    "category": "clothing",
+    "label_zh": "比基尼裙"
+  },
+  {
+    "tag": "black_choker",
+    "category": "clothing",
+    "label_zh": "黑色颈圈"
+  },
+  {
+    "tag": "black_pantyhose",
+    "category": "clothing",
+    "label_zh": "黑丝裤袜"
+  },
+  {
+    "tag": "black_thighhighs",
+    "category": "clothing",
+    "label_zh": "黑色长筒袜"
+  },
+  {
+    "tag": "blazer",
+    "category": "clothing",
+    "label_zh": "西装外套"
+  },
+  {
+    "tag": "bloomers",
+    "category": "clothing",
+    "label_zh": "灯笼裤"
+  },
+  {
+    "tag": "blouse",
+    "category": "clothing",
+    "label_zh": "女式衬衫"
+  },
+  {
+    "tag": "bobby_socks",
+    "category": "clothing",
+    "label_zh": "鲍比袜(白短袜)"
+  },
+  {
+    "tag": "bodystocking",
+    "category": "clothing",
+    "label_zh": "全身袜"
+  },
+  {
+    "tag": "bomber_jacket",
+    "category": "clothing",
+    "label_zh": "飞行员夹克"
+  },
+  {
+    "tag": "boots",
+    "category": "clothing",
+    "label_zh": "靴子"
+  },
+  {
+    "tag": "bow_bikini",
+    "category": "clothing",
+    "label_zh": "带蝴蝶结的比基尼"
+  },
+  {
+    "tag": "bow_legwear",
+    "category": "clothing",
+    "label_zh": "带蝴蝶结的裤袜"
+  },
+  {
+    "tag": "bowtie",
+    "category": "clothing",
+    "label_zh": "蝴蝶结领带"
+  },
+  {
+    "tag": "breastplate",
+    "category": "clothing",
+    "label_zh": "胸甲"
+  },
+  {
+    "tag": "brown_sweater",
+    "category": "clothing",
+    "label_zh": "棕色毛衣"
+  },
+  {
+    "tag": "bubble_skirt",
+    "category": "clothing",
+    "label_zh": "蓬蓬裙"
+  },
+  {
+    "tag": "buruma",
+    "category": "clothing",
+    "label_zh": "女式灯笼裤"
+  },
+  {
+    "tag": "business_suit",
+    "category": "clothing",
+    "label_zh": "职场制服"
+  },
+  {
+    "tag": "bustier",
+    "category": "clothing",
+    "label_zh": "胸衣"
+  },
+  {
+    "tag": "button_gap",
+    "category": "clothing",
+    "label_zh": "纽扣之间的缝隙(没解开"
+  },
+  {
+    "tag": "camisole",
+    "category": "clothing",
+    "label_zh": "吊帶背心(小可愛)"
+  },
+  {
+    "tag": "cape",
+    "category": "clothing",
+    "label_zh": "披肩"
+  },
+  {
+    "tag": "capelet",
+    "category": "clothing",
+    "label_zh": "披肩"
+  },
+  {
+    "tag": "capri_pants",
+    "category": "clothing",
+    "label_zh": "七分裤"
+  },
+  {
+    "tag": "cardigan",
+    "category": "clothing",
+    "label_zh": "开襟毛衣衫"
+  },
+  {
+    "tag": "casual",
+    "category": "clothing",
+    "label_zh": "休闲"
+  },
+  {
+    "tag": "casual_one-piece_swimsuit",
+    "category": "clothing",
+    "label_zh": "连体泳衣"
+  },
+  {
+    "tag": "chain_necklace",
+    "category": "clothing",
+    "label_zh": "锁链项链"
+  },
+  {
+    "tag": "chaldea_uniform",
+    "category": "clothing",
+    "label_zh": "迦勒底制服"
+  },
+  {
+    "tag": "checkered_skirt",
+    "category": "clothing",
+    "label_zh": "格子裙"
+  },
+  {
+    "tag": "china_dress",
+    "category": "clothing",
+    "label_zh": "旗袍"
+  },
+  {
+    "tag": "chinese_clothes",
+    "category": "clothing",
+    "label_zh": "唐装"
+  },
+  {
+    "tag": "chinese_knot",
+    "category": "clothing",
+    "label_zh": "中国结"
+  },
+  {
+    "tag": "choker",
+    "category": "clothing",
+    "label_zh": "颈部饰品"
+  },
+  {
+    "tag": "cloak",
+    "category": "clothing",
+    "label_zh": "斗篷"
+  },
+  {
+    "tag": "clothes_around_waist",
+    "category": "clothing",
+    "label_zh": "腰间衣服"
+  },
+  {
+    "tag": "clothes_down",
+    "category": "clothing",
+    "label_zh": "褪下衣物"
+  },
+  {
+    "tag": "clothing_cutout",
+    "category": "clothing",
+    "label_zh": "衣服漏洞"
+  },
+  {
+    "tag": "collared_dress",
+    "category": "clothing",
+    "label_zh": "有领连衣裙"
+  },
+  {
+    "tag": "collared_shirt",
+    "category": "clothing",
+    "label_zh": "有领衬衫"
+  },
+  {
+    "tag": "competition_school_swimsuit",
+    "category": "clothing",
+    "label_zh": "竞泳死库水"
+  },
+  {
+    "tag": "competition_swimsuit",
+    "category": "clothing",
+    "label_zh": "赛用泳衣"
+  },
+  {
+    "tag": "corset",
+    "category": "clothing",
+    "label_zh": "束腰(马甲)"
+  },
+  {
+    "tag": "criss-cross_halter",
+    "category": "clothing",
+    "label_zh": "交叉吊带衫"
+  },
+  {
+    "tag": "crop_top",
+    "category": "clothing",
+    "label_zh": "截短上衣"
+  },
+  {
+    "tag": "cropped_jacket",
+    "category": "clothing",
+    "label_zh": "短款夹克"
+  },
+  {
+    "tag": "cropped_shirt",
+    "category": "clothing",
+    "label_zh": "短衬衫"
+  },
+  {
+    "tag": "cross_necklace",
+    "category": "clothing",
+    "label_zh": "十字架项链"
+  },
+  {
+    "tag": "cutoffs",
+    "category": "clothing",
+    "label_zh": "热裤"
+  },
+  {
+    "tag": "denim_shorts",
+    "category": "clothing",
+    "label_zh": "牛仔短裤"
+  },
+  {
+    "tag": "denim_skirt",
+    "category": "clothing",
+    "label_zh": "牛仔裙"
+  },
+  {
+    "tag": "dirty_clothes",
+    "category": "clothing",
+    "label_zh": "弄脏的衣服"
+  },
+  {
+    "tag": "dolphin_shorts",
+    "category": "clothing",
+    "label_zh": "海豚短褲(真理褲)"
+  },
+  {
+    "tag": "double-breasted",
+    "category": "clothing",
+    "label_zh": "双排纽扣(双排扣"
+  },
+  {
+    "tag": "dougi",
+    "category": "clothing",
+    "label_zh": "武道服"
+  },
+  {
+    "tag": "dress",
+    "category": "clothing",
+    "label_zh": "连衣裙"
+  },
+  {
+    "tag": "dress_bow",
+    "category": "clothing",
+    "label_zh": "连衣裙上的蝴蝶结"
+  },
+  {
+    "tag": "dress_shirt",
+    "category": "clothing",
+    "label_zh": "西服衬衫"
+  },
+  {
+    "tag": "evening_gown",
+    "category": "clothing",
+    "label_zh": "礼服"
+  },
+  {
+    "tag": "eyepatch_bikini",
+    "category": "clothing",
+    "label_zh": "眼罩比基尼"
+  },
+  {
+    "tag": "faulds",
+    "category": "clothing",
+    "label_zh": "腹甲"
+  },
+  {
+    "tag": "fishnet_top",
+    "category": "clothing",
+    "label_zh": "渔网上衣"
+  },
+  {
+    "tag": "fishnets",
+    "category": "clothing",
+    "label_zh": "网袜(材质)"
+  },
+  {
+    "tag": "frilled_bikini",
+    "category": "clothing",
+    "label_zh": "花边比基尼"
+  },
+  {
+    "tag": "frilled_choker",
+    "category": "clothing",
+    "label_zh": "褶边项链"
+  },
+  {
+    "tag": "frilled_collar",
+    "category": "clothing",
+    "label_zh": "花边衣领"
+  },
+  {
+    "tag": "frilled_dress",
+    "category": "clothing",
+    "label_zh": "花边连衣裙"
+  },
+  {
+    "tag": "frilled_shirt",
+    "category": "clothing",
+    "label_zh": "褶边衬衫"
+  },
+  {
+    "tag": "frilled_skirt",
+    "category": "clothing",
+    "label_zh": "花边裙子"
+  },
+  {
+    "tag": "front-tie_bikini_top",
+    "category": "clothing",
+    "label_zh": "前系带比基尼上衣"
+  },
+  {
+    "tag": "front-tie_top",
+    "category": "clothing",
+    "label_zh": "从正面打结的衣物"
+  },
+  {
+    "tag": "full_armor",
+    "category": "clothing",
+    "label_zh": "穿着全套盔甲的"
+  },
+  {
+    "tag": "fur-trimmed_boots",
+    "category": "clothing",
+    "label_zh": "毛边靴子"
+  },
+  {
+    "tag": "fur-trimmed_coat",
+    "category": "clothing",
+    "label_zh": "镶边皮草大衣"
+  },
+  {
+    "tag": "fur-trimmed_dress",
+    "category": "clothing",
+    "label_zh": "毛皮镶边连衣裙"
+  },
+  {
+    "tag": "fur-trimmed_jacket",
+    "category": "clothing",
+    "label_zh": "毛皮边饰夹克"
+  },
+  {
+    "tag": "fur-trimmed_skirt",
+    "category": "clothing",
+    "label_zh": "毛皮镶边短裙"
+  },
+  {
+    "tag": "fur_coat",
+    "category": "clothing",
+    "label_zh": "皮草大衣"
+  },
+  {
+    "tag": "fur_collar",
+    "category": "clothing",
+    "label_zh": "毛皮衣领"
+  },
+  {
+    "tag": "furisode",
+    "category": "clothing",
+    "label_zh": "振袖(和服的一部份)"
+  },
+  {
+    "tag": "garreg_mach_monastery_uniform",
+    "category": "clothing",
+    "label_zh": "加尔格·马可大修道院制服"
+  },
+  {
+    "tag": "garter_straps",
+    "category": "clothing",
+    "label_zh": "腰带(吊带袜的)"
+  },
+  {
+    "tag": "gem_uniform_(houseki_no_kuni)",
+    "category": "clothing",
+    "label_zh": "宝石之国的制服"
+  },
+  {
+    "tag": "geta",
+    "category": "clothing",
+    "label_zh": "木屐"
+  },
+  {
+    "tag": "goggles_around_neck",
+    "category": "clothing",
+    "label_zh": "脖子上护目镜"
+  },
+  {
+    "tag": "gold_necklace",
+    "category": "clothing",
+    "label_zh": "金项链"
+  },
+  {
+    "tag": "gothic_lolita",
+    "category": "clothing",
+    "label_zh": "哥特洛丽塔风格"
+  },
+  {
+    "tag": "gown",
+    "category": "clothing",
+    "label_zh": "女长服"
+  },
+  {
+    "tag": "greaves",
+    "category": "clothing",
+    "label_zh": "胫甲"
+  },
+  {
+    "tag": "gym_shorts",
+    "category": "clothing",
+    "label_zh": "体操短裤"
+  },
+  {
+    "tag": "gym_uniform",
+    "category": "clothing",
+    "label_zh": "运动服"
+  },
+  {
+    "tag": "hagoromo",
+    "category": "clothing",
+    "label_zh": "羽衣"
+  },
+  {
+    "tag": "hakama_pants",
+    "category": "clothing",
+    "label_zh": "袴裤"
+  },
+  {
+    "tag": "hakama_skirt",
+    "category": "clothing",
+    "label_zh": "袴裙"
+  },
+  {
+    "tag": "halloween_costume",
+    "category": "clothing",
+    "label_zh": "万圣节服装"
+  },
+  {
+    "tag": "halter_dress",
+    "category": "clothing",
+    "label_zh": "绕颈露背吊带裙"
+  },
+  {
+    "tag": "halterneck",
+    "category": "clothing",
+    "label_zh": "绕颈系带"
+  },
+  {
+    "tag": "hanasakigawa_school_uniform",
+    "category": "clothing",
+    "label_zh": "花咲川女子学园"
+  },
+  {
+    "tag": "hanfu",
+    "category": "clothing",
+    "label_zh": "汉服"
+  },
+  {
+    "tag": "haori",
+    "category": "clothing",
+    "label_zh": "一种宽上衣"
+  },
+  {
+    "tag": "harem_outfit",
+    "category": "clothing",
+    "label_zh": "舞娘服"
+  },
+  {
+    "tag": "harness",
+    "category": "clothing",
+    "label_zh": "背带；挽具"
+  },
+  {
+    "tag": "hawaiian_shirt",
+    "category": "clothing",
+    "label_zh": "夏威夷衫"
+  },
+  {
+    "tag": "headphones_around_neck",
+    "category": "clothing",
+    "label_zh": "挂在脖子上的耳机"
+  },
+  {
+    "tag": "heart_cutout",
+    "category": "clothing",
+    "label_zh": "心形开口"
+  },
+  {
+    "tag": "heart_necklace",
+    "category": "clothing",
+    "label_zh": "心形项链"
+  },
+  {
+    "tag": "helmet",
+    "category": "clothing",
+    "label_zh": "头盔"
+  },
+  {
+    "tag": "high-waist_skirt",
+    "category": "clothing",
+    "label_zh": "高腰裙"
+  },
+  {
+    "tag": "high_heel_boots",
+    "category": "clothing",
+    "label_zh": "高跟靴"
+  },
+  {
+    "tag": "high_heels",
+    "category": "clothing",
+    "label_zh": "高跟鞋"
+  },
+  {
+    "tag": "highleg",
+    "category": "clothing",
+    "label_zh": "高开衩的衣物"
+  },
+  {
+    "tag": "highleg_bikini",
+    "category": "clothing",
+    "label_zh": "高腰比基尼"
+  },
+  {
+    "tag": "hooded_cloak",
+    "category": "clothing",
+    "label_zh": "连帽斗篷"
+  },
+  {
+    "tag": "hooded_coat",
+    "category": "clothing",
+    "label_zh": "连帽大衣"
+  },
+  {
+    "tag": "hoodie",
+    "category": "clothing",
+    "label_zh": "卫衣"
+  },
+  {
+    "tag": "impossible_dress",
+    "category": "clothing",
+    "label_zh": "过分紧身的衣服"
+  },
+  {
+    "tag": "indian_style",
+    "category": "clothing",
+    "label_zh": "印度风格"
+  },
+  {
+    "tag": "iron_cross",
+    "category": "clothing",
+    "label_zh": "铁十字勋章"
+  },
+  {
+    "tag": "jacket",
+    "category": "clothing",
+    "label_zh": "夹克衫"
+  },
+  {
+    "tag": "jacket_around_waist",
+    "category": "clothing",
+    "label_zh": "腰围夹克"
+  },
+  {
+    "tag": "jacket_on_shoulders",
+    "category": "clothing",
+    "label_zh": "用夹克披肩"
+  },
+  {
+    "tag": "jacket_partially_removed",
+    "category": "clothing",
+    "label_zh": "夹克部分移除"
+  },
+  {
+    "tag": "japanese_armor",
+    "category": "clothing",
+    "label_zh": "日本铠甲"
+  },
+  {
+    "tag": "japanese_clothes",
+    "category": "clothing",
+    "label_zh": "和服"
+  },
+  {
+    "tag": "jeans",
+    "category": "clothing",
+    "label_zh": "牛仔裤"
+  },
+  {
+    "tag": "jumpsuit",
+    "category": "clothing",
+    "label_zh": "(尤指女式)连衫裤"
+  },
+  {
+    "tag": "kariginu",
+    "category": "clothing",
+    "label_zh": "狩衣"
+  },
+  {
+    "tag": "kimono",
+    "category": "clothing",
+    "label_zh": "和服"
+  },
+  {
+    "tag": "kindergarten_uniform",
+    "category": "clothing",
+    "label_zh": "幼儿园制服"
+  },
+  {
+    "tag": "kita_high_school_uniform",
+    "category": "clothing",
+    "label_zh": "北高中制服"
+  },
+  {
+    "tag": "knee_boots",
+    "category": "clothing",
+    "label_zh": "及膝靴(马靴)"
+  },
+  {
+    "tag": "kneehighs",
+    "category": "clothing",
+    "label_zh": "中筒袜"
+  },
+  {
+    "tag": "korean_clothes",
+    "category": "clothing",
+    "label_zh": "朝鲜服饰"
+  },
+  {
+    "tag": "lace-trimmed_dress",
+    "category": "clothing",
+    "label_zh": "蕾丝边连衣裙"
+  },
+  {
+    "tag": "lace-up_boots",
+    "category": "clothing",
+    "label_zh": "系带靴"
+  },
+  {
+    "tag": "layered_bikini",
+    "category": "clothing",
+    "label_zh": "分层比基尼"
+  },
+  {
+    "tag": "layered_dress",
+    "category": "clothing",
+    "label_zh": "分层连衣裙"
+  },
+  {
+    "tag": "layered_skirt",
+    "category": "clothing",
+    "label_zh": "分层的半裙"
+  },
+  {
+    "tag": "leather_jacket",
+    "category": "clothing",
+    "label_zh": "皮夹克"
+  },
+  {
+    "tag": "leg_ribbon",
+    "category": "clothing",
+    "label_zh": "腿锻带"
+  },
+  {
+    "tag": "leg_warmers",
+    "category": "clothing",
+    "label_zh": "腿套"
+  },
+  {
+    "tag": "leggings",
+    "category": "clothing",
+    "label_zh": "裤袜"
+  },
+  {
+    "tag": "leotard",
+    "category": "clothing",
+    "label_zh": "连衣裤"
+  },
+  {
+    "tag": "leotard_under_clothes",
+    "category": "clothing",
+    "label_zh": "内层穿着连衣裤"
+  },
+  {
+    "tag": "letterman_jacket",
+    "category": "clothing",
+    "label_zh": "棒球夹克"
+  },
+  {
+    "tag": "loafers",
+    "category": "clothing",
+    "label_zh": "乐福鞋"
+  },
+  {
+    "tag": "long_coat",
+    "category": "clothing",
+    "label_zh": "长外套"
+  },
+  {
+    "tag": "long_dress",
+    "category": "clothing",
+    "label_zh": "长连衣裙"
+  },
+  {
+    "tag": "long_skirt",
+    "category": "clothing",
+    "label_zh": "长裙"
+  },
+  {
+    "tag": "loose_necktie",
+    "category": "clothing",
+    "label_zh": "宽松领带"
+  },
+  {
+    "tag": "loose_socks",
+    "category": "clothing",
+    "label_zh": "泡泡袜"
+  },
+  {
+    "tag": "lowleg_bikini",
+    "category": "clothing",
+    "label_zh": "低腰比基尼"
+  },
+  {
+    "tag": "magatama_necklace",
+    "category": "clothing",
+    "label_zh": "珠玉项链"
+  },
+  {
+    "tag": "maid_apron",
+    "category": "clothing",
+    "label_zh": "女仆围裙"
+  },
+  {
+    "tag": "male_swimwear",
+    "category": "clothing",
+    "label_zh": "男用泳裤"
+  },
+  {
+    "tag": "mary_janes",
+    "category": "clothing",
+    "label_zh": "珍妮鞋"
+  },
+  {
+    "tag": "mecha",
+    "category": "clothing",
+    "label_zh": "机甲"
+  },
+  {
+    "tag": "meiji_schoolgirl_uniform",
+    "category": "clothing",
+    "label_zh": "明治女学生制服"
+  },
+  {
+    "tag": "micro_shorts",
+    "category": "clothing",
+    "label_zh": "小尺寸短裤"
+  },
+  {
+    "tag": "microdress",
+    "category": "clothing",
+    "label_zh": "微型连衣裙"
+  },
+  {
+    "tag": "microskirt",
+    "category": "clothing",
+    "label_zh": "超短裙"
+  },
+  {
+    "tag": "miko",
+    "category": "clothing",
+    "label_zh": "巫女服"
+  },
+  {
+    "tag": "military_jacket",
+    "category": "clothing",
+    "label_zh": "军装夹克"
+  },
+  {
+    "tag": "military_uniform",
+    "category": "clothing",
+    "label_zh": "陆军制服"
+  },
+  {
+    "tag": "miniskirt",
+    "category": "clothing",
+    "label_zh": "迷你裙"
+  },
+  {
+    "tag": "mismatched_bikini",
+    "category": "clothing",
+    "label_zh": "双色比基尼"
+  },
+  {
+    "tag": "mismatched_footwear",
+    "category": "clothing",
+    "label_zh": "双色鞋子"
+  },
+  {
+    "tag": "mismatched_legwear",
+    "category": "clothing",
+    "label_zh": "双色裤袜"
+  },
+  {
+    "tag": "mitakihara_school_uniform",
+    "category": "clothing",
+    "label_zh": "见泷原中学校制服"
+  },
+  {
+    "tag": "mole_on_neck",
+    "category": "clothing",
+    "label_zh": "脖子上有痣"
+  },
+  {
+    "tag": "multicolored_bikini",
+    "category": "clothing",
+    "label_zh": "多色款比基尼"
+  },
+  {
+    "tag": "multicolored_dress",
+    "category": "clothing",
+    "label_zh": "多色款连衣裙"
+  },
+  {
+    "tag": "multicolored_skirt",
+    "category": "clothing",
+    "label_zh": "多色款裙子"
+  },
+  {
+    "tag": "muneate",
+    "category": "clothing",
+    "label_zh": "日本弓道護胸甲"
+  },
+  {
+    "tag": "nanamori_school_uniform",
+    "category": "clothing",
+    "label_zh": "七森中学校服"
+  },
+  {
+    "tag": "naoetsu_high_school_uniform",
+    "category": "clothing",
+    "label_zh": "私立直江津高校制服"
+  },
+  {
+    "tag": "naval_uniform",
+    "category": "clothing",
+    "label_zh": "海军制服"
+  },
+  {
+    "tag": "neck_bell",
+    "category": "clothing",
+    "label_zh": "颈铃"
+  },
+  {
+    "tag": "neck_ribbon",
+    "category": "clothing",
+    "label_zh": "颈部系着缎带"
+  },
+  {
+    "tag": "neck_ring",
+    "category": "clothing",
+    "label_zh": "颈环"
+  },
+  {
+    "tag": "neck_ruff",
+    "category": "clothing",
+    "label_zh": "领口"
+  },
+  {
+    "tag": "neck_tattoo",
+    "category": "clothing",
+    "label_zh": "颈部纹身"
+  },
+  {
+    "tag": "neckerchief",
+    "category": "clothing",
+    "label_zh": "领巾"
+  },
+  {
+    "tag": "necklace",
+    "category": "clothing",
+    "label_zh": "项链"
+  },
+  {
+    "tag": "necktie",
+    "category": "clothing",
+    "label_zh": "领带"
+  },
+  {
+    "tag": "nightgown",
+    "category": "clothing",
+    "label_zh": "睡衣"
+  },
+  {
+    "tag": "no_shoes",
+    "category": "clothing",
+    "label_zh": "没有鞋子"
+  },
+  {
+    "tag": "o-ring_bikini",
+    "category": "clothing",
+    "label_zh": "带O型环的比基尼"
+  },
+  {
+    "tag": "obi",
+    "category": "clothing",
+    "label_zh": "衣带(和服用)"
+  },
+  {
+    "tag": "off-shoulder_dress",
+    "category": "clothing",
+    "label_zh": "露肩连衣裙"
+  },
+  {
+    "tag": "off-shoulder_shirt",
+    "category": "clothing",
+    "label_zh": "露肩衬衫(搭肩衫)"
+  },
+  {
+    "tag": "off-shoulder_sweater",
+    "category": "clothing",
+    "label_zh": "露肩毛衣"
+  },
+  {
+    "tag": "ofuda_on_clothes",
+    "category": "clothing",
+    "label_zh": "衣服上贴着符纸"
+  },
+  {
+    "tag": "old_school_swimsuit",
+    "category": "clothing",
+    "label_zh": "旧式死库水"
+  },
+  {
+    "tag": "one-piece_swimsuit",
+    "category": "clothing",
+    "label_zh": "一体式泳衣"
+  },
+  {
+    "tag": "ooarai_school_uniform",
+    "category": "clothing",
+    "label_zh": "大洗联队校服"
+  },
+  {
+    "tag": "open_clothes",
+    "category": "clothing",
+    "label_zh": "敞开的衣服"
+  },
+  {
+    "tag": "open_jacket",
+    "category": "clothing",
+    "label_zh": "开襟夹克(配合spread_legs)"
+  },
+  {
+    "tag": "otonokizaka_school_uniform",
+    "category": "clothing",
+    "label_zh": "国立音乃木坂学院女子制服"
+  },
+  {
+    "tag": "over-kneehighs",
+    "category": "clothing",
+    "label_zh": "过膝袜"
+  },
+  {
+    "tag": "overalls",
+    "category": "clothing",
+    "label_zh": "工作服"
+  },
+  {
+    "tag": "oversized_clothes",
+    "category": "clothing",
+    "label_zh": "过大号的衣服"
+  },
+  {
+    "tag": "oversized_shirt",
+    "category": "clothing",
+    "label_zh": "过大号衬衫"
+  },
+  {
+    "tag": "overskirt",
+    "category": "clothing",
+    "label_zh": "外裙"
+  },
+  {
+    "tag": "pajamas",
+    "category": "clothing",
+    "label_zh": "睡衣"
+  },
+  {
+    "tag": "pants",
+    "category": "clothing",
+    "label_zh": "长裤"
+  },
+  {
+    "tag": "pantyhose",
+    "category": "clothing",
+    "label_zh": "连裤袜"
+  },
+  {
+    "tag": "pantylines",
+    "category": "clothing",
+    "label_zh": "紧致的裤袜(勾勒出线条"
+  },
+  {
+    "tag": "paradis_military_uniform",
+    "category": "clothing",
+    "label_zh": "帕拉迪岛军装"
+  },
+  {
+    "tag": "partially_unbuttoned",
+    "category": "clothing",
+    "label_zh": "解开部分纽扣"
+  },
+  {
+    "tag": "partially_unzipped",
+    "category": "clothing",
+    "label_zh": "拉开上部分拉链"
+  },
+  {
+    "tag": "pearl_necklace",
+    "category": "clothing",
+    "label_zh": "珍珠项链"
+  },
+  {
+    "tag": "pelvic_curtain",
+    "category": "clothing",
+    "label_zh": "旗袍类衣物的前摆"
+  },
+  {
+    "tag": "pencil_skirt",
+    "category": "clothing",
+    "label_zh": "短铅笔裙"
+  },
+  {
+    "tag": "pinafore_dress",
+    "category": "clothing",
+    "label_zh": "围裙连衣裙"
+  },
+  {
+    "tag": "pink_thighhighs",
+    "category": "clothing",
+    "label_zh": "粉色长筒袜"
+  },
+  {
+    "tag": "plaid_dress",
+    "category": "clothing",
+    "label_zh": "格子连衣裙"
+  },
+  {
+    "tag": "plaid_pants",
+    "category": "clothing",
+    "label_zh": "格子呢裤子"
+  },
+  {
+    "tag": "plaid_shirt",
+    "category": "clothing",
+    "label_zh": "格子衬衫"
+  },
+  {
+    "tag": "plaid_skirt",
+    "category": "clothing",
+    "label_zh": "格子呢短裙"
+  },
+  {
+    "tag": "pleated_dress",
+    "category": "clothing",
+    "label_zh": "百褶连衣裙"
+  },
+  {
+    "tag": "pleated_skirt",
+    "category": "clothing",
+    "label_zh": "百褶裙"
+  },
+  {
+    "tag": "police_uniform",
+    "category": "clothing",
+    "label_zh": "警服"
+  },
+  {
+    "tag": "polka_dot_bikini",
+    "category": "clothing",
+    "label_zh": "圆斑比基尼"
+  },
+  {
+    "tag": "popped_collar",
+    "category": "clothing",
+    "label_zh": "竖起来的衣领"
+  },
+  {
+    "tag": "power_armor",
+    "category": "clothing",
+    "label_zh": "动力装甲"
+  },
+  {
+    "tag": "print_bikini",
+    "category": "clothing",
+    "label_zh": "印花比基尼"
+  },
+  {
+    "tag": "print_dress",
+    "category": "clothing",
+    "label_zh": "印花连衣裙"
+  },
+  {
+    "tag": "print_kimono",
+    "category": "clothing",
+    "label_zh": "印花和服"
+  },
+  {
+    "tag": "print_shirt",
+    "category": "clothing",
+    "label_zh": "印花衬衫"
+  },
+  {
+    "tag": "print_skirt",
+    "category": "clothing",
+    "label_zh": "印花短裙"
+  },
+  {
+    "tag": "puffy_shorts",
+    "category": "clothing",
+    "label_zh": "蓬蓬的短裤"
+  },
+  {
+    "tag": "pumps",
+    "category": "clothing",
+    "label_zh": "低胸装高跟鞋打扮"
+  },
+  {
+    "tag": "raincoat",
+    "category": "clothing",
+    "label_zh": "雨衣"
+  },
+  {
+    "tag": "red_neckerchief",
+    "category": "clothing",
+    "label_zh": "红领巾"
+  },
+  {
+    "tag": "ribbed_dress",
+    "category": "clothing",
+    "label_zh": "罗纹连衣裙"
+  },
+  {
+    "tag": "ribbed_sweater",
+    "category": "clothing",
+    "label_zh": "罗纹毛衣"
+  },
+  {
+    "tag": "ribbon-trimmed_skirt",
+    "category": "clothing",
+    "label_zh": "缎带饰边短裙"
+  },
+  {
+    "tag": "ribbon_choker",
+    "category": "clothing",
+    "label_zh": "颈丝带"
+  },
+  {
+    "tag": "rigging",
+    "category": "clothing",
+    "label_zh": "舰装"
+  },
+  {
+    "tag": "robe",
+    "category": "clothing",
+    "label_zh": "长袍"
+  },
+  {
+    "tag": "roller_skates",
+    "category": "clothing",
+    "label_zh": "旱冰鞋"
+  },
+  {
+    "tag": "rubber_boots",
+    "category": "clothing",
+    "label_zh": "胶靴"
+  },
+  {
+    "tag": "rudder_footwear",
+    "category": "clothing",
+    "label_zh": "舰C舰娘专用鞋"
+  },
+  {
+    "tag": "ryouou_school_uniform",
+    "category": "clothing",
+    "label_zh": "陵樱学园制服"
+  },
+  {
+    "tag": "sailor",
+    "category": "clothing",
+    "label_zh": "水手服"
+  },
+  {
+    "tag": "sailor_bikini",
+    "category": "clothing",
+    "label_zh": "水手服款比基尼"
+  },
+  {
+    "tag": "sailor_collar",
+    "category": "clothing",
+    "label_zh": "水手领"
+  },
+  {
+    "tag": "sailor_dress",
+    "category": "clothing",
+    "label_zh": "水手服款裙子"
+  },
+  {
+    "tag": "sailor_senshi_uniform",
+    "category": "clothing",
+    "label_zh": "美少女战士制服"
+  },
+  {
+    "tag": "sailor_shirt",
+    "category": "clothing",
+    "label_zh": "水手服衬衫"
+  },
+  {
+    "tag": "sakuragaoka_high_school_uniform",
+    "category": "clothing",
+    "label_zh": "樱丘女子高等学校校服"
+  },
+  {
+    "tag": "sandals",
+    "category": "clothing",
+    "label_zh": "凉鞋"
+  },
+  {
+    "tag": "santa_costume",
+    "category": "clothing",
+    "label_zh": "圣诞风格服装"
+  },
+  {
+    "tag": "sash",
+    "category": "clothing",
+    "label_zh": "饰带"
+  },
+  {
+    "tag": "school_swimsuit",
+    "category": "clothing",
+    "label_zh": "学校泳装（死库水）"
+  },
+  {
+    "tag": "school_uniform",
+    "category": "clothing",
+    "label_zh": "校服"
+  },
+  {
+    "tag": "serafuku",
+    "category": "clothing",
+    "label_zh": "水手服"
+  },
+  {
+    "tag": "shiny_clothes",
+    "category": "clothing",
+    "label_zh": "有光泽的衣服"
+  },
+  {
+    "tag": "shirt",
+    "category": "clothing",
+    "label_zh": "衬衫"
+  },
+  {
+    "tag": "shirt_lift",
+    "category": "clothing",
+    "label_zh": "掀起衬衫"
+  },
+  {
+    "tag": "shirt_pull",
+    "category": "clothing",
+    "label_zh": "衬衫拉下来"
+  },
+  {
+    "tag": "shirt_tucked_in",
+    "category": "clothing",
+    "label_zh": "衬衫塞进去"
+  },
+  {
+    "tag": "shirt_tug",
+    "category": "clothing",
+    "label_zh": "拖拽衬衫"
+  },
+  {
+    "tag": "shoe_soles",
+    "category": "clothing",
+    "label_zh": "鞋底"
+  },
+  {
+    "tag": "shoes",
+    "category": "clothing",
+    "label_zh": "运动鞋"
+  },
+  {
+    "tag": "short_kimono",
+    "category": "clothing",
+    "label_zh": "短和服"
+  },
+  {
+    "tag": "short_necktie",
+    "category": "clothing",
+    "label_zh": "短领带"
+  },
+  {
+    "tag": "short_shorts",
+    "category": "clothing",
+    "label_zh": "热裤"
+  },
+  {
+    "tag": "shorts",
+    "category": "clothing",
+    "label_zh": "短裤"
+  },
+  {
+    "tag": "shorts_under_skirt",
+    "category": "clothing",
+    "label_zh": "短裙里穿着短裤"
+  },
+  {
+    "tag": "shoulder_armor",
+    "category": "clothing",
+    "label_zh": "肩甲"
+  },
+  {
+    "tag": "showgirl_skirt",
+    "category": "clothing",
+    "label_zh": "展会女郎装束"
+  },
+  {
+    "tag": "shrug_(clothing)",
+    "category": "clothing",
+    "label_zh": "耸肩（服装）"
+  },
+  {
+    "tag": "side_slit",
+    "category": "clothing",
+    "label_zh": "侧开衩"
+  },
+  {
+    "tag": "single_leg_pantyhose",
+    "category": "clothing",
+    "label_zh": "单边穿着连裤袜"
+  },
+  {
+    "tag": "single_shoe",
+    "category": "clothing",
+    "label_zh": "单鞋"
+  },
+  {
+    "tag": "single_sock",
+    "category": "clothing",
+    "label_zh": "单短袜"
+  },
+  {
+    "tag": "skates",
+    "category": "clothing",
+    "label_zh": "溜冰鞋"
+  },
+  {
+    "tag": "skirt",
+    "category": "clothing",
+    "label_zh": "短裙"
+  },
+  {
+    "tag": "skirt_set",
+    "category": "clothing",
+    "label_zh": "与上衣搭配的短裙"
+  },
+  {
+    "tag": "skirt_suit",
+    "category": "clothing",
+    "label_zh": "正装短裙"
+  },
+  {
+    "tag": "sleepwear",
+    "category": "clothing",
+    "label_zh": "睡衣"
+  },
+  {
+    "tag": "sleeveless_dress",
+    "category": "clothing",
+    "label_zh": "无袖连衣裙"
+  },
+  {
+    "tag": "sleeveless_kimono",
+    "category": "clothing",
+    "label_zh": "无袖和服"
+  },
+  {
+    "tag": "sleeveless_shirt",
+    "category": "clothing",
+    "label_zh": "无袖衬衫"
+  },
+  {
+    "tag": "sleeveless_turtleneck",
+    "category": "clothing",
+    "label_zh": "无袖高领毛衣"
+  },
+  {
+    "tag": "slippers",
+    "category": "clothing",
+    "label_zh": "拖鞋"
+  },
+  {
+    "tag": "sneakers",
+    "category": "clothing",
+    "label_zh": "运动鞋"
+  },
+  {
+    "tag": "socks",
+    "category": "clothing",
+    "label_zh": "短袜"
+  },
+  {
+    "tag": "sportswear",
+    "category": "clothing",
+    "label_zh": "运动服"
+  },
+  {
+    "tag": "star_necklace",
+    "category": "clothing",
+    "label_zh": "星形项链"
+  },
+  {
+    "tag": "stiletto_heels",
+    "category": "clothing",
+    "label_zh": "细跟高跟鞋"
+  },
+  {
+    "tag": "stirrup_legwear",
+    "category": "clothing",
+    "label_zh": "渔网袜"
+  },
+  {
+    "tag": "strapless_bikini",
+    "category": "clothing",
+    "label_zh": "无肩带比基尼"
+  },
+  {
+    "tag": "strapless_dress",
+    "category": "clothing",
+    "label_zh": "无肩带连衣裙"
+  },
+  {
+    "tag": "strappy_heels",
+    "category": "clothing",
+    "label_zh": "带束带的高跟鞋"
+  },
+  {
+    "tag": "string_bikini",
+    "category": "clothing",
+    "label_zh": "系绳比基尼"
+  },
+  {
+    "tag": "striped_bikini",
+    "category": "clothing",
+    "label_zh": "条纹比基尼"
+  },
+  {
+    "tag": "striped_dress",
+    "category": "clothing",
+    "label_zh": "条纹连衣裙"
+  },
+  {
+    "tag": "striped_pants",
+    "category": "clothing",
+    "label_zh": "条纹裤"
+  },
+  {
+    "tag": "striped_shirt",
+    "category": "clothing",
+    "label_zh": "条纹衬衫"
+  },
+  {
+    "tag": "striped_shorts",
+    "category": "clothing",
+    "label_zh": "条纹短裤"
+  },
+  {
+    "tag": "striped_skirt",
+    "category": "clothing",
+    "label_zh": "条纹裙"
+  },
+  {
+    "tag": "striped_socks",
+    "category": "clothing",
+    "label_zh": "横条短袜"
+  },
+  {
+    "tag": "striped_sweater",
+    "category": "clothing",
+    "label_zh": "条纹毛衣"
+  },
+  {
+    "tag": "suit",
+    "category": "clothing",
+    "label_zh": "西装"
+  },
+  {
+    "tag": "summer_uniform",
+    "category": "clothing",
+    "label_zh": "夏季制服"
+  },
+  {
+    "tag": "sundress",
+    "category": "clothing",
+    "label_zh": "吊帶連衣裙（大熱天穿的無袖連衣裙）"
+  },
+  {
+    "tag": "suspender_shorts",
+    "category": "clothing",
+    "label_zh": "吊带短裤"
+  },
+  {
+    "tag": "suspender_skirt",
+    "category": "clothing",
+    "label_zh": "吊带裙"
+  },
+  {
+    "tag": "suspenders",
+    "category": "clothing",
+    "label_zh": "吊带袜"
+  },
+  {
+    "tag": "sweater",
+    "category": "clothing",
+    "label_zh": "毛衣"
+  },
+  {
+    "tag": "sweater_dress",
+    "category": "clothing",
+    "label_zh": "围裙连衣裙"
+  },
+  {
+    "tag": "sweater_vest",
+    "category": "clothing",
+    "label_zh": "毛衣背心"
+  },
+  {
+    "tag": "swim_trunks",
+    "category": "clothing",
+    "label_zh": "泳裤"
+  },
+  {
+    "tag": "swimsuit",
+    "category": "clothing",
+    "label_zh": "泳装"
+  },
+  {
+    "tag": "swimsuit_under_clothes",
+    "category": "clothing",
+    "label_zh": "衣服里面穿着泳衣"
+  },
+  {
+    "tag": "t-shirt",
+    "category": "clothing",
+    "label_zh": "T恤"
+  },
+  {
+    "tag": "tabi",
+    "category": "clothing",
+    "label_zh": "日式厚底短袜(足袋)"
+  },
+  {
+    "tag": "tank_top",
+    "category": "clothing",
+    "label_zh": "背心(居家)"
+  },
+  {
+    "tag": "taut_clothes",
+    "category": "clothing",
+    "label_zh": "绷紧的衣服"
+  },
+  {
+    "tag": "taut_dress",
+    "category": "clothing",
+    "label_zh": "绷紧的连衣裙"
+  },
+  {
+    "tag": "taut_shirt",
+    "category": "clothing",
+    "label_zh": "绷紧的衬衫"
+  },
+  {
+    "tag": "thigh_boots",
+    "category": "clothing",
+    "label_zh": "大腿靴"
+  },
+  {
+    "tag": "thigh_ribbon",
+    "category": "clothing",
+    "label_zh": "大腿缎带"
+  },
+  {
+    "tag": "thigh_strap",
+    "category": "clothing",
+    "label_zh": "大腿绑带"
+  },
+  {
+    "tag": "thighband_pantyhose",
+    "category": "clothing",
+    "label_zh": "有腿环的裤袜"
+  },
+  {
+    "tag": "thighhighs",
+    "category": "clothing",
+    "label_zh": "长筒袜(过膝高筒袜)"
+  },
+  {
+    "tag": "tied_shirt",
+    "category": "clothing",
+    "label_zh": "系带衬衫(把衣角和下擺打结)"
+  },
+  {
+    "tag": "tight_pants",
+    "category": "clothing",
+    "label_zh": "紧身裤/运动裤"
+  },
+  {
+    "tag": "toeless_legwear",
+    "category": "clothing",
+    "label_zh": "露趾袜"
+  },
+  {
+    "tag": "tokiwadai_school_uniform",
+    "category": "clothing",
+    "label_zh": "常盘台中学校服"
+  },
+  {
+    "tag": "towel_around_neck",
+    "category": "clothing",
+    "label_zh": "脖子上的毛巾"
+  },
+  {
+    "tag": "track_jacket",
+    "category": "clothing",
+    "label_zh": "运动夹克"
+  },
+  {
+    "tag": "track_pants",
+    "category": "clothing",
+    "label_zh": "运动裤"
+  },
+  {
+    "tag": "transparent",
+    "category": "clothing",
+    "label_zh": "透明的"
+  },
+  {
+    "tag": "trench_coat",
+    "category": "clothing",
+    "label_zh": "风衣"
+  },
+  {
+    "tag": "tunic",
+    "category": "clothing",
+    "label_zh": "束腰外衣"
+  },
+  {
+    "tag": "turtleneck_sweater",
+    "category": "clothing",
+    "label_zh": "高领毛衣"
+  },
+  {
+    "tag": "tuxedo",
+    "category": "clothing",
+    "label_zh": "燕尾服"
+  },
+  {
+    "tag": "two-tone_jacket",
+    "category": "clothing",
+    "label_zh": "两色夹克"
+  },
+  {
+    "tag": "unbuttoned_shirt",
+    "category": "clothing",
+    "label_zh": "解开纽扣的衬衫"
+  },
+  {
+    "tag": "undershirt",
+    "category": "clothing",
+    "label_zh": "汗衫"
+  },
+  {
+    "tag": "undersized_clothes",
+    "category": "clothing",
+    "label_zh": "穿衣方式错了"
+  },
+  {
+    "tag": "uneven_legwear",
+    "category": "clothing",
+    "label_zh": "长短袜"
+  },
+  {
+    "tag": "untucked_shirt",
+    "category": "clothing",
+    "label_zh": "解开的衬衫"
+  },
+  {
+    "tag": "uranohoshi_school_uniform",
+    "category": "clothing",
+    "label_zh": "浦之星女学院校服"
+  },
+  {
+    "tag": "uwabaki",
+    "category": "clothing",
+    "label_zh": "室内鞋"
+  },
+  {
+    "tag": "v-neck",
+    "category": "clothing",
+    "label_zh": "V领"
+  },
+  {
+    "tag": "vertical-striped_dress",
+    "category": "clothing",
+    "label_zh": "竖条纹连衣裙"
+  },
+  {
+    "tag": "vertical-striped_skirt",
+    "category": "clothing",
+    "label_zh": "竖条纹裙子"
+  },
+  {
+    "tag": "vest",
+    "category": "clothing",
+    "label_zh": "背心(正式)"
+  },
+  {
+    "tag": "waist_apron",
+    "category": "clothing",
+    "label_zh": "腰围裙"
+  },
+  {
+    "tag": "waist_cape",
+    "category": "clothing",
+    "label_zh": "穿在腰部的小披风"
+  },
+  {
+    "tag": "waistcoat",
+    "category": "clothing",
+    "label_zh": "背心(正式)"
+  },
+  {
+    "tag": "wedding_dress",
+    "category": "clothing",
+    "label_zh": "婚纱"
+  },
+  {
+    "tag": "wet_shirt",
+    "category": "clothing",
+    "label_zh": "湿衬衫"
+  },
+  {
+    "tag": "wet_swimsuit",
+    "category": "clothing",
+    "label_zh": "湿泳衣"
+  },
+  {
+    "tag": "whistle_around_neck",
+    "category": "clothing",
+    "label_zh": "脖子上挂着口哨"
+  },
+  {
+    "tag": "white_necktie",
+    "category": "clothing",
+    "label_zh": "白色领带"
+  },
+  {
+    "tag": "white_pantyhose",
+    "category": "clothing",
+    "label_zh": "白丝裤袜"
+  },
+  {
+    "tag": "white_shirt",
+    "category": "clothing",
+    "label_zh": "白衬衫"
+  },
+  {
+    "tag": "white_thighhighs",
+    "category": "clothing",
+    "label_zh": "白色长筒袜"
+  },
+  {
+    "tag": "winter_clothes",
+    "category": "clothing",
+    "label_zh": "冬装"
+  },
+  {
+    "tag": "winter_coat",
+    "category": "clothing",
+    "label_zh": "冬季大衣"
+  },
+  {
+    "tag": "wrestling_outfit",
+    "category": "clothing",
+    "label_zh": "摔角服"
+  },
+  {
+    "tag": "yoga_pants",
+    "category": "clothing",
+    "label_zh": "瑜伽裤"
+  },
+  {
+    "tag": "yukata",
+    "category": "clothing",
+    "label_zh": "浴衣"
+  },
+  {
+    "tag": "zouri",
+    "category": "clothing",
+    "label_zh": "日式草鞋"
+  },
+  {
+    "tag": "cinematic_angle",
+    "category": "composition",
+    "label_zh": "电影角度"
+  },
+  {
+    "tag": "dutch_angle",
+    "category": "composition",
+    "label_zh": "倾斜角度"
+  },
+  {
+    "tag": "dynamic_angle",
+    "category": "composition",
+    "label_zh": "动态角度"
+  },
+  {
+    "tag": "foreshortening",
+    "category": "composition",
+    "label_zh": "透视法"
+  },
+  {
+    "tag": "from_above",
+    "category": "composition",
+    "label_zh": "从上方↘"
+  },
+  {
+    "tag": "from_behind",
+    "category": "composition",
+    "label_zh": "后背视角"
+  },
+  {
+    "tag": "from_below",
+    "category": "composition",
+    "label_zh": "从下方↗"
+  },
+  {
+    "tag": "from_outside",
+    "category": "composition",
+    "label_zh": "由室外向室内"
+  },
+  {
+    "tag": "from_side",
+    "category": "composition",
+    "label_zh": "侧面视角"
+  },
+  {
+    "tag": "front_view",
+    "category": "composition",
+    "label_zh": "正面视角"
+  },
+  {
+    "tag": "mirror_selfie",
+    "category": "composition",
+    "label_zh": "对镜自拍"
+  },
+  {
+    "tag": "three-quarter_view",
+    "category": "composition",
+    "label_zh": "3/4视角"
+  },
+  {
+    "tag": "turn_one's_back",
+    "category": "composition",
+    "label_zh": "转身"
+  },
+  {
+    "tag": "alien_ears",
+    "category": "ears",
+    "label_zh": "外星人耳朵"
+  },
+  {
+    "tag": "alpaca_ears",
+    "category": "ears",
+    "label_zh": "羊驼耳"
+  },
+  {
+    "tag": "angel_ears",
+    "category": "ears",
+    "label_zh": "天使耳朵"
+  },
+  {
+    "tag": "animal_ear_fluff",
+    "category": "ears",
+    "label_zh": "动物耳朵绒毛"
+  },
+  {
+    "tag": "animal_ears",
+    "category": "ears",
+    "label_zh": "兽耳"
+  },
+  {
+    "tag": "antelope_ears",
+    "category": "ears",
+    "label_zh": "羚羊耳朵"
+  },
+  {
+    "tag": "antlers",
+    "category": "ears",
+    "label_zh": "鹿角"
+  },
+  {
+    "tag": "bat_ears",
+    "category": "ears",
+    "label_zh": "蝙蝠耳朵"
+  },
+  {
+    "tag": "bear_ears",
+    "category": "ears",
+    "label_zh": "熊耳朵"
+  },
+  {
+    "tag": "bunny_ears",
+    "category": "ears",
+    "label_zh": "兔子耳朵"
+  },
+  {
+    "tag": "cat_ears",
+    "category": "ears",
+    "label_zh": "猫耳朵"
+  },
+  {
+    "tag": "cow_ears",
+    "category": "ears",
+    "label_zh": "牛耳朵"
+  },
+  {
+    "tag": "coyote_ears",
+    "category": "ears",
+    "label_zh": "郊狼耳朵"
+  },
+  {
+    "tag": "curled_horns",
+    "category": "ears",
+    "label_zh": "弯角"
+  },
+  {
+    "tag": "deer_ears",
+    "category": "ears",
+    "label_zh": "鹿耳朵"
+  },
+  {
+    "tag": "demon_ears",
+    "category": "ears",
+    "label_zh": "恶魔耳朵"
+  },
+  {
+    "tag": "dog_ears",
+    "category": "ears",
+    "label_zh": "狗耳朵"
+  },
+  {
+    "tag": "dragon_ears",
+    "category": "ears",
+    "label_zh": "龙耳朵"
+  },
+  {
+    "tag": "dragon_horns",
+    "category": "ears",
+    "label_zh": "龙角"
+  },
+  {
+    "tag": "ear_blush",
+    "category": "ears",
+    "label_zh": "耳朵通红"
+  },
+  {
+    "tag": "ear_ornament",
+    "category": "ears",
+    "label_zh": "耳饰"
+  },
+  {
+    "tag": "ear_piercing",
+    "category": "ears",
+    "label_zh": "耳洞"
+  },
+  {
+    "tag": "ears_down",
+    "category": "ears",
+    "label_zh": "垂耳"
+  },
+  {
+    "tag": "ears_through_headwear",
+    "category": "ears",
+    "label_zh": "耳朵穿过帽子或头饰"
+  },
+  {
+    "tag": "elephant_ears",
+    "category": "ears",
+    "label_zh": "大象耳朵"
+  },
+  {
+    "tag": "elf_ears",
+    "category": "ears",
+    "label_zh": "精灵耳朵"
+  },
+  {
+    "tag": "extra_ears",
+    "category": "ears",
+    "label_zh": "额外的耳朵"
+  },
+  {
+    "tag": "fake_animal_ears",
+    "category": "ears",
+    "label_zh": "动物耳朵"
+  },
+  {
+    "tag": "fake_horns",
+    "category": "ears",
+    "label_zh": "假角"
+  },
+  {
+    "tag": "floppy_ears",
+    "category": "ears",
+    "label_zh": "松软的耳朵"
+  },
+  {
+    "tag": "fox_ears",
+    "category": "ears",
+    "label_zh": "狐狸耳朵"
+  },
+  {
+    "tag": "goat_ears",
+    "category": "ears",
+    "label_zh": "山羊耳朵"
+  },
+  {
+    "tag": "goat_horns",
+    "category": "ears",
+    "label_zh": "山羊角"
+  },
+  {
+    "tag": "hair_on_horn",
+    "category": "ears",
+    "label_zh": "角上的头发"
+  },
+  {
+    "tag": "horns",
+    "category": "ears",
+    "label_zh": "兽角"
+  },
+  {
+    "tag": "horse_ears",
+    "category": "ears",
+    "label_zh": "马耳朵"
+  },
+  {
+    "tag": "jaguar_ears",
+    "category": "ears",
+    "label_zh": "美洲豹耳朵"
+  },
+  {
+    "tag": "lion_ears",
+    "category": "ears",
+    "label_zh": "狮子耳朵"
+  },
+  {
+    "tag": "long_pointy_ears",
+    "category": "ears",
+    "label_zh": "长尖耳朵"
+  },
+  {
+    "tag": "mouse_ears",
+    "category": "ears",
+    "label_zh": "老鼠耳朵"
+  },
+  {
+    "tag": "oni_horns",
+    "category": "ears",
+    "label_zh": "鬼角"
+  },
+  {
+    "tag": "panda_ears",
+    "category": "ears",
+    "label_zh": "熊猫耳朵"
+  },
+  {
+    "tag": "pig_ears",
+    "category": "ears",
+    "label_zh": "猪耳朵"
+  },
+  {
+    "tag": "pointy_ears",
+    "category": "ears",
+    "label_zh": "尖耳朵"
+  },
+  {
+    "tag": "raccoon_ears",
+    "category": "ears",
+    "label_zh": "浣熊耳朵"
+  },
+  {
+    "tag": "robot_ears",
+    "category": "ears",
+    "label_zh": "机器人耳朵"
+  },
+  {
+    "tag": "sheep_ears",
+    "category": "ears",
+    "label_zh": "羊耳朵"
+  },
+  {
+    "tag": "squirrel_ears",
+    "category": "ears",
+    "label_zh": "松鼠耳朵"
+  },
+  {
+    "tag": "tiger_ears",
+    "category": "ears",
+    "label_zh": "虎耳"
+  },
+  {
+    "tag": "wolf_ears",
+    "category": "ears",
+    "label_zh": "狼耳朵"
+  },
+  {
+    "tag": ":d",
+    "category": "expression",
+    "label_zh": "开心的笑_:D😀"
+  },
+  {
+    "tag": ";d",
+    "category": "expression",
+    "label_zh": "眨眼笑_:D"
+  },
+  {
+    "tag": "angry",
+    "category": "expression",
+    "label_zh": "生气的"
+  },
+  {
+    "tag": "anguish",
+    "category": "expression",
+    "label_zh": "苦闷"
+  },
+  {
+    "tag": "annoyed",
+    "category": "expression",
+    "label_zh": "苦恼的"
+  },
+  {
+    "tag": "badmood",
+    "category": "expression",
+    "label_zh": "心情不好"
+  },
+  {
+    "tag": "bored",
+    "category": "expression",
+    "label_zh": "无聊的"
+  },
+  {
+    "tag": "confused",
+    "category": "expression",
+    "label_zh": "使困惑"
+  },
+  {
+    "tag": "contempt",
+    "category": "expression",
+    "label_zh": "蔑视"
+  },
+  {
+    "tag": "crazy",
+    "category": "expression",
+    "label_zh": "疯狂的"
+  },
+  {
+    "tag": "crazy_smile",
+    "category": "expression",
+    "label_zh": "疯狂的笑"
+  },
+  {
+    "tag": "crying",
+    "category": "expression",
+    "label_zh": "大哭"
+  },
+  {
+    "tag": "dark_persona",
+    "category": "expression",
+    "label_zh": "黑化的"
+  },
+  {
+    "tag": "despair",
+    "category": "expression",
+    "label_zh": "绝望"
+  },
+  {
+    "tag": "disappointed",
+    "category": "expression",
+    "label_zh": "失望的"
+  },
+  {
+    "tag": "disdain",
+    "category": "expression",
+    "label_zh": "轻蔑"
+  },
+  {
+    "tag": "disgust",
+    "category": "expression",
+    "label_zh": "厌恶(看垃圾一样的眼神)"
+  },
+  {
+    "tag": "drunk",
+    "category": "expression",
+    "label_zh": "喝醉的"
+  },
+  {
+    "tag": "embarrass",
+    "category": "expression",
+    "label_zh": "害羞的(尴尬的)"
+  },
+  {
+    "tag": "endured_face",
+    "category": "expression",
+    "label_zh": "忍耐的表情"
+  },
+  {
+    "tag": "envy",
+    "category": "expression",
+    "label_zh": "嫉妒"
+  },
+  {
+    "tag": "evil",
+    "category": "expression",
+    "label_zh": "邪恶的"
+  },
+  {
+    "tag": "evil_smile",
+    "category": "expression",
+    "label_zh": "邪恶笑"
+  },
+  {
+    "tag": "exhausted",
+    "category": "expression",
+    "label_zh": "筋疲力尽的"
+  },
+  {
+    "tag": "expressionless",
+    "category": "expression",
+    "label_zh": "面无表情"
+  },
+  {
+    "tag": "facepalm",
+    "category": "expression",
+    "label_zh": "捂脸"
+  },
+  {
+    "tag": "flustered",
+    "category": "expression",
+    "label_zh": "慌张的"
+  },
+  {
+    "tag": "frown",
+    "category": "expression",
+    "label_zh": "皱眉/蹙额"
+  },
+  {
+    "tag": "frustrated",
+    "category": "expression",
+    "label_zh": "沮丧"
+  },
+  {
+    "tag": "frustrated_brow",
+    "category": "expression",
+    "label_zh": "沮丧的眉头"
+  },
+  {
+    "tag": "furrowed_brow",
+    "category": "expression",
+    "label_zh": "眉头紧锁"
+  },
+  {
+    "tag": "giggling",
+    "category": "expression",
+    "label_zh": "咯咯傻笑"
+  },
+  {
+    "tag": "glaring",
+    "category": "expression",
+    "label_zh": "怒目而视"
+  },
+  {
+    "tag": "gloom",
+    "category": "expression",
+    "label_zh": "忧郁的"
+  },
+  {
+    "tag": "grin",
+    "category": "expression",
+    "label_zh": "露齿咧嘴笑"
+  },
+  {
+    "tag": "happy",
+    "category": "expression",
+    "label_zh": "快乐"
+  },
+  {
+    "tag": "happy_tears",
+    "category": "expression",
+    "label_zh": "开心的眼泪"
+  },
+  {
+    "tag": "kind_smile",
+    "category": "expression",
+    "label_zh": "开心"
+  },
+  {
+    "tag": "laughing",
+    "category": "expression",
+    "label_zh": "大笑"
+  },
+  {
+    "tag": "lonely",
+    "category": "expression",
+    "label_zh": "孤独"
+  },
+  {
+    "tag": "multiple_persona",
+    "category": "expression",
+    "label_zh": "多重人格"
+  },
+  {
+    "tag": "naughty",
+    "category": "expression",
+    "label_zh": "淘气"
+  },
+  {
+    "tag": "naughty_face",
+    "category": "expression",
+    "label_zh": "调皮的脸"
+  },
+  {
+    "tag": "sad",
+    "category": "expression",
+    "label_zh": "伤心"
+  },
+  {
+    "tag": "scared",
+    "category": "expression",
+    "label_zh": "害怕的"
+  },
+  {
+    "tag": "scowl",
+    "category": "expression",
+    "label_zh": "嫌弃的眼神"
+  },
+  {
+    "tag": "screaming",
+    "category": "expression",
+    "label_zh": "尖叫"
+  },
+  {
+    "tag": "serious",
+    "category": "expression",
+    "label_zh": "严肃的（和angry有点像）"
+  },
+  {
+    "tag": "shaded_face",
+    "category": "expression",
+    "label_zh": "脸上有阴影，配合蔑视"
+  },
+  {
+    "tag": "shouting",
+    "category": "expression",
+    "label_zh": "喊叫"
+  },
+  {
+    "tag": "shy",
+    "category": "expression",
+    "label_zh": "害羞的"
+  },
+  {
+    "tag": "sigh",
+    "category": "expression",
+    "label_zh": "叹气"
+  },
+  {
+    "tag": "sleepy",
+    "category": "expression",
+    "label_zh": "困乏的"
+  },
+  {
+    "tag": "smile",
+    "category": "expression",
+    "label_zh": "微笑"
+  },
+  {
+    "tag": "smirk",
+    "category": "expression",
+    "label_zh": "傻笑,自鸣得意的笑"
+  },
+  {
+    "tag": "smug",
+    "category": "expression",
+    "label_zh": "洋洋得意"
+  },
+  {
+    "tag": "streaming_tears",
+    "category": "expression",
+    "label_zh": "流泪"
+  },
+  {
+    "tag": "sulking",
+    "category": "expression",
+    "label_zh": "生_闷气"
+  },
+  {
+    "tag": "sweat",
+    "category": "expression",
+    "label_zh": "流汗"
+  },
+  {
+    "tag": "tear",
+    "category": "expression",
+    "label_zh": "啜泣"
+  },
+  {
+    "tag": "teardrop",
+    "category": "expression",
+    "label_zh": "泪珠"
+  },
+  {
+    "tag": "tearing_up",
+    "category": "expression",
+    "label_zh": "要哭的表情"
+  },
+  {
+    "tag": "teasing_smile",
+    "category": "expression",
+    "label_zh": "被逗笑，咧嘴傻笑"
+  },
+  {
+    "tag": "thinking",
+    "category": "expression",
+    "label_zh": "思考"
+  },
+  {
+    "tag": "trembling",
+    "category": "expression",
+    "label_zh": "颤抖"
+  },
+  {
+    "tag": "tsundere",
+    "category": "expression",
+    "label_zh": "傲娇"
+  },
+  {
+    "tag": "twitching",
+    "category": "expression",
+    "label_zh": "抽搐"
+  },
+  {
+    "tag": "wiping_tears",
+    "category": "expression",
+    "label_zh": "擦眼泪"
+  },
+  {
+    "tag": "yandere",
+    "category": "expression",
+    "label_zh": "病娇"
+  },
+  {
+    "tag": "+_+",
+    "category": "eyes",
+    "label_zh": "十字星星眼"
+  },
+  {
+    "tag": "anime_style_eyes",
+    "category": "eyes",
+    "label_zh": "动画眼"
+  },
+  {
+    "tag": "aqua_eyes",
+    "category": "eyes",
+    "label_zh": "水蓝色眼睛"
+  },
+  {
+    "tag": "bags_under_eyes",
+    "category": "eyes",
+    "label_zh": "眼袋"
+  },
+  {
+    "tag": "beautiful_detailed_eyes",
+    "category": "eyes",
+    "label_zh": "美丽的眼睛"
+  },
+  {
+    "tag": "black_eyes",
+    "category": "eyes",
+    "label_zh": "黑色眼睛"
+  },
+  {
+    "tag": "blank_eyes",
+    "category": "eyes",
+    "label_zh": "空白的眼睛"
+  },
+  {
+    "tag": "blue_eyes",
+    "category": "eyes",
+    "label_zh": "蓝色眼睛"
+  },
+  {
+    "tag": "blue_eyeshadow",
+    "category": "eyes",
+    "label_zh": "蓝色眼影"
+  },
+  {
+    "tag": "blush_stickers",
+    "category": "eyes",
+    "label_zh": "Q版腮红贴纸"
+  },
+  {
+    "tag": "bright_pupils",
+    "category": "eyes",
+    "label_zh": "明亮的瞳孔"
+  },
+  {
+    "tag": "brown_eyes",
+    "category": "eyes",
+    "label_zh": "棕色眼睛"
+  },
+  {
+    "tag": "butterfly-shaped_pupils",
+    "category": "eyes",
+    "label_zh": "蝴蝶形瞳孔"
+  },
+  {
+    "tag": "button_eyes",
+    "category": "eyes",
+    "label_zh": "纽扣眼睛"
+  },
+  {
+    "tag": "cephalopod_eyes",
+    "category": "eyes",
+    "label_zh": "头足类眼睛"
+  },
+  {
+    "tag": "clock_eyes",
+    "category": "eyes",
+    "label_zh": "钟眼"
+  },
+  {
+    "tag": "closed_eyes",
+    "category": "eyes",
+    "label_zh": "闭上眼睛"
+  },
+  {
+    "tag": "color_contact_lenses",
+    "category": "eyes",
+    "label_zh": "美瞳"
+  },
+  {
+    "tag": "compound_eyes",
+    "category": "eyes",
+    "label_zh": "复眼"
+  },
+  {
+    "tag": "constricted_pupils",
+    "category": "eyes",
+    "label_zh": "瞳孔收缩"
+  },
+  {
+    "tag": "covered_eyes",
+    "category": "eyes",
+    "label_zh": "蒙住眼睛"
+  },
+  {
+    "tag": "covering_eyes",
+    "category": "eyes",
+    "label_zh": "遮住眼睛"
+  },
+  {
+    "tag": "crazy_eyes",
+    "category": "eyes",
+    "label_zh": "疯狂的眼睛"
+  },
+  {
+    "tag": "cross-eyed",
+    "category": "eyes",
+    "label_zh": "斗鸡眼"
+  },
+  {
+    "tag": "crying_with_eyes_open",
+    "category": "eyes",
+    "label_zh": "睁着眼睛哭"
+  },
+  {
+    "tag": "dashed_eyes",
+    "category": "eyes",
+    "label_zh": "虚线的眼睛"
+  },
+  {
+    "tag": "devil_eyes",
+    "category": "eyes",
+    "label_zh": "魔鬼眼"
+  },
+  {
+    "tag": "devil_pupils",
+    "category": "eyes",
+    "label_zh": "魔瞳"
+  },
+  {
+    "tag": "diamond-shaped_pupils",
+    "category": "eyes",
+    "label_zh": "钻石形状瞳孔"
+  },
+  {
+    "tag": "dilated_pupils",
+    "category": "eyes",
+    "label_zh": "瞳孔散大"
+  },
+  {
+    "tag": "dot_pupils",
+    "category": "eyes",
+    "label_zh": "点瞳孔"
+  },
+  {
+    "tag": "empty_eyes",
+    "category": "eyes",
+    "label_zh": "空洞的眼睛"
+  },
+  {
+    "tag": "evil_eyes",
+    "category": "eyes",
+    "label_zh": "邪恶的眼睛"
+  },
+  {
+    "tag": "extra_eyes",
+    "category": "eyes",
+    "label_zh": "额外的眼睛"
+  },
+  {
+    "tag": "extra_pupils",
+    "category": "eyes",
+    "label_zh": "额外的瞳孔"
+  },
+  {
+    "tag": "eye_contact",
+    "category": "eyes",
+    "label_zh": "眼神交流"
+  },
+  {
+    "tag": "eye_of_horus",
+    "category": "eyes",
+    "label_zh": "荷鲁斯之眼"
+  },
+  {
+    "tag": "eyeball",
+    "category": "eyes",
+    "label_zh": "眼球"
+  },
+  {
+    "tag": "eyeliner",
+    "category": "eyes",
+    "label_zh": "眼线"
+  },
+  {
+    "tag": "eyepatch",
+    "category": "eyes",
+    "label_zh": "眼罩"
+  },
+  {
+    "tag": "eyes_visible_through_hair",
+    "category": "eyes",
+    "label_zh": "透过头发看见眼睛"
+  },
+  {
+    "tag": "fisheye",
+    "category": "eyes",
+    "label_zh": "鱼眼"
+  },
+  {
+    "tag": "flaming_eye",
+    "category": "eyes",
+    "label_zh": "焰目"
+  },
+  {
+    "tag": "flower-shaped_pupils",
+    "category": "eyes",
+    "label_zh": "花状瞳孔"
+  },
+  {
+    "tag": "glint",
+    "category": "eyes",
+    "label_zh": "眼中闪现强烈的情感"
+  },
+  {
+    "tag": "glowing_eyes",
+    "category": "eyes",
+    "label_zh": "发光的眼睛"
+  },
+  {
+    "tag": "gradient_eyes",
+    "category": "eyes",
+    "label_zh": "渐变眼睛"
+  },
+  {
+    "tag": "green_eyes",
+    "category": "eyes",
+    "label_zh": "绿色眼睛"
+  },
+  {
+    "tag": "green_eyeshadow",
+    "category": "eyes",
+    "label_zh": "绿色眼影"
+  },
+  {
+    "tag": "grey_eyes",
+    "category": "eyes",
+    "label_zh": "灰色眼睛"
+  },
+  {
+    "tag": "hair_over_eyes",
+    "category": "eyes",
+    "label_zh": "头发遮着双眼"
+  },
+  {
+    "tag": "hair_over_one_eye",
+    "category": "eyes",
+    "label_zh": "头发遮住了一只眼睛"
+  },
+  {
+    "tag": "half-closed_eye",
+    "category": "eyes",
+    "label_zh": "半闭的眼睛(单眼)"
+  },
+  {
+    "tag": "half-closed_eyes",
+    "category": "eyes",
+    "label_zh": "半闭眼"
+  },
+  {
+    "tag": "heart-shaped_eyes",
+    "category": "eyes",
+    "label_zh": "心形眼睛"
+  },
+  {
+    "tag": "heart-shaped_pupils",
+    "category": "eyes",
+    "label_zh": "心形瞳孔"
+  },
+  {
+    "tag": "heart_in_eye",
+    "category": "eyes",
+    "label_zh": "心形眼"
+  },
+  {
+    "tag": "heterochromia",
+    "category": "eyes",
+    "label_zh": "异色瞳"
+  },
+  {
+    "tag": "hidden_eyes",
+    "category": "eyes",
+    "label_zh": "隐藏眼睛"
+  },
+  {
+    "tag": "jitome",
+    "category": "eyes",
+    "label_zh": "轻蔑的眼神"
+  },
+  {
+    "tag": "light_brown_eyes",
+    "category": "eyes",
+    "label_zh": "浅棕色眼睛"
+  },
+  {
+    "tag": "light_eyes",
+    "category": "eyes",
+    "label_zh": "明亮的眼睛"
+  },
+  {
+    "tag": "longeyelashes",
+    "category": "eyes",
+    "label_zh": "长睫毛"
+  },
+  {
+    "tag": "medical_eyepatch",
+    "category": "eyes",
+    "label_zh": "医用眼罩"
+  },
+  {
+    "tag": "mismatched_pupils",
+    "category": "eyes",
+    "label_zh": "不匹配的瞳孔"
+  },
+  {
+    "tag": "mismatched_sclera",
+    "category": "eyes",
+    "label_zh": "错配巩膜"
+  },
+  {
+    "tag": "multicolored_eyes",
+    "category": "eyes",
+    "label_zh": "多彩眼睛"
+  },
+  {
+    "tag": "narrowed_eyes",
+    "category": "eyes",
+    "label_zh": "眯起眼睛"
+  },
+  {
+    "tag": "no_blindfold",
+    "category": "eyes",
+    "label_zh": "去掉了(原设有的)蒙眼要素"
+  },
+  {
+    "tag": "no_eyepatch",
+    "category": "eyes",
+    "label_zh": "去掉了(原设有的)眼罩"
+  },
+  {
+    "tag": "no_eyes",
+    "category": "eyes",
+    "label_zh": "没有眼睛"
+  },
+  {
+    "tag": "no_pupils",
+    "category": "eyes",
+    "label_zh": "没有瞳孔"
+  },
+  {
+    "tag": "one_eye_covered",
+    "category": "eyes",
+    "label_zh": "一只眼被遮住"
+  },
+  {
+    "tag": "orange_eyes",
+    "category": "eyes",
+    "label_zh": "橙色眼睛"
+  },
+  {
+    "tag": "orange_pupils",
+    "category": "eyes",
+    "label_zh": "橙色瞳孔"
+  },
+  {
+    "tag": "pink_eyes",
+    "category": "eyes",
+    "label_zh": "粉色眼睛"
+  },
+  {
+    "tag": "pink_eyeshadow",
+    "category": "eyes",
+    "label_zh": "粉色眼影"
+  },
+  {
+    "tag": "pupils_sparkling",
+    "category": "eyes",
+    "label_zh": "瞳孔闪烁"
+  },
+  {
+    "tag": "purple_eyes",
+    "category": "eyes",
+    "label_zh": "紫色眼睛"
+  },
+  {
+    "tag": "purple_eyeshadow",
+    "category": "eyes",
+    "label_zh": "紫色眼影"
+  },
+  {
+    "tag": "purple_pupils",
+    "category": "eyes",
+    "label_zh": "紫色瞳孔"
+  },
+  {
+    "tag": "rectangular_pupils",
+    "category": "eyes",
+    "label_zh": "长方形瞳孔"
+  },
+  {
+    "tag": "red_eyes",
+    "category": "eyes",
+    "label_zh": "红色眼睛"
+  },
+  {
+    "tag": "red_eyeshadow",
+    "category": "eyes",
+    "label_zh": "红色眼影"
+  },
+  {
+    "tag": "ringed_eyes",
+    "category": "eyes",
+    "label_zh": "眼圈"
+  },
+  {
+    "tag": "rolling_eyes",
+    "category": "eyes",
+    "label_zh": "翻白眼"
+  },
+  {
+    "tag": "sanpaku",
+    "category": "eyes",
+    "label_zh": "三白症(瞳孔偏移)"
+  },
+  {
+    "tag": "shading_eyes",
+    "category": "eyes",
+    "label_zh": "挡着眼睛"
+  },
+  {
+    "tag": "sharp_eyes",
+    "category": "eyes",
+    "label_zh": "锐利的眼"
+  },
+  {
+    "tag": "shiny_eyes",
+    "category": "eyes",
+    "label_zh": "闪亮的眼睛"
+  },
+  {
+    "tag": "silver_eyes",
+    "category": "eyes",
+    "label_zh": "银色的眼睛"
+  },
+  {
+    "tag": "slit_pupils",
+    "category": "eyes",
+    "label_zh": "猫眼"
+  },
+  {
+    "tag": "snake_pupils",
+    "category": "eyes",
+    "label_zh": "蛇瞳"
+  },
+  {
+    "tag": "solid_circle_eyes",
+    "category": "eyes",
+    "label_zh": "实心圆眼"
+  },
+  {
+    "tag": "solid_circle_pupils",
+    "category": "eyes",
+    "label_zh": "Q版实心圆瞳孔"
+  },
+  {
+    "tag": "solid_eyes",
+    "category": "eyes",
+    "label_zh": "坚定的眼睛"
+  },
+  {
+    "tag": "solid_oval_eyes",
+    "category": "eyes",
+    "label_zh": "实心椭圆形眼睛"
+  },
+  {
+    "tag": "sparkling_anime_eyes",
+    "category": "eyes",
+    "label_zh": "闪光动画眼"
+  },
+  {
+    "tag": "sparkling_eyes",
+    "category": "eyes",
+    "label_zh": "闪闪发光的眼睛"
+  },
+  {
+    "tag": "spiral_eyes",
+    "category": "eyes",
+    "label_zh": "漩涡眼"
+  },
+  {
+    "tag": "square_pupils",
+    "category": "eyes",
+    "label_zh": "方形瞳孔"
+  },
+  {
+    "tag": "squinting",
+    "category": "eyes",
+    "label_zh": "眯起眼睛看"
+  },
+  {
+    "tag": "star-shaped_pupils",
+    "category": "eyes",
+    "label_zh": "五角星形状瞳孔"
+  },
+  {
+    "tag": "star_in_eye",
+    "category": "eyes",
+    "label_zh": "眼睛里的星星"
+  },
+  {
+    "tag": "symbol-shaped_pupils",
+    "category": "eyes",
+    "label_zh": "符号形瞳孔"
+  },
+  {
+    "tag": "symbol_in_eye",
+    "category": "eyes",
+    "label_zh": "眼睛里有符号"
+  },
+  {
+    "tag": "tareme",
+    "category": "eyes",
+    "label_zh": "眼尾下垂"
+  },
+  {
+    "tag": "tears",
+    "category": "eyes",
+    "label_zh": "眼泪"
+  },
+  {
+    "tag": "third_eye",
+    "category": "eyes",
+    "label_zh": "第三只眼"
+  },
+  {
+    "tag": "tsurime",
+    "category": "eyes",
+    "label_zh": "眼尾上扬"
+  },
+  {
+    "tag": "uneven_eyes",
+    "category": "eyes",
+    "label_zh": "不均匀的眼睛"
+  },
+  {
+    "tag": "upturned_eyes",
+    "category": "eyes",
+    "label_zh": "上翘的眼睛"
+  },
+  {
+    "tag": "water_eyes",
+    "category": "eyes",
+    "label_zh": "水汪汪"
+  },
+  {
+    "tag": "white_eyes",
+    "category": "eyes",
+    "label_zh": "白色眼睛"
+  },
+  {
+    "tag": "x-shaped_pupils",
+    "category": "eyes",
+    "label_zh": "X形瞳孔"
+  },
+  {
+    "tag": "yellow_eyes",
+    "category": "eyes",
+    "label_zh": "黄色眼睛"
+  },
+  {
+    "tag": ":3",
+    "category": "face",
+    "label_zh": "猫嘴"
+  },
+  {
+    "tag": ":>",
+    "category": "face",
+    "label_zh": "V嘴"
+  },
+  {
+    "tag": ":o",
+    "category": "face",
+    "label_zh": "张嘴"
+  },
+  {
+    "tag": ":p",
+    "category": "face",
+    "label_zh": "舌头放在下唇"
+  },
+  {
+    "tag": ":q",
+    "category": "face",
+    "label_zh": "舌头放在上唇"
+  },
+  {
+    "tag": ";p",
+    "category": "face",
+    "label_zh": "眨眼舌头上伸"
+  },
+  {
+    "tag": "anger_vein",
+    "category": "face",
+    "label_zh": "头部愤怒符号"
+  },
+  {
+    "tag": "anime_style_blush",
+    "category": "face",
+    "label_zh": "动画式脸红"
+  },
+  {
+    "tag": "baby_face",
+    "category": "face",
+    "label_zh": "娃娃脸"
+  },
+  {
+    "tag": "big_nose",
+    "category": "face",
+    "label_zh": "大鼻子"
+  },
+  {
+    "tag": "blush",
+    "category": "face",
+    "label_zh": "脸红"
+  },
+  {
+    "tag": "bruise_on_face",
+    "category": "face",
+    "label_zh": "脸上有瘀伤"
+  },
+  {
+    "tag": "buck_teeth",
+    "category": "face",
+    "label_zh": "龅牙"
+  },
+  {
+    "tag": "chestnut_mouth",
+    "category": "face",
+    "label_zh": "栗子嘴"
+  },
+  {
+    "tag": "clenched_teeth",
+    "category": "face",
+    "label_zh": "咬紧牙关"
+  },
+  {
+    "tag": "closed_mouth",
+    "category": "face",
+    "label_zh": "闭嘴"
+  },
+  {
+    "tag": "cocked_eyebrow",
+    "category": "face",
+    "label_zh": "眉毛翘起"
+  },
+  {
+    "tag": "colored_eyelashes",
+    "category": "face",
+    "label_zh": "彩色睫毛"
+  },
+  {
+    "tag": "covered_mouth",
+    "category": "face",
+    "label_zh": "蒙住的嘴"
+  },
+  {
+    "tag": "diamond_face",
+    "category": "face",
+    "label_zh": "菱形脸"
+  },
+  {
+    "tag": "dot_mouth",
+    "category": "face",
+    "label_zh": "点嘴"
+  },
+  {
+    "tag": "dot_nose",
+    "category": "face",
+    "label_zh": "点状鼻"
+  },
+  {
+    "tag": "drooling",
+    "category": "face",
+    "label_zh": "流口水"
+  },
+  {
+    "tag": "extra_mouth",
+    "category": "face",
+    "label_zh": "有多张嘴巴"
+  },
+  {
+    "tag": "eyeshadow",
+    "category": "face",
+    "label_zh": "眼影"
+  },
+  {
+    "tag": "facepaint",
+    "category": "face",
+    "label_zh": "面部涂装"
+  },
+  {
+    "tag": "facial_mark",
+    "category": "face",
+    "label_zh": "面部标记"
+  },
+  {
+    "tag": "fang",
+    "category": "face",
+    "label_zh": "虎牙"
+  },
+  {
+    "tag": "fang_out",
+    "category": "face",
+    "label_zh": "露出虎牙"
+  },
+  {
+    "tag": "fangs",
+    "category": "face",
+    "label_zh": "尖牙"
+  },
+  {
+    "tag": "food_on_face",
+    "category": "face",
+    "label_zh": "食物在脸上"
+  },
+  {
+    "tag": "forehead_mark",
+    "category": "face",
+    "label_zh": "额头标记"
+  },
+  {
+    "tag": "freckles",
+    "category": "face",
+    "label_zh": "雀斑"
+  },
+  {
+    "tag": "gasping",
+    "category": "face",
+    "label_zh": "喘气（张大嘴）"
+  },
+  {
+    "tag": "gnaw",
+    "category": "face",
+    "label_zh": "啃"
+  },
+  {
+    "tag": "goatee",
+    "category": "face",
+    "label_zh": "山羊胡"
+  },
+  {
+    "tag": "hair_in_mouth",
+    "category": "face",
+    "label_zh": "嘴里有头发"
+  },
+  {
+    "tag": "hair_tie_in_mouth",
+    "category": "face",
+    "label_zh": "将系头发的东西叼在嘴里"
+  },
+  {
+    "tag": "heart-shaped_mouth",
+    "category": "face",
+    "label_zh": "心形嘴"
+  },
+  {
+    "tag": "heart_shaped_face",
+    "category": "face",
+    "label_zh": "心形脸"
+  },
+  {
+    "tag": "homu",
+    "category": "face",
+    "label_zh": "嘟嘴"
+  },
+  {
+    "tag": "inverted_triangle_face",
+    "category": "face",
+    "label_zh": "倒三角脸"
+  },
+  {
+    "tag": "light_blush",
+    "category": "face",
+    "label_zh": "淡淡的腮红"
+  },
+  {
+    "tag": "lipgloss",
+    "category": "face",
+    "label_zh": "唇彩"
+  },
+  {
+    "tag": "lips",
+    "category": "face",
+    "label_zh": "嘴唇"
+  },
+  {
+    "tag": "lipstick",
+    "category": "face",
+    "label_zh": "口红"
+  },
+  {
+    "tag": "long_eyelashes",
+    "category": "face",
+    "label_zh": "长睫毛"
+  },
+  {
+    "tag": "long_tongue",
+    "category": "face",
+    "label_zh": "长舌头"
+  },
+  {
+    "tag": "makeup",
+    "category": "face",
+    "label_zh": "化妆"
+  },
+  {
+    "tag": "mascara",
+    "category": "face",
+    "label_zh": "睫毛膏"
+  },
+  {
+    "tag": "mole",
+    "category": "face",
+    "label_zh": "痣"
+  },
+  {
+    "tag": "mole_under_eye",
+    "category": "face",
+    "label_zh": "眼睛下方的痣"
+  },
+  {
+    "tag": "mole_under_mouth",
+    "category": "face",
+    "label_zh": "嘴下痣"
+  },
+  {
+    "tag": "mouth",
+    "category": "face",
+    "label_zh": "嘴"
+  },
+  {
+    "tag": "mouth_drool",
+    "category": "face",
+    "label_zh": "嘴角画着口水滴形状的缺口"
+  },
+  {
+    "tag": "mouth_hold",
+    "category": "face",
+    "label_zh": "用嘴叼着"
+  },
+  {
+    "tag": "mustache",
+    "category": "face",
+    "label_zh": "小胡子"
+  },
+  {
+    "tag": "no_mouth",
+    "category": "face",
+    "label_zh": "没有嘴"
+  },
+  {
+    "tag": "no_nose",
+    "category": "face",
+    "label_zh": "没鼻子的"
+  },
+  {
+    "tag": "nose",
+    "category": "face",
+    "label_zh": "鼻子"
+  },
+  {
+    "tag": "nose_blush",
+    "category": "face",
+    "label_zh": "鼻腮红"
+  },
+  {
+    "tag": "nose_bubble",
+    "category": "face",
+    "label_zh": "鼻泡"
+  },
+  {
+    "tag": "nosebleed",
+    "category": "face",
+    "label_zh": "鼻血"
+  },
+  {
+    "tag": "open_mouth",
+    "category": "face",
+    "label_zh": "张嘴"
+  },
+  {
+    "tag": "oval_face",
+    "category": "face",
+    "label_zh": "鹅蛋脸"
+  },
+  {
+    "tag": "pacifier",
+    "category": "face",
+    "label_zh": "奶嘴"
+  },
+  {
+    "tag": "parted_lips",
+    "category": "face",
+    "label_zh": "张开的嘴"
+  },
+  {
+    "tag": "pointed_nose",
+    "category": "face",
+    "label_zh": "尖鼻子"
+  },
+  {
+    "tag": "pout",
+    "category": "face",
+    "label_zh": "嘟嘴"
+  },
+  {
+    "tag": "pouted_lips",
+    "category": "face",
+    "label_zh": "撅起的嘴唇"
+  },
+  {
+    "tag": "red_lips_",
+    "category": "face",
+    "label_zh": "红唇"
+  },
+  {
+    "tag": "rice_on_face",
+    "category": "face",
+    "label_zh": "饭在脸上"
+  },
+  {
+    "tag": "round_face",
+    "category": "face",
+    "label_zh": "圆脸"
+  },
+  {
+    "tag": "round_teeth",
+    "category": "face",
+    "label_zh": "圆齿"
+  },
+  {
+    "tag": "saliva",
+    "category": "face",
+    "label_zh": "唾液"
+  },
+  {
+    "tag": "scar",
+    "category": "face",
+    "label_zh": "疤痕"
+  },
+  {
+    "tag": "scar_across_eye",
+    "category": "face",
+    "label_zh": "穿过眼睛的疤痕"
+  },
+  {
+    "tag": "shark_mouth",
+    "category": "face",
+    "label_zh": "鲨鱼嘴"
+  },
+  {
+    "tag": "sharp_teeth",
+    "category": "face",
+    "label_zh": "锋利的牙齿"
+  },
+  {
+    "tag": "short_eyebrows",
+    "category": "face",
+    "label_zh": "短眉毛"
+  },
+  {
+    "tag": "sideways_mouth",
+    "category": "face",
+    "label_zh": "把嘴画在侧脸"
+  },
+  {
+    "tag": "skin_fang",
+    "category": "face",
+    "label_zh": "肤色虎牙"
+  },
+  {
+    "tag": "slender_face",
+    "category": "face",
+    "label_zh": "瘦脸"
+  },
+  {
+    "tag": "slightly_open_mouth",
+    "category": "face",
+    "label_zh": "嘴巴微微张开"
+  },
+  {
+    "tag": "small_nose",
+    "category": "face",
+    "label_zh": "小鼻子"
+  },
+  {
+    "tag": "smelling",
+    "category": "face",
+    "label_zh": "闻"
+  },
+  {
+    "tag": "smoking_pipe",
+    "category": "face",
+    "label_zh": "烟斗"
+  },
+  {
+    "tag": "snot",
+    "category": "face",
+    "label_zh": "鼻涕"
+  },
+  {
+    "tag": "snout",
+    "category": "face",
+    "label_zh": "动物口鼻部"
+  },
+  {
+    "tag": "spoon_in_mouth",
+    "category": "face",
+    "label_zh": "嘴里含着勺子"
+  },
+  {
+    "tag": "teeth",
+    "category": "face",
+    "label_zh": "牙齿"
+  },
+  {
+    "tag": "thick_eyebrows",
+    "category": "face",
+    "label_zh": "浓眉"
+  },
+  {
+    "tag": "thick_lips",
+    "category": "face",
+    "label_zh": "厚嘴唇"
+  },
+  {
+    "tag": "tongue",
+    "category": "face",
+    "label_zh": "舌头"
+  },
+  {
+    "tag": "tongue_out",
+    "category": "face",
+    "label_zh": "吐舌头"
+  },
+  {
+    "tag": "toothbrush",
+    "category": "face",
+    "label_zh": "牙刷"
+  },
+  {
+    "tag": "triangle_mouth",
+    "category": "face",
+    "label_zh": "三角嘴"
+  },
+  {
+    "tag": "triangular_face",
+    "category": "face",
+    "label_zh": "三角脸"
+  },
+  {
+    "tag": "tusks",
+    "category": "face",
+    "label_zh": "象牙"
+  },
+  {
+    "tag": "upper_teeth",
+    "category": "face",
+    "label_zh": "上牙"
+  },
+  {
+    "tag": "uvula",
+    "category": "face",
+    "label_zh": "小舌头"
+  },
+  {
+    "tag": "v-shaped_eyebrows",
+    "category": "face",
+    "label_zh": "V字眉"
+  },
+  {
+    "tag": "wavy_mouth",
+    "category": "face",
+    "label_zh": "波浪嘴"
+  },
+  {
+    "tag": "whisker_markings",
+    "category": "face",
+    "label_zh": "胡须斑纹"
+  },
+  {
+    "tag": "ahoge",
+    "category": "hair",
+    "label_zh": "呆毛"
+  },
+  {
+    "tag": "air_bangs",
+    "category": "hair",
+    "label_zh": "空气刘海"
+  },
+  {
+    "tag": "antenna_hair",
+    "category": "hair",
+    "label_zh": "多根呆毛"
+  },
+  {
+    "tag": "asymmetric_bangs",
+    "category": "hair",
+    "label_zh": "不对称刘海"
+  },
+  {
+    "tag": "bangs",
+    "category": "hair",
+    "label_zh": "刘海"
+  },
+  {
+    "tag": "black_hair",
+    "category": "hair",
+    "label_zh": "黑色头发"
+  },
+  {
+    "tag": "blonde_hair",
+    "category": "hair",
+    "label_zh": "金色头发"
+  },
+  {
+    "tag": "blue_hair",
+    "category": "hair",
+    "label_zh": "蓝色头发"
+  },
+  {
+    "tag": "blunt_bangs",
+    "category": "hair",
+    "label_zh": "齐刘海"
+  },
+  {
+    "tag": "bob_cut",
+    "category": "hair",
+    "label_zh": "妹妹切"
+  },
+  {
+    "tag": "braided_bangs",
+    "category": "hair",
+    "label_zh": "辫子刘海"
+  },
+  {
+    "tag": "braided_ponytail",
+    "category": "hair",
+    "label_zh": "马尾编发"
+  },
+  {
+    "tag": "brown_hair",
+    "category": "hair",
+    "label_zh": "棕色头发"
+  },
+  {
+    "tag": "centre_parting_bangs",
+    "category": "hair",
+    "label_zh": "中分刘海"
+  },
+  {
+    "tag": "crossed_bangs",
+    "category": "hair",
+    "label_zh": "交叉刘海"
+  },
+  {
+    "tag": "curly_hair",
+    "category": "hair",
+    "label_zh": "卷发"
+  },
+  {
+    "tag": "disheveled_hair",
+    "category": "hair",
+    "label_zh": "蓬发"
+  },
+  {
+    "tag": "double_bun",
+    "category": "hair",
+    "label_zh": "俩包子头"
+  },
+  {
+    "tag": "drill_hair",
+    "category": "hair",
+    "label_zh": "钻头卷公主卷"
+  },
+  {
+    "tag": "forehead",
+    "category": "hair",
+    "label_zh": "露额头"
+  },
+  {
+    "tag": "green_hair",
+    "category": "hair",
+    "label_zh": "绿色头发"
+  },
+  {
+    "tag": "grey_gradient_hair",
+    "category": "hair",
+    "label_zh": "灰色渐变"
+  },
+  {
+    "tag": "grey_hair",
+    "category": "hair",
+    "label_zh": "灰色头发"
+  },
+  {
+    "tag": "hair_between_eyes",
+    "category": "hair",
+    "label_zh": "眼间头发"
+  },
+  {
+    "tag": "hair_bun",
+    "category": "hair",
+    "label_zh": "包子头"
+  },
+  {
+    "tag": "hair_flaps",
+    "category": "hair",
+    "label_zh": "发翼"
+  },
+  {
+    "tag": "hair_wings",
+    "category": "hair",
+    "label_zh": "翼状头发"
+  },
+  {
+    "tag": "high_ponytail",
+    "category": "hair",
+    "label_zh": "高马尾"
+  },
+  {
+    "tag": "hime_cut",
+    "category": "hair",
+    "label_zh": "公主切"
+  },
+  {
+    "tag": "light_brown_hair",
+    "category": "hair",
+    "label_zh": "亮棕"
+  },
+  {
+    "tag": "long_bangs",
+    "category": "hair",
+    "label_zh": "长刘海"
+  },
+  {
+    "tag": "long_hair",
+    "category": "hair",
+    "label_zh": "长发"
+  },
+  {
+    "tag": "medium_hair",
+    "category": "hair",
+    "label_zh": "中发"
+  },
+  {
+    "tag": "messy_hair",
+    "category": "hair",
+    "label_zh": "凌乱发型"
+  },
+  {
+    "tag": "multicolored_hair",
+    "category": "hair",
+    "label_zh": "五颜六色"
+  },
+  {
+    "tag": "ponytail",
+    "category": "hair",
+    "label_zh": "马尾辫"
+  },
+  {
+    "tag": "purple_hair",
+    "category": "hair",
+    "label_zh": "紫色头发"
+  },
+  {
+    "tag": "red_hair",
+    "category": "hair",
+    "label_zh": "红色头发"
+  },
+  {
+    "tag": "short_hair",
+    "category": "hair",
+    "label_zh": "短发"
+  },
+  {
+    "tag": "short_ponytail",
+    "category": "hair",
+    "label_zh": "短马尾"
+  },
+  {
+    "tag": "side_blunt_bangs",
+    "category": "hair",
+    "label_zh": "侧面空气刘海"
+  },
+  {
+    "tag": "side_ponytail",
+    "category": "hair",
+    "label_zh": "侧马尾"
+  },
+  {
+    "tag": "silver_hair",
+    "category": "hair",
+    "label_zh": "银色头发"
+  },
+  {
+    "tag": "straight_hair",
+    "category": "hair",
+    "label_zh": "直发"
+  },
+  {
+    "tag": "streaked_hair",
+    "category": "hair",
+    "label_zh": "挑染"
+  },
+  {
+    "tag": "swept_bangs",
+    "category": "hair",
+    "label_zh": "侧扫刘海"
+  },
+  {
+    "tag": "twin_braids",
+    "category": "hair",
+    "label_zh": "双辫子"
+  },
+  {
+    "tag": "twintails",
+    "category": "hair",
+    "label_zh": "双马尾二"
+  },
+  {
+    "tag": "two-tone_hair",
+    "category": "hair",
+    "label_zh": "双色"
+  },
+  {
+    "tag": "very_long_hair",
+    "category": "hair",
+    "label_zh": "超长发"
+  },
+  {
+    "tag": "wavy_hair",
+    "category": "hair",
+    "label_zh": "波浪形头发"
+  },
+  {
+    "tag": "white_hair",
+    "category": "hair",
+    "label_zh": "白色头发"
+  },
+  {
+    "tag": "yellow_hair",
+    "category": "hair",
+    "label_zh": "黄色头发"
+  },
+  {
+    "tag": "adjusting_clothes",
+    "category": "hand",
+    "label_zh": "拨弄衣服"
+  },
+  {
+    "tag": "adjusting_eyewear",
+    "category": "hand",
+    "label_zh": "扶眼镜"
+  },
+  {
+    "tag": "adjusting_gloves",
+    "category": "hand",
+    "label_zh": "拨弄手套"
+  },
+  {
+    "tag": "adjusting_hair",
+    "category": "hand",
+    "label_zh": "理头发"
+  },
+  {
+    "tag": "adjusting_hat",
+    "category": "hand",
+    "label_zh": "整理帽子"
+  },
+  {
+    "tag": "adjusting_legwear",
+    "category": "hand",
+    "label_zh": "整理裤袜"
+  },
+  {
+    "tag": "adjusting_swimsuit",
+    "category": "hand",
+    "label_zh": "拨弄泳衣"
+  },
+  {
+    "tag": "adjusting_thighhigh",
+    "category": "hand",
+    "label_zh": "调整过膝袜"
+  },
+  {
+    "tag": "arm_above_head",
+    "category": "hand",
+    "label_zh": "手在头上"
+  },
+  {
+    "tag": "arm_around_neck",
+    "category": "hand",
+    "label_zh": "单手搂着脖子"
+  },
+  {
+    "tag": "arm_around_waist",
+    "category": "hand",
+    "label_zh": "单手搂腰"
+  },
+  {
+    "tag": "arm_at_side",
+    "category": "hand",
+    "label_zh": "单手垂放"
+  },
+  {
+    "tag": "arm_behind_back",
+    "category": "hand",
+    "label_zh": "单手背到身后"
+  },
+  {
+    "tag": "arm_behind_head",
+    "category": "hand",
+    "label_zh": "手放头后"
+  },
+  {
+    "tag": "arm_grab",
+    "category": "hand",
+    "label_zh": "抓住手臂"
+  },
+  {
+    "tag": "arm_held_back",
+    "category": "hand",
+    "label_zh": "手臂往后拉"
+  },
+  {
+    "tag": "arm_hug",
+    "category": "hand",
+    "label_zh": "挽手"
+  },
+  {
+    "tag": "arm_support",
+    "category": "hand",
+    "label_zh": "用手支撑住"
+  },
+  {
+    "tag": "arm_up",
+    "category": "hand",
+    "label_zh": "举着手"
+  },
+  {
+    "tag": "arms_around_neck",
+    "category": "hand",
+    "label_zh": "双手搂着脖子"
+  },
+  {
+    "tag": "arms_at_sides",
+    "category": "hand",
+    "label_zh": "双手垂放"
+  },
+  {
+    "tag": "arms_behind_back",
+    "category": "hand",
+    "label_zh": "手放在身后"
+  },
+  {
+    "tag": "arms_behind_head",
+    "category": "hand",
+    "label_zh": "双手抱头"
+  },
+  {
+    "tag": "arms_crossed",
+    "category": "hand",
+    "label_zh": "手交叉于胸前"
+  },
+  {
+    "tag": "arms_up",
+    "category": "hand",
+    "label_zh": "抬手"
+  },
+  {
+    "tag": "balancing",
+    "category": "hand",
+    "label_zh": "(保持)平衡的姿势"
+  },
+  {
+    "tag": "bandaid_on_arm",
+    "category": "hand",
+    "label_zh": "手臂上贴着创可贴"
+  },
+  {
+    "tag": "bangs_pinned_back",
+    "category": "hand",
+    "label_zh": "掀起的刘海"
+  },
+  {
+    "tag": "beckoning",
+    "category": "hand",
+    "label_zh": "招手"
+  },
+  {
+    "tag": "bound_arms",
+    "category": "hand",
+    "label_zh": "手臂被束缚"
+  },
+  {
+    "tag": "bunching_hair",
+    "category": "hand",
+    "label_zh": "手持辫子"
+  },
+  {
+    "tag": "caramelldansen",
+    "category": "hand",
+    "label_zh": "某著名伸手扭腰动作"
+  },
+  {
+    "tag": "carrying",
+    "category": "hand",
+    "label_zh": "抱起"
+  },
+  {
+    "tag": "carrying_over_shoulder",
+    "category": "hand",
+    "label_zh": "肩扛"
+  },
+  {
+    "tag": "carrying_under_arm",
+    "category": "hand",
+    "label_zh": "夹在腋下"
+  },
+  {
+    "tag": "cat_pose",
+    "category": "hand",
+    "label_zh": "猫爪手势"
+  },
+  {
+    "tag": "cheek_pinching",
+    "category": "hand",
+    "label_zh": "捏脸颊"
+  },
+  {
+    "tag": "cheek_poking",
+    "category": "hand",
+    "label_zh": "戳脸颊"
+  },
+  {
+    "tag": "cheek_pull",
+    "category": "hand",
+    "label_zh": "扯脸颊"
+  },
+  {
+    "tag": "cheering",
+    "category": "hand",
+    "label_zh": "助威"
+  },
+  {
+    "tag": "chin_rest",
+    "category": "hand",
+    "label_zh": "托脸颊"
+  },
+  {
+    "tag": "chin_stroking",
+    "category": "hand",
+    "label_zh": "摸下巴"
+  },
+  {
+    "tag": "claw_pose",
+    "category": "hand",
+    "label_zh": "爪手势"
+  },
+  {
+    "tag": "clothes_lift",
+    "category": "hand",
+    "label_zh": "掀起衣物"
+  },
+  {
+    "tag": "clothes_pull",
+    "category": "hand",
+    "label_zh": "拉开衣物"
+  },
+  {
+    "tag": "convenient_arm",
+    "category": "hand",
+    "label_zh": "遮住关键部位的手臂"
+  },
+  {
+    "tag": "covering_face",
+    "category": "hand",
+    "label_zh": "挡住脸"
+  },
+  {
+    "tag": "covering_mouth",
+    "category": "hand",
+    "label_zh": "遮盖嘴"
+  },
+  {
+    "tag": "crossed_arms",
+    "category": "hand",
+    "label_zh": "交叉双臂"
+  },
+  {
+    "tag": "double_v",
+    "category": "hand",
+    "label_zh": "双_v"
+  },
+  {
+    "tag": "dress_lift",
+    "category": "hand",
+    "label_zh": "掀起裙子"
+  },
+  {
+    "tag": "dress_removed",
+    "category": "hand",
+    "label_zh": "脱下裙子"
+  },
+  {
+    "tag": "dress_tug",
+    "category": "hand",
+    "label_zh": "压住裙摆"
+  },
+  {
+    "tag": "eyelid_pull",
+    "category": "hand",
+    "label_zh": "做鬼脸"
+  },
+  {
+    "tag": "finger_biting",
+    "category": "hand",
+    "label_zh": "咬手指"
+  },
+  {
+    "tag": "finger_gun",
+    "category": "hand",
+    "label_zh": "手指枪手势"
+  },
+  {
+    "tag": "finger_in_mouth",
+    "category": "hand",
+    "label_zh": "吮吸手指"
+  },
+  {
+    "tag": "finger_on_trigger",
+    "category": "hand",
+    "label_zh": "准备扣扳机的手势"
+  },
+  {
+    "tag": "finger_to_mouth",
+    "category": "hand",
+    "label_zh": "手抵在嘴唇边"
+  },
+  {
+    "tag": "fingers_together",
+    "category": "hand",
+    "label_zh": "手指并拢"
+  },
+  {
+    "tag": "fingersmile",
+    "category": "hand",
+    "label_zh": "用手指做出笑脸"
+  },
+  {
+    "tag": "fox_shadow_puppet",
+    "category": "hand",
+    "label_zh": "狐狸手势"
+  },
+  {
+    "tag": "grabbing",
+    "category": "hand",
+    "label_zh": "抓住"
+  },
+  {
+    "tag": "grabbing_another's_hair",
+    "category": "hand",
+    "label_zh": "抓着对方的头发"
+  },
+  {
+    "tag": "grimace",
+    "category": "hand",
+    "label_zh": "做鬼脸"
+  },
+  {
+    "tag": "hair_grab",
+    "category": "hand",
+    "label_zh": "抓着头发"
+  },
+  {
+    "tag": "hair_pull",
+    "category": "hand",
+    "label_zh": "拉头发"
+  },
+  {
+    "tag": "hair_pulled_back",
+    "category": "hand",
+    "label_zh": "头发往后扎"
+  },
+  {
+    "tag": "hair_twirling",
+    "category": "hand",
+    "label_zh": "手指卷着头发"
+  },
+  {
+    "tag": "hand_gesture",
+    "category": "hand",
+    "label_zh": "做手势"
+  },
+  {
+    "tag": "hand_in_another's_hair",
+    "category": "hand",
+    "label_zh": "手放在对方的头发上"
+  },
+  {
+    "tag": "hand_in_hair",
+    "category": "hand",
+    "label_zh": "手埋在头发里"
+  },
+  {
+    "tag": "hand_in_pocket",
+    "category": "hand",
+    "label_zh": "手插在口袋里"
+  },
+  {
+    "tag": "hand_on_another's_cheek",
+    "category": "hand",
+    "label_zh": "手摸着对方的脸颊"
+  },
+  {
+    "tag": "hand_on_another's_chest",
+    "category": "hand",
+    "label_zh": "手放在对方的胸前"
+  },
+  {
+    "tag": "hand_on_another's_chin",
+    "category": "hand",
+    "label_zh": "手托着对方的下巴"
+  },
+  {
+    "tag": "hand_on_another's_head",
+    "category": "hand",
+    "label_zh": "手放在对方的头上"
+  },
+  {
+    "tag": "hand_on_another's_shoulder",
+    "category": "hand",
+    "label_zh": "手放在对方的肩上"
+  },
+  {
+    "tag": "hand_on_another's_stomach",
+    "category": "hand",
+    "label_zh": "手放在对方的肚子上"
+  },
+  {
+    "tag": "hand_on_head",
+    "category": "hand",
+    "label_zh": "手放在头上"
+  },
+  {
+    "tag": "hand_on_headwear",
+    "category": "hand",
+    "label_zh": "手触碰帽子"
+  },
+  {
+    "tag": "hand_on_hilt",
+    "category": "hand",
+    "label_zh": "手搁在刀柄上"
+  },
+  {
+    "tag": "hand_on_hip",
+    "category": "hand",
+    "label_zh": "手叉着腰"
+  },
+  {
+    "tag": "hand_on_own_cheek",
+    "category": "hand",
+    "label_zh": "把手放在自己的脸颊上"
+  },
+  {
+    "tag": "hand_on_own_chest",
+    "category": "hand",
+    "label_zh": "把手放在自己的胸口"
+  },
+  {
+    "tag": "hand_on_own_chin",
+    "category": "hand",
+    "label_zh": "手碰着自己的下巴"
+  },
+  {
+    "tag": "hand_on_own_stomach",
+    "category": "hand",
+    "label_zh": "把手放在自己的肚子上"
+  },
+  {
+    "tag": "hand_on_shoulder",
+    "category": "hand",
+    "label_zh": "手放在肩上"
+  },
+  {
+    "tag": "hand_to_mouth",
+    "category": "hand",
+    "label_zh": "手放在嘴边"
+  },
+  {
+    "tag": "hands_clasped",
+    "category": "hand",
+    "label_zh": "双手手指交叉"
+  },
+  {
+    "tag": "hands_on_another's_cheeks",
+    "category": "hand",
+    "label_zh": "双手放在对方的脸颊上"
+  },
+  {
+    "tag": "hands_on_another's_shoulders",
+    "category": "hand",
+    "label_zh": "双手放在别人的肩膀上"
+  },
+  {
+    "tag": "hands_on_feet",
+    "category": "hand",
+    "label_zh": "双手放在脚上"
+  },
+  {
+    "tag": "hands_on_headwear",
+    "category": "hand",
+    "label_zh": "双手碰到头上的饰物"
+  },
+  {
+    "tag": "hands_on_hilt",
+    "category": "hand",
+    "label_zh": "双手搭在刀柄上"
+  },
+  {
+    "tag": "hands_on_hips",
+    "category": "hand",
+    "label_zh": "双手叉腰"
+  },
+  {
+    "tag": "hands_on_lap",
+    "category": "hand",
+    "label_zh": "双手放在两腿之间"
+  },
+  {
+    "tag": "hands_on_own_cheeks",
+    "category": "hand",
+    "label_zh": "双手放在自己的脸颊上"
+  },
+  {
+    "tag": "hands_on_own_chest",
+    "category": "hand",
+    "label_zh": "双手放在自己的胸口"
+  },
+  {
+    "tag": "hands_on_own_face",
+    "category": "hand",
+    "label_zh": "双手放在自己的脸上"
+  },
+  {
+    "tag": "hands_on_own_head",
+    "category": "hand",
+    "label_zh": "双手放在自己的头上"
+  },
+  {
+    "tag": "hands_on_own_knees",
+    "category": "hand",
+    "label_zh": "双手放在自己的膝盖上"
+  },
+  {
+    "tag": "hands_on_own_stomach",
+    "category": "hand",
+    "label_zh": "双手放在自己的肚子上"
+  },
+  {
+    "tag": "hands_on_own_thighs",
+    "category": "hand",
+    "label_zh": "双手放在自己的大腿上"
+  },
+  {
+    "tag": "holding",
+    "category": "hand",
+    "label_zh": "拿着某物"
+  },
+  {
+    "tag": "holding_animal",
+    "category": "hand",
+    "label_zh": "抱着动物"
+  },
+  {
+    "tag": "holding_arrow",
+    "category": "hand",
+    "label_zh": "拉着弓"
+  },
+  {
+    "tag": "holding_axe",
+    "category": "hand",
+    "label_zh": "握着斧头"
+  },
+  {
+    "tag": "holding_bag",
+    "category": "hand",
+    "label_zh": "提着包"
+  },
+  {
+    "tag": "holding_ball",
+    "category": "hand",
+    "label_zh": "抱着球"
+  },
+  {
+    "tag": "holding_basket",
+    "category": "hand",
+    "label_zh": "提着篮子"
+  },
+  {
+    "tag": "holding_book",
+    "category": "hand",
+    "label_zh": "捧着书"
+  },
+  {
+    "tag": "holding_bottle",
+    "category": "hand",
+    "label_zh": "拿着瓶子"
+  },
+  {
+    "tag": "holding_bouquet",
+    "category": "hand",
+    "label_zh": "手捧花束"
+  },
+  {
+    "tag": "holding_bow_(weapon)",
+    "category": "hand",
+    "label_zh": "拿着弓(武器)"
+  },
+  {
+    "tag": "holding_bowl",
+    "category": "hand",
+    "label_zh": "端着碗"
+  },
+  {
+    "tag": "holding_box",
+    "category": "hand",
+    "label_zh": "端着箱子"
+  },
+  {
+    "tag": "holding_breath",
+    "category": "hand",
+    "label_zh": "憋气"
+  },
+  {
+    "tag": "holding_broom",
+    "category": "hand",
+    "label_zh": "手持扫帚"
+  },
+  {
+    "tag": "holding_camera",
+    "category": "hand",
+    "label_zh": "手持摄像机"
+  },
+  {
+    "tag": "holding_can",
+    "category": "hand",
+    "label_zh": "拿着易拉罐"
+  },
+  {
+    "tag": "holding_candy",
+    "category": "hand",
+    "label_zh": "手持糖果"
+  },
+  {
+    "tag": "holding_card",
+    "category": "hand",
+    "label_zh": "手持卡片"
+  },
+  {
+    "tag": "holding_cat",
+    "category": "hand",
+    "label_zh": "抱着猫"
+  },
+  {
+    "tag": "holding_chopsticks",
+    "category": "hand",
+    "label_zh": "拿着筷子"
+  },
+  {
+    "tag": "holding_cigarette",
+    "category": "hand",
+    "label_zh": "手叼香烟"
+  },
+  {
+    "tag": "holding_clothes",
+    "category": "hand",
+    "label_zh": "拿着衣服"
+  },
+  {
+    "tag": "holding_cup",
+    "category": "hand",
+    "label_zh": "手持杯子"
+  },
+  {
+    "tag": "holding_dagger",
+    "category": "hand",
+    "label_zh": "手持匕首"
+  },
+  {
+    "tag": "holding_doll",
+    "category": "hand",
+    "label_zh": "抱着玩偶"
+  },
+  {
+    "tag": "holding_eyewear",
+    "category": "hand",
+    "label_zh": "拿着眼镜"
+  },
+  {
+    "tag": "holding_fan",
+    "category": "hand",
+    "label_zh": "拿着扇子"
+  },
+  {
+    "tag": "holding_flag",
+    "category": "hand",
+    "label_zh": "手持旗帜"
+  },
+  {
+    "tag": "holding_flower",
+    "category": "hand",
+    "label_zh": "拿着花"
+  },
+  {
+    "tag": "holding_food",
+    "category": "hand",
+    "label_zh": "拿着食物"
+  },
+  {
+    "tag": "holding_fork",
+    "category": "hand",
+    "label_zh": "拿着餐叉"
+  },
+  {
+    "tag": "holding_fruit",
+    "category": "hand",
+    "label_zh": "拿着水果"
+  },
+  {
+    "tag": "holding_gift",
+    "category": "hand",
+    "label_zh": "拿着礼物"
+  },
+  {
+    "tag": "holding_gun",
+    "category": "hand",
+    "label_zh": "拿着枪"
+  },
+  {
+    "tag": "holding_hair",
+    "category": "hand",
+    "label_zh": "握着头发"
+  },
+  {
+    "tag": "holding_hands",
+    "category": "hand",
+    "label_zh": "牵手"
+  },
+  {
+    "tag": "holding_hat",
+    "category": "hand",
+    "label_zh": "拿着帽子"
+  },
+  {
+    "tag": "holding_head",
+    "category": "hand",
+    "label_zh": "手里捧着头"
+  },
+  {
+    "tag": "holding_helmet",
+    "category": "hand",
+    "label_zh": "拿着头盔"
+  },
+  {
+    "tag": "holding_innertube",
+    "category": "hand",
+    "label_zh": "拿着泳圈"
+  },
+  {
+    "tag": "holding_instrument",
+    "category": "hand",
+    "label_zh": "拿着乐器"
+  },
+  {
+    "tag": "holding_knife",
+    "category": "hand",
+    "label_zh": "拿着刀"
+  },
+  {
+    "tag": "holding_leaf",
+    "category": "hand",
+    "label_zh": "拿着叶子"
+  },
+  {
+    "tag": "holding_lollipop",
+    "category": "hand",
+    "label_zh": "拿着棒棒糖"
+  },
+  {
+    "tag": "holding_mask",
+    "category": "hand",
+    "label_zh": "拿着面具"
+  },
+  {
+    "tag": "holding_microphone",
+    "category": "hand",
+    "label_zh": "拿着麦克风"
+  },
+  {
+    "tag": "holding_needle",
+    "category": "hand",
+    "label_zh": "拿着缝衣针"
+  },
+  {
+    "tag": "holding_own_foot",
+    "category": "hand",
+    "label_zh": "握着自己的脚"
+  },
+  {
+    "tag": "holding_paintbrush",
+    "category": "hand",
+    "label_zh": "手握画笔"
+  },
+  {
+    "tag": "holding_paper",
+    "category": "hand",
+    "label_zh": "拿着纸"
+  },
+  {
+    "tag": "holding_pen",
+    "category": "hand",
+    "label_zh": "握笔"
+  },
+  {
+    "tag": "holding_pencil",
+    "category": "hand",
+    "label_zh": "手持铅笔"
+  },
+  {
+    "tag": "holding_phone",
+    "category": "hand",
+    "label_zh": "拿着手机"
+  },
+  {
+    "tag": "holding_pillow",
+    "category": "hand",
+    "label_zh": "抱着枕头"
+  },
+  {
+    "tag": "holding_pipe",
+    "category": "hand",
+    "label_zh": "拿着烟斗"
+  },
+  {
+    "tag": "holding_pizza",
+    "category": "hand",
+    "label_zh": "拿着披萨"
+  },
+  {
+    "tag": "holding_plate",
+    "category": "hand",
+    "label_zh": "端着碟子"
+  },
+  {
+    "tag": "holding_poke_ball",
+    "category": "hand",
+    "label_zh": "拿着精灵球"
+  },
+  {
+    "tag": "holding_pokemon",
+    "category": "hand",
+    "label_zh": "抱着宝可梦"
+  },
+  {
+    "tag": "holding_polearm",
+    "category": "hand",
+    "label_zh": "手持长柄武器"
+  },
+  {
+    "tag": "holding_sack",
+    "category": "hand",
+    "label_zh": "拎着包袱"
+  },
+  {
+    "tag": "holding_scythe",
+    "category": "hand",
+    "label_zh": "手持镰刀"
+  },
+  {
+    "tag": "holding_sheath",
+    "category": "hand",
+    "label_zh": "握着刀鞘"
+  },
+  {
+    "tag": "holding_shield",
+    "category": "hand",
+    "label_zh": "手持盾牌"
+  },
+  {
+    "tag": "holding_shoes",
+    "category": "hand",
+    "label_zh": "拿着鞋子"
+  },
+  {
+    "tag": "holding_sign",
+    "category": "hand",
+    "label_zh": "手持招牌"
+  },
+  {
+    "tag": "holding_spear",
+    "category": "hand",
+    "label_zh": "手持长矛"
+  },
+  {
+    "tag": "holding_spoon",
+    "category": "hand",
+    "label_zh": "拿着汤勺"
+  },
+  {
+    "tag": "holding_staff",
+    "category": "hand",
+    "label_zh": "手持法杖"
+  },
+  {
+    "tag": "holding_strap",
+    "category": "hand",
+    "label_zh": "手拉着吊带"
+  },
+  {
+    "tag": "holding_stuffed_animal",
+    "category": "hand",
+    "label_zh": "抱着毛绒玩具"
+  },
+  {
+    "tag": "holding_stylus",
+    "category": "hand",
+    "label_zh": "手持手写笔"
+  },
+  {
+    "tag": "holding_sword",
+    "category": "hand",
+    "label_zh": "手持剑"
+  },
+  {
+    "tag": "holding_syringe",
+    "category": "hand",
+    "label_zh": "手持注射器"
+  },
+  {
+    "tag": "holding_towel",
+    "category": "hand",
+    "label_zh": "拿着毛巾"
+  },
+  {
+    "tag": "holding_tray",
+    "category": "hand",
+    "label_zh": "托着盘子"
+  },
+  {
+    "tag": "holding_umbrella",
+    "category": "hand",
+    "label_zh": "撑伞"
+  },
+  {
+    "tag": "holding_wand",
+    "category": "hand",
+    "label_zh": "握着棒子"
+  },
+  {
+    "tag": "holding_whip",
+    "category": "hand",
+    "label_zh": "握着鞭子"
+  },
+  {
+    "tag": "index_finger_raised",
+    "category": "hand",
+    "label_zh": "食指抬起"
+  },
+  {
+    "tag": "kimono_lift",
+    "category": "hand",
+    "label_zh": "掀起和服"
+  },
+  {
+    "tag": "leg_cutout",
+    "category": "hand",
+    "label_zh": "袜子有开口"
+  },
+  {
+    "tag": "leg_grab",
+    "category": "hand",
+    "label_zh": "抓着腿"
+  },
+  {
+    "tag": "lifting_person",
+    "category": "hand",
+    "label_zh": "将人抱起"
+  },
+  {
+    "tag": "locked_arms",
+    "category": "hand",
+    "label_zh": "互挽手臂"
+  },
+  {
+    "tag": "mask_pull",
+    "category": "hand",
+    "label_zh": "拉着口罩"
+  },
+  {
+    "tag": "multiple_views",
+    "category": "hand",
+    "label_zh": "多角度"
+  },
+  {
+    "tag": "necktie_grab",
+    "category": "hand",
+    "label_zh": "抓着领带"
+  },
+  {
+    "tag": "neckwear_grab",
+    "category": "hand",
+    "label_zh": "抓着颈部的衣服"
+  },
+  {
+    "tag": "ok_sign",
+    "category": "hand",
+    "label_zh": "OK手势"
+  },
+  {
+    "tag": "open_skirt",
+    "category": "hand",
+    "label_zh": "敞开的裙子"
+  },
+  {
+    "tag": "outstretched_arm",
+    "category": "hand",
+    "label_zh": "伸出手臂"
+  },
+  {
+    "tag": "outstretched_arms",
+    "category": "hand",
+    "label_zh": "伸出双臂"
+  },
+  {
+    "tag": "paw_pose",
+    "category": "hand",
+    "label_zh": "招财猫手势(下弯手腕)"
+  },
+  {
+    "tag": "pillow_grab",
+    "category": "hand",
+    "label_zh": "抓着枕头"
+  },
+  {
+    "tag": "pointing",
+    "category": "hand",
+    "label_zh": "用手指着"
+  },
+  {
+    "tag": "pointing_at_self",
+    "category": "hand",
+    "label_zh": "指着自己"
+  },
+  {
+    "tag": "pointing_at_viewer",
+    "category": "hand",
+    "label_zh": "指向看图的人"
+  },
+  {
+    "tag": "pointing_up",
+    "category": "hand",
+    "label_zh": "向上指"
+  },
+  {
+    "tag": "poking",
+    "category": "hand",
+    "label_zh": "戳"
+  },
+  {
+    "tag": "pulling",
+    "category": "hand",
+    "label_zh": "拉"
+  },
+  {
+    "tag": "reaching",
+    "category": "hand",
+    "label_zh": "(有目的地)伸手"
+  },
+  {
+    "tag": "reaching_out",
+    "category": "hand",
+    "label_zh": "朝画外伸手"
+  },
+  {
+    "tag": "ready_to_draw",
+    "category": "hand",
+    "label_zh": "准备拔刀的姿势"
+  },
+  {
+    "tag": "salute",
+    "category": "hand",
+    "label_zh": "敬礼"
+  },
+  {
+    "tag": "sharp_fingernails",
+    "category": "hand",
+    "label_zh": "锐利的手指甲"
+  },
+  {
+    "tag": "sheet_grab",
+    "category": "hand",
+    "label_zh": "抓着床单"
+  },
+  {
+    "tag": "shou",
+    "category": "hand",
+    "label_zh": "单手托在脑后"
+  },
+  {
+    "tag": "shushing",
+    "category": "hand",
+    "label_zh": "嘘手势"
+  },
+  {
+    "tag": "skirt_around_one_leg",
+    "category": "hand",
+    "label_zh": "一条腿上挂着短裙"
+  },
+  {
+    "tag": "skirt_basket",
+    "category": "hand",
+    "label_zh": "指掀起裙子时形成的篮子形状"
+  },
+  {
+    "tag": "skirt_hold",
+    "category": "hand",
+    "label_zh": "优雅地提着裙子"
+  },
+  {
+    "tag": "skirt_lift",
+    "category": "hand",
+    "label_zh": "掀起裙子"
+  },
+  {
+    "tag": "skirt_pull",
+    "category": "hand",
+    "label_zh": "拉开裙子"
+  },
+  {
+    "tag": "skirt_removed",
+    "category": "hand",
+    "label_zh": "脱下的短裙"
+  },
+  {
+    "tag": "skirt_tug",
+    "category": "hand",
+    "label_zh": "扯住裙摆"
+  },
+  {
+    "tag": "sock_pull",
+    "category": "hand",
+    "label_zh": "拉着袜子(短袜"
+  },
+  {
+    "tag": "socks_removed",
+    "category": "hand",
+    "label_zh": "脱袜子"
+  },
+  {
+    "tag": "spread_fingers",
+    "category": "hand",
+    "label_zh": "张开手指"
+  },
+  {
+    "tag": "strap_lift",
+    "category": "hand",
+    "label_zh": "往上掰衣物的吊带"
+  },
+  {
+    "tag": "stretch",
+    "category": "hand",
+    "label_zh": "伸懒腰"
+  },
+  {
+    "tag": "tail_grab",
+    "category": "hand",
+    "label_zh": "抓着尾巴"
+  },
+  {
+    "tag": "thighhighs_pull",
+    "category": "hand",
+    "label_zh": "拉着袜子(长袜"
+  },
+  {
+    "tag": "thighhighs_under_boots",
+    "category": "hand",
+    "label_zh": "靴子穿在袜子外面"
+  },
+  {
+    "tag": "thumbs_up",
+    "category": "hand",
+    "label_zh": "翘大拇指"
+  },
+  {
+    "tag": "torso_grab",
+    "category": "hand",
+    "label_zh": "抓着躯干"
+  },
+  {
+    "tag": "trigger_discipline",
+    "category": "hand",
+    "label_zh": "手指没放在扳机上"
+  },
+  {
+    "tag": "v",
+    "category": "hand",
+    "label_zh": "胜利手势"
+  },
+  {
+    "tag": "v_arms",
+    "category": "hand",
+    "label_zh": "双臂摆出V"
+  },
+  {
+    "tag": "w",
+    "category": "hand",
+    "label_zh": "手指比W"
+  },
+  {
+    "tag": "w_arms",
+    "category": "hand",
+    "label_zh": "双臂摆出W"
+  },
+  {
+    "tag": "waving",
+    "category": "hand",
+    "label_zh": "招手"
+  },
+  {
+    "tag": "waving_arms",
+    "category": "hand",
+    "label_zh": "挥舞着手臂"
+  },
+  {
+    "tag": "wind_lift",
+    "category": "hand",
+    "label_zh": "起风效果"
+  },
+  {
+    "tag": "wrist_grab",
+    "category": "hand",
+    "label_zh": "抓着手腕"
+  },
+  {
+    "tag": "zipper_pull_tab",
+    "category": "hand",
+    "label_zh": "拉链的拉片"
+  },
+  {
+    "tag": "zombie_pose",
+    "category": "hand",
+    "label_zh": "僵尸姿势"
+  },
+  {
+    "tag": "all_fours",
+    "category": "leg",
+    "label_zh": "四肢着地"
+  },
+  {
+    "tag": "animal_on_lap",
+    "category": "leg",
+    "label_zh": "膝盖上有动物"
+  },
+  {
+    "tag": "ankle_strap",
+    "category": "leg",
+    "label_zh": "脚踝丝环"
+  },
+  {
+    "tag": "ankle_wrap",
+    "category": "leg",
+    "label_zh": "脚踝套"
+  },
+  {
+    "tag": "butterfly_sitting",
+    "category": "leg",
+    "label_zh": "蝴蝶坐"
+  },
+  {
+    "tag": "cropped_legs",
+    "category": "leg",
+    "label_zh": "只画了一部分腿"
+  },
+  {
+    "tag": "crossed_ankles",
+    "category": "leg",
+    "label_zh": "交叉脚踝"
+  },
+  {
+    "tag": "crossed_legs",
+    "category": "leg",
+    "label_zh": "二郎腿"
+  },
+  {
+    "tag": "curtsy",
+    "category": "leg",
+    "label_zh": "屈膝礼（女仆行礼）"
+  },
+  {
+    "tag": "feet",
+    "category": "leg",
+    "label_zh": "脚"
+  },
+  {
+    "tag": "feet_out_of_frame",
+    "category": "leg",
+    "label_zh": "双脚不在图内"
+  },
+  {
+    "tag": "feet_up",
+    "category": "leg",
+    "label_zh": "翘起脚"
+  },
+  {
+    "tag": "foot_out_of_frame",
+    "category": "leg",
+    "label_zh": "单脚不在图内"
+  },
+  {
+    "tag": "footprints",
+    "category": "leg",
+    "label_zh": "脚印"
+  },
+  {
+    "tag": "high_kick",
+    "category": "leg",
+    "label_zh": "高踢"
+  },
+  {
+    "tag": "knee_up",
+    "category": "leg",
+    "label_zh": "顶起膝盖"
+  },
+  {
+    "tag": "knees",
+    "category": "leg",
+    "label_zh": "膝盖"
+  },
+  {
+    "tag": "knees_together_feet_apart",
+    "category": "leg",
+    "label_zh": "膝盖合并，两脚分开"
+  },
+  {
+    "tag": "leg_belt",
+    "category": "leg",
+    "label_zh": "腿部系着带子"
+  },
+  {
+    "tag": "leg_up",
+    "category": "leg",
+    "label_zh": "抬起腿"
+  },
+  {
+    "tag": "legs",
+    "category": "leg",
+    "label_zh": "双腿"
+  },
+  {
+    "tag": "legs_apart",
+    "category": "leg",
+    "label_zh": "两腿分开"
+  },
+  {
+    "tag": "legs_together",
+    "category": "leg",
+    "label_zh": "两腿并拢"
+  },
+  {
+    "tag": "legs_up",
+    "category": "leg",
+    "label_zh": "抬一只腿"
+  },
+  {
+    "tag": "multiple_legs",
+    "category": "leg",
+    "label_zh": "多足角色"
+  },
+  {
+    "tag": "no_legs",
+    "category": "leg",
+    "label_zh": "没画出腿"
+  },
+  {
+    "tag": "on_lap",
+    "category": "leg",
+    "label_zh": "在膝盖上"
+  },
+  {
+    "tag": "one_knee",
+    "category": "leg",
+    "label_zh": "一只膝盖"
+  },
+  {
+    "tag": "open_stance",
+    "category": "leg",
+    "label_zh": "稍息"
+  },
+  {
+    "tag": "pigeon-toed",
+    "category": "leg",
+    "label_zh": "萌向的内八腿"
+  },
+  {
+    "tag": "sidesaddle",
+    "category": "leg",
+    "label_zh": "侧坐在鞍上"
+  },
+  {
+    "tag": "sitting",
+    "category": "leg",
+    "label_zh": "坐"
+  },
+  {
+    "tag": "sitting_backwards",
+    "category": "leg",
+    "label_zh": "向后坐"
+  },
+  {
+    "tag": "sitting_in_tree",
+    "category": "leg",
+    "label_zh": "坐在树上"
+  },
+  {
+    "tag": "sitting_on_bed",
+    "category": "leg",
+    "label_zh": "坐在床上"
+  },
+  {
+    "tag": "sitting_on_chair",
+    "category": "leg",
+    "label_zh": "坐在椅子上"
+  },
+  {
+    "tag": "sitting_on_desk",
+    "category": "leg",
+    "label_zh": "坐在课桌上"
+  },
+  {
+    "tag": "sitting_on_lap",
+    "category": "leg",
+    "label_zh": "坐在大腿上"
+  },
+  {
+    "tag": "sitting_on_person",
+    "category": "leg",
+    "label_zh": "坐在人身上"
+  },
+  {
+    "tag": "sitting_on_railing",
+    "category": "leg",
+    "label_zh": "坐在栏杆上"
+  },
+  {
+    "tag": "sitting_on_rock",
+    "category": "leg",
+    "label_zh": "坐在石头"
+  },
+  {
+    "tag": "sitting_on_stairs",
+    "category": "leg",
+    "label_zh": "坐在楼梯上"
+  },
+  {
+    "tag": "sitting_on_table",
+    "category": "leg",
+    "label_zh": "坐在桌子上"
+  },
+  {
+    "tag": "sitting_on_water",
+    "category": "leg",
+    "label_zh": "坐在水上"
+  },
+  {
+    "tag": "sitting_on_xx",
+    "category": "leg",
+    "label_zh": "坐在物体上"
+  },
+  {
+    "tag": "squatting",
+    "category": "leg",
+    "label_zh": "蹲下"
+  },
+  {
+    "tag": "standing_split,_leg_up",
+    "category": "leg",
+    "label_zh": "M字摆腿"
+  },
+  {
+    "tag": "straddling",
+    "category": "leg",
+    "label_zh": "跨坐"
+  },
+  {
+    "tag": "tail_between_legs",
+    "category": "leg",
+    "label_zh": "尾巴蜷到两腿之间"
+  },
+  {
+    "tag": "thick_thighs",
+    "category": "leg",
+    "label_zh": "肉腿"
+  },
+  {
+    "tag": "tiptoes",
+    "category": "leg",
+    "label_zh": "踮起脚尖"
+  },
+  {
+    "tag": "toe-point",
+    "category": "leg",
+    "label_zh": "趾尖"
+  },
+  {
+    "tag": "wariza",
+    "category": "leg",
+    "label_zh": "鸭子坐"
+  },
+  {
+    "tag": "yokozuwari",
+    "category": "leg",
+    "label_zh": "侧身坐"
+  },
+  {
+    "tag": "(((colorful_bubble)))",
+    "category": "lighting",
+    "label_zh": "彩色泡泡"
+  },
+  {
+    "tag": "against_backlight_at_dusk",
+    "category": "lighting",
+    "label_zh": "傍晚背对阳光"
+  },
+  {
+    "tag": "available_light",
+    "category": "lighting",
+    "label_zh": "自然光"
+  },
+  {
+    "tag": "background_light",
+    "category": "lighting",
+    "label_zh": "背景光"
+  },
+  {
+    "tag": "ceiling_window",
+    "category": "lighting",
+    "label_zh": "落地窗"
+  },
+  {
+    "tag": "christmas",
+    "category": "lighting",
+    "label_zh": "圣诞节"
+  },
+  {
+    "tag": "cinematic_lighting",
+    "category": "lighting",
+    "label_zh": "电影级光照"
+  },
+  {
+    "tag": "colourful_glass",
+    "category": "lighting",
+    "label_zh": "彩色玻璃"
+  },
+  {
+    "tag": "explosion",
+    "category": "lighting",
+    "label_zh": "爆炸"
+  },
+  {
+    "tag": "fireworks",
+    "category": "lighting",
+    "label_zh": "焰火"
+  },
+  {
+    "tag": "fluorescent_mushroom_forests_background",
+    "category": "lighting",
+    "label_zh": "荧光蘑菇森林"
+  },
+  {
+    "tag": "glowing_neon_lights",
+    "category": "lighting",
+    "label_zh": "霓虹灯"
+  },
+  {
+    "tag": "golden_hour_lighting",
+    "category": "lighting",
+    "label_zh": "黄金时段照明"
+  },
+  {
+    "tag": "graffiti_wall",
+    "category": "lighting",
+    "label_zh": "涂鸦墙"
+  },
+  {
+    "tag": "halloween",
+    "category": "lighting",
+    "label_zh": "万圣节"
+  },
+  {
+    "tag": "in_the_ocean",
+    "category": "lighting",
+    "label_zh": "海边日落"
+  },
+  {
+    "tag": "intense_shadows",
+    "category": "lighting",
+    "label_zh": "强阴影"
+  },
+  {
+    "tag": "lantern_festival",
+    "category": "lighting",
+    "label_zh": "元宵节"
+  },
+  {
+    "tag": "lens_flare",
+    "category": "lighting",
+    "label_zh": "透镜光晕"
+  },
+  {
+    "tag": "light_leaks",
+    "category": "lighting",
+    "label_zh": "漏光光效"
+  },
+  {
+    "tag": "liquid_background,_sputtered_water",
+    "category": "lighting",
+    "label_zh": "液体背景"
+  },
+  {
+    "tag": "magic_circles",
+    "category": "lighting",
+    "label_zh": "魔法环"
+  },
+  {
+    "tag": "metallic_luster",
+    "category": "lighting",
+    "label_zh": "金属光泽"
+  },
+  {
+    "tag": "mid-autumn_festival",
+    "category": "lighting",
+    "label_zh": "中秋节"
+  },
+  {
+    "tag": "moody_lighting",
+    "category": "lighting",
+    "label_zh": "氛围光照"
+  },
+  {
+    "tag": "mosaic_background",
+    "category": "lighting",
+    "label_zh": "马赛克背景"
+  },
+  {
+    "tag": "new_year",
+    "category": "lighting",
+    "label_zh": "新年"
+  },
+  {
+    "tag": "rim_light",
+    "category": "lighting",
+    "label_zh": "轮廓光"
+  },
+  {
+    "tag": "stain_glass",
+    "category": "lighting",
+    "label_zh": "染色玻璃"
+  },
+  {
+    "tag": "strong_rim_light",
+    "category": "lighting",
+    "label_zh": "强边缘光"
+  },
+  {
+    "tag": "summer_festival",
+    "category": "lighting",
+    "label_zh": "夏日祭"
+  },
+  {
+    "tag": "tanabata",
+    "category": "lighting",
+    "label_zh": "七夕节"
+  },
+  {
+    "tag": "tyndall_effect",
+    "category": "lighting",
+    "label_zh": "丁达尔效应"
+  },
+  {
+    "tag": "valentine",
+    "category": "lighting",
+    "label_zh": "情人节"
+  },
+  {
+    "tag": "volumetric_lighting",
+    "category": "lighting",
+    "label_zh": "体积光"
+  },
+  {
+    "tag": "water_vapor",
+    "category": "lighting",
+    "label_zh": "蒸汽"
+  },
+  {
+    "tag": "year_of_the_rabbit",
+    "category": "lighting",
+    "label_zh": "兔年"
+  },
+  {
+    "tag": "anal",
+    "category": "nsfw_act",
+    "label_zh": "肛交"
+  },
+  {
+    "tag": "anal_fingering",
+    "category": "nsfw_act",
+    "label_zh": "手指肛交"
+  },
+  {
+    "tag": "anal_insertion",
+    "category": "nsfw_act",
+    "label_zh": "肛门插入"
+  },
+  {
+    "tag": "anilingus",
+    "category": "nsfw_act",
+    "label_zh": "肛吻"
+  },
+  {
+    "tag": "bdsm",
+    "category": "nsfw_act",
+    "label_zh": "绑缚调教"
+  },
+  {
+    "tag": "bondage",
+    "category": "nsfw_act",
+    "label_zh": "捆绑"
+  },
+  {
+    "tag": "bound_wrists",
+    "category": "nsfw_act",
+    "label_zh": "手腕捆绑"
+  },
+  {
+    "tag": "breast_grab",
+    "category": "nsfw_act",
+    "label_zh": "摸胸"
+  },
+  {
+    "tag": "breast_sucking",
+    "category": "nsfw_act",
+    "label_zh": "吸乳"
+  },
+  {
+    "tag": "buttjob",
+    "category": "nsfw_act",
+    "label_zh": "臀交"
+  },
+  {
+    "tag": "clothed_masturbation",
+    "category": "nsfw_act",
+    "label_zh": "隔着衣服自慰"
+  },
+  {
+    "tag": "clothed_sex",
+    "category": "nsfw_act",
+    "label_zh": "穿着衣服做爱"
+  },
+  {
+    "tag": "cowgirl_position",
+    "category": "nsfw_act",
+    "label_zh": "女上正骑"
+  },
+  {
+    "tag": "crotch_rope",
+    "category": "nsfw_act",
+    "label_zh": "胯下捆绑"
+  },
+  {
+    "tag": "crotch_rub",
+    "category": "nsfw_act",
+    "label_zh": "胯部摩擦"
+  },
+  {
+    "tag": "cunnilingus",
+    "category": "nsfw_act",
+    "label_zh": "舔阴"
+  },
+  {
+    "tag": "deepthroat",
+    "category": "nsfw_act",
+    "label_zh": "深喉"
+  },
+  {
+    "tag": "doggystyle",
+    "category": "nsfw_act",
+    "label_zh": "后入式"
+  },
+  {
+    "tag": "double_penetration",
+    "category": "nsfw_act",
+    "label_zh": "双穴同插"
+  },
+  {
+    "tag": "ejaculation",
+    "category": "nsfw_act",
+    "label_zh": "射出"
+  },
+  {
+    "tag": "exhibitionism",
+    "category": "nsfw_act",
+    "label_zh": "裸露癖"
+  },
+  {
+    "tag": "facesitting",
+    "category": "nsfw_act",
+    "label_zh": "坐在脸上"
+  },
+  {
+    "tag": "fellatio",
+    "category": "nsfw_act",
+    "label_zh": "口交"
+  },
+  {
+    "tag": "female_ejaculation",
+    "category": "nsfw_act",
+    "label_zh": "潮吹"
+  },
+  {
+    "tag": "fingering",
+    "category": "nsfw_act",
+    "label_zh": "手指插入"
+  },
+  {
+    "tag": "fisting",
+    "category": "nsfw_act",
+    "label_zh": "拳头插入"
+  },
+  {
+    "tag": "footjob",
+    "category": "nsfw_act",
+    "label_zh": "足交"
+  },
+  {
+    "tag": "gangbang",
+    "category": "nsfw_act",
+    "label_zh": "轮奸"
+  },
+  {
+    "tag": "girl_on_top",
+    "category": "nsfw_act",
+    "label_zh": "女上体位"
+  },
+  {
+    "tag": "grinding",
+    "category": "nsfw_act",
+    "label_zh": "性器摩擦"
+  },
+  {
+    "tag": "groping",
+    "category": "nsfw_act",
+    "label_zh": "摸索"
+  },
+  {
+    "tag": "group_sex",
+    "category": "nsfw_act",
+    "label_zh": "群交"
+  },
+  {
+    "tag": "handjob",
+    "category": "nsfw_act",
+    "label_zh": "用手做"
+  },
+  {
+    "tag": "happy_sex",
+    "category": "nsfw_act",
+    "label_zh": "快乐做爱"
+  },
+  {
+    "tag": "hogtie",
+    "category": "nsfw_act",
+    "label_zh": "曲膝捆绑"
+  },
+  {
+    "tag": "insertion",
+    "category": "nsfw_act",
+    "label_zh": "插入物"
+  },
+  {
+    "tag": "leg_lock",
+    "category": "nsfw_act",
+    "label_zh": "跨坐式"
+  },
+  {
+    "tag": "masturbation",
+    "category": "nsfw_act",
+    "label_zh": "自慰"
+  },
+  {
+    "tag": "missionary",
+    "category": "nsfw_act",
+    "label_zh": "传教士体位"
+  },
+  {
+    "tag": "nipple_pull",
+    "category": "nsfw_act",
+    "label_zh": "拉乳头"
+  },
+  {
+    "tag": "nipple_tweak",
+    "category": "nsfw_act",
+    "label_zh": "捏乳头"
+  },
+  {
+    "tag": "oral",
+    "category": "nsfw_act",
+    "label_zh": "口交"
+  },
+  {
+    "tag": "orgy",
+    "category": "nsfw_act",
+    "label_zh": "性狂欢"
+  },
+  {
+    "tag": "paizuri",
+    "category": "nsfw_act",
+    "label_zh": "乳交"
+  },
+  {
+    "tag": "penetration",
+    "category": "nsfw_act",
+    "label_zh": "异物插入"
+  },
+  {
+    "tag": "reverse_cowgirl",
+    "category": "nsfw_act",
+    "label_zh": "女上反骑"
+  },
+  {
+    "tag": "sex",
+    "category": "nsfw_act",
+    "label_zh": "性爱"
+  },
+  {
+    "tag": "shibari",
+    "category": "nsfw_act",
+    "label_zh": "捆绑"
+  },
+  {
+    "tag": "spanked",
+    "category": "nsfw_act",
+    "label_zh": "打屁股"
+  },
+  {
+    "tag": "spitroast",
+    "category": "nsfw_act",
+    "label_zh": "前后夹攻"
+  },
+  {
+    "tag": "spread_ass",
+    "category": "nsfw_act",
+    "label_zh": "用手张开屁股"
+  },
+  {
+    "tag": "suspension",
+    "category": "nsfw_act",
+    "label_zh": "悬空捆绑"
+  },
+  {
+    "tag": "thigh_sex",
+    "category": "nsfw_act",
+    "label_zh": "腿交"
+  },
+  {
+    "tag": "tribadism",
+    "category": "nsfw_act",
+    "label_zh": "磨镜"
+  },
+  {
+    "tag": "underwater_sex",
+    "category": "nsfw_act",
+    "label_zh": "水中做爱"
+  },
+  {
+    "tag": "upright_straddle",
+    "category": "nsfw_act",
+    "label_zh": "对坐体位"
+  },
+  {
+    "tag": "voyeurism",
+    "category": "nsfw_act",
+    "label_zh": "窥阴癖"
+  },
+  {
+    "tag": "anus",
+    "category": "nsfw_body",
+    "label_zh": "肛门"
+  },
+  {
+    "tag": "areolae",
+    "category": "nsfw_body",
+    "label_zh": "乳晕"
+  },
+  {
+    "tag": "ass",
+    "category": "nsfw_body",
+    "label_zh": "臀部"
+  },
+  {
+    "tag": "bottomless",
+    "category": "nsfw_body",
+    "label_zh": "下身裸露"
+  },
+  {
+    "tag": "breasts_out",
+    "category": "nsfw_body",
+    "label_zh": "露出乳房"
+  },
+  {
+    "tag": "cameltoe",
+    "category": "nsfw_body",
+    "label_zh": "骆驼趾"
+  },
+  {
+    "tag": "cervix",
+    "category": "nsfw_body",
+    "label_zh": "子宫口"
+  },
+  {
+    "tag": "clitoris",
+    "category": "nsfw_body",
+    "label_zh": "阴蒂"
+  },
+  {
+    "tag": "clothing_aside",
+    "category": "nsfw_body",
+    "label_zh": "拨开衣物"
+  },
+  {
+    "tag": "completely_nude",
+    "category": "nsfw_body",
+    "label_zh": "全裸"
+  },
+  {
+    "tag": "cum",
+    "category": "nsfw_body",
+    "label_zh": "精液"
+  },
+  {
+    "tag": "cum_inside",
+    "category": "nsfw_body",
+    "label_zh": "内射"
+  },
+  {
+    "tag": "cum_on_breast",
+    "category": "nsfw_body",
+    "label_zh": "射在胸上"
+  },
+  {
+    "tag": "cum_on_hair",
+    "category": "nsfw_body",
+    "label_zh": "射在头发上"
+  },
+  {
+    "tag": "facial",
+    "category": "nsfw_body",
+    "label_zh": "颜射"
+  },
+  {
+    "tag": "futanari",
+    "category": "nsfw_body",
+    "label_zh": "双性"
+  },
+  {
+    "tag": "huge_ass",
+    "category": "nsfw_body",
+    "label_zh": "大臀部"
+  },
+  {
+    "tag": "lactation",
+    "category": "nsfw_body",
+    "label_zh": "泌乳"
+  },
+  {
+    "tag": "mound_of_venus",
+    "category": "nsfw_body",
+    "label_zh": "耻丘"
+  },
+  {
+    "tag": "navel_piercing",
+    "category": "nsfw_body",
+    "label_zh": "肚脐穿孔"
+  },
+  {
+    "tag": "nipple_piercing",
+    "category": "nsfw_body",
+    "label_zh": "乳头穿孔"
+  },
+  {
+    "tag": "nipples",
+    "category": "nsfw_body",
+    "label_zh": "乳头"
+  },
+  {
+    "tag": "no_bra",
+    "category": "nsfw_body",
+    "label_zh": "没穿胸罩"
+  },
+  {
+    "tag": "no_panties",
+    "category": "nsfw_body",
+    "label_zh": "没穿内裤"
+  },
+  {
+    "tag": "nude",
+    "category": "nsfw_body",
+    "label_zh": "裸体"
+  },
+  {
+    "tag": "peeing",
+    "category": "nsfw_body",
+    "label_zh": "排尿"
+  },
+  {
+    "tag": "penis",
+    "category": "nsfw_body",
+    "label_zh": "阴茎"
+  },
+  {
+    "tag": "piercing",
+    "category": "nsfw_body",
+    "label_zh": "穿孔"
+  },
+  {
+    "tag": "pubic_hair",
+    "category": "nsfw_body",
+    "label_zh": "阴毛"
+  },
+  {
+    "tag": "pubic_tattoo",
+    "category": "nsfw_body",
+    "label_zh": "下腹纹身"
+  },
+  {
+    "tag": "puffy_nipples",
+    "category": "nsfw_body",
+    "label_zh": "大乳头"
+  },
+  {
+    "tag": "pussy",
+    "category": "nsfw_body",
+    "label_zh": "阴部"
+  },
+  {
+    "tag": "pussy_juice",
+    "category": "nsfw_body",
+    "label_zh": "爱液"
+  },
+  {
+    "tag": "shaved_pussy",
+    "category": "nsfw_body",
+    "label_zh": "无毛阴部"
+  },
+  {
+    "tag": "small_nipples",
+    "category": "nsfw_body",
+    "label_zh": "小乳头"
+  },
+  {
+    "tag": "stomach_bulge",
+    "category": "nsfw_body",
+    "label_zh": "腹部隆起"
+  },
+  {
+    "tag": "testicles",
+    "category": "nsfw_body",
+    "label_zh": "睾丸"
+  },
+  {
+    "tag": "topless",
+    "category": "nsfw_body",
+    "label_zh": "上身裸露"
+  },
+  {
+    "tag": "wide_hips",
+    "category": "nsfw_body",
+    "label_zh": "宽臀"
+  },
+  {
+    "tag": "anal_beads",
+    "category": "nsfw_gear",
+    "label_zh": "肛珠"
+  },
+  {
+    "tag": "ballgag",
+    "category": "nsfw_gear",
+    "label_zh": "球状口塞"
+  },
+  {
+    "tag": "chastity_belt",
+    "category": "nsfw_gear",
+    "label_zh": "贞操带"
+  },
+  {
+    "tag": "cleave_gag",
+    "category": "nsfw_gear",
+    "label_zh": "布口塞"
+  },
+  {
+    "tag": "cock_ring",
+    "category": "nsfw_gear",
+    "label_zh": "阴茎环"
+  },
+  {
+    "tag": "condom",
+    "category": "nsfw_gear",
+    "label_zh": "避孕套"
+  },
+  {
+    "tag": "dildo",
+    "category": "nsfw_gear",
+    "label_zh": "假阳具"
+  },
+  {
+    "tag": "double_dildo",
+    "category": "nsfw_gear",
+    "label_zh": "双头假阳具"
+  },
+  {
+    "tag": "egg_vibrator",
+    "category": "nsfw_gear",
+    "label_zh": "跳蛋"
+  },
+  {
+    "tag": "gag",
+    "category": "nsfw_gear",
+    "label_zh": "口塞"
+  },
+  {
+    "tag": "hitachi_magic_wand",
+    "category": "nsfw_gear",
+    "label_zh": "按摩棒"
+  },
+  {
+    "tag": "leash",
+    "category": "nsfw_gear",
+    "label_zh": "牵引链"
+  },
+  {
+    "tag": "panty_gag",
+    "category": "nsfw_gear",
+    "label_zh": "内裤口塞"
+  },
+  {
+    "tag": "ring_gag",
+    "category": "nsfw_gear",
+    "label_zh": "扩口器"
+  },
+  {
+    "tag": "rope",
+    "category": "nsfw_gear",
+    "label_zh": "绳子"
+  },
+  {
+    "tag": "spreader_bar",
+    "category": "nsfw_gear",
+    "label_zh": "分腿器"
+  },
+  {
+    "tag": "tape_gag",
+    "category": "nsfw_gear",
+    "label_zh": "胶带封口"
+  },
+  {
+    "tag": "vibrator",
+    "category": "nsfw_gear",
+    "label_zh": "振动器"
+  },
+  {
+    "tag": "afloat",
+    "category": "pose",
+    "label_zh": "浮(在水上"
+  },
+  {
+    "tag": "aiming",
+    "category": "pose",
+    "label_zh": "瞄准"
+  },
+  {
+    "tag": "aiming_at_viewer",
+    "category": "pose",
+    "label_zh": "瞄准了读者(的视角)"
+  },
+  {
+    "tag": "applying_makeup",
+    "category": "pose",
+    "label_zh": "化妆"
+  },
+  {
+    "tag": "arched_back",
+    "category": "pose",
+    "label_zh": "弓身体"
+  },
+  {
+    "tag": "back-to-back",
+    "category": "pose",
+    "label_zh": "背对背"
+  },
+  {
+    "tag": "bathing",
+    "category": "pose",
+    "label_zh": "洗澡"
+  },
+  {
+    "tag": "biting",
+    "category": "pose",
+    "label_zh": "咬"
+  },
+  {
+    "tag": "blowing",
+    "category": "pose",
+    "label_zh": "吹"
+  },
+  {
+    "tag": "bowing",
+    "category": "pose",
+    "label_zh": "鞠躬"
+  },
+  {
+    "tag": "breathing_fire",
+    "category": "pose",
+    "label_zh": "喷火"
+  },
+  {
+    "tag": "broom_riding",
+    "category": "pose",
+    "label_zh": "骑扫帚"
+  },
+  {
+    "tag": "brushing_teeth",
+    "category": "pose",
+    "label_zh": "刷牙"
+  },
+  {
+    "tag": "bubble_blowing",
+    "category": "pose",
+    "label_zh": "吹泡泡"
+  },
+  {
+    "tag": "bullying",
+    "category": "pose",
+    "label_zh": "欺负"
+  },
+  {
+    "tag": "chasing",
+    "category": "pose",
+    "label_zh": "追逐"
+  },
+  {
+    "tag": "cleaning",
+    "category": "pose",
+    "label_zh": "打扫"
+  },
+  {
+    "tag": "climbing",
+    "category": "pose",
+    "label_zh": "攀爬"
+  },
+  {
+    "tag": "comforting",
+    "category": "pose",
+    "label_zh": "安慰"
+  },
+  {
+    "tag": "cooking",
+    "category": "pose",
+    "label_zh": "烹饪"
+  },
+  {
+    "tag": "cuddling",
+    "category": "pose",
+    "label_zh": "拥抱"
+  },
+  {
+    "tag": "dancing",
+    "category": "pose",
+    "label_zh": "跳舞"
+  },
+  {
+    "tag": "diving",
+    "category": "pose",
+    "label_zh": "潜水"
+  },
+  {
+    "tag": "dragging",
+    "category": "pose",
+    "label_zh": "拖某物"
+  },
+  {
+    "tag": "drawing",
+    "category": "pose",
+    "label_zh": "绘画"
+  },
+  {
+    "tag": "drawing_bow",
+    "category": "pose",
+    "label_zh": "拉弓"
+  },
+  {
+    "tag": "dreaming",
+    "category": "pose",
+    "label_zh": "做梦"
+  },
+  {
+    "tag": "drinking",
+    "category": "pose",
+    "label_zh": "喝"
+  },
+  {
+    "tag": "driving",
+    "category": "pose",
+    "label_zh": "驾驶"
+  },
+  {
+    "tag": "dropping",
+    "category": "pose",
+    "label_zh": "(意外)掉落"
+  },
+  {
+    "tag": "drying",
+    "category": "pose",
+    "label_zh": "弄干(浴后)"
+  },
+  {
+    "tag": "dual_wielding",
+    "category": "pose",
+    "label_zh": "双持"
+  },
+  {
+    "tag": "ear_biting",
+    "category": "pose",
+    "label_zh": "咬耳朵"
+  },
+  {
+    "tag": "exercise",
+    "category": "pose",
+    "label_zh": "做运动"
+  },
+  {
+    "tag": "eye-contact",
+    "category": "pose",
+    "label_zh": "眼神接触"
+  },
+  {
+    "tag": "facing_another",
+    "category": "pose",
+    "label_zh": "面对另一个"
+  },
+  {
+    "tag": "facing_away",
+    "category": "pose",
+    "label_zh": "二人面对面(脸贴得很近)"
+  },
+  {
+    "tag": "feeding",
+    "category": "pose",
+    "label_zh": "喂食"
+  },
+  {
+    "tag": "fetal_position",
+    "category": "pose",
+    "label_zh": "胎儿姿势(躺)"
+  },
+  {
+    "tag": "fighting",
+    "category": "pose",
+    "label_zh": "战斗中的"
+  },
+  {
+    "tag": "fighting_stance",
+    "category": "pose",
+    "label_zh": "战斗姿态"
+  },
+  {
+    "tag": "firing",
+    "category": "pose",
+    "label_zh": "射击"
+  },
+  {
+    "tag": "fishing",
+    "category": "pose",
+    "label_zh": "钓鱼"
+  },
+  {
+    "tag": "flapping",
+    "category": "pose",
+    "label_zh": "拍打动作"
+  },
+  {
+    "tag": "fleeing",
+    "category": "pose",
+    "label_zh": "在逃跑的"
+  },
+  {
+    "tag": "flexing",
+    "category": "pose",
+    "label_zh": "秀肌肉"
+  },
+  {
+    "tag": "flying",
+    "category": "pose",
+    "label_zh": "飞行"
+  },
+  {
+    "tag": "flying_kick",
+    "category": "pose",
+    "label_zh": "飞踢"
+  },
+  {
+    "tag": "giving",
+    "category": "pose",
+    "label_zh": "递"
+  },
+  {
+    "tag": "hiding",
+    "category": "pose",
+    "label_zh": "躲藏"
+  },
+  {
+    "tag": "hitting",
+    "category": "pose",
+    "label_zh": "击打"
+  },
+  {
+    "tag": "hug",
+    "category": "pose",
+    "label_zh": "拥抱"
+  },
+  {
+    "tag": "imagining",
+    "category": "pose",
+    "label_zh": "在想象的"
+  },
+  {
+    "tag": "in_container",
+    "category": "pose",
+    "label_zh": "在容器中"
+  },
+  {
+    "tag": "incoming_food",
+    "category": "pose",
+    "label_zh": "递食物"
+  },
+  {
+    "tag": "incoming_gift",
+    "category": "pose",
+    "label_zh": "递礼物"
+  },
+  {
+    "tag": "interlocked_fingers",
+    "category": "pose",
+    "label_zh": "紧扣的双手"
+  },
+  {
+    "tag": "jumping",
+    "category": "pose",
+    "label_zh": "跳跃"
+  },
+  {
+    "tag": "kabedon",
+    "category": "pose",
+    "label_zh": "壁咚"
+  },
+  {
+    "tag": "kicking",
+    "category": "pose",
+    "label_zh": "踢"
+  },
+  {
+    "tag": "kneeling",
+    "category": "pose",
+    "label_zh": "跪"
+  },
+  {
+    "tag": "lap_pillow",
+    "category": "pose",
+    "label_zh": "膝枕"
+  },
+  {
+    "tag": "leaning",
+    "category": "pose",
+    "label_zh": "倚靠"
+  },
+  {
+    "tag": "leaning_back",
+    "category": "pose",
+    "label_zh": "身体往后靠"
+  },
+  {
+    "tag": "leaning_forward",
+    "category": "pose",
+    "label_zh": "身体前倾"
+  },
+  {
+    "tag": "leaning_on_object",
+    "category": "pose",
+    "label_zh": "靠在物体上"
+  },
+  {
+    "tag": "leaning_to_the_side",
+    "category": "pose",
+    "label_zh": "靠在一边"
+  },
+  {
+    "tag": "licking",
+    "category": "pose",
+    "label_zh": "舔"
+  },
+  {
+    "tag": "looking_afar",
+    "category": "pose",
+    "label_zh": "遥望"
+  },
+  {
+    "tag": "looking_ahead",
+    "category": "pose",
+    "label_zh": "展望未来"
+  },
+  {
+    "tag": "looking_at_animal",
+    "category": "pose",
+    "label_zh": "看着动物"
+  },
+  {
+    "tag": "looking_at_another",
+    "category": "pose",
+    "label_zh": "看着另一个"
+  },
+  {
+    "tag": "looking_at_food",
+    "category": "pose",
+    "label_zh": "看食物"
+  },
+  {
+    "tag": "looking_at_hand",
+    "category": "pose",
+    "label_zh": "看着手"
+  },
+  {
+    "tag": "looking_at_hands",
+    "category": "pose",
+    "label_zh": "看着双手"
+  },
+  {
+    "tag": "looking_at_mirror",
+    "category": "pose",
+    "label_zh": "照镜子"
+  },
+  {
+    "tag": "looking_at_phone",
+    "category": "pose",
+    "label_zh": "看手机"
+  },
+  {
+    "tag": "looking_at_screen",
+    "category": "pose",
+    "label_zh": "看着屏幕"
+  },
+  {
+    "tag": "looking_at_viewer",
+    "category": "pose",
+    "label_zh": "看向观众"
+  },
+  {
+    "tag": "looking_away",
+    "category": "pose",
+    "label_zh": "看着别处"
+  },
+  {
+    "tag": "looking_back",
+    "category": "pose",
+    "label_zh": "回眸"
+  },
+  {
+    "tag": "looking_down",
+    "category": "pose",
+    "label_zh": "人物视角向下看↘"
+  },
+  {
+    "tag": "looking_outside",
+    "category": "pose",
+    "label_zh": "向外看"
+  },
+  {
+    "tag": "looking_to_the_side",
+    "category": "pose",
+    "label_zh": "看向侧面"
+  },
+  {
+    "tag": "looking_up",
+    "category": "pose",
+    "label_zh": "人物视角抬头看↗"
+  },
+  {
+    "tag": "lying",
+    "category": "pose",
+    "label_zh": "躺着的"
+  },
+  {
+    "tag": "lying_on_person",
+    "category": "pose",
+    "label_zh": "躺在人身上"
+  },
+  {
+    "tag": "lying_on_the_lake",
+    "category": "pose",
+    "label_zh": "躺在湖面上"
+  },
+  {
+    "tag": "lying_on_water",
+    "category": "pose",
+    "label_zh": "躺在水中"
+  },
+  {
+    "tag": "meditation",
+    "category": "pose",
+    "label_zh": "冥想"
+  },
+  {
+    "tag": "mimikaki",
+    "category": "pose",
+    "label_zh": "掏耳勺"
+  },
+  {
+    "tag": "on_back",
+    "category": "pose",
+    "label_zh": "躺"
+  },
+  {
+    "tag": "on_side",
+    "category": "pose",
+    "label_zh": "侧卧"
+  },
+  {
+    "tag": "on_stomach",
+    "category": "pose",
+    "label_zh": "趴"
+  },
+  {
+    "tag": "painting_(action)",
+    "category": "pose",
+    "label_zh": "画画"
+  },
+  {
+    "tag": "playing_card",
+    "category": "pose",
+    "label_zh": "扑克牌"
+  },
+  {
+    "tag": "playing_games",
+    "category": "pose",
+    "label_zh": "打游戏"
+  },
+  {
+    "tag": "playing_instrument",
+    "category": "pose",
+    "label_zh": "演奏乐器"
+  },
+  {
+    "tag": "posing",
+    "category": "pose",
+    "label_zh": "摆姿势"
+  },
+  {
+    "tag": "praying",
+    "category": "pose",
+    "label_zh": "祈祷"
+  },
+  {
+    "tag": "princess_carry",
+    "category": "pose",
+    "label_zh": "公主抱"
+  },
+  {
+    "tag": "punching",
+    "category": "pose",
+    "label_zh": "挥拳"
+  },
+  {
+    "tag": "pushing",
+    "category": "pose",
+    "label_zh": "推搡"
+  },
+  {
+    "tag": "reading",
+    "category": "pose",
+    "label_zh": "阅读"
+  },
+  {
+    "tag": "reclining",
+    "category": "pose",
+    "label_zh": "斜倒斜躺姿势"
+  },
+  {
+    "tag": "reversal",
+    "category": "pose",
+    "label_zh": "反转"
+  },
+  {
+    "tag": "riding",
+    "category": "pose",
+    "label_zh": "骑"
+  },
+  {
+    "tag": "running",
+    "category": "pose",
+    "label_zh": "奔跑"
+  },
+  {
+    "tag": "sewing",
+    "category": "pose",
+    "label_zh": "缝纫"
+  },
+  {
+    "tag": "shared_food",
+    "category": "pose",
+    "label_zh": "共享食物"
+  },
+  {
+    "tag": "shopping",
+    "category": "pose",
+    "label_zh": "购物"
+  },
+  {
+    "tag": "showering",
+    "category": "pose",
+    "label_zh": "淋浴"
+  },
+  {
+    "tag": "sideways_glance",
+    "category": "pose",
+    "label_zh": "轻轻向侧面瞥"
+  },
+  {
+    "tag": "singing",
+    "category": "pose",
+    "label_zh": "唱歌"
+  },
+  {
+    "tag": "sitting_on_head",
+    "category": "pose",
+    "label_zh": "坐在头上"
+  },
+  {
+    "tag": "sitting_on_shoulder",
+    "category": "pose",
+    "label_zh": "坐在肩膀上"
+  },
+  {
+    "tag": "slapping",
+    "category": "pose",
+    "label_zh": "掌掴"
+  },
+  {
+    "tag": "slashing",
+    "category": "pose",
+    "label_zh": "砍"
+  },
+  {
+    "tag": "sleeping",
+    "category": "pose",
+    "label_zh": "睡觉"
+  },
+  {
+    "tag": "sleeping_upright",
+    "category": "pose",
+    "label_zh": "(不躺着)睡觉"
+  },
+  {
+    "tag": "sneezing",
+    "category": "pose",
+    "label_zh": "打喷嚏"
+  },
+  {
+    "tag": "soaking_feet",
+    "category": "pose",
+    "label_zh": "泡脚"
+  },
+  {
+    "tag": "soccer",
+    "category": "pose",
+    "label_zh": "足球运动"
+  },
+  {
+    "tag": "spilling",
+    "category": "pose",
+    "label_zh": "从容器中倒出液体的动作"
+  },
+  {
+    "tag": "spinning",
+    "category": "pose",
+    "label_zh": "旋转"
+  },
+  {
+    "tag": "spitting",
+    "category": "pose",
+    "label_zh": "从嘴里吐出液体的动作"
+  },
+  {
+    "tag": "standing",
+    "category": "pose",
+    "label_zh": "站立"
+  },
+  {
+    "tag": "standing_on_liquid",
+    "category": "pose",
+    "label_zh": "站在水上或液体上"
+  },
+  {
+    "tag": "standing_on_one_leg",
+    "category": "pose",
+    "label_zh": "单腿站立"
+  },
+  {
+    "tag": "standing_split",
+    "category": "pose",
+    "label_zh": "站立劈叉"
+  },
+  {
+    "tag": "stare",
+    "category": "pose",
+    "label_zh": "凝视"
+  },
+  {
+    "tag": "steepled_fingers",
+    "category": "pose",
+    "label_zh": "指尖抵着指间"
+  },
+  {
+    "tag": "stylish_pose",
+    "category": "pose",
+    "label_zh": "时尚姿势"
+  },
+  {
+    "tag": "sweeping",
+    "category": "pose",
+    "label_zh": "打扫"
+  },
+  {
+    "tag": "swimming",
+    "category": "pose",
+    "label_zh": "游泳"
+  },
+  {
+    "tag": "swing",
+    "category": "pose",
+    "label_zh": "摆动"
+  },
+  {
+    "tag": "tail_wagging",
+    "category": "pose",
+    "label_zh": "摇尾巴"
+  },
+  {
+    "tag": "taking_picture",
+    "category": "pose",
+    "label_zh": "拍照"
+  },
+  {
+    "tag": "talking",
+    "category": "pose",
+    "label_zh": "有台词的"
+  },
+  {
+    "tag": "talking_on_phone",
+    "category": "pose",
+    "label_zh": "打电话"
+  },
+  {
+    "tag": "teasing",
+    "category": "pose",
+    "label_zh": "戏弄"
+  },
+  {
+    "tag": "tickling",
+    "category": "pose",
+    "label_zh": "挠痒痒"
+  },
+  {
+    "tag": "tripping",
+    "category": "pose",
+    "label_zh": "被绊倒"
+  },
+  {
+    "tag": "tying",
+    "category": "pose",
+    "label_zh": "打结(动作)"
+  },
+  {
+    "tag": "unsheathing",
+    "category": "pose",
+    "label_zh": "拔出鞘的"
+  },
+  {
+    "tag": "untying",
+    "category": "pose",
+    "label_zh": "解开的"
+  },
+  {
+    "tag": "unzipping",
+    "category": "pose",
+    "label_zh": "拉开拉链(动作)"
+  },
+  {
+    "tag": "upside-down",
+    "category": "pose",
+    "label_zh": "倒立"
+  },
+  {
+    "tag": "wading",
+    "category": "pose",
+    "label_zh": "涉水"
+  },
+  {
+    "tag": "waking_up",
+    "category": "pose",
+    "label_zh": "醒来"
+  },
+  {
+    "tag": "walking",
+    "category": "pose",
+    "label_zh": "走路"
+  },
+  {
+    "tag": "walking_on_liquid",
+    "category": "pose",
+    "label_zh": "在液体上行走"
+  },
+  {
+    "tag": "washing",
+    "category": "pose",
+    "label_zh": "洗涤"
+  },
+  {
+    "tag": "whispering",
+    "category": "pose",
+    "label_zh": "讲悄悄话"
+  },
+  {
+    "tag": "wrestling",
+    "category": "pose",
+    "label_zh": "摔角(运动)"
+  },
+  {
+    "tag": "writing",
+    "category": "pose",
+    "label_zh": "写作"
+  },
+  {
+    "tag": "yawning",
+    "category": "pose",
+    "label_zh": "打哈欠"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "kachimachi_kosuzu",
+  "name": "徒町小铃",
+  "identity_tags": [
+    "kachimachi_kosuzu"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "straight_hair"
+    ],
+    "eyes": [
+      "pink_eyes"
+    ]
+  },
+  "default_clothing": [],
+  "optional_clothing": []
+}

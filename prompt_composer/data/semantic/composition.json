@@ -1,0 +1,123 @@
+[
+  {
+    "tag": "from_behind",
+    "category": "composition",
+    "weight": 5.48,
+    "aliases": [
+      "back_view",
+      "from_back",
+      "back_turned",
+      "viewed_from_behind"
+    ],
+    "label_zh": "后背视角",
+    "post_count": 300031
+  },
+  {
+    "tag": "from_side",
+    "category": "composition",
+    "weight": 5.47,
+    "aliases": [
+      "viewed_from_side",
+      "side_view",
+      "side"
+    ],
+    "label_zh": "侧面视角",
+    "post_count": 298338
+  },
+  {
+    "tag": "dutch_angle",
+    "category": "composition",
+    "weight": 5.17,
+    "aliases": [],
+    "label_zh": "倾斜角度",
+    "post_count": 148992
+  },
+  {
+    "tag": "from_above",
+    "category": "composition",
+    "weight": 5.12,
+    "aliases": [
+      "viewed_from_above",
+      "aerial_view",
+      "view_from_above"
+    ],
+    "label_zh": "从上方↘",
+    "post_count": 130749
+  },
+  {
+    "tag": "from_below",
+    "category": "composition",
+    "weight": 5.03,
+    "aliases": [
+      "viewed_from_below",
+      "low_angle",
+      "view_from_below"
+    ],
+    "label_zh": "从下方↗",
+    "post_count": 107304
+  },
+  {
+    "tag": "foreshortening",
+    "category": "composition",
+    "weight": 4.81,
+    "aliases": [],
+    "label_zh": "透视法",
+    "post_count": 64019
+  },
+  {
+    "tag": "mirror_selfie",
+    "category": "composition",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "对镜自拍",
+    "post_count": 4046
+  },
+  {
+    "tag": "from_outside",
+    "category": "composition",
+    "weight": 3.33,
+    "aliases": [],
+    "label_zh": "由室外向室内",
+    "post_count": 2149
+  },
+  {
+    "tag": "turn_one's_back",
+    "category": "composition",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "转身",
+    "post_count": 0
+  },
+  {
+    "tag": "three-quarter_view",
+    "category": "composition",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "3/4视角",
+    "post_count": 0
+  },
+  {
+    "tag": "front_view",
+    "category": "composition",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "正面视角",
+    "post_count": 0
+  },
+  {
+    "tag": "dynamic_angle",
+    "category": "composition",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "动态角度",
+    "post_count": 0
+  },
+  {
+    "tag": "cinematic_angle",
+    "category": "composition",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "电影角度",
+    "post_count": 0
+  }
+]

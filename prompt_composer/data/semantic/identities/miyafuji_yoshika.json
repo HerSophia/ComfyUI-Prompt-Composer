@@ -1,0 +1,30 @@
+{
+  "id": "miyafuji_yoshika",
+  "name": "宫藤佳佳",
+  "identity_tags": [
+    "miyafuji_yoshika"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "eyepatch"
+    ]
+  },
+  "default_clothing": [
+    "swimsuit_under_clothes",
+    "school_swimsuit",
+    "military_uniform",
+    "one-piece_swimsuit"
+  ],
+  "optional_clothing": []
+}

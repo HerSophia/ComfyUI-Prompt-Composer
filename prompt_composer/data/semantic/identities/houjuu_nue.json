@@ -1,0 +1,30 @@
+{
+  "id": "houjuu_nue",
+  "name": "封兽鵺",
+  "identity_tags": [
+    "houjuu_nue"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "side_ponytail",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "sailor",
+    "geta",
+    "black_thighhighs",
+    "mary_janes"
+  ],
+  "optional_clothing": []
+}

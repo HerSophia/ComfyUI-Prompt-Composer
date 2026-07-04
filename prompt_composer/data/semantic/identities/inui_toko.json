@@ -1,0 +1,30 @@
+{
+  "id": "inui_toko",
+  "name": "戌亥床",
+  "identity_tags": [
+    "inui_toko"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "blunt_bangs",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "red_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "obi",
+    "hakama_skirt",
+    "kimono",
+    "waist_apron"
+  ],
+  "optional_clothing": []
+}

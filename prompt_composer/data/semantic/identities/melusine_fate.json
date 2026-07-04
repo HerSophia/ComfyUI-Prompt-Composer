@@ -1,0 +1,30 @@
+{
+  "id": "melusine_fate",
+  "name": "美露西娜",
+  "identity_tags": [
+    "melusine_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ponytail",
+      "high_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "shrug_(clothing)",
+    "cropped_jacket",
+    "shoulder_armor",
+    "white_thighhighs"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kanzaki_ranko",
+  "name": "神崎兰子",
+  "identity_tags": [
+    "kanzaki_ranko"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "drill_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "gothic_lolita",
+    "frilled_dress",
+    "choker",
+    "black_thighhighs"
+  ],
+  "optional_clothing": []
+}

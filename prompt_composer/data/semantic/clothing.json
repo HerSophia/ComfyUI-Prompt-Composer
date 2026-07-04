@@ -1,0 +1,3659 @@
+[
+  {
+    "tag": "shirt",
+    "category": "clothing",
+    "weight": 6.41,
+    "aliases": [
+      "shirt_only",
+      "shirts"
+    ],
+    "label_zh": "衬衫",
+    "post_count": 2584690
+  },
+  {
+    "tag": "skirt",
+    "category": "clothing",
+    "weight": 6.3,
+    "aliases": [],
+    "label_zh": "短裙",
+    "post_count": 1983926
+  },
+  {
+    "tag": "dress",
+    "category": "clothing",
+    "weight": 6.24,
+    "aliases": [],
+    "label_zh": "连衣裙",
+    "post_count": 1745592
+  },
+  {
+    "tag": "thighhighs",
+    "category": "clothing",
+    "weight": 6.15,
+    "aliases": [
+      "naked_thighhighs",
+      "nude_thighhighs",
+      "thighhighs_only",
+      "thighighs",
+      "stockings",
+      "stocking",
+      "thigh_highs",
+      "/t",
+      "thighhigh",
+      "thighhigs",
+      "thighhgihs"
+    ],
+    "label_zh": "长筒袜(过膝高筒袜)",
+    "post_count": 1421839
+  },
+  {
+    "tag": "jacket",
+    "category": "clothing",
+    "weight": 6.12,
+    "aliases": [],
+    "label_zh": "夹克衫",
+    "post_count": 1325820
+  },
+  {
+    "tag": "white_shirt",
+    "category": "clothing",
+    "weight": 6.09,
+    "aliases": [
+      "white_blouse"
+    ],
+    "label_zh": "白衬衫",
+    "post_count": 1238158
+  },
+  {
+    "tag": "school_uniform",
+    "category": "clothing",
+    "weight": 5.99,
+    "aliases": [
+      "school_girl",
+      "school_uniforms",
+      "schoolgirl",
+      "seifuku",
+      "/s"
+    ],
+    "label_zh": "校服",
+    "post_count": 976621
+  },
+  {
+    "tag": "swimsuit",
+    "category": "clothing",
+    "weight": 5.92,
+    "aliases": [
+      "bathing_suit",
+      "swimsuits",
+      "swim_suit",
+      "mizugi"
+    ],
+    "label_zh": "泳装",
+    "post_count": 825822
+  },
+  {
+    "tag": "shoes",
+    "category": "clothing",
+    "weight": 5.88,
+    "aliases": [
+      "shoe"
+    ],
+    "label_zh": "运动鞋",
+    "post_count": 762157
+  },
+  {
+    "tag": "open_clothes",
+    "category": "clothing",
+    "weight": 5.83,
+    "aliases": [
+      "open_clothing"
+    ],
+    "label_zh": "敞开的衣服",
+    "post_count": 682069
+  },
+  {
+    "tag": "pantyhose",
+    "category": "clothing",
+    "weight": 5.83,
+    "aliases": [
+      "tights",
+      "panty_hose"
+    ],
+    "label_zh": "连裤袜",
+    "post_count": 681030
+  },
+  {
+    "tag": "collared_shirt",
+    "category": "clothing",
+    "weight": 5.82,
+    "aliases": [
+      "collared_blouse"
+    ],
+    "label_zh": "有领衬衫",
+    "post_count": 666127
+  },
+  {
+    "tag": "pleated_skirt",
+    "category": "clothing",
+    "weight": 5.81,
+    "aliases": [],
+    "label_zh": "百褶裙",
+    "post_count": 650431
+  },
+  {
+    "tag": "boots",
+    "category": "clothing",
+    "weight": 5.81,
+    "aliases": [
+      "naked_boots",
+      "boot"
+    ],
+    "label_zh": "靴子",
+    "post_count": 643126
+  },
+  {
+    "tag": "bikini",
+    "category": "clothing",
+    "weight": 5.8,
+    "aliases": [],
+    "label_zh": "比基尼",
+    "post_count": 629133
+  },
+  {
+    "tag": "pants",
+    "category": "clothing",
+    "weight": 5.79,
+    "aliases": [
+      "slacks",
+      "long_pants",
+      "trousers"
+    ],
+    "label_zh": "长裤",
+    "post_count": 623679
+  },
+  {
+    "tag": "necktie",
+    "category": "clothing",
+    "weight": 5.77,
+    "aliases": [
+      "neck_tie",
+      "tie"
+    ],
+    "label_zh": "领带",
+    "post_count": 593977
+  },
+  {
+    "tag": "shorts",
+    "category": "clothing",
+    "weight": 5.77,
+    "aliases": [
+      "short_pants"
+    ],
+    "label_zh": "短裤",
+    "post_count": 593332
+  },
+  {
+    "tag": "alternate_costume",
+    "category": "clothing",
+    "weight": 5.77,
+    "aliases": [
+      "alternate_outfit",
+      "/acos",
+      "alternative_costume",
+      "alternate_outfit"
+    ],
+    "label_zh": "与原设不同衣服",
+    "post_count": 584945
+  },
+  {
+    "tag": "choker",
+    "category": "clothing",
+    "weight": 5.74,
+    "aliases": [],
+    "label_zh": "颈部饰品",
+    "post_count": 554868
+  },
+  {
+    "tag": "socks",
+    "category": "clothing",
+    "weight": 5.72,
+    "aliases": [
+      "naked_socks",
+      "leghighs",
+      "sock"
+    ],
+    "label_zh": "短袜",
+    "post_count": 524367
+  },
+  {
+    "tag": "japanese_clothes",
+    "category": "clothing",
+    "weight": 5.69,
+    "aliases": [
+      "traditional_japanese_clothes",
+      "japanese_clothing",
+      "wafuku"
+    ],
+    "label_zh": "和服",
+    "post_count": 491387
+  },
+  {
+    "tag": "black_thighhighs",
+    "category": "clothing",
+    "weight": 5.67,
+    "aliases": [],
+    "label_zh": "黑色长筒袜",
+    "post_count": 467796
+  },
+  {
+    "tag": "barefoot",
+    "category": "clothing",
+    "weight": 5.67,
+    "aliases": [
+      "barefeet",
+      "bare_foot",
+      "bare_feet"
+    ],
+    "label_zh": "赤脚",
+    "post_count": 462741
+  },
+  {
+    "tag": "bowtie",
+    "category": "clothing",
+    "weight": 5.63,
+    "aliases": [
+      "neck_bow",
+      "bow_tie"
+    ],
+    "label_zh": "蝴蝶结领带",
+    "post_count": 430297
+  },
+  {
+    "tag": "sailor_collar",
+    "category": "clothing",
+    "weight": 5.57,
+    "aliases": [],
+    "label_zh": "水手领",
+    "post_count": 369564
+  },
+  {
+    "tag": "serafuku",
+    "category": "clothing",
+    "weight": 5.57,
+    "aliases": [
+      "sailor_fuku",
+      "/se"
+    ],
+    "label_zh": "水手服",
+    "post_count": 368527
+  },
+  {
+    "tag": "miniskirt",
+    "category": "clothing",
+    "weight": 5.54,
+    "aliases": [
+      "short_skirt",
+      "mini_skirt"
+    ],
+    "label_zh": "迷你裙",
+    "post_count": 346249
+  },
+  {
+    "tag": "open_jacket",
+    "category": "clothing",
+    "weight": 5.53,
+    "aliases": [
+      "open_track_jacket",
+      "open_blazer"
+    ],
+    "label_zh": "开襟夹克(配合spread_legs)",
+    "post_count": 340336
+  },
+  {
+    "tag": "necklace",
+    "category": "clothing",
+    "weight": 5.53,
+    "aliases": [],
+    "label_zh": "项链",
+    "post_count": 336107
+  },
+  {
+    "tag": "white_thighhighs",
+    "category": "clothing",
+    "weight": 5.5,
+    "aliases": [],
+    "label_zh": "白色长筒袜",
+    "post_count": 314334
+  },
+  {
+    "tag": "kimono",
+    "category": "clothing",
+    "weight": 5.49,
+    "aliases": [],
+    "label_zh": "和服",
+    "post_count": 312532
+  },
+  {
+    "tag": "vest",
+    "category": "clothing",
+    "weight": 5.46,
+    "aliases": [],
+    "label_zh": "背心(正式)",
+    "post_count": 287855
+  },
+  {
+    "tag": "leotard",
+    "category": "clothing",
+    "weight": 5.45,
+    "aliases": [],
+    "label_zh": "连衣裤",
+    "post_count": 281227
+  },
+  {
+    "tag": "armor",
+    "category": "clothing",
+    "weight": 5.45,
+    "aliases": [
+      "armour"
+    ],
+    "label_zh": "盔甲",
+    "post_count": 279990
+  },
+  {
+    "tag": "apron",
+    "category": "clothing",
+    "weight": 5.44,
+    "aliases": [],
+    "label_zh": "围裙",
+    "post_count": 277491
+  },
+  {
+    "tag": "cape",
+    "category": "clothing",
+    "weight": 5.44,
+    "aliases": [],
+    "label_zh": "披肩",
+    "post_count": 276230
+  },
+  {
+    "tag": "sweater",
+    "category": "clothing",
+    "weight": 5.44,
+    "aliases": [
+      "sweatshirt"
+    ],
+    "label_zh": "毛衣",
+    "post_count": 274790
+  },
+  {
+    "tag": "black_pantyhose",
+    "category": "clothing",
+    "weight": 5.44,
+    "aliases": [],
+    "label_zh": "黑丝裤袜",
+    "post_count": 274212
+  },
+  {
+    "tag": "high_heels",
+    "category": "clothing",
+    "weight": 5.42,
+    "aliases": [
+      "highheels",
+      "heels"
+    ],
+    "label_zh": "高跟鞋",
+    "post_count": 263827
+  },
+  {
+    "tag": "crop_top",
+    "category": "clothing",
+    "weight": 5.41,
+    "aliases": [],
+    "label_zh": "截短上衣",
+    "post_count": 256600
+  },
+  {
+    "tag": "clothing_cutout",
+    "category": "clothing",
+    "weight": 5.38,
+    "aliases": [],
+    "label_zh": "衣服漏洞",
+    "post_count": 239508
+  },
+  {
+    "tag": "black_choker",
+    "category": "clothing",
+    "weight": 5.38,
+    "aliases": [],
+    "label_zh": "黑色颈圈",
+    "post_count": 238002
+  },
+  {
+    "tag": "neckerchief",
+    "category": "clothing",
+    "weight": 5.36,
+    "aliases": [],
+    "label_zh": "领巾",
+    "post_count": 230379
+  },
+  {
+    "tag": "thigh_strap",
+    "category": "clothing",
+    "weight": 5.34,
+    "aliases": [
+      "legband",
+      "thigh_belt",
+      "thighband",
+      "thigh_band",
+      "thigh_straps"
+    ],
+    "label_zh": "大腿绑带",
+    "post_count": 220365
+  },
+  {
+    "tag": "sleeveless_dress",
+    "category": "clothing",
+    "weight": 5.31,
+    "aliases": [],
+    "label_zh": "无袖连衣裙",
+    "post_count": 206512
+  },
+  {
+    "tag": "sleeveless_shirt",
+    "category": "clothing",
+    "weight": 5.31,
+    "aliases": [
+      "sleeveless_blouse"
+    ],
+    "label_zh": "无袖衬衫",
+    "post_count": 205407
+  },
+  {
+    "tag": "neck_ribbon",
+    "category": "clothing",
+    "weight": 5.28,
+    "aliases": [],
+    "label_zh": "颈部系着缎带",
+    "post_count": 189863
+  },
+  {
+    "tag": "sash",
+    "category": "clothing",
+    "weight": 5.26,
+    "aliases": [],
+    "label_zh": "饰带",
+    "post_count": 183734
+  },
+  {
+    "tag": "ascot",
+    "category": "clothing",
+    "weight": 5.26,
+    "aliases": [
+      "jabot",
+      "cravat"
+    ],
+    "label_zh": "领巾状宽领带",
+    "post_count": 183168
+  },
+  {
+    "tag": "hoodie",
+    "category": "clothing",
+    "weight": 5.26,
+    "aliases": [],
+    "label_zh": "卫衣",
+    "post_count": 179954
+  },
+  {
+    "tag": "short_shorts",
+    "category": "clothing",
+    "weight": 5.25,
+    "aliases": [
+      "minishorts",
+      "booty_shorts",
+      "hot_pants",
+      "hotpants"
+    ],
+    "label_zh": "热裤",
+    "post_count": 178453
+  },
+  {
+    "tag": "one-piece_swimsuit",
+    "category": "clothing",
+    "weight": 5.23,
+    "aliases": [
+      "one_piece_swimsuit",
+      "one-piece"
+    ],
+    "label_zh": "一体式泳衣",
+    "post_count": 168868
+  },
+  {
+    "tag": "bare_legs",
+    "category": "clothing",
+    "weight": 5.22,
+    "aliases": [],
+    "label_zh": "裸腿",
+    "post_count": 166943
+  },
+  {
+    "tag": "capelet",
+    "category": "clothing",
+    "weight": 5.2,
+    "aliases": [
+      "shoulder_cape",
+      "mantle"
+    ],
+    "label_zh": "披肩",
+    "post_count": 157617
+  },
+  {
+    "tag": "kneehighs",
+    "category": "clothing",
+    "weight": 5.19,
+    "aliases": [
+      "kneehigh_socks",
+      "knee_socks",
+      "kneesocks",
+      "knee_highs"
+    ],
+    "label_zh": "中筒袜",
+    "post_count": 156154
+  },
+  {
+    "tag": "dress_shirt",
+    "category": "clothing",
+    "weight": 5.19,
+    "aliases": [
+      "suit_shirt"
+    ],
+    "label_zh": "西服衬衫",
+    "post_count": 154219
+  },
+  {
+    "tag": "highleg",
+    "category": "clothing",
+    "weight": 5.18,
+    "aliases": [],
+    "label_zh": "高开衩的衣物",
+    "post_count": 151438
+  },
+  {
+    "tag": "chinese_clothes",
+    "category": "clothing",
+    "weight": 5.17,
+    "aliases": [],
+    "label_zh": "唐装",
+    "post_count": 149119
+  },
+  {
+    "tag": "sandals",
+    "category": "clothing",
+    "weight": 5.13,
+    "aliases": [
+      "sandal"
+    ],
+    "label_zh": "凉鞋",
+    "post_count": 136278
+  },
+  {
+    "tag": "halterneck",
+    "category": "clothing",
+    "weight": 5.12,
+    "aliases": [
+      "halter_top",
+      "haltertop",
+      "halter"
+    ],
+    "label_zh": "绕颈系带",
+    "post_count": 132991
+  },
+  {
+    "tag": "frilled_dress",
+    "category": "clothing",
+    "weight": 5.12,
+    "aliases": [
+      "ruffled_dress",
+      "frilly_dress"
+    ],
+    "label_zh": "花边连衣裙",
+    "post_count": 131042
+  },
+  {
+    "tag": "plaid_skirt",
+    "category": "clothing",
+    "weight": 5.08,
+    "aliases": [
+      "tartan_skirt"
+    ],
+    "label_zh": "格子呢短裙",
+    "post_count": 119523
+  },
+  {
+    "tag": "no_shoes",
+    "category": "clothing",
+    "weight": 5.07,
+    "aliases": [],
+    "label_zh": "没有鞋子",
+    "post_count": 116864
+  },
+  {
+    "tag": "thigh_boots",
+    "category": "clothing",
+    "weight": 5.05,
+    "aliases": [
+      "thighhigh_boots",
+      "thighboots"
+    ],
+    "label_zh": "大腿靴",
+    "post_count": 113453
+  },
+  {
+    "tag": "cardigan",
+    "category": "clothing",
+    "weight": 5.05,
+    "aliases": [],
+    "label_zh": "开襟毛衣衫",
+    "post_count": 112758
+  },
+  {
+    "tag": "military_uniform",
+    "category": "clothing",
+    "weight": 5.05,
+    "aliases": [],
+    "label_zh": "陆军制服",
+    "post_count": 111113
+  },
+  {
+    "tag": "tank_top",
+    "category": "clothing",
+    "weight": 5.04,
+    "aliases": [
+      "tanktop"
+    ],
+    "label_zh": "背心(居家)",
+    "post_count": 109481
+  },
+  {
+    "tag": "garter_straps",
+    "category": "clothing",
+    "weight": 5.02,
+    "aliases": [
+      "garter_strap"
+    ],
+    "label_zh": "腰带(吊带袜的)",
+    "post_count": 104976
+  },
+  {
+    "tag": "helmet",
+    "category": "clothing",
+    "weight": 5.01,
+    "aliases": [],
+    "label_zh": "头盔",
+    "post_count": 103286
+  },
+  {
+    "tag": "frilled_skirt",
+    "category": "clothing",
+    "weight": 5.01,
+    "aliases": [
+      "ruffled_skirt",
+      "frilly_skirt"
+    ],
+    "label_zh": "花边裙子",
+    "post_count": 102592
+  },
+  {
+    "tag": "shirt_lift",
+    "category": "clothing",
+    "weight": 5.0,
+    "aliases": [
+      "tank_top_lift",
+      "shirt_up",
+      "top_lift",
+      "lift_shirt",
+      "/shl",
+      "shirtlift"
+    ],
+    "label_zh": "掀起衬衫",
+    "post_count": 101105
+  },
+  {
+    "tag": "obi",
+    "category": "clothing",
+    "weight": 5.0,
+    "aliases": [],
+    "label_zh": "衣带(和服用)",
+    "post_count": 100928
+  },
+  {
+    "tag": "suit",
+    "category": "clothing",
+    "weight": 4.99,
+    "aliases": [
+      "dress_suit",
+      "three-piece_suit"
+    ],
+    "label_zh": "西装",
+    "post_count": 96959
+  },
+  {
+    "tag": "shoulder_armor",
+    "category": "clothing",
+    "weight": 4.97,
+    "aliases": [
+      "shoulder_armour"
+    ],
+    "label_zh": "肩甲",
+    "post_count": 92634
+  },
+  {
+    "tag": "blazer",
+    "category": "clothing",
+    "weight": 4.96,
+    "aliases": [],
+    "label_zh": "西装外套",
+    "post_count": 90435
+  },
+  {
+    "tag": "t-shirt",
+    "category": "clothing",
+    "weight": 4.95,
+    "aliases": [
+      "t_shirt",
+      "tshirt"
+    ],
+    "label_zh": "T恤",
+    "post_count": 89477
+  },
+  {
+    "tag": "suspenders",
+    "category": "clothing",
+    "weight": 4.95,
+    "aliases": [
+      "suspender"
+    ],
+    "label_zh": "吊带袜",
+    "post_count": 89354
+  },
+  {
+    "tag": "sneakers",
+    "category": "clothing",
+    "weight": 4.94,
+    "aliases": [
+      "tennis_shoes"
+    ],
+    "label_zh": "运动鞋",
+    "post_count": 87809
+  },
+  {
+    "tag": "fishnets",
+    "category": "clothing",
+    "weight": 4.92,
+    "aliases": [
+      "fishnet"
+    ],
+    "label_zh": "网袜(材质)",
+    "post_count": 83664
+  },
+  {
+    "tag": "white_pantyhose",
+    "category": "clothing",
+    "weight": 4.92,
+    "aliases": [],
+    "label_zh": "白丝裤袜",
+    "post_count": 82260
+  },
+  {
+    "tag": "knee_boots",
+    "category": "clothing",
+    "weight": 4.9,
+    "aliases": [
+      "kneeboots",
+      "kneehigh_boots"
+    ],
+    "label_zh": "及膝靴(马靴)",
+    "post_count": 78989
+  },
+  {
+    "tag": "loafers",
+    "category": "clothing",
+    "weight": 4.89,
+    "aliases": [],
+    "label_zh": "乐福鞋",
+    "post_count": 76836
+  },
+  {
+    "tag": "china_dress",
+    "category": "clothing",
+    "weight": 4.86,
+    "aliases": [
+      "chinese_dress",
+      "chinadress",
+      "qipao",
+      "cheongsam"
+    ],
+    "label_zh": "旗袍",
+    "post_count": 72412
+  },
+  {
+    "tag": "school_swimsuit",
+    "category": "clothing",
+    "weight": 4.86,
+    "aliases": [
+      "school_swimsuits",
+      "sukimizu",
+      "/ss",
+      "sukumizu"
+    ],
+    "label_zh": "学校泳装（死库水）",
+    "post_count": 71615
+  },
+  {
+    "tag": "cropped_jacket",
+    "category": "clothing",
+    "weight": 4.85,
+    "aliases": [
+      "bolero"
+    ],
+    "label_zh": "短款夹克",
+    "post_count": 71170
+  },
+  {
+    "tag": "maid_apron",
+    "category": "clothing",
+    "weight": 4.85,
+    "aliases": [],
+    "label_zh": "女仆围裙",
+    "post_count": 70886
+  },
+  {
+    "tag": "cloak",
+    "category": "clothing",
+    "weight": 4.85,
+    "aliases": [],
+    "label_zh": "斗篷",
+    "post_count": 70117
+  },
+  {
+    "tag": "strapless_dress",
+    "category": "clothing",
+    "weight": 4.85,
+    "aliases": [
+      "shoulderless_dress"
+    ],
+    "label_zh": "无肩带连衣裙",
+    "post_count": 70068
+  },
+  {
+    "tag": "red_neckerchief",
+    "category": "clothing",
+    "weight": 4.84,
+    "aliases": [],
+    "label_zh": "红领巾",
+    "post_count": 68429
+  },
+  {
+    "tag": "pelvic_curtain",
+    "category": "clothing",
+    "weight": 4.84,
+    "aliases": [
+      "waist_veil",
+      "pussy_veil",
+      "crotch_veil"
+    ],
+    "label_zh": "旗袍类衣物的前摆",
+    "post_count": 68399
+  },
+  {
+    "tag": "waist_apron",
+    "category": "clothing",
+    "weight": 4.81,
+    "aliases": [
+      "half_apron"
+    ],
+    "label_zh": "腰围裙",
+    "post_count": 65281
+  },
+  {
+    "tag": "adapted_costume",
+    "category": "clothing",
+    "weight": 4.8,
+    "aliases": [
+      "adapted_outfit",
+      "/adcos"
+    ],
+    "label_zh": "原设服装改编",
+    "post_count": 62741
+  },
+  {
+    "tag": "string_bikini",
+    "category": "clothing",
+    "weight": 4.79,
+    "aliases": [],
+    "label_zh": "系绳比基尼",
+    "post_count": 61655
+  },
+  {
+    "tag": "neck_bell",
+    "category": "clothing",
+    "weight": 4.79,
+    "aliases": [
+      "neckbell",
+      "bell_choker",
+      "bell_collar",
+      "collar_bell",
+      "bellcollar"
+    ],
+    "label_zh": "颈铃",
+    "post_count": 61000
+  },
+  {
+    "tag": "casual",
+    "category": "clothing",
+    "weight": 4.79,
+    "aliases": [],
+    "label_zh": "休闲",
+    "post_count": 60989
+  },
+  {
+    "tag": "bike_shorts",
+    "category": "clothing",
+    "weight": 4.78,
+    "aliases": [
+      "biker_shorts",
+      "spandex_shorts",
+      "spats"
+    ],
+    "label_zh": "自行车短裤",
+    "post_count": 60791
+  },
+  {
+    "tag": "corset",
+    "category": "clothing",
+    "weight": 4.78,
+    "aliases": [],
+    "label_zh": "束腰(马甲)",
+    "post_count": 60481
+  },
+  {
+    "tag": "camisole",
+    "category": "clothing",
+    "weight": 4.78,
+    "aliases": [],
+    "label_zh": "吊帶背心(小可愛)",
+    "post_count": 60302
+  },
+  {
+    "tag": "robe",
+    "category": "clothing",
+    "weight": 4.77,
+    "aliases": [
+      "robes"
+    ],
+    "label_zh": "长袍",
+    "post_count": 59510
+  },
+  {
+    "tag": "skirt_set",
+    "category": "clothing",
+    "weight": 4.77,
+    "aliases": [],
+    "label_zh": "与上衣搭配的短裙",
+    "post_count": 59110
+  },
+  {
+    "tag": "sweater_vest",
+    "category": "clothing",
+    "weight": 4.77,
+    "aliases": [],
+    "label_zh": "毛衣背心",
+    "post_count": 58965
+  },
+  {
+    "tag": "side_slit",
+    "category": "clothing",
+    "weight": 4.74,
+    "aliases": [
+      "leg_slit"
+    ],
+    "label_zh": "侧开衩",
+    "post_count": 54485
+  },
+  {
+    "tag": "high_heel_boots",
+    "category": "clothing",
+    "weight": 4.72,
+    "aliases": [
+      "heel_boots"
+    ],
+    "label_zh": "高跟靴",
+    "post_count": 52395
+  },
+  {
+    "tag": "mary_janes",
+    "category": "clothing",
+    "weight": 4.72,
+    "aliases": [],
+    "label_zh": "珍妮鞋",
+    "post_count": 51984
+  },
+  {
+    "tag": "mecha",
+    "category": "clothing",
+    "weight": 4.72,
+    "aliases": [
+      "mech"
+    ],
+    "label_zh": "机甲",
+    "post_count": 51896
+  },
+  {
+    "tag": "turtleneck_sweater",
+    "category": "clothing",
+    "weight": 4.71,
+    "aliases": [],
+    "label_zh": "高领毛衣",
+    "post_count": 51718
+  },
+  {
+    "tag": "track_jacket",
+    "category": "clothing",
+    "weight": 4.71,
+    "aliases": [],
+    "label_zh": "运动夹克",
+    "post_count": 50889
+  },
+  {
+    "tag": "high-waist_skirt",
+    "category": "clothing",
+    "weight": 4.71,
+    "aliases": [],
+    "label_zh": "高腰裙",
+    "post_count": 50695
+  },
+  {
+    "tag": "pencil_skirt",
+    "category": "clothing",
+    "weight": 4.7,
+    "aliases": [],
+    "label_zh": "短铅笔裙",
+    "post_count": 50622
+  },
+  {
+    "tag": "shirt_tucked_in",
+    "category": "clothing",
+    "weight": 4.7,
+    "aliases": [
+      "tucked_in_shirt"
+    ],
+    "label_zh": "衬衫塞进去",
+    "post_count": 50065
+  },
+  {
+    "tag": "front-tie_top",
+    "category": "clothing",
+    "weight": 4.69,
+    "aliases": [
+      "front_tie_top"
+    ],
+    "label_zh": "从正面打结的衣物",
+    "post_count": 49532
+  },
+  {
+    "tag": "blouse",
+    "category": "clothing",
+    "weight": 4.69,
+    "aliases": [],
+    "label_zh": "女式衬衫",
+    "post_count": 49332
+  },
+  {
+    "tag": "long_skirt",
+    "category": "clothing",
+    "weight": 4.69,
+    "aliases": [],
+    "label_zh": "长裙",
+    "post_count": 48961
+  },
+  {
+    "tag": "frilled_bikini",
+    "category": "clothing",
+    "weight": 4.68,
+    "aliases": [
+      "frilled_bikini_bottom",
+      "frilled_bikini_top",
+      "frilled_bikini_bottom"
+    ],
+    "label_zh": "花边比基尼",
+    "post_count": 47709
+  },
+  {
+    "tag": "striped_shirt",
+    "category": "clothing",
+    "weight": 4.67,
+    "aliases": [
+      "striped_blouse"
+    ],
+    "label_zh": "条纹衬衫",
+    "post_count": 46904
+  },
+  {
+    "tag": "sailor_dress",
+    "category": "clothing",
+    "weight": 4.66,
+    "aliases": [],
+    "label_zh": "水手服款裙子",
+    "post_count": 46064
+  },
+  {
+    "tag": "long_dress",
+    "category": "clothing",
+    "weight": 4.66,
+    "aliases": [],
+    "label_zh": "长连衣裙",
+    "post_count": 45274
+  },
+  {
+    "tag": "ribbed_sweater",
+    "category": "clothing",
+    "weight": 4.65,
+    "aliases": [],
+    "label_zh": "罗纹毛衣",
+    "post_count": 44920
+  },
+  {
+    "tag": "hakama_skirt",
+    "category": "clothing",
+    "weight": 4.65,
+    "aliases": [
+      "hakama"
+    ],
+    "label_zh": "袴裙",
+    "post_count": 44643
+  },
+  {
+    "tag": "collared_dress",
+    "category": "clothing",
+    "weight": 4.64,
+    "aliases": [],
+    "label_zh": "有领连衣裙",
+    "post_count": 44018
+  },
+  {
+    "tag": "denim_shorts",
+    "category": "clothing",
+    "weight": 4.64,
+    "aliases": [
+      "jean_shorts",
+      "daisydukes",
+      "daisy_dukes"
+    ],
+    "label_zh": "牛仔短裤",
+    "post_count": 43885
+  },
+  {
+    "tag": "santa_costume",
+    "category": "clothing",
+    "weight": 4.64,
+    "aliases": [
+      "santa_suit",
+      "santa_outfit",
+      "santa"
+    ],
+    "label_zh": "圣诞风格服装",
+    "post_count": 43699
+  },
+  {
+    "tag": "jeans",
+    "category": "clothing",
+    "weight": 4.61,
+    "aliases": [
+      "blue_jeans"
+    ],
+    "label_zh": "牛仔裤",
+    "post_count": 40768
+  },
+  {
+    "tag": "gym_uniform",
+    "category": "clothing",
+    "weight": 4.59,
+    "aliases": [
+      "gym_clothes"
+    ],
+    "label_zh": "运动服",
+    "post_count": 39238
+  },
+  {
+    "tag": "shrug_(clothing)",
+    "category": "clothing",
+    "weight": 4.59,
+    "aliases": [
+      "naked_shrug"
+    ],
+    "label_zh": "耸肩（服装）",
+    "post_count": 39002
+  },
+  {
+    "tag": "off-shoulder_dress",
+    "category": "clothing",
+    "weight": 4.59,
+    "aliases": [],
+    "label_zh": "露肩连衣裙",
+    "post_count": 38820
+  },
+  {
+    "tag": "breastplate",
+    "category": "clothing",
+    "weight": 4.58,
+    "aliases": [
+      "chest_plate",
+      "chestplate",
+      "breast_plate"
+    ],
+    "label_zh": "胸甲",
+    "post_count": 37682
+  },
+  {
+    "tag": "buruma",
+    "category": "clothing",
+    "weight": 4.57,
+    "aliases": [
+      "bum_huggers",
+      "bun_huggers",
+      "running_briefs"
+    ],
+    "label_zh": "女式灯笼裤",
+    "post_count": 37131
+  },
+  {
+    "tag": "cropped_shirt",
+    "category": "clothing",
+    "weight": 4.57,
+    "aliases": [],
+    "label_zh": "短衬衫",
+    "post_count": 36912
+  },
+  {
+    "tag": "pajamas",
+    "category": "clothing",
+    "weight": 4.56,
+    "aliases": [
+      "pyjama",
+      "pyjamas",
+      "pajama"
+    ],
+    "label_zh": "睡衣",
+    "post_count": 36581
+  },
+  {
+    "tag": "competition_swimsuit",
+    "category": "clothing",
+    "weight": 4.56,
+    "aliases": [],
+    "label_zh": "赛用泳衣",
+    "post_count": 36064
+  },
+  {
+    "tag": "double-breasted",
+    "category": "clothing",
+    "weight": 4.55,
+    "aliases": [],
+    "label_zh": "双排纽扣(双排扣",
+    "post_count": 35850
+  },
+  {
+    "tag": "fur_collar",
+    "category": "clothing",
+    "weight": 4.55,
+    "aliases": [],
+    "label_zh": "毛皮衣领",
+    "post_count": 35744
+  },
+  {
+    "tag": "fur-trimmed_jacket",
+    "category": "clothing",
+    "weight": 4.55,
+    "aliases": [
+      "fur-lined_jacket"
+    ],
+    "label_zh": "毛皮边饰夹克",
+    "post_count": 35687
+  },
+  {
+    "tag": "summer_uniform",
+    "category": "clothing",
+    "weight": 4.55,
+    "aliases": [],
+    "label_zh": "夏季制服",
+    "post_count": 35605
+  },
+  {
+    "tag": "lace-up_boots",
+    "category": "clothing",
+    "weight": 4.55,
+    "aliases": [
+      "cross-laced_boots",
+      "laced_boots",
+      "lace_up_boots"
+    ],
+    "label_zh": "系带靴",
+    "post_count": 35337
+  },
+  {
+    "tag": "thighband_pantyhose",
+    "category": "clothing",
+    "weight": 4.54,
+    "aliases": [],
+    "label_zh": "有腿环的裤袜",
+    "post_count": 34298
+  },
+  {
+    "tag": "print_bikini",
+    "category": "clothing",
+    "weight": 4.53,
+    "aliases": [],
+    "label_zh": "印花比基尼",
+    "post_count": 33498
+  },
+  {
+    "tag": "frilled_shirt",
+    "category": "clothing",
+    "weight": 4.53,
+    "aliases": [
+      "frilled_blouse"
+    ],
+    "label_zh": "褶边衬衫",
+    "post_count": 33494
+  },
+  {
+    "tag": "rigging",
+    "category": "clothing",
+    "weight": 4.51,
+    "aliases": [],
+    "label_zh": "舰装",
+    "post_count": 32597
+  },
+  {
+    "tag": "off-shoulder_shirt",
+    "category": "clothing",
+    "weight": 4.51,
+    "aliases": [],
+    "label_zh": "露肩衬衫(搭肩衫)",
+    "post_count": 32212
+  },
+  {
+    "tag": "striped_bikini",
+    "category": "clothing",
+    "weight": 4.51,
+    "aliases": [],
+    "label_zh": "条纹比基尼",
+    "post_count": 32135
+  },
+  {
+    "tag": "sailor_shirt",
+    "category": "clothing",
+    "weight": 4.5,
+    "aliases": [],
+    "label_zh": "水手服衬衫",
+    "post_count": 31711
+  },
+  {
+    "tag": "pinafore_dress",
+    "category": "clothing",
+    "weight": 4.5,
+    "aliases": [
+      "jumper"
+    ],
+    "label_zh": "围裙连衣裙",
+    "post_count": 31574
+  },
+  {
+    "tag": "criss-cross_halter",
+    "category": "clothing",
+    "weight": 4.49,
+    "aliases": [
+      "criss_cross_halter"
+    ],
+    "label_zh": "交叉吊带衫",
+    "post_count": 31120
+  },
+  {
+    "tag": "jacket_on_shoulders",
+    "category": "clothing",
+    "weight": 4.49,
+    "aliases": [
+      "coat_on_shoulders",
+      "jacket_over_shoulders",
+      "coat_over_shoulders"
+    ],
+    "label_zh": "用夹克披肩",
+    "post_count": 31055
+  },
+  {
+    "tag": "shiny_clothes",
+    "category": "clothing",
+    "weight": 4.49,
+    "aliases": [],
+    "label_zh": "有光泽的衣服",
+    "post_count": 30877
+  },
+  {
+    "tag": "front-tie_bikini_top",
+    "category": "clothing",
+    "weight": 4.49,
+    "aliases": [
+      "front-tie_bikini"
+    ],
+    "label_zh": "前系带比基尼上衣",
+    "post_count": 30550
+  },
+  {
+    "tag": "sportswear",
+    "category": "clothing",
+    "weight": 4.48,
+    "aliases": [
+      "sports_uniform"
+    ],
+    "label_zh": "运动服",
+    "post_count": 30358
+  },
+  {
+    "tag": "yukata",
+    "category": "clothing",
+    "weight": 4.48,
+    "aliases": [],
+    "label_zh": "浴衣",
+    "post_count": 30316
+  },
+  {
+    "tag": "print_kimono",
+    "category": "clothing",
+    "weight": 4.47,
+    "aliases": [
+      "print_yukata"
+    ],
+    "label_zh": "印花和服",
+    "post_count": 29829
+  },
+  {
+    "tag": "pleated_dress",
+    "category": "clothing",
+    "weight": 4.47,
+    "aliases": [],
+    "label_zh": "百褶连衣裙",
+    "post_count": 29748
+  },
+  {
+    "tag": "overalls",
+    "category": "clothing",
+    "weight": 4.47,
+    "aliases": [],
+    "label_zh": "工作服",
+    "post_count": 29425
+  },
+  {
+    "tag": "wedding_dress",
+    "category": "clothing",
+    "weight": 4.45,
+    "aliases": [
+      "weddingdress"
+    ],
+    "label_zh": "婚纱",
+    "post_count": 28208
+  },
+  {
+    "tag": "anklet",
+    "category": "clothing",
+    "weight": 4.44,
+    "aliases": [
+      "lower_leg_bracelet",
+      "ankle_bracelets",
+      "ankle_bracelet",
+      "leg_bracelet",
+      "anklets"
+    ],
+    "label_zh": "脚环",
+    "post_count": 27428
+  },
+  {
+    "tag": "bloomers",
+    "category": "clothing",
+    "weight": 4.43,
+    "aliases": [],
+    "label_zh": "灯笼裤",
+    "post_count": 26647
+  },
+  {
+    "tag": "suspender_skirt",
+    "category": "clothing",
+    "weight": 4.42,
+    "aliases": [
+      "jumper_skirt"
+    ],
+    "label_zh": "吊带裙",
+    "post_count": 26519
+  },
+  {
+    "tag": "microskirt",
+    "category": "clothing",
+    "weight": 4.4,
+    "aliases": [
+      "micro_skirt"
+    ],
+    "label_zh": "超短裙",
+    "post_count": 25373
+  },
+  {
+    "tag": "haori",
+    "category": "clothing",
+    "weight": 4.4,
+    "aliases": [],
+    "label_zh": "一种宽上衣",
+    "post_count": 25355
+  },
+  {
+    "tag": "winter_clothes",
+    "category": "clothing",
+    "weight": 4.4,
+    "aliases": [],
+    "label_zh": "冬装",
+    "post_count": 25088
+  },
+  {
+    "tag": "toeless_legwear",
+    "category": "clothing",
+    "weight": 4.4,
+    "aliases": [
+      "toeless_socks"
+    ],
+    "label_zh": "露趾袜",
+    "post_count": 24840
+  },
+  {
+    "tag": "print_shirt",
+    "category": "clothing",
+    "weight": 4.39,
+    "aliases": [
+      "print_blouse",
+      "graphic_shirt"
+    ],
+    "label_zh": "印花衬衫",
+    "post_count": 24694
+  },
+  {
+    "tag": "japanese_armor",
+    "category": "clothing",
+    "weight": 4.39,
+    "aliases": [
+      "japanese_armour",
+      "samurai_armor"
+    ],
+    "label_zh": "日本铠甲",
+    "post_count": 24354
+  },
+  {
+    "tag": "bodystocking",
+    "category": "clothing",
+    "weight": 4.39,
+    "aliases": [
+      "bodystocking_under_clothes"
+    ],
+    "label_zh": "全身袜",
+    "post_count": 24273
+  },
+  {
+    "tag": "undershirt",
+    "category": "clothing",
+    "weight": 4.38,
+    "aliases": [],
+    "label_zh": "汗衫",
+    "post_count": 23942
+  },
+  {
+    "tag": "halloween_costume",
+    "category": "clothing",
+    "weight": 4.38,
+    "aliases": [],
+    "label_zh": "万圣节服装",
+    "post_count": 23705
+  },
+  {
+    "tag": "tabi",
+    "category": "clothing",
+    "weight": 4.37,
+    "aliases": [],
+    "label_zh": "日式厚底短袜(足袋)",
+    "post_count": 23416
+  },
+  {
+    "tag": "ankle_boots",
+    "category": "clothing",
+    "weight": 4.36,
+    "aliases": [],
+    "label_zh": "踝靴",
+    "post_count": 23030
+  },
+  {
+    "tag": "armored_boots",
+    "category": "clothing",
+    "weight": 4.36,
+    "aliases": [
+      "metal_boots"
+    ],
+    "label_zh": "装甲靴",
+    "post_count": 22994
+  },
+  {
+    "tag": "harness",
+    "category": "clothing",
+    "weight": 4.36,
+    "aliases": [],
+    "label_zh": "背带；挽具",
+    "post_count": 22650
+  },
+  {
+    "tag": "geta",
+    "category": "clothing",
+    "weight": 4.35,
+    "aliases": [],
+    "label_zh": "木屐",
+    "post_count": 22181
+  },
+  {
+    "tag": "partially_unbuttoned",
+    "category": "clothing",
+    "weight": 4.35,
+    "aliases": [],
+    "label_zh": "解开部分纽扣",
+    "post_count": 22174
+  },
+  {
+    "tag": "fur-trimmed_coat",
+    "category": "clothing",
+    "weight": 4.35,
+    "aliases": [],
+    "label_zh": "镶边皮草大衣",
+    "post_count": 22135
+  },
+  {
+    "tag": "hanfu",
+    "category": "clothing",
+    "weight": 4.34,
+    "aliases": [],
+    "label_zh": "汉服",
+    "post_count": 22019
+  },
+  {
+    "tag": "leggings",
+    "category": "clothing",
+    "weight": 4.34,
+    "aliases": [],
+    "label_zh": "裤袜",
+    "post_count": 21649
+  },
+  {
+    "tag": "miko",
+    "category": "clothing",
+    "weight": 4.33,
+    "aliases": [
+      "shrine_maiden"
+    ],
+    "label_zh": "巫女服",
+    "post_count": 21470
+  },
+  {
+    "tag": "sleeveless_turtleneck",
+    "category": "clothing",
+    "weight": 4.33,
+    "aliases": [],
+    "label_zh": "无袖高领毛衣",
+    "post_count": 21285
+  },
+  {
+    "tag": "gothic_lolita",
+    "category": "clothing",
+    "weight": 4.33,
+    "aliases": [
+      "gosurori",
+      "gothloli"
+    ],
+    "label_zh": "哥特洛丽塔风格",
+    "post_count": 21199
+  },
+  {
+    "tag": "highleg_bikini",
+    "category": "clothing",
+    "weight": 4.32,
+    "aliases": [],
+    "label_zh": "高腰比基尼",
+    "post_count": 20876
+  },
+  {
+    "tag": "slippers",
+    "category": "clothing",
+    "weight": 4.32,
+    "aliases": [
+      "slipper"
+    ],
+    "label_zh": "拖鞋",
+    "post_count": 20863
+  },
+  {
+    "tag": "layered_dress",
+    "category": "clothing",
+    "weight": 4.32,
+    "aliases": [],
+    "label_zh": "分层连衣裙",
+    "post_count": 20790
+  },
+  {
+    "tag": "leg_warmers",
+    "category": "clothing",
+    "weight": 4.31,
+    "aliases": [
+      "legwarmers"
+    ],
+    "label_zh": "腿套",
+    "post_count": 20508
+  },
+  {
+    "tag": "clothes_around_waist",
+    "category": "clothing",
+    "weight": 4.31,
+    "aliases": [],
+    "label_zh": "腰间衣服",
+    "post_count": 20207
+  },
+  {
+    "tag": "sundress",
+    "category": "clothing",
+    "weight": 4.3,
+    "aliases": [
+      "sun_dress",
+      "summer_dress",
+      "summerdress"
+    ],
+    "label_zh": "吊帶連衣裙（大熱天穿的無袖連衣裙）",
+    "post_count": 20124
+  },
+  {
+    "tag": "layered_skirt",
+    "category": "clothing",
+    "weight": 4.3,
+    "aliases": [],
+    "label_zh": "分层的半裙",
+    "post_count": 20004
+  },
+  {
+    "tag": "wet_shirt",
+    "category": "clothing",
+    "weight": 4.3,
+    "aliases": [
+      "wet_blouse",
+      "wet_t-shirt",
+      "wetshirt"
+    ],
+    "label_zh": "湿衬衫",
+    "post_count": 19836
+  },
+  {
+    "tag": "bandaged_leg",
+    "category": "clothing",
+    "weight": 4.3,
+    "aliases": [],
+    "label_zh": "包扎过的腿",
+    "post_count": 19818
+  },
+  {
+    "tag": "taut_clothes",
+    "category": "clothing",
+    "weight": 4.3,
+    "aliases": [
+      "taut_clothing"
+    ],
+    "label_zh": "绷紧的衣服",
+    "post_count": 19718
+  },
+  {
+    "tag": "animal_costume",
+    "category": "clothing",
+    "weight": 4.29,
+    "aliases": [],
+    "label_zh": "动物系套装(皮套)",
+    "post_count": 19652
+  },
+  {
+    "tag": "indian_style",
+    "category": "clothing",
+    "weight": 4.29,
+    "aliases": [
+      "agura"
+    ],
+    "label_zh": "印度风格",
+    "post_count": 19402
+  },
+  {
+    "tag": "loose_socks",
+    "category": "clothing",
+    "weight": 4.29,
+    "aliases": [
+      "baggy_socks"
+    ],
+    "label_zh": "泡泡袜",
+    "post_count": 19328
+  },
+  {
+    "tag": "mismatched_legwear",
+    "category": "clothing",
+    "weight": 4.28,
+    "aliases": [],
+    "label_zh": "双色裤袜",
+    "post_count": 19244
+  },
+  {
+    "tag": "tied_shirt",
+    "category": "clothing",
+    "weight": 4.28,
+    "aliases": [],
+    "label_zh": "系带衬衫(把衣角和下擺打结)",
+    "post_count": 19122
+  },
+  {
+    "tag": "bandaid_on_leg",
+    "category": "clothing",
+    "weight": 4.28,
+    "aliases": [],
+    "label_zh": "腿上的绷带",
+    "post_count": 19118
+  },
+  {
+    "tag": "backless_dress",
+    "category": "clothing",
+    "weight": 4.28,
+    "aliases": [
+      "open-back_dress",
+      "open_back_dress"
+    ],
+    "label_zh": "露背连衣裙",
+    "post_count": 19086
+  },
+  {
+    "tag": "striped_dress",
+    "category": "clothing",
+    "weight": 4.28,
+    "aliases": [],
+    "label_zh": "条纹连衣裙",
+    "post_count": 19080
+  },
+  {
+    "tag": "cross_necklace",
+    "category": "clothing",
+    "weight": 4.28,
+    "aliases": [],
+    "label_zh": "十字架项链",
+    "post_count": 19070
+  },
+  {
+    "tag": "brown_sweater",
+    "category": "clothing",
+    "weight": 4.28,
+    "aliases": [],
+    "label_zh": "棕色毛衣",
+    "post_count": 19052
+  },
+  {
+    "tag": "headphones_around_neck",
+    "category": "clothing",
+    "weight": 4.27,
+    "aliases": [],
+    "label_zh": "挂在脖子上的耳机",
+    "post_count": 18697
+  },
+  {
+    "tag": "swimsuit_under_clothes",
+    "category": "clothing",
+    "weight": 4.26,
+    "aliases": [
+      "/suc"
+    ],
+    "label_zh": "衣服里面穿着泳衣",
+    "post_count": 18180
+  },
+  {
+    "tag": "uneven_legwear",
+    "category": "clothing",
+    "weight": 4.26,
+    "aliases": [
+      "asymmetrical_legwear"
+    ],
+    "label_zh": "长短袜",
+    "post_count": 18169
+  },
+  {
+    "tag": "bead_necklace",
+    "category": "clothing",
+    "weight": 4.25,
+    "aliases": [],
+    "label_zh": "珠子项链",
+    "post_count": 17884
+  },
+  {
+    "tag": "pink_thighhighs",
+    "category": "clothing",
+    "weight": 4.25,
+    "aliases": [],
+    "label_zh": "粉色长筒袜",
+    "post_count": 17778
+  },
+  {
+    "tag": "bikini_skirt",
+    "category": "clothing",
+    "weight": 4.25,
+    "aliases": [],
+    "label_zh": "比基尼裙",
+    "post_count": 17756
+  },
+  {
+    "tag": "armored_dress",
+    "category": "clothing",
+    "weight": 4.23,
+    "aliases": [
+      "armoured_dress"
+    ],
+    "label_zh": "战甲裙",
+    "post_count": 17069
+  },
+  {
+    "tag": "shoe_soles",
+    "category": "clothing",
+    "weight": 4.23,
+    "aliases": [],
+    "label_zh": "鞋底",
+    "post_count": 16967
+  },
+  {
+    "tag": "short_kimono",
+    "category": "clothing",
+    "weight": 4.23,
+    "aliases": [],
+    "label_zh": "短和服",
+    "post_count": 16924
+  },
+  {
+    "tag": "hooded_cloak",
+    "category": "clothing",
+    "weight": 4.23,
+    "aliases": [],
+    "label_zh": "连帽斗篷",
+    "post_count": 16827
+  },
+  {
+    "tag": "oversized_clothes",
+    "category": "clothing",
+    "weight": 4.22,
+    "aliases": [
+      "clothes_too_big",
+      "oversized_clothing",
+      "floppy_sleeves"
+    ],
+    "label_zh": "过大号的衣服",
+    "post_count": 16599
+  },
+  {
+    "tag": "micro_shorts",
+    "category": "clothing",
+    "weight": 4.22,
+    "aliases": [],
+    "label_zh": "小尺寸短裤",
+    "post_count": 16512
+  },
+  {
+    "tag": "tunic",
+    "category": "clothing",
+    "weight": 4.21,
+    "aliases": [],
+    "label_zh": "束腰外衣",
+    "post_count": 16365
+  },
+  {
+    "tag": "belt_collar",
+    "category": "clothing",
+    "weight": 4.21,
+    "aliases": [
+      "belt_choker",
+      "neck_belt"
+    ],
+    "label_zh": "皮带颈环",
+    "post_count": 16162
+  },
+  {
+    "tag": "v-neck",
+    "category": "clothing",
+    "weight": 4.21,
+    "aliases": [
+      "v_neck"
+    ],
+    "label_zh": "V领",
+    "post_count": 16025
+  },
+  {
+    "tag": "leg_ribbon",
+    "category": "clothing",
+    "weight": 4.2,
+    "aliases": [],
+    "label_zh": "腿锻带",
+    "post_count": 15940
+  },
+  {
+    "tag": "ribbon_choker",
+    "category": "clothing",
+    "weight": 4.19,
+    "aliases": [],
+    "label_zh": "颈丝带",
+    "post_count": 15365
+  },
+  {
+    "tag": "neck_ring",
+    "category": "clothing",
+    "weight": 4.19,
+    "aliases": [],
+    "label_zh": "颈环",
+    "post_count": 15351
+  },
+  {
+    "tag": "o-ring_bikini",
+    "category": "clothing",
+    "weight": 4.19,
+    "aliases": [
+      "o_ring_bikini",
+      "ring_bikini"
+    ],
+    "label_zh": "带O型环的比基尼",
+    "post_count": 15307
+  },
+  {
+    "tag": "dolphin_shorts",
+    "category": "clothing",
+    "weight": 4.18,
+    "aliases": [],
+    "label_zh": "海豚短褲(真理褲)",
+    "post_count": 15169
+  },
+  {
+    "tag": "fur-trimmed_dress",
+    "category": "clothing",
+    "weight": 4.17,
+    "aliases": [],
+    "label_zh": "毛皮镶边连衣裙",
+    "post_count": 14829
+  },
+  {
+    "tag": "popped_collar",
+    "category": "clothing",
+    "weight": 4.17,
+    "aliases": [
+      "collar_up"
+    ],
+    "label_zh": "竖起来的衣领",
+    "post_count": 14754
+  },
+  {
+    "tag": "casual_one-piece_swimsuit",
+    "category": "clothing",
+    "weight": 4.17,
+    "aliases": [
+      "casual_one_piece_swimsuit",
+      "/cops"
+    ],
+    "label_zh": "连体泳衣",
+    "post_count": 14699
+  },
+  {
+    "tag": "jacket_partially_removed",
+    "category": "clothing",
+    "weight": 4.16,
+    "aliases": [],
+    "label_zh": "夹克部分移除",
+    "post_count": 14507
+  },
+  {
+    "tag": "frilled_choker",
+    "category": "clothing",
+    "weight": 4.16,
+    "aliases": [],
+    "label_zh": "褶边项链",
+    "post_count": 14436
+  },
+  {
+    "tag": "two-tone_jacket",
+    "category": "clothing",
+    "weight": 4.16,
+    "aliases": [],
+    "label_zh": "两色夹克",
+    "post_count": 14360
+  },
+  {
+    "tag": "hooded_coat",
+    "category": "clothing",
+    "weight": 4.15,
+    "aliases": [],
+    "label_zh": "连帽大衣",
+    "post_count": 14164
+  },
+  {
+    "tag": "heart_cutout",
+    "category": "clothing",
+    "weight": 4.15,
+    "aliases": [],
+    "label_zh": "心形开口",
+    "post_count": 14082
+  },
+  {
+    "tag": "pearl_necklace",
+    "category": "clothing",
+    "weight": 4.15,
+    "aliases": [],
+    "label_zh": "珍珠项链",
+    "post_count": 14070
+  },
+  {
+    "tag": "naval_uniform",
+    "category": "clothing",
+    "weight": 4.15,
+    "aliases": [],
+    "label_zh": "海军制服",
+    "post_count": 14068
+  },
+  {
+    "tag": "multicolored_dress",
+    "category": "clothing",
+    "weight": 4.15,
+    "aliases": [],
+    "label_zh": "多色款连衣裙",
+    "post_count": 14033
+  },
+  {
+    "tag": "showgirl_skirt",
+    "category": "clothing",
+    "weight": 4.14,
+    "aliases": [],
+    "label_zh": "展会女郎装束",
+    "post_count": 13872
+  },
+  {
+    "tag": "police_uniform",
+    "category": "clothing",
+    "weight": 4.14,
+    "aliases": [],
+    "label_zh": "警服",
+    "post_count": 13768
+  },
+  {
+    "tag": "transparent",
+    "category": "clothing",
+    "weight": 4.14,
+    "aliases": [
+      "transparency"
+    ],
+    "label_zh": "透明的",
+    "post_count": 13718
+  },
+  {
+    "tag": "muneate",
+    "category": "clothing",
+    "weight": 4.14,
+    "aliases": [],
+    "label_zh": "日本弓道護胸甲",
+    "post_count": 13650
+  },
+  {
+    "tag": "jumpsuit",
+    "category": "clothing",
+    "weight": 4.13,
+    "aliases": [
+      "coveralls"
+    ],
+    "label_zh": "(尤指女式)连衫裤",
+    "post_count": 13622
+  },
+  {
+    "tag": "zouri",
+    "category": "clothing",
+    "weight": 4.13,
+    "aliases": [],
+    "label_zh": "日式草鞋",
+    "post_count": 13392
+  },
+  {
+    "tag": "cutoffs",
+    "category": "clothing",
+    "weight": 4.13,
+    "aliases": [],
+    "label_zh": "热裤",
+    "post_count": 13330
+  },
+  {
+    "tag": "off-shoulder_sweater",
+    "category": "clothing",
+    "weight": 4.12,
+    "aliases": [],
+    "label_zh": "露肩毛衣",
+    "post_count": 13322
+  },
+  {
+    "tag": "halter_dress",
+    "category": "clothing",
+    "weight": 4.12,
+    "aliases": [],
+    "label_zh": "绕颈露背吊带裙",
+    "post_count": 13305
+  },
+  {
+    "tag": "stirrup_legwear",
+    "category": "clothing",
+    "weight": 4.12,
+    "aliases": [],
+    "label_zh": "渔网袜",
+    "post_count": 13302
+  },
+  {
+    "tag": "print_dress",
+    "category": "clothing",
+    "weight": 4.12,
+    "aliases": [],
+    "label_zh": "印花连衣裙",
+    "post_count": 13269
+  },
+  {
+    "tag": "kita_high_school_uniform",
+    "category": "clothing",
+    "weight": 4.12,
+    "aliases": [],
+    "label_zh": "北高中制服",
+    "post_count": 13128
+  },
+  {
+    "tag": "mitakihara_school_uniform",
+    "category": "clothing",
+    "weight": 4.12,
+    "aliases": [],
+    "label_zh": "见泷原中学校制服",
+    "post_count": 13064
+  },
+  {
+    "tag": "dress_bow",
+    "category": "clothing",
+    "weight": 4.11,
+    "aliases": [
+      "bow_dress"
+    ],
+    "label_zh": "连衣裙上的蝴蝶结",
+    "post_count": 12993
+  },
+  {
+    "tag": "white_necktie",
+    "category": "clothing",
+    "weight": 4.11,
+    "aliases": [],
+    "label_zh": "白色领带",
+    "post_count": 12821
+  },
+  {
+    "tag": "shorts_under_skirt",
+    "category": "clothing",
+    "weight": 4.11,
+    "aliases": [
+      "bike_shorts_under_skirt",
+      "skirt_over_shorts"
+    ],
+    "label_zh": "短裙里穿着短裤",
+    "post_count": 12760
+  },
+  {
+    "tag": "greaves",
+    "category": "clothing",
+    "weight": 4.11,
+    "aliases": [],
+    "label_zh": "胫甲",
+    "post_count": 12744
+  },
+  {
+    "tag": "short_necktie",
+    "category": "clothing",
+    "weight": 4.11,
+    "aliases": [
+      "mini_necktie"
+    ],
+    "label_zh": "短领带",
+    "post_count": 12738
+  },
+  {
+    "tag": "single_sock",
+    "category": "clothing",
+    "weight": 4.09,
+    "aliases": [
+      "one_sock"
+    ],
+    "label_zh": "单短袜",
+    "post_count": 12254
+  },
+  {
+    "tag": "frilled_collar",
+    "category": "clothing",
+    "weight": 4.09,
+    "aliases": [],
+    "label_zh": "花边衣领",
+    "post_count": 12238
+  },
+  {
+    "tag": "male_swimwear",
+    "category": "clothing",
+    "weight": 4.08,
+    "aliases": [
+      "swimwear_(male)"
+    ],
+    "label_zh": "男用泳裤",
+    "post_count": 12037
+  },
+  {
+    "tag": "sweater_dress",
+    "category": "clothing",
+    "weight": 4.08,
+    "aliases": [
+      "sweaterdress"
+    ],
+    "label_zh": "围裙连衣裙",
+    "post_count": 11945
+  },
+  {
+    "tag": "military_jacket",
+    "category": "clothing",
+    "weight": 4.06,
+    "aliases": [],
+    "label_zh": "军装夹克",
+    "post_count": 11518
+  },
+  {
+    "tag": "single_leg_pantyhose",
+    "category": "clothing",
+    "weight": 4.06,
+    "aliases": [
+      "single_legging",
+      "single_pantyhose_leg"
+    ],
+    "label_zh": "单边穿着连裤袜",
+    "post_count": 11444
+  },
+  {
+    "tag": "fur-trimmed_boots",
+    "category": "clothing",
+    "weight": 4.06,
+    "aliases": [
+      "fur-lined_boots"
+    ],
+    "label_zh": "毛边靴子",
+    "post_count": 11433
+  },
+  {
+    "tag": "striped_socks",
+    "category": "clothing",
+    "weight": 4.06,
+    "aliases": [
+      "striped_kneehighs"
+    ],
+    "label_zh": "横条短袜",
+    "post_count": 11418
+  },
+  {
+    "tag": "bobby_socks",
+    "category": "clothing",
+    "weight": 4.06,
+    "aliases": [],
+    "label_zh": "鲍比袜(白短袜)",
+    "post_count": 11417
+  },
+  {
+    "tag": "long_coat",
+    "category": "clothing",
+    "weight": 4.05,
+    "aliases": [
+      "longcoat"
+    ],
+    "label_zh": "长外套",
+    "post_count": 11308
+  },
+  {
+    "tag": "dougi",
+    "category": "clothing",
+    "weight": 4.05,
+    "aliases": [
+      "fighting_kimono",
+      "gi"
+    ],
+    "label_zh": "武道服",
+    "post_count": 11274
+  },
+  {
+    "tag": "partially_unzipped",
+    "category": "clothing",
+    "weight": 4.05,
+    "aliases": [],
+    "label_zh": "拉开上部分拉链",
+    "post_count": 11244
+  },
+  {
+    "tag": "nightgown",
+    "category": "clothing",
+    "weight": 4.05,
+    "aliases": [
+      "nighty",
+      "night_dress",
+      "night_gown",
+      "nightie",
+      "nightdress"
+    ],
+    "label_zh": "睡衣",
+    "post_count": 11227
+  },
+  {
+    "tag": "waist_cape",
+    "category": "clothing",
+    "weight": 4.05,
+    "aliases": [],
+    "label_zh": "穿在腰部的小披风",
+    "post_count": 11112
+  },
+  {
+    "tag": "button_gap",
+    "category": "clothing",
+    "weight": 4.04,
+    "aliases": [],
+    "label_zh": "纽扣之间的缝隙(没解开",
+    "post_count": 11008
+  },
+  {
+    "tag": "mole_on_neck",
+    "category": "clothing",
+    "weight": 4.04,
+    "aliases": [],
+    "label_zh": "脖子上有痣",
+    "post_count": 10975
+  },
+  {
+    "tag": "plaid_shirt",
+    "category": "clothing",
+    "weight": 4.04,
+    "aliases": [
+      "plaid_blouse"
+    ],
+    "label_zh": "格子衬衫",
+    "post_count": 10969
+  },
+  {
+    "tag": "sakuragaoka_high_school_uniform",
+    "category": "clothing",
+    "weight": 4.03,
+    "aliases": [],
+    "label_zh": "樱丘女子高等学校校服",
+    "post_count": 10686
+  },
+  {
+    "tag": "iron_cross",
+    "category": "clothing",
+    "weight": 4.02,
+    "aliases": [],
+    "label_zh": "铁十字勋章",
+    "post_count": 10579
+  },
+  {
+    "tag": "neck_tattoo",
+    "category": "clothing",
+    "weight": 4.02,
+    "aliases": [],
+    "label_zh": "颈部纹身",
+    "post_count": 10576
+  },
+  {
+    "tag": "kariginu",
+    "category": "clothing",
+    "weight": 4.02,
+    "aliases": [],
+    "label_zh": "狩衣",
+    "post_count": 10544
+  },
+  {
+    "tag": "bandaid_on_knee",
+    "category": "clothing",
+    "weight": 4.02,
+    "aliases": [],
+    "label_zh": "膝盖上的创可贴",
+    "post_count": 10428
+  },
+  {
+    "tag": "single_shoe",
+    "category": "clothing",
+    "weight": 4.02,
+    "aliases": [
+      "one_shoe"
+    ],
+    "label_zh": "单鞋",
+    "post_count": 10381
+  },
+  {
+    "tag": "arm_garter",
+    "category": "clothing",
+    "weight": 4.01,
+    "aliases": [],
+    "label_zh": "手臂袜带",
+    "post_count": 10279
+  },
+  {
+    "tag": "aiguillette",
+    "category": "clothing",
+    "weight": 4.01,
+    "aliases": [
+      "aiguillettes"
+    ],
+    "label_zh": "肩带",
+    "post_count": 10218
+  },
+  {
+    "tag": "full_armor",
+    "category": "clothing",
+    "weight": 4.01,
+    "aliases": [],
+    "label_zh": "穿着全套盔甲的",
+    "post_count": 10182
+  },
+  {
+    "tag": "chain_necklace",
+    "category": "clothing",
+    "weight": 4.01,
+    "aliases": [],
+    "label_zh": "锁链项链",
+    "post_count": 10157
+  },
+  {
+    "tag": "ooarai_school_uniform",
+    "category": "clothing",
+    "weight": 4.01,
+    "aliases": [],
+    "label_zh": "大洗联队校服",
+    "post_count": 10149
+  },
+  {
+    "tag": "print_skirt",
+    "category": "clothing",
+    "weight": 4.0,
+    "aliases": [],
+    "label_zh": "印花短裙",
+    "post_count": 9910
+  },
+  {
+    "tag": "striped_skirt",
+    "category": "clothing",
+    "weight": 3.99,
+    "aliases": [],
+    "label_zh": "条纹裙",
+    "post_count": 9836
+  },
+  {
+    "tag": "leotard_under_clothes",
+    "category": "clothing",
+    "weight": 3.99,
+    "aliases": [],
+    "label_zh": "内层穿着连衣裤",
+    "post_count": 9791
+  },
+  {
+    "tag": "leather_jacket",
+    "category": "clothing",
+    "weight": 3.99,
+    "aliases": [],
+    "label_zh": "皮夹克",
+    "post_count": 9754
+  },
+  {
+    "tag": "multicolored_bikini",
+    "category": "clothing",
+    "weight": 3.99,
+    "aliases": [],
+    "label_zh": "多色款比基尼",
+    "post_count": 9750
+  },
+  {
+    "tag": "uwabaki",
+    "category": "clothing",
+    "weight": 3.99,
+    "aliases": [
+      "indoor_shoes_(japanese)"
+    ],
+    "label_zh": "室内鞋",
+    "post_count": 9709
+  },
+  {
+    "tag": "competition_school_swimsuit",
+    "category": "clothing",
+    "weight": 3.99,
+    "aliases": [],
+    "label_zh": "竞泳死库水",
+    "post_count": 9674
+  },
+  {
+    "tag": "waistcoat",
+    "category": "clothing",
+    "weight": 3.98,
+    "aliases": [
+      "waist_coat"
+    ],
+    "label_zh": "背心(正式)",
+    "post_count": 9620
+  },
+  {
+    "tag": "sailor_senshi_uniform",
+    "category": "clothing",
+    "weight": 3.98,
+    "aliases": [],
+    "label_zh": "美少女战士制服",
+    "post_count": 9606
+  },
+  {
+    "tag": "faulds",
+    "category": "clothing",
+    "weight": 3.98,
+    "aliases": [],
+    "label_zh": "腹甲",
+    "post_count": 9602
+  },
+  {
+    "tag": "gold_necklace",
+    "category": "clothing",
+    "weight": 3.98,
+    "aliases": [],
+    "label_zh": "金项链",
+    "post_count": 9573
+  },
+  {
+    "tag": "ankle_socks",
+    "category": "clothing",
+    "weight": 3.98,
+    "aliases": [
+      "short_socks",
+      "anklehighs"
+    ],
+    "label_zh": "踝袜",
+    "post_count": 9517
+  },
+  {
+    "tag": "over-kneehighs",
+    "category": "clothing",
+    "weight": 3.97,
+    "aliases": [],
+    "label_zh": "过膝袜",
+    "post_count": 9425
+  },
+  {
+    "tag": "vertical-striped_dress",
+    "category": "clothing",
+    "weight": 3.97,
+    "aliases": [],
+    "label_zh": "竖条纹连衣裙",
+    "post_count": 9345
+  },
+  {
+    "tag": "loose_necktie",
+    "category": "clothing",
+    "weight": 3.96,
+    "aliases": [
+      "loose_tie"
+    ],
+    "label_zh": "宽松领带",
+    "post_count": 9153
+  },
+  {
+    "tag": "tight_pants",
+    "category": "clothing",
+    "weight": 3.96,
+    "aliases": [],
+    "label_zh": "紧身裤/运动裤",
+    "post_count": 9104
+  },
+  {
+    "tag": "sleeveless_kimono",
+    "category": "clothing",
+    "weight": 3.96,
+    "aliases": [],
+    "label_zh": "无袖和服",
+    "post_count": 9041
+  },
+  {
+    "tag": "heart_necklace",
+    "category": "clothing",
+    "weight": 3.96,
+    "aliases": [],
+    "label_zh": "心形项链",
+    "post_count": 9033
+  },
+  {
+    "tag": "track_pants",
+    "category": "clothing",
+    "weight": 3.96,
+    "aliases": [
+      "jogging_pants"
+    ],
+    "label_zh": "运动裤",
+    "post_count": 9030
+  },
+  {
+    "tag": "pumps",
+    "category": "clothing",
+    "weight": 3.95,
+    "aliases": [],
+    "label_zh": "低胸装高跟鞋打扮",
+    "post_count": 8922
+  },
+  {
+    "tag": "old_school_swimsuit",
+    "category": "clothing",
+    "weight": 3.95,
+    "aliases": [],
+    "label_zh": "旧式死库水",
+    "post_count": 8874
+  },
+  {
+    "tag": "back_cutout",
+    "category": "clothing",
+    "weight": 3.94,
+    "aliases": [
+      "back_opening",
+      "heart_back_cutout"
+    ],
+    "label_zh": "露背上衣",
+    "post_count": 8782
+  },
+  {
+    "tag": "shirt_pull",
+    "category": "clothing",
+    "weight": 3.94,
+    "aliases": [],
+    "label_zh": "衬衫拉下来",
+    "post_count": 8774
+  },
+  {
+    "tag": "towel_around_neck",
+    "category": "clothing",
+    "weight": 3.93,
+    "aliases": [
+      "towel_on_shoulders"
+    ],
+    "label_zh": "脖子上的毛巾",
+    "post_count": 8585
+  },
+  {
+    "tag": "winter_coat",
+    "category": "clothing",
+    "weight": 3.93,
+    "aliases": [
+      "winter_jacket"
+    ],
+    "label_zh": "冬季大衣",
+    "post_count": 8547
+  },
+  {
+    "tag": "furisode",
+    "category": "clothing",
+    "weight": 3.93,
+    "aliases": [],
+    "label_zh": "振袖(和服的一部份)",
+    "post_count": 8507
+  },
+  {
+    "tag": "tokiwadai_school_uniform",
+    "category": "clothing",
+    "weight": 3.93,
+    "aliases": [],
+    "label_zh": "常盘台中学校服",
+    "post_count": 8418
+  },
+  {
+    "tag": "animal_feet",
+    "category": "clothing",
+    "weight": 3.92,
+    "aliases": [],
+    "label_zh": "动物脚",
+    "post_count": 8361
+  },
+  {
+    "tag": "bubble_skirt",
+    "category": "clothing",
+    "weight": 3.92,
+    "aliases": [
+      "puffy_skirt"
+    ],
+    "label_zh": "蓬蓬裙",
+    "post_count": 8317
+  },
+  {
+    "tag": "taut_shirt",
+    "category": "clothing",
+    "weight": 3.91,
+    "aliases": [
+      "taut_blouse"
+    ],
+    "label_zh": "绷紧的衬衫",
+    "post_count": 8211
+  },
+  {
+    "tag": "plaid_dress",
+    "category": "clothing",
+    "weight": 3.91,
+    "aliases": [],
+    "label_zh": "格子连衣裙",
+    "post_count": 8191
+  },
+  {
+    "tag": "power_armor",
+    "category": "clothing",
+    "weight": 3.9,
+    "aliases": [
+      "powered_armour",
+      "powered_armor",
+      "power_armour"
+    ],
+    "label_zh": "动力装甲",
+    "post_count": 7996
+  },
+  {
+    "tag": "otonokizaka_school_uniform",
+    "category": "clothing",
+    "weight": 3.9,
+    "aliases": [],
+    "label_zh": "国立音乃木坂学院女子制服",
+    "post_count": 7948
+  },
+  {
+    "tag": "jacket_around_waist",
+    "category": "clothing",
+    "weight": 3.9,
+    "aliases": [],
+    "label_zh": "腰围夹克",
+    "post_count": 7944
+  },
+  {
+    "tag": "trench_coat",
+    "category": "clothing",
+    "weight": 3.88,
+    "aliases": [
+      "trenchcoat"
+    ],
+    "label_zh": "风衣",
+    "post_count": 7492
+  },
+  {
+    "tag": "business_suit",
+    "category": "clothing",
+    "weight": 3.88,
+    "aliases": [],
+    "label_zh": "职场制服",
+    "post_count": 7489
+  },
+  {
+    "tag": "garreg_mach_monastery_uniform",
+    "category": "clothing",
+    "weight": 3.87,
+    "aliases": [],
+    "label_zh": "加尔格·马可大修道院制服",
+    "post_count": 7403
+  },
+  {
+    "tag": "strapless_bikini",
+    "category": "clothing",
+    "weight": 3.87,
+    "aliases": [],
+    "label_zh": "无肩带比基尼",
+    "post_count": 7382
+  },
+  {
+    "tag": "chaldea_uniform",
+    "category": "clothing",
+    "weight": 3.87,
+    "aliases": [],
+    "label_zh": "迦勒底制服",
+    "post_count": 7373
+  },
+  {
+    "tag": "multicolored_skirt",
+    "category": "clothing",
+    "weight": 3.87,
+    "aliases": [],
+    "label_zh": "多色款裙子",
+    "post_count": 7330
+  },
+  {
+    "tag": "gym_shorts",
+    "category": "clothing",
+    "weight": 3.86,
+    "aliases": [],
+    "label_zh": "体操短裤",
+    "post_count": 7269
+  },
+  {
+    "tag": "unbuttoned_shirt",
+    "category": "clothing",
+    "weight": 3.85,
+    "aliases": [],
+    "label_zh": "解开纽扣的衬衫",
+    "post_count": 7036
+  },
+  {
+    "tag": "whistle_around_neck",
+    "category": "clothing",
+    "weight": 3.84,
+    "aliases": [],
+    "label_zh": "脖子上挂着口哨",
+    "post_count": 6869
+  },
+  {
+    "tag": "striped_pants",
+    "category": "clothing",
+    "weight": 3.84,
+    "aliases": [],
+    "label_zh": "条纹裤",
+    "post_count": 6850
+  },
+  {
+    "tag": "bustier",
+    "category": "clothing",
+    "weight": 3.83,
+    "aliases": [],
+    "label_zh": "胸衣",
+    "post_count": 6747
+  },
+  {
+    "tag": "hagoromo",
+    "category": "clothing",
+    "weight": 3.82,
+    "aliases": [],
+    "label_zh": "羽衣",
+    "post_count": 6623
+  },
+  {
+    "tag": "letterman_jacket",
+    "category": "clothing",
+    "weight": 3.81,
+    "aliases": [
+      "varsity_jacket"
+    ],
+    "label_zh": "棒球夹克",
+    "post_count": 6515
+  },
+  {
+    "tag": "yoga_pants",
+    "category": "clothing",
+    "weight": 3.81,
+    "aliases": [],
+    "label_zh": "瑜伽裤",
+    "post_count": 6379
+  },
+  {
+    "tag": "skates",
+    "category": "clothing",
+    "weight": 3.8,
+    "aliases": [],
+    "label_zh": "溜冰鞋",
+    "post_count": 6331
+  },
+  {
+    "tag": "microdress",
+    "category": "clothing",
+    "weight": 3.8,
+    "aliases": [],
+    "label_zh": "微型连衣裙",
+    "post_count": 6330
+  },
+  {
+    "tag": "goggles_around_neck",
+    "category": "clothing",
+    "weight": 3.8,
+    "aliases": [],
+    "label_zh": "脖子上护目镜",
+    "post_count": 6324
+  },
+  {
+    "tag": "eyepatch_bikini",
+    "category": "clothing",
+    "weight": 3.8,
+    "aliases": [],
+    "label_zh": "眼罩比基尼",
+    "post_count": 6276
+  },
+  {
+    "tag": "sailor",
+    "category": "clothing",
+    "weight": 3.8,
+    "aliases": [
+      "sailor_uniform",
+      "sailor_suit"
+    ],
+    "label_zh": "水手服",
+    "post_count": 6233
+  },
+  {
+    "tag": "checkered_skirt",
+    "category": "clothing",
+    "weight": 3.79,
+    "aliases": [],
+    "label_zh": "格子裙",
+    "post_count": 6214
+  },
+  {
+    "tag": "evening_gown",
+    "category": "clothing",
+    "weight": 3.79,
+    "aliases": [
+      "evening_dress"
+    ],
+    "label_zh": "礼服",
+    "post_count": 6120
+  },
+  {
+    "tag": "overskirt",
+    "category": "clothing",
+    "weight": 3.78,
+    "aliases": [],
+    "label_zh": "外裙",
+    "post_count": 6058
+  },
+  {
+    "tag": "sleepwear",
+    "category": "clothing",
+    "weight": 3.78,
+    "aliases": [
+      "nightwear",
+      "sleep_wear"
+    ],
+    "label_zh": "睡衣",
+    "post_count": 5981
+  },
+  {
+    "tag": "harem_outfit",
+    "category": "clothing",
+    "weight": 3.77,
+    "aliases": [
+      "harem_clothes"
+    ],
+    "label_zh": "舞娘服",
+    "post_count": 5921
+  },
+  {
+    "tag": "raincoat",
+    "category": "clothing",
+    "weight": 3.77,
+    "aliases": [],
+    "label_zh": "雨衣",
+    "post_count": 5874
+  },
+  {
+    "tag": "lowleg_bikini",
+    "category": "clothing",
+    "weight": 3.77,
+    "aliases": [
+      "low-rise_bikini"
+    ],
+    "label_zh": "低腰比基尼",
+    "post_count": 5827
+  },
+  {
+    "tag": "gown",
+    "category": "clothing",
+    "weight": 3.76,
+    "aliases": [
+      "ball_gown"
+    ],
+    "label_zh": "女长服",
+    "post_count": 5784
+  },
+  {
+    "tag": "layered_bikini",
+    "category": "clothing",
+    "weight": 3.76,
+    "aliases": [],
+    "label_zh": "分层比基尼",
+    "post_count": 5780
+  },
+  {
+    "tag": "strappy_heels",
+    "category": "clothing",
+    "weight": 3.76,
+    "aliases": [],
+    "label_zh": "带束带的高跟鞋",
+    "post_count": 5780
+  },
+  {
+    "tag": "polka_dot_bikini",
+    "category": "clothing",
+    "weight": 3.76,
+    "aliases": [
+      "polka-dot_bikini"
+    ],
+    "label_zh": "圆斑比基尼",
+    "post_count": 5779
+  },
+  {
+    "tag": "swim_trunks",
+    "category": "clothing",
+    "weight": 3.76,
+    "aliases": [
+      "swimtrunks",
+      "swimming_trunks"
+    ],
+    "label_zh": "泳裤",
+    "post_count": 5697
+  },
+  {
+    "tag": "oversized_shirt",
+    "category": "clothing",
+    "weight": 3.75,
+    "aliases": [],
+    "label_zh": "过大号衬衫",
+    "post_count": 5618
+  },
+  {
+    "tag": "suspender_shorts",
+    "category": "clothing",
+    "weight": 3.74,
+    "aliases": [],
+    "label_zh": "吊带短裤",
+    "post_count": 5513
+  },
+  {
+    "tag": "mismatched_footwear",
+    "category": "clothing",
+    "weight": 3.74,
+    "aliases": [],
+    "label_zh": "双色鞋子",
+    "post_count": 5495
+  },
+  {
+    "tag": "kindergarten_uniform",
+    "category": "clothing",
+    "weight": 3.74,
+    "aliases": [],
+    "label_zh": "幼儿园制服",
+    "post_count": 5429
+  },
+  {
+    "tag": "aran_sweater",
+    "category": "clothing",
+    "weight": 3.73,
+    "aliases": [
+      "aran_jumper"
+    ],
+    "label_zh": "爱尔兰毛衣",
+    "post_count": 5410
+  },
+  {
+    "tag": "lace-trimmed_dress",
+    "category": "clothing",
+    "weight": 3.73,
+    "aliases": [],
+    "label_zh": "蕾丝边连衣裙",
+    "post_count": 5359
+  },
+  {
+    "tag": "denim_skirt",
+    "category": "clothing",
+    "weight": 3.73,
+    "aliases": [
+      "jean_skirt"
+    ],
+    "label_zh": "牛仔裙",
+    "post_count": 5341
+  },
+  {
+    "tag": "rudder_footwear",
+    "category": "clothing",
+    "weight": 3.73,
+    "aliases": [],
+    "label_zh": "舰C舰娘专用鞋",
+    "post_count": 5327
+  },
+  {
+    "tag": "ryouou_school_uniform",
+    "category": "clothing",
+    "weight": 3.73,
+    "aliases": [],
+    "label_zh": "陵樱学园制服",
+    "post_count": 5301
+  },
+  {
+    "tag": "chinese_knot",
+    "category": "clothing",
+    "weight": 3.72,
+    "aliases": [],
+    "label_zh": "中国结",
+    "post_count": 5284
+  },
+  {
+    "tag": "skirt_suit",
+    "category": "clothing",
+    "weight": 3.72,
+    "aliases": [
+      "skirtsuit"
+    ],
+    "label_zh": "正装短裙",
+    "post_count": 5276
+  },
+  {
+    "tag": "ribbon-trimmed_skirt",
+    "category": "clothing",
+    "weight": 3.71,
+    "aliases": [],
+    "label_zh": "缎带饰边短裙",
+    "post_count": 5173
+  },
+  {
+    "tag": "uranohoshi_school_uniform",
+    "category": "clothing",
+    "weight": 3.7,
+    "aliases": [],
+    "label_zh": "浦之星女学院校服",
+    "post_count": 5055
+  },
+  {
+    "tag": "wet_swimsuit",
+    "category": "clothing",
+    "weight": 3.7,
+    "aliases": [],
+    "label_zh": "湿泳衣",
+    "post_count": 5046
+  },
+  {
+    "tag": "pantylines",
+    "category": "clothing",
+    "weight": 3.7,
+    "aliases": [],
+    "label_zh": "紧致的裤袜(勾勒出线条",
+    "post_count": 5017
+  },
+  {
+    "tag": "neck_ruff",
+    "category": "clothing",
+    "weight": 3.7,
+    "aliases": [],
+    "label_zh": "领口",
+    "post_count": 4979
+  },
+  {
+    "tag": "undersized_clothes",
+    "category": "clothing",
+    "weight": 3.7,
+    "aliases": [
+      "clothes_too_small",
+      "undersized_clothing",
+      "too_small"
+    ],
+    "label_zh": "穿衣方式错了",
+    "post_count": 4956
+  },
+  {
+    "tag": "fishnet_top",
+    "category": "clothing",
+    "weight": 3.68,
+    "aliases": [
+      "fishnet_shirt"
+    ],
+    "label_zh": "渔网上衣",
+    "post_count": 4767
+  },
+  {
+    "tag": "rubber_boots",
+    "category": "clothing",
+    "weight": 3.68,
+    "aliases": [
+      "rain_boots",
+      "wellingtons",
+      "galoshes"
+    ],
+    "label_zh": "胶靴",
+    "post_count": 4756
+  },
+  {
+    "tag": "capri_pants",
+    "category": "clothing",
+    "weight": 3.68,
+    "aliases": [
+      "cropped_pants",
+      "capris"
+    ],
+    "label_zh": "七分裤",
+    "post_count": 4754
+  },
+  {
+    "tag": "arabian_clothes",
+    "category": "clothing",
+    "weight": 3.67,
+    "aliases": [],
+    "label_zh": "阿拉伯服饰",
+    "post_count": 4711
+  },
+  {
+    "tag": "bow_bikini",
+    "category": "clothing",
+    "weight": 3.67,
+    "aliases": [],
+    "label_zh": "带蝴蝶结的比基尼",
+    "post_count": 4705
+  },
+  {
+    "tag": "untucked_shirt",
+    "category": "clothing",
+    "weight": 3.67,
+    "aliases": [],
+    "label_zh": "解开的衬衫",
+    "post_count": 4691
+  },
+  {
+    "tag": "shirt_tug",
+    "category": "clothing",
+    "weight": 3.67,
+    "aliases": [],
+    "label_zh": "拖拽衬衫",
+    "post_count": 4690
+  },
+  {
+    "tag": "mismatched_bikini",
+    "category": "clothing",
+    "weight": 3.67,
+    "aliases": [],
+    "label_zh": "双色比基尼",
+    "post_count": 4659
+  },
+  {
+    "tag": "dirty_clothes",
+    "category": "clothing",
+    "weight": 3.67,
+    "aliases": [],
+    "label_zh": "弄脏的衣服",
+    "post_count": 4643
+  },
+  {
+    "tag": "stiletto_heels",
+    "category": "clothing",
+    "weight": 3.66,
+    "aliases": [],
+    "label_zh": "细跟高跟鞋",
+    "post_count": 4609
+  },
+  {
+    "tag": "fur_coat",
+    "category": "clothing",
+    "weight": 3.66,
+    "aliases": [],
+    "label_zh": "皮草大衣",
+    "post_count": 4599
+  },
+  {
+    "tag": "baseball_uniform",
+    "category": "clothing",
+    "weight": 3.66,
+    "aliases": [],
+    "label_zh": "棒球服",
+    "post_count": 4539
+  },
+  {
+    "tag": "american_flag_bikini",
+    "category": "clothing",
+    "weight": 3.66,
+    "aliases": [],
+    "label_zh": "美国国旗比基尼",
+    "post_count": 4521
+  },
+  {
+    "tag": "ribbed_dress",
+    "category": "clothing",
+    "weight": 3.65,
+    "aliases": [],
+    "label_zh": "罗纹连衣裙",
+    "post_count": 4502
+  },
+  {
+    "tag": "striped_shorts",
+    "category": "clothing",
+    "weight": 3.65,
+    "aliases": [],
+    "label_zh": "条纹短裤",
+    "post_count": 4501
+  },
+  {
+    "tag": "nanamori_school_uniform",
+    "category": "clothing",
+    "weight": 3.65,
+    "aliases": [],
+    "label_zh": "七森中学校服",
+    "post_count": 4484
+  },
+  {
+    "tag": "korean_clothes",
+    "category": "clothing",
+    "weight": 3.65,
+    "aliases": [],
+    "label_zh": "朝鲜服饰",
+    "post_count": 4442
+  },
+  {
+    "tag": "vertical-striped_skirt",
+    "category": "clothing",
+    "weight": 3.64,
+    "aliases": [],
+    "label_zh": "竖条纹裙子",
+    "post_count": 4335
+  },
+  {
+    "tag": "striped_sweater",
+    "category": "clothing",
+    "weight": 3.63,
+    "aliases": [],
+    "label_zh": "条纹毛衣",
+    "post_count": 4276
+  },
+  {
+    "tag": "sailor_bikini",
+    "category": "clothing",
+    "weight": 3.63,
+    "aliases": [],
+    "label_zh": "水手服款比基尼",
+    "post_count": 4260
+  },
+  {
+    "tag": "ofuda_on_clothes",
+    "category": "clothing",
+    "weight": 3.62,
+    "aliases": [],
+    "label_zh": "衣服上贴着符纸",
+    "post_count": 4194
+  },
+  {
+    "tag": "bow_legwear",
+    "category": "clothing",
+    "weight": 3.62,
+    "aliases": [
+      "bow_socks",
+      "sock_bow",
+      "thighhigh_bow",
+      "bow_thighhighs"
+    ],
+    "label_zh": "带蝴蝶结的裤袜",
+    "post_count": 4191
+  },
+  {
+    "tag": "paradis_military_uniform",
+    "category": "clothing",
+    "weight": 3.62,
+    "aliases": [],
+    "label_zh": "帕拉迪岛军装",
+    "post_count": 4131
+  },
+  {
+    "tag": "magatama_necklace",
+    "category": "clothing",
+    "weight": 3.62,
+    "aliases": [],
+    "label_zh": "珠玉项链",
+    "post_count": 4126
+  },
+  {
+    "tag": "clothes_down",
+    "category": "clothing",
+    "weight": 3.62,
+    "aliases": [
+      "clothing_down"
+    ],
+    "label_zh": "褪下衣物",
+    "post_count": 4125
+  },
+  {
+    "tag": "fur-trimmed_skirt",
+    "category": "clothing",
+    "weight": 3.62,
+    "aliases": [],
+    "label_zh": "毛皮镶边短裙",
+    "post_count": 4123
+  },
+  {
+    "tag": "puffy_shorts",
+    "category": "clothing",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "蓬蓬的短裤",
+    "post_count": 4104
+  },
+  {
+    "tag": "roller_skates",
+    "category": "clothing",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "旱冰鞋",
+    "post_count": 4081
+  },
+  {
+    "tag": "star_necklace",
+    "category": "clothing",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "星形项链",
+    "post_count": 4078
+  },
+  {
+    "tag": "wrestling_outfit",
+    "category": "clothing",
+    "weight": 3.6,
+    "aliases": [],
+    "label_zh": "摔角服",
+    "post_count": 3992
+  },
+  {
+    "tag": "tuxedo",
+    "category": "clothing",
+    "weight": 3.6,
+    "aliases": [],
+    "label_zh": "燕尾服",
+    "post_count": 3977
+  },
+  {
+    "tag": "plaid_pants",
+    "category": "clothing",
+    "weight": 3.6,
+    "aliases": [],
+    "label_zh": "格子呢裤子",
+    "post_count": 3969
+  },
+  {
+    "tag": "bomber_jacket",
+    "category": "clothing",
+    "weight": 3.59,
+    "aliases": [
+      "flight_jacket"
+    ],
+    "label_zh": "飞行员夹克",
+    "post_count": 3890
+  },
+  {
+    "tag": "hanasakigawa_school_uniform",
+    "category": "clothing",
+    "weight": 3.58,
+    "aliases": [],
+    "label_zh": "花咲川女子学园",
+    "post_count": 3792
+  },
+  {
+    "tag": "hawaiian_shirt",
+    "category": "clothing",
+    "weight": 3.58,
+    "aliases": [
+      "aloha_shirt"
+    ],
+    "label_zh": "夏威夷衫",
+    "post_count": 3779
+  },
+  {
+    "tag": "hakama_pants",
+    "category": "clothing",
+    "weight": 3.58,
+    "aliases": [
+      "hakama_shorts"
+    ],
+    "label_zh": "袴裤",
+    "post_count": 3776
+  },
+  {
+    "tag": "thigh_ribbon",
+    "category": "clothing",
+    "weight": 3.58,
+    "aliases": [
+      "thigh_lace-up"
+    ],
+    "label_zh": "大腿缎带",
+    "post_count": 3768
+  },
+  {
+    "tag": "gem_uniform_(houseki_no_kuni)",
+    "category": "clothing",
+    "weight": 3.58,
+    "aliases": [],
+    "label_zh": "宝石之国的制服",
+    "post_count": 3765
+  },
+  {
+    "tag": "naoetsu_high_school_uniform",
+    "category": "clothing",
+    "weight": 3.57,
+    "aliases": [],
+    "label_zh": "私立直江津高校制服",
+    "post_count": 3748
+  },
+  {
+    "tag": "taut_dress",
+    "category": "clothing",
+    "weight": 3.57,
+    "aliases": [],
+    "label_zh": "绷紧的连衣裙",
+    "post_count": 3739
+  },
+  {
+    "tag": "impossible_dress",
+    "category": "clothing",
+    "weight": 3.57,
+    "aliases": [],
+    "label_zh": "过分紧身的衣服",
+    "post_count": 3714
+  },
+  {
+    "tag": "meiji_schoolgirl_uniform",
+    "category": "clothing",
+    "weight": 3.57,
+    "aliases": [],
+    "label_zh": "明治女学生制服",
+    "post_count": 3671
+  }
+]

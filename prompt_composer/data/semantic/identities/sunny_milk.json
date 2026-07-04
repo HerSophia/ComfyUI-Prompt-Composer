@@ -1,0 +1,30 @@
+{
+  "id": "sunny_milk",
+  "name": "桑尼米尔克",
+  "identity_tags": [
+    "sunny_milk"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "drill_hair",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "bloomers",
+    "ascot",
+    "skirt_set",
+    "mary_janes"
+  ],
+  "optional_clothing": []
+}

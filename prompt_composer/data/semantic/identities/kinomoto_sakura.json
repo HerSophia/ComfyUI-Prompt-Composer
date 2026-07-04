@@ -1,0 +1,30 @@
+{
+  "id": "kinomoto_sakura",
+  "name": "木之本樱",
+  "identity_tags": [
+    "kinomoto_sakura"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "antenna_hair",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "white_necktie",
+    "mary_janes",
+    "frilled_dress",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

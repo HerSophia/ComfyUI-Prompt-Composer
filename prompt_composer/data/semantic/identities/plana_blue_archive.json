@@ -1,0 +1,30 @@
+{
+  "id": "plana_blue_archive",
+  "name": "普拉娜",
+  "identity_tags": [
+    "plana_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "long_bangs",
+      "straight_hair"
+    ],
+    "eyes": [
+      "black_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "black_choker",
+    "neckerchief",
+    "thighband_pantyhose",
+    "serafuku"
+  ],
+  "optional_clothing": []
+}

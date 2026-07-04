@@ -1,0 +1,30 @@
+{
+  "id": "lumine_genshin_impact",
+  "name": "荧",
+  "identity_tags": [
+    "lumine_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "bead_necklace",
+    "japanese_armor",
+    "halter_dress",
+    "criss-cross_halter"
+  ],
+  "optional_clothing": []
+}

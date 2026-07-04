@@ -1,0 +1,28 @@
+{
+  "id": "tatsumaki",
+  "name": "龙卷",
+  "identity_tags": [
+    "tatsumaki"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "curly_hair",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "side_slit",
+    "pelvic_curtain",
+    "collared_dress",
+    "bare_legs"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "sakura_kyoko",
+  "name": "佐仓杏子",
+  "identity_tags": [
+    "sakura_kyoko"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ponytail",
+      "twintails",
+      "drill_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "mitakihara_school_uniform",
+    "bubble_skirt",
+    "denim_shorts",
+    "cutoffs"
+  ],
+  "optional_clothing": []
+}

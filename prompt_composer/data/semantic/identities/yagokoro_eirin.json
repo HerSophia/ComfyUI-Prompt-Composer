@@ -1,0 +1,30 @@
+{
+  "id": "yagokoro_eirin",
+  "name": "八意永琳",
+  "identity_tags": [
+    "yagokoro_eirin"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twin_braids",
+      "ponytail",
+      "hime_cut"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "multicolored_dress",
+    "geta",
+    "blazer",
+    "skirt_set"
+  ],
+  "optional_clothing": []
+}

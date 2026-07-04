@@ -1,0 +1,29 @@
+{
+  "id": "monkey_d_luffy",
+  "name": "蒙奇·D·路飞",
+  "identity_tags": [
+    "monkey_d._luffy"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "wavy_hair"
+    ],
+    "eyes": [
+      "black_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "sandals",
+    "suit",
+    "sash",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

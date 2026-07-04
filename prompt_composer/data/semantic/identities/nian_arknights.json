@@ -1,0 +1,29 @@
+{
+  "id": "nian_arknights",
+  "name": "年",
+  "identity_tags": [
+    "nian_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "china_dress",
+    "chinese_clothes",
+    "sleeveless_dress",
+    "pelvic_curtain"
+  ],
+  "optional_clothing": []
+}

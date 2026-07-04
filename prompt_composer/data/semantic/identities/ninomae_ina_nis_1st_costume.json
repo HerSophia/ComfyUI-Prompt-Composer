@@ -1,0 +1,29 @@
+{
+  "id": "ninomae_ina_nis_1st_costume",
+  "name": "一伊那尔栖",
+  "identity_tags": [
+    "ninomae_ina'nis_(1st_costume)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "straight_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "strapless_dress",
+    "backless_dress",
+    "fur_collar",
+    "white_thighhighs"
+  ],
+  "optional_clothing": []
+}

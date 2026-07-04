@@ -1,0 +1,26 @@
+{
+  "id": "chando_ado",
+  "name": "Chando",
+  "identity_tags": [
+    "chando_(ado)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "dress_shirt",
+    "bowtie",
+    "collared_shirt",
+    "white_shirt"
+  ],
+  "optional_clothing": []
+}

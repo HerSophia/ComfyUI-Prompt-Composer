@@ -1,0 +1,30 @@
+{
+  "id": "gold_ship_umamusume",
+  "name": "黄金船",
+  "identity_tags": [
+    "gold_ship_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "blunt_bangs",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "summer_uniform",
+    "casual_one-piece_swimsuit",
+    "double-breasted"
+  ],
+  "optional_clothing": []
+}

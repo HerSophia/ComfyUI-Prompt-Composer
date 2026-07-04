@@ -1,0 +1,28 @@
+{
+  "id": "usami_sumireko",
+  "name": "宇佐见堇子",
+  "identity_tags": [
+    "usami_sumireko"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "plaid_skirt",
+    "skirt_set",
+    "cloak",
+    "cape"
+  ],
+  "optional_clothing": []
+}

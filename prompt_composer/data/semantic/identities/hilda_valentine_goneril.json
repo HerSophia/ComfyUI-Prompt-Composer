@@ -1,0 +1,29 @@
+{
+  "id": "hilda_valentine_goneril",
+  "name": "希尔达情人节高纳里尔",
+  "identity_tags": [
+    "hilda_valentine_goneril"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "blunt_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "pink_eyes"
+    ]
+  },
+  "default_clothing": [
+    "garreg_mach_monastery_uniform",
+    "ascot",
+    "alternate_costume",
+    "high_heels"
+  ],
+  "optional_clothing": []
+}

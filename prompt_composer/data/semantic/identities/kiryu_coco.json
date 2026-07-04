@@ -1,0 +1,30 @@
+{
+  "id": "kiryu_coco",
+  "name": "桐生可可",
+  "identity_tags": [
+    "kiryu_coco"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ahoge",
+      "blunt_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "chain_necklace",
+    "partially_unzipped",
+    "uneven_legwear",
+    "track_jacket"
+  ],
+  "optional_clothing": []
+}

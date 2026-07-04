@@ -1,0 +1,29 @@
+{
+  "id": "makaino_ririmu",
+  "name": "魔界侬理理姆",
+  "identity_tags": [
+    "makaino_ririmu"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "twintails",
+      "ahoge",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "heart_cutout",
+    "red_neckerchief",
+    "neckerchief",
+    "open_jacket"
+  ],
+  "optional_clothing": []
+}

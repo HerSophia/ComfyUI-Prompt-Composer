@@ -1,0 +1,30 @@
+{
+  "id": "urakaze_kancolle",
+  "name": "浦风",
+  "identity_tags": [
+    "urakaze_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "hair_bun",
+      "double_bun",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "yukata",
+    "neckerchief",
+    "serafuku",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

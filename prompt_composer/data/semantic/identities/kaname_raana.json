@@ -1,0 +1,27 @@
+{
+  "id": "kaname_raana",
+  "name": "要乐奈",
+  "identity_tags": [
+    "kaname_raana"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "black_choker",
+    "white_shirt",
+    "choker",
+    "socks"
+  ],
+  "optional_clothing": []
+}

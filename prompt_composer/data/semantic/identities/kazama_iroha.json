@@ -1,0 +1,29 @@
+{
+  "id": "kazama_iroha",
+  "name": "风真伊吕波",
+  "identity_tags": [
+    "kazama_iroha"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "ahoge",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "haori",
+    "shrug_(clothing)",
+    "hakama_skirt",
+    "adapted_costume"
+  ],
+  "optional_clothing": []
+}

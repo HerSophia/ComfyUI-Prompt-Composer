@@ -1,0 +1,29 @@
+{
+  "id": "jinx_league_of_legends",
+  "name": "金克丝",
+  "identity_tags": [
+    "jinx_(league_of_legends)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twin_braids",
+      "twintails"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "striped_pants",
+    "crop_top",
+    "pants",
+    "short_shorts"
+  ],
+  "optional_clothing": []
+}

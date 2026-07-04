@@ -1,0 +1,29 @@
+{
+  "id": "zhu_yuan",
+  "name": "朱鸢",
+  "identity_tags": [
+    "zhu_yuan"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "police_uniform",
+    "tight_pants",
+    "pants",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

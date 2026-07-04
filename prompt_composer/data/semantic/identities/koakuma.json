@@ -1,0 +1,30 @@
+{
+  "id": "koakuma",
+  "name": "小恶魔",
+  "identity_tags": [
+    "koakuma"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twin_braids",
+      "side_ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "striped_dress",
+    "skirt_set",
+    "vertical-striped_dress",
+    "vest"
+  ],
+  "optional_clothing": []
+}

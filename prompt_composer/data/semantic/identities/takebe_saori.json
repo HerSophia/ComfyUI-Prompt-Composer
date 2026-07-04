@@ -1,0 +1,29 @@
+{
+  "id": "takebe_saori",
+  "name": "武部沙织",
+  "identity_tags": [
+    "takebe_saori"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "blunt_bangs",
+      "ahoge",
+      "messy_hair"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "ooarai_school_uniform",
+    "blouse",
+    "neckerchief",
+    "military_uniform"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "inubashiri_momiji",
+  "name": "犬走椛",
+  "identity_tags": [
+    "inubashiri_momiji"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "twintails",
+      "ahoge",
+      "twin_braids"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "geta",
+    "checkered_skirt",
+    "multicolored_skirt",
+    "long_skirt"
+  ],
+  "optional_clothing": []
+}

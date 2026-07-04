@@ -1,0 +1,30 @@
+{
+  "id": "amatsukaze_kancolle",
+  "name": "天津风",
+  "identity_tags": [
+    "amatsukaze_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "rudder_footwear",
+    "sailor_dress",
+    "microdress",
+    "garter_straps"
+  ],
+  "optional_clothing": []
+}

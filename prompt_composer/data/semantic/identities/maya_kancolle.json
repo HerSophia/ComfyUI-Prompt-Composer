@@ -1,0 +1,30 @@
+{
+  "id": "maya_kancolle",
+  "name": "摩耶",
+  "identity_tags": [
+    "maya_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "military_uniform",
+    "serafuku",
+    "pleated_skirt",
+    "sleeveless_shirt"
+  ],
+  "optional_clothing": []
+}

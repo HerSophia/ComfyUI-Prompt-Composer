@@ -1,0 +1,27 @@
+{
+  "id": "shirogane_naoto",
+  "name": "白金直斗",
+  "identity_tags": [
+    "shirogane_naoto"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "track_jacket",
+    "school_uniform",
+    "serafuku",
+    "necktie"
+  ],
+  "optional_clothing": []
+}

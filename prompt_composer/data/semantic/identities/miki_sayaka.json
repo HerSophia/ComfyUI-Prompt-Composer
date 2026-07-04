@@ -1,0 +1,30 @@
+{
+  "id": "miki_sayaka",
+  "name": "美树沙耶香",
+  "identity_tags": [
+    "miki_sayaka"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "twintails",
+      "drill_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "mitakihara_school_uniform",
+    "bubble_skirt",
+    "cape",
+    "casual"
+  ],
+  "optional_clothing": []
+}

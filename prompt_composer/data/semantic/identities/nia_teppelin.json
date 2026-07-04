@@ -1,0 +1,29 @@
+{
+  "id": "nia_teppelin",
+  "name": "妮亚·泰佩林",
+  "identity_tags": [
+    "nia_teppelin"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ponytail",
+      "curly_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "bikini",
+    "swimsuit",
+    "dress",
+    "shorts"
+  ],
+  "optional_clothing": []
+}

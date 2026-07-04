@@ -1,0 +1,29 @@
+{
+  "id": "oma_kokichi",
+  "name": "王马小吉",
+  "identity_tags": [
+    "oma_kokichi"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "twintails",
+      "messy_hair"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "double-breasted",
+    "pants",
+    "jacket",
+    "thigh_strap"
+  ],
+  "optional_clothing": []
+}

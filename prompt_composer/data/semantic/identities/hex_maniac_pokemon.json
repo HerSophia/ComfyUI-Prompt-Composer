@@ -1,0 +1,30 @@
+{
+  "id": "hex_maniac_pokemon",
+  "name": "灵异迷",
+  "identity_tags": [
+    "hex_maniac_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ahoge",
+      "messy_hair",
+      "curly_hair"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "bags_under_eyes"
+    ]
+  },
+  "default_clothing": [
+    "long_dress",
+    "ribbed_sweater",
+    "turtleneck_sweater",
+    "sweater"
+  ],
+  "optional_clothing": []
+}

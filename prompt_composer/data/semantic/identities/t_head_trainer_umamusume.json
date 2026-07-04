@@ -1,0 +1,29 @@
+{
+  "id": "t_head_trainer_umamusume",
+  "name": "T头训练员",
+  "identity_tags": [
+    "t-head_trainer_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "summer_uniform",
+    "casual",
+    "track_jacket"
+  ],
+  "optional_clothing": []
+}

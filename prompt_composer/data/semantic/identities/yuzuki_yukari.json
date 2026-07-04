@@ -1,0 +1,30 @@
+{
+  "id": "yuzuki_yukari",
+  "name": "结月缘",
+  "identity_tags": [
+    "yuzuki_yukari"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ahoge",
+      "twintails",
+      "twin_braids"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "ribbed_dress",
+    "criss-cross_halter",
+    "halter_dress",
+    "halterneck"
+  ],
+  "optional_clothing": []
+}

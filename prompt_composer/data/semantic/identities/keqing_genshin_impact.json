@@ -1,0 +1,30 @@
+{
+  "id": "keqing_genshin_impact",
+  "name": "刻晴",
+  "identity_tags": [
+    "keqing_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "hair_bun",
+      "twintails",
+      "double_bun"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "bodystocking",
+    "multicolored_dress",
+    "strapless_dress",
+    "black_pantyhose"
+  ],
+  "optional_clothing": []
+}

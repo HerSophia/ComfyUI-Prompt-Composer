@@ -1,0 +1,30 @@
+{
+  "id": "suzumiya_haruhi",
+  "name": "凉宫春日",
+  "identity_tags": [
+    "suzumiya_haruhi"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "bob_cut",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "kita_high_school_uniform",
+    "summer_uniform",
+    "serafuku",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

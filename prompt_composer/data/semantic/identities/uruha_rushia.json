@@ -1,0 +1,30 @@
+{
+  "id": "uruha_rushia",
+  "name": "润羽露西娅",
+  "identity_tags": [
+    "uruha_rushia"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "hair_bun",
+      "double_bun",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "gothic_lolita",
+    "off-shoulder_dress",
+    "strapless_dress",
+    "frilled_dress"
+  ],
+  "optional_clothing": []
+}

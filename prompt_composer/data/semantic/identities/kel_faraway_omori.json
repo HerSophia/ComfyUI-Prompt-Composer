@@ -1,0 +1,28 @@
+{
+  "id": "kel_faraway_omori",
+  "name": "凯尔（现实）",
+  "identity_tags": [
+    "kel_(faraway)_(omori)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "black"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "black_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "sweater_vest",
+    "collared_shirt",
+    "shorts",
+    "white_shirt"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "houjou_satoko",
+  "name": "北条沙都子",
+  "identity_tags": [
+    "houjou_satoko"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "blunt_bangs",
+      "ponytail",
+      "hime_cut"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sailor_dress",
+    "suspender_skirt",
+    "suspenders",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

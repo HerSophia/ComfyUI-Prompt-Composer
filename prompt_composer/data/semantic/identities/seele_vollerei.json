@@ -1,0 +1,29 @@
+{
+  "id": "seele_vollerei",
+  "name": "希儿·芙乐艾",
+  "identity_tags": [
+    "seele_vollerei"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ahoge",
+      "drill_hair",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "china_dress",
+    "sleeveless_dress",
+    "chinese_clothes",
+    "dress"
+  ],
+  "optional_clothing": []
+}

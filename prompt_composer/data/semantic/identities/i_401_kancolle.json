@@ -1,0 +1,29 @@
+{
+  "id": "i_401_kancolle",
+  "name": "伊401",
+  "identity_tags": [
+    "i-401_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "short_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "swimsuit_under_clothes",
+    "school_swimsuit",
+    "one-piece_swimsuit",
+    "sailor_shirt"
+  ],
+  "optional_clothing": []
+}

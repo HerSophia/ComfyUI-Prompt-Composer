@@ -1,0 +1,30 @@
+{
+  "id": "koseki_bijou",
+  "name": "古石美珠",
+  "identity_tags": [
+    "koseki_bijou"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "hair_flaps",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "corset",
+    "strapless_dress",
+    "alternate_costume",
+    "dress"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "basil_omori",
+  "name": "罗勒（大森）",
+  "identity_tags": [
+    "basil_(omori)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "antenna_hair"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "overalls",
+    "sweater_vest",
+    "tank_top",
+    "collared_shirt"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "vodka_umamusume",
+  "name": "伏特加",
+  "identity_tags": [
+    "vodka_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "summer_uniform",
+    "track_jacket",
+    "thigh_boots"
+  ],
+  "optional_clothing": []
+}

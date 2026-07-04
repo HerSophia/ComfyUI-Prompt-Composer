@@ -1,0 +1,30 @@
+{
+  "id": "reisen_udongein_inaba",
+  "name": "铃仙·优昙华院·因幡",
+  "identity_tags": [
+    "reisen_udongein_inaba"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twin_braids",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "blazer",
+    "necktie",
+    "blouse",
+    "multicolored_dress"
+  ],
+  "optional_clothing": []
+}

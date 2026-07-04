@@ -1,0 +1,428 @@
+# 候选池清洗规则
+#
+# 导入脚本用这份规则过滤候选 tag，去掉不适合默认随机的词。
+# 分三部分：
+#   1. drop_substrings：tag 里包含这些子串就丢弃（NSFW、无关专业词）。
+#   2. drop_exact：精确匹配这些 tag 就丢弃。
+#   3. drop_space_duplicates：为 true 时，若一个含空格的 tag，
+#      其下划线版本也存在，则丢弃含空格的那个（保留下划线规范写法）。
+#
+# 说明：
+#   - 这一版偏保守，宁可少删，避免误伤正常词。
+#   - NSFW 相关一律排除，本版不做成人内容。
+#   - 规则可以随时补充，导入脚本重复运行即可生效。
+
+# 含以下子串的 tag 丢弃
+drop_substrings:
+  # ---- NSFW / 成人 ----
+  - pussy
+  - penis
+  - cum
+  - nipple
+  - areola
+  - cameltoe
+  - ahegao
+  - orgasm
+  - cunnilingus
+  - fellatio
+  - prone_bone
+  - guided_penetration
+  - sex
+  - nude
+  - naked
+  - groping
+  - grabbing_another's_ass
+  - grab_ass
+  - ass_grab
+  - ass_focus
+  - crotch_grab
+  - covering_nipples
+  - covering_crotch
+  - oral_invitation
+  - public_indecency
+  - upskirt
+  - upshorts
+  - upshirt
+  - pantyshot
+  - panty_peek
+  - pussy_peek
+  - armpit_peek
+  - midriff_peek
+  - fingering
+  - spanking
+  - licking_penis
+  - condom
+  - bondage
+  - fundoshi
+  # ---- 无关 / 过度专业 ----
+  - x-ray
+  - cross-section
+  - vehicle_focus
+  - xx_focus
+  - macro_shot
+  - phone_screen
+  - wall_of_text
+  - background_text
+
+# 精确匹配丢弃
+drop_exact:
+  # 云的学名细分，只保留基础的 clouds / cloudy，其余全删
+  - cirrus
+  - cirrocumulus
+  - cirrostratus
+  - altocumulus
+  - altostratus
+  - stratus
+  - stratocumulus
+  - cumulus
+  - nimbostratus
+  - cumulonimbus
+ # 无意义 / 调试残留
+  - what
+  - is_that_so
+  - "in"
+  - ban
+  - oil
+  - caught
+  - peeking
+  - peeping
+  - inset
+  # 明显不该作为随机项的
+  - restrained
+  - nipples
+  - navel_cutout
+
+  # ---- body 分类清理 ----
+  - cleavage
+  - groin
+  - between_breasts
+  - breasts_apart
+  - bouncing_breasts
+  - hanging_breasts
+  - armpit_crease
+  - huge_breasts
+  - gigantic_breasts
+  - big_breasts
+  - pregnant
+  - inflation
+  - pectorals
+  - large_pectorals
+  - unbuttoned_clothes
+  - chibi
+  - absolute_territory
+  - glamor
+
+  # ---- camera 分类清理（聚焦类保留）----
+  - between_fingers
+  - peeking_out
+  - mid_shot
+
+  # ---- composition 分类清理 ----
+  - from_back
+
+  # ---- face 分类清理 ----
+  - french_kiss
+  - oral
+  - gag
+  - bit_gag
+  - cleave_gag
+  - cream_on_face
+  - spiked_club
+  - close_mouth
+  - tooth
+
+  # ---- hand 分类清理 ----
+  - grabbing_from_behind
+  - open_fly
+  - grabbing_own_ass
+  - leotard_aside
+  - dress_pull
+  - bikini_pull
+  - bikini_lift
+  - leotard_pull
+  - kimono_pull
+  - swimsuit_pull
+  - pants_pull
+  - pants_down
+  - pantyhose_pull
+  - shorts_pull
+  - flat_chest_grab
+  - covering_ass
+  - hands_on_ass
+  - hand_on_ass
+  - self_fondle
+  - covering_chest_by_hand
+  - covering_xx
+  - trefoil
+  - thigh_grab
+  - skirt_flip
+  - lifted_by_another
+  - pulled_by_another
+  - pulled_by_self
+  - asymmetrical_legwear
+  - leg_lift
+  - hugging_own_legs
+  - hand_on_own_knee
+  - torn_pants
+  - torn_shorts
+  - torn_jeans
+  - pants_rolled_up
+  - pants_tucked_in
+  - arm_cannon
+  - arm_blade
+  - arm_ribbon
+  - double_fox_shadow_puppet
+  - covering
+  - "hands_on_another's_"
+  - "hand_on_another's_"
+  - "hand_on_own_"
+  - "_sheet_grab"
+  - take
+  - pose
+  - middle_finger
+
+  # ---- leg 分类清理 ----
+  - spread_legs
+  - between_legs
+  - folded
+  - upright_straddle
+  - legs_over_head
+  - convenient_leg
+  - leg_lock
+  - m_legs
+  - lowleg
+  - knees_to_chest
+  - "squatting,_open_legs"
+  - gravure_pose
+  - no_legwear
+  - pince-nez
+  - "k/da_(league_of_legends)"
+  - leg_hair
+  - dirty_feet
+  - wrong_feet
+  - cushion
+
+  # ---- pose 分类清理 ----
+  - bent_over
+  - top-down_bottom-up
+  - the_pose
+  - shared_bathing
+  - mixed_bathing
+  - asymmetrical_docking
+  - symmetrical_docking
+  - imminent_kiss
+  - "finger_in_another's_mouth"
+  - presenting
+  - grinding
+  - pole_dancing
+  - flashing
+  - bleeding
+  - strangling
+  - hanging
+  - snowing
+  - burning
+  - splashing
+  - railing
+  - licking_lips
+  - lip_biting
+  - hair_brushing
+  - hair_tucking
+  - toilet_use
+  - parody
+  - trolling
+  - "special_feeling_(meme)"
+  - against_glass
+  - gradient
+  - "tossing_"
+  - sing
+  - painting
+  - cast
+
+  # ---- expression 分类清理 ----
+  - wince
+  - moaning
+  - heavy_breathing
+  - rape_face
+  - seductive_smile
+  - spasm
+  - tearing_clothes
+  - happy_birthday
+  - happy_new_year
+  - happy_halloween
+  - happy_valentine
+  - expressions
+  - jekyll_and_hyde
+
+  # ---- eyes 分类清理 ----
+  - blood_from_eyes
+  - bloodshot_eyes
+  - horizontal_pupils
+  - reflective_eyes
+  - hollow_eyes
+  - blue_pupils
+  - one-eyed
+  - eye_relfection
+  - cross-shaped_pupils
+  - cross_eyed
+  - eyes_closed
+  - half_closed_eyes
+  - glowing_eye
+  - slanted_eyes
+  - "solid_oval_eyes_"
+  - eyes
+  - pupils
+
+  # ---- hair 分类清理 ----
+  - pony-tail
+  - bunches
+  - hair_pink_flowers
+  - hair_in_takes
+
+  # ---- 漏网词（前一批未覆盖）----
+  - hand_between_legs
+  - extra_arms
+  - mechanical_legs
+  - mechanical_eye
+  - smoking
+
+  # ---- character 分类清理（成人行为词）----
+  - yuri
+  - yaoi
+  - missionary
+  - female_pervert
+  - mesugaki
+  - milf
+  - harem
+  - bar_censor
+  - the_hermit
+  - amputee
+
+  # ---- clothing 分类清理 ----
+  - cleavage_cutout
+  - strap_slip
+  - undressing
+  - underbust
+  - torn_clothes
+  - torn_thighhighs
+  - torn_shirt
+  - impossible_clothes
+  - impossible_shirt
+  - panties_under_pantyhose
+  - bikini_armor
+  - latex
+  - babydoll
+  - slingshot_swimsuit
+  - thong_bikini
+  - shackles
+  - wardrobe_malfunction
+  - swimsuit_aside
+  - virgin_killer_sweater
+  - wedgie
+  - untied_bikini
+  - bikini_bottom_only
+  - bikini_top_only
+  - costume_switch
+  - see-through_dress
+  - plunging_neckline
+  - thigh_holster
+  - loincloth
+
+  # ---- accessory 分类清理 ----
+  - pillow
+  - head_tilt
+  - one_side_up
+  - hair_spread_out
+  - hair_down
+  - head_rest
+  - kneepits
+  - head_out_of_frame
+  - joints
+  - on_head
+  - bald
+  - axe
+  - hair_up
+  - wet_hair
+  - steam
+  - hatching_(texture)
+  - twin_drills
+  - bone
+  - owl
+  - faucet
+  - pier
+  - drill
+  - bowl_cut
+  - updo
+  - hair_flip
+  - head_down
+  - head_bump
+  - raised_fist
+  - forehead-to-forehead
+  - chat_log
+  - heads-up_display
+  - mami_mogu_mogu
+  - fine_fabric_emphasis
+  - diffraction_spikes
+  - crease
+  - gathers
+  - gusset
+  - hatsune_miku_(cosplay)
+  - suigintou
+  - japari_bun
+  - eyewear
+  - diadem
+  - xx_on_head
+  - domino_mask
+  - ass_cutout
+  - double_dildo
+  - object_on_head
+  - person_on_head
+
+  # ---- background 分类清理 ----
+  - "(autumn_maple_forest:1.3),(very_few_fallen_leaves),(path)"
+  - "snow,ice"
+  - "modern,europe"
+  - "industrial_wind,_chinese_architecture"
+  - "shanty_town/slum"
+  - "bathtub,"
+  - window_
+  - lighting
+  - koakuma
+  - striped_background
+  - gohei
+  - crop_top_overhang
+  - greco-roman_architectur
+  - foral_background
+  - jail_bars
+  - lunar
+  - magnificent_architecture
+  - in_spring
+  - in_summer
+  - in_autumn
+  - in_winter
+  - in_a_meadow
+  - on_the_beach
+  - over_the_sea
+  - on_a_desert
+  - on_a_hill
+  - the_top_of_the_hill
+  - in_main_street
+  - in_the_movie_theatre
+  - invisible_chair
+  - outside_border
+
+
+# 含 cirrus_/altocumulus_ 等前缀的云细分，用子串规则兜底
+drop_prefixes:
+  - cirrus_
+  - cirrocumulus_
+  - cirrostratus_
+  - altocumulus_
+  - altostratus_
+  - stratus_
+  - stratocumulus_
+  - cumulus_
+  - cumulonimbus_
+  - nimbostratus_
+
+# 丢弃含空格的重复条目（其下划线版本存在时）
+drop_space_duplicates: true

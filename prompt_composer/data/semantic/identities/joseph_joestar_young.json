@@ -1,0 +1,24 @@
+{
+  "id": "joseph_joestar_young",
+  "name": "乔瑟夫·乔斯达（年轻）",
+  "identity_tags": [
+    "joseph_joestar_(young)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "crop_top",
+    "school_uniform"
+  ],
+  "optional_clothing": []
+}

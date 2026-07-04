@@ -1,0 +1,30 @@
+{
+  "id": "sukuna_shinmyoumaru",
+  "name": "少名针妙丸",
+  "identity_tags": [
+    "sukuna_shinmyoumaru"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "obi",
+    "kimono",
+    "sash",
+    "japanese_clothes"
+  ],
+  "optional_clothing": []
+}

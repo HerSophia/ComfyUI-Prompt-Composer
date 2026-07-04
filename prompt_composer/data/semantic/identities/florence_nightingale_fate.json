@@ -1,0 +1,30 @@
+{
+  "id": "florence_nightingale_fate",
+  "name": "弗洛伦斯·南丁格尔",
+  "identity_tags": [
+    "florence_nightingale_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "braided_ponytail",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "layered_bikini",
+    "shrug_(clothing)",
+    "chaldea_uniform",
+    "military_jacket"
+  ],
+  "optional_clothing": []
+}

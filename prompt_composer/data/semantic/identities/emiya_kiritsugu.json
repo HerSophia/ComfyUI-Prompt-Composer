@@ -1,0 +1,28 @@
+{
+  "id": "emiya_kiritsugu",
+  "name": "卫宫切嗣",
+  "identity_tags": [
+    "emiya_kiritsugu"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "suit",
+    "armor",
+    "necktie",
+    "dress"
+  ],
+  "optional_clothing": []
+}

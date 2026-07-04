@@ -1,0 +1,30 @@
+{
+  "id": "exusiai_arknights",
+  "name": "能天使",
+  "identity_tags": [
+    "exusiai_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "fur-trimmed_jacket",
+    "black_pantyhose",
+    "open_jacket",
+    "pantyhose"
+  ],
+  "optional_clothing": []
+}

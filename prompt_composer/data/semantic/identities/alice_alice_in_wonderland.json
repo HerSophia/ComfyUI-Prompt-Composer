@@ -1,0 +1,29 @@
+{
+  "id": "alice_alice_in_wonderland",
+  "name": "爱丽丝（仙境）",
+  "identity_tags": [
+    "alice_(alice_in_wonderland)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twintails",
+      "ahoge",
+      "blunt_bangs"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "mary_janes",
+    "apron",
+    "frilled_dress",
+    "collared_dress"
+  ],
+  "optional_clothing": []
+}

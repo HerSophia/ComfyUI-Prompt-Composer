@@ -1,0 +1,30 @@
+{
+  "id": "mococo_abyssgard",
+  "name": "可可·阿比斯加德",
+  "identity_tags": [
+    "mococo_abyssgard"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "crossed_bangs",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "headphones_around_neck",
+    "belt_collar",
+    "fur-trimmed_jacket",
+    "cropped_shirt"
+  ],
+  "optional_clothing": []
+}

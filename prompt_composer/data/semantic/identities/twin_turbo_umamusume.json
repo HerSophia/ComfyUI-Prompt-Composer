@@ -1,0 +1,30 @@
+{
+  "id": "twin_turbo_umamusume",
+  "name": "双涡轮",
+  "identity_tags": [
+    "twin_turbo_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "ahoge",
+      "crossed_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "hooded_coat",
+    "hoodie",
+    "track_jacket",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

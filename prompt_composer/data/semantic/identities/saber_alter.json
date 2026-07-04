@@ -1,0 +1,29 @@
+{
+  "id": "saber_alter",
+  "name": "阿尔托莉雅·潘德拉贡〔Alter〕",
+  "identity_tags": [
+    "saber_alter"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ahoge",
+      "hair_bun",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "armored_dress",
+    "gothic_lolita",
+    "cross_necklace",
+    "camisole"
+  ],
+  "optional_clothing": []
+}

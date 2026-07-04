@@ -1,0 +1,30 @@
+{
+  "id": "admiral_kancolle",
+  "name": "提督",
+  "identity_tags": [
+    "admiral_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "naval_uniform",
+    "military_uniform",
+    "muneate",
+    "military_jacket"
+  ],
+  "optional_clothing": []
+}

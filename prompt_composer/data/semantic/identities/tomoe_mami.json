@@ -1,0 +1,30 @@
+{
+  "id": "tomoe_mami",
+  "name": "巴麻美",
+  "identity_tags": [
+    "tomoe_mami"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "drill_hair",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "mitakihara_school_uniform",
+    "bubble_skirt",
+    "taut_shirt",
+    "corset"
+  ],
+  "optional_clothing": []
+}

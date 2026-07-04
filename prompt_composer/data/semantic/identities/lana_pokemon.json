@@ -1,0 +1,30 @@
+{
+  "id": "lana_pokemon",
+  "name": "水莲",
+  "identity_tags": [
+    "lana_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "twin_braids",
+      "swept_bangs"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "bright_pupils"
+    ]
+  },
+  "default_clothing": [
+    "swimsuit_under_clothes",
+    "capri_pants",
+    "one-piece_swimsuit",
+    "overalls"
+  ],
+  "optional_clothing": []
+}

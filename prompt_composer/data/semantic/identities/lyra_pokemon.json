@@ -1,0 +1,29 @@
+{
+  "id": "lyra_pokemon",
+  "name": "琴音",
+  "identity_tags": [
+    "lyra_(pokemon)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "overalls",
+    "bike_shorts",
+    "white_thighhighs",
+    "thighhighs"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "p_head_producer",
+  "name": "P头制作人",
+  "identity_tags": [
+    "p-head_producer"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "suit",
+    "necktie",
+    "collared_shirt",
+    "jacket"
+  ],
+  "optional_clothing": []
+}

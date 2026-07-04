@@ -1,0 +1,30 @@
+{
+  "id": "haru_urara_umamusume",
+  "name": "小春丽",
+  "identity_tags": [
+    "haru_urara_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "bandaid_on_leg",
+    "buruma",
+    "gym_uniform",
+    "track_jacket"
+  ],
+  "optional_clothing": []
+}

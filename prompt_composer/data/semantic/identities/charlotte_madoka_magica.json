@@ -1,0 +1,29 @@
+{
+  "id": "charlotte_madoka_magica",
+  "name": "夏洛特",
+  "identity_tags": [
+    "charlotte_(madoka_magica)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "drill_hair",
+      "twintails",
+      "ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes"
+    ]
+  },
+  "default_clothing": [
+    "mitakihara_school_uniform",
+    "corset",
+    "cape",
+    "boots"
+  ],
+  "optional_clothing": []
+}

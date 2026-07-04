@@ -1,0 +1,136 @@
+# 分类映射表
+#
+# 作用：把 zh_CN.yaml 里的「一级分类 > 二级 group」映射到 Prompt Composer 使用的分类。
+# 键：  "一级分类 > 二级group"，与 zh_CN.yaml 中的名称一致（去掉引号和冒号）。
+# 值：  我们的目标分类字符串；写 null 表示这一组丢弃，不导入。
+#
+# 说明：
+# 1. 这一版聚焦角色生成，风格类（画质、艺术风格、颜色）、物品、汉服、魔法系、
+#    反向提示词、NSFW、测试等暂不导入，统一标为 null。
+# 2. 二创需要单独的 hair、eyes 分类来做锁定，所以人物相关拆得比设计里的九类更细。
+# 3. 以后要纳入更多分类，只需在这里补映射，不用改代码。
+
+mapping:
+  # ---------- 人物 ----------
+  "人物 > 对象": character
+  "人物 > 身份": character
+  "人物 > 二次元角色": null          # 角色名，走 identity/CSV 角色数据，不作为普通候选
+  "人物 > 年龄": character
+  "人物 > 皮肤": character
+  "人物 > 身材": body
+  "人物 > 脸型": face
+  "人物 > 头发": hair
+  "人物 > 面部": face
+  "人物 > 耳朵": ears
+  "人物 > 眉毛": face
+  "人物 > 眼睛": eyes
+  "人物 > 瞳孔": eyes
+  "人物 > 鼻子": face
+  "人物 > 嘴巴": face
+  "人物 > 牙齿": face
+  "人物 > 舌头": face
+  "人物 > 指甲": null
+  "人物 > 肩部": body
+  "人物 > 胸部": body
+  "人物 > 腰部": body
+  "人物 > 腹部": body
+  "人物 > 翅膀": null
+
+  # ---------- 服饰 ----------
+  "服饰 > 正装": clothing
+  "服饰 > 风格": clothing
+  "服饰 > 休闲装": clothing
+  "服饰 > 运动服": clothing
+  "服饰 > 泳装": clothing
+  "服饰 > 制服": clothing
+  "服饰 > 上衣": clothing
+  "服饰 > 外套": clothing
+  "服饰 > 其他": clothing
+  "服饰 > 腰部": clothing
+  "服饰 > 盔甲": clothing
+  "服饰 > 裙子": clothing
+  "服饰 > 与裙子互动": hand
+  "服饰 > 裤子": clothing
+  "服饰 > 与裤子互动": hand
+  "服饰 > 袜子": clothing
+  "服饰 > 与袜子互动": hand
+  "服饰 > 材质": null
+  "服饰 > 装饰": accessory
+  "服饰 > 花纹": null
+  "服饰 > 鞋子": clothing
+  "服饰 > 靴子": clothing
+  "服饰 > 鞋底": null
+  "服饰 > 领口": clothing
+  "服饰 > 围巾": accessory
+  "服饰 > 眼镜": accessory
+  "服饰 > 面具": accessory
+  "服饰 > 手臂": accessory
+  "服饰 > 手": null
+  "服饰 > 手套": accessory
+  "服饰 > 耳饰": accessory
+  "服饰 > 头饰": accessory
+  "服饰 > 帽子": accessory
+  "服饰 > 发饰": accessory
+  "服饰 > 小装饰": accessory
+  "服饰 > 首饰": accessory
+
+  # ---------- 表情动作 ----------
+  "表情动作 > 笑": expression
+  "表情动作 > 哭": expression
+  "表情动作 > 不开心": expression
+  "表情动作 > 蔑视": expression
+  "表情动作 > 生气": expression
+  "表情动作 > 其他表情": expression
+  "表情动作 > 基础动作": pose
+  "表情动作 > 手部动作": hand
+  "表情动作 > 手部动作(拿着某物)": hand
+  "表情动作 > 手部动作(放在某地)": hand
+  "表情动作 > 手部动作(抓着某物)": hand
+  "表情动作 > 腿部动作": leg
+  "表情动作 > 其他动作": pose
+
+  # ---------- 画面 ----------
+  "画面 > 画质": null
+  "画面 > 艺术风格": null
+  "画面 > 艺术类型": null
+  "画面 > 艺术派系": null
+  "画面 > 艺术家风格": null
+  "画面 > 光照": lighting
+  "画面 > 写实": null
+  "画面 > 素描": null
+  "画面 > 画笔": null
+  "画面 > 颜色": null
+  "画面 > 背景": background
+
+  # ---------- 环境 ----------
+  "环境 > 季节": background
+  "环境 > 天气": background
+  "环境 > 大自然": background
+  "环境 > 水": background
+  "环境 > 天空": background
+  "环境 > 云": background
+  "环境 > 氛围": lighting
+
+  # ---------- 场景 ----------
+  "场景 > 室外": background
+  "场景 > 城市": background
+  "场景 > 室内": background
+  "场景 > 地板": null
+  "场景 > 家具": background
+  "场景 > 床上用品": background
+  "场景 > 浴室": background
+
+  # ---------- 镜头 ----------
+  "镜头 > 镜头": camera
+  "镜头 > 特写镜头": camera
+  "镜头 > 其他构图": composition
+  "镜头 > 镜头角度": composition
+  "镜头 > 效果": null
+  "镜头 > 主角动作": pose
+
+  # ---------- 以下整块丢弃 ----------
+  # 物品 / 汉服 / 魔法系 / 反向提示词 / NSFW / 测试
+  # 这些分类在本版不导入，未在上面列出的 group 一律按 null 处理。
+
+# 未在 mapping 中出现的 group，默认按 null（丢弃）处理。
+default: null

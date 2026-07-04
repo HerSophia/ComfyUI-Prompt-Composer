@@ -1,0 +1,30 @@
+{
+  "id": "higuchi_madoka",
+  "name": "樋口圆香",
+  "identity_tags": [
+    "higuchi_madoka"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "swept_bangs",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "clothes_around_waist",
+    "print_bikini",
+    "plaid_skirt",
+    "thighband_pantyhose"
+  ],
+  "optional_clothing": []
+}

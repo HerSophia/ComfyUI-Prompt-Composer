@@ -1,0 +1,30 @@
+{
+  "id": "cu_chulainn_fate",
+  "name": "库·丘林",
+  "identity_tags": [
+    "cu_chulainn_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "chaldea_uniform",
+    "armored_dress",
+    "shoulder_armor",
+    "armor"
+  ],
+  "optional_clothing": []
+}

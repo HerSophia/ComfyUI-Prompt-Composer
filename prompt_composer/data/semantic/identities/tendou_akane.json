@@ -1,0 +1,28 @@
+{
+  "id": "tendou_akane",
+  "name": "天童茜",
+  "identity_tags": [
+    "tendou_akane"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "braided_ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
+  "default_clothing": [
+    "chinese_clothes",
+    "school_uniform",
+    "barefoot",
+    "pants"
+  ],
+  "optional_clothing": []
+}

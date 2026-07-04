@@ -1,0 +1,30 @@
+{
+  "id": "unzan",
+  "name": "云山",
+  "identity_tags": [
+    "unzan"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "ahoge",
+      "twin_braids"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "sailor",
+    "geta",
+    "capelet",
+    "ascot"
+  ],
+  "optional_clothing": []
+}

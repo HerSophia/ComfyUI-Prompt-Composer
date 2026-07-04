@@ -1,0 +1,30 @@
+{
+  "id": "flandre_scarlet",
+  "name": "芙兰朵露·斯卡蕾特",
+  "identity_tags": [
+    "flandre_scarlet"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "side_ponytail",
+      "twin_braids",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "skirt_set",
+    "bobby_socks",
+    "ascot",
+    "bloomers"
+  ],
+  "optional_clothing": []
+}

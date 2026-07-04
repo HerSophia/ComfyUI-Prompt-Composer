@@ -1,0 +1,29 @@
+{
+  "id": "nakano_nino",
+  "name": "中野二乃",
+  "identity_tags": [
+    "nakano_nino"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "blunt_bangs",
+      "ahoge",
+      "straight_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "headphones_around_neck",
+    "cardigan",
+    "wedding_dress",
+    "dress_shirt"
+  ],
+  "optional_clothing": []
+}

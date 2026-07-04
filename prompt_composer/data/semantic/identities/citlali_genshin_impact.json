@@ -1,0 +1,28 @@
+{
+  "id": "citlali_genshin_impact",
+  "name": "茜特菈莉",
+  "identity_tags": [
+    "citlali_(genshin_impact)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "twin_braids"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "heterochromia"
+    ]
+  },
+  "default_clothing": [
+    "leotard",
+    "highleg",
+    "sandals",
+    "clothing_cutout"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ahri_league_of_legends",
+  "name": "阿狸",
+  "identity_tags": [
+    "ahri_(league_of_legends)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "swept_bangs",
+      "twintails"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "korean_clothes",
+    "choker",
+    "high_heels",
+    "alternate_costume"
+  ],
+  "optional_clothing": []
+}

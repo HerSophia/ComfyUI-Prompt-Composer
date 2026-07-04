@@ -1,0 +1,27 @@
+{
+  "id": "specter_arknights",
+  "name": "幽灵",
+  "identity_tags": [
+    "specter_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "pelvic_curtain",
+    "capelet",
+    "clothing_cutout",
+    "black_pantyhose"
+  ],
+  "optional_clothing": []
+}

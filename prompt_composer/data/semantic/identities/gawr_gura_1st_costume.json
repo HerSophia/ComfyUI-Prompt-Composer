@@ -1,0 +1,30 @@
+{
+  "id": "gawr_gura_1st_costume",
+  "name": "噶呜·古拉",
+  "identity_tags": [
+    "gawr_gura_(1st_costume)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "blush_stickers"
+    ]
+  },
+  "default_clothing": [
+    "animal_costume",
+    "hoodie",
+    "sneakers",
+    "adapted_costume"
+  ],
+  "optional_clothing": []
+}

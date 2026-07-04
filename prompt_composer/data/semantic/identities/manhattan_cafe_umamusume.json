@@ -1,0 +1,30 @@
+{
+  "id": "manhattan_cafe_umamusume",
+  "name": "曼哈顿咖啡",
+  "identity_tags": [
+    "manhattan_cafe_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ahoge",
+      "long_bangs",
+      "messy_hair"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "short_necktie",
+    "sailor_shirt",
+    "summer_uniform",
+    "black_pantyhose"
+  ],
+  "optional_clothing": []
+}

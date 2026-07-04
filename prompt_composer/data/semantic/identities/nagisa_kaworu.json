@@ -1,0 +1,27 @@
+{
+  "id": "nagisa_kaworu",
+  "name": "渚薰",
+  "identity_tags": [
+    "nagisa_kaworu"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "pants",
+    "collared_shirt",
+    "school_uniform",
+    "white_shirt"
+  ],
+  "optional_clothing": []
+}

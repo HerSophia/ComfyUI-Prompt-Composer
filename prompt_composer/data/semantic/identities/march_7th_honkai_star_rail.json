@@ -1,0 +1,29 @@
+{
+  "id": "march_7th_honkai_star_rail",
+  "name": "三月七",
+  "identity_tags": [
+    "march_7th_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "overskirt",
+    "ankle_boots",
+    "corset",
+    "black_choker"
+  ],
+  "optional_clothing": []
+}

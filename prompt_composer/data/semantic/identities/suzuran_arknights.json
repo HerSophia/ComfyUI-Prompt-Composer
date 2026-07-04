@@ -1,0 +1,29 @@
+{
+  "id": "suzuran_arknights",
+  "name": "铃兰",
+  "identity_tags": [
+    "suzuran_(arknights)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "twintails",
+      "ahoge"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "bobby_socks",
+    "white_pantyhose",
+    "high-waist_skirt",
+    "cardigan"
+  ],
+  "optional_clothing": []
+}

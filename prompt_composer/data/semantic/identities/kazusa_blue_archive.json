@@ -1,0 +1,30 @@
+{
+  "id": "kazusa_blue_archive",
+  "name": "阿慈谷日和",
+  "identity_tags": [
+    "kazusa_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "blunt_bangs",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "tsurime"
+    ]
+  },
+  "default_clothing": [
+    "jacket_around_waist",
+    "clothes_around_waist",
+    "black_choker",
+    "print_shirt"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "yukine_chris",
+  "name": "尤金克里斯",
+  "identity_tags": [
+    "yukine_chris"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "leotard",
+    "white_thighhighs",
+    "thighhighs",
+    "clothing_cutout"
+  ],
+  "optional_clothing": []
+}

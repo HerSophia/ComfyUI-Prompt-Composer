@@ -1,0 +1,2189 @@
+[
+  {
+    "tag": "holding",
+    "category": "hand",
+    "weight": 6.29,
+    "aliases": [
+      "holding_object",
+      "hold"
+    ],
+    "label_zh": "拿着某物",
+    "post_count": 1964316
+  },
+  {
+    "tag": "arm_up",
+    "category": "hand",
+    "weight": 5.44,
+    "aliases": [
+      "one_arm_up",
+      "arm_raised",
+      "raised_arm"
+    ],
+    "label_zh": "举着手",
+    "post_count": 277062
+  },
+  {
+    "tag": "clothes_lift",
+    "category": "hand",
+    "weight": 5.42,
+    "aliases": [],
+    "label_zh": "掀起衣物",
+    "post_count": 264649
+  },
+  {
+    "tag": "arms_up",
+    "category": "hand",
+    "weight": 5.38,
+    "aliases": [
+      "hands_above_head",
+      "arms_above_head",
+      "arms_raised",
+      "raised_arms",
+      "arms_above"
+    ],
+    "label_zh": "抬手",
+    "post_count": 240508
+  },
+  {
+    "tag": "multiple_views",
+    "category": "hand",
+    "weight": 5.38,
+    "aliases": [],
+    "label_zh": "多角度",
+    "post_count": 238050
+  },
+  {
+    "tag": "v",
+    "category": "hand",
+    "weight": 5.32,
+    "aliases": [
+      "v_sign",
+      "peace_sign"
+    ],
+    "label_zh": "胜利手势",
+    "post_count": 209815
+  },
+  {
+    "tag": "holding_sword",
+    "category": "hand",
+    "weight": 5.2,
+    "aliases": [
+      "holding_rapier",
+      "holding_katana"
+    ],
+    "label_zh": "手持剑",
+    "post_count": 158376
+  },
+  {
+    "tag": "holding_food",
+    "category": "hand",
+    "weight": 5.13,
+    "aliases": [],
+    "label_zh": "拿着食物",
+    "post_count": 136062
+  },
+  {
+    "tag": "holding_hands",
+    "category": "hand",
+    "weight": 5.12,
+    "aliases": [
+      "holding_another's_hand",
+      "handholding",
+      "hand_holding"
+    ],
+    "label_zh": "牵手",
+    "post_count": 132888
+  },
+  {
+    "tag": "arms_behind_back",
+    "category": "hand",
+    "weight": 5.05,
+    "aliases": [
+      "/abb",
+      "hands_behind_back",
+      "arms_behind"
+    ],
+    "label_zh": "手放在身后",
+    "post_count": 112048
+  },
+  {
+    "tag": "arm_support",
+    "category": "hand",
+    "weight": 5.05,
+    "aliases": [],
+    "label_zh": "用手支撑住",
+    "post_count": 111897
+  },
+  {
+    "tag": "crossed_arms",
+    "category": "hand",
+    "weight": 5.05,
+    "aliases": [
+      "folded_arms",
+      "arms_folded",
+      "arms_crossed"
+    ],
+    "label_zh": "交叉双臂",
+    "post_count": 110955
+  },
+  {
+    "tag": "clothes_pull",
+    "category": "hand",
+    "weight": 4.99,
+    "aliases": [],
+    "label_zh": "拉开衣物",
+    "post_count": 98077
+  },
+  {
+    "tag": "holding_cup",
+    "category": "hand",
+    "weight": 4.99,
+    "aliases": [
+      "holding_goblet",
+      "holding_drinking_glass",
+      "holding_sakazuki",
+      "holding_teacup",
+      "holding_mug",
+      "holding_glass"
+    ],
+    "label_zh": "手持杯子",
+    "post_count": 97907
+  },
+  {
+    "tag": "holding_gun",
+    "category": "hand",
+    "weight": 4.96,
+    "aliases": [],
+    "label_zh": "拿着枪",
+    "post_count": 90790
+  },
+  {
+    "tag": "holding_phone",
+    "category": "hand",
+    "weight": 4.96,
+    "aliases": [
+      "holding_cellphone"
+    ],
+    "label_zh": "拿着手机",
+    "post_count": 90695
+  },
+  {
+    "tag": "skirt_lift",
+    "category": "hand",
+    "weight": 4.95,
+    "aliases": [
+      "lifting_skirt",
+      "skirt_up",
+      "skirt_up",
+      "lift_skirt",
+      "lifted_skirt",
+      "/skl",
+      "skirtlift"
+    ],
+    "label_zh": "掀起裙子",
+    "post_count": 88307
+  },
+  {
+    "tag": "outstretched_arm",
+    "category": "hand",
+    "weight": 4.93,
+    "aliases": [
+      "arm_outstretched"
+    ],
+    "label_zh": "伸出手臂",
+    "post_count": 85505
+  },
+  {
+    "tag": "outstretched_arms",
+    "category": "hand",
+    "weight": 4.93,
+    "aliases": [
+      "arms_outstretched"
+    ],
+    "label_zh": "伸出双臂",
+    "post_count": 85063
+  },
+  {
+    "tag": "pointing",
+    "category": "hand",
+    "weight": 4.93,
+    "aliases": [],
+    "label_zh": "用手指着",
+    "post_count": 84761
+  },
+  {
+    "tag": "hand_on_own_chest",
+    "category": "hand",
+    "weight": 4.91,
+    "aliases": [
+      "hand_on_chest",
+      "hand_to_own_chest",
+      "hand_to_chest"
+    ],
+    "label_zh": "把手放在自己的胸口",
+    "post_count": 81272
+  },
+  {
+    "tag": "index_finger_raised",
+    "category": "hand",
+    "weight": 4.83,
+    "aliases": [
+      "finger_raised",
+      "raised_finger"
+    ],
+    "label_zh": "食指抬起",
+    "post_count": 67518
+  },
+  {
+    "tag": "arms_behind_head",
+    "category": "hand",
+    "weight": 4.82,
+    "aliases": [
+      "hands_behind_head"
+    ],
+    "label_zh": "双手抱头",
+    "post_count": 66106
+  },
+  {
+    "tag": "holding_book",
+    "category": "hand",
+    "weight": 4.81,
+    "aliases": [],
+    "label_zh": "捧着书",
+    "post_count": 64923
+  },
+  {
+    "tag": "carrying",
+    "category": "hand",
+    "weight": 4.78,
+    "aliases": [
+      "carry"
+    ],
+    "label_zh": "抱起",
+    "post_count": 59680
+  },
+  {
+    "tag": "arm_at_side",
+    "category": "hand",
+    "weight": 4.77,
+    "aliases": [],
+    "label_zh": "单手垂放",
+    "post_count": 58300
+  },
+  {
+    "tag": "arm_behind_back",
+    "category": "hand",
+    "weight": 4.69,
+    "aliases": [
+      "hand_behind_back"
+    ],
+    "label_zh": "单手背到身后",
+    "post_count": 49471
+  },
+  {
+    "tag": "finger_to_mouth",
+    "category": "hand",
+    "weight": 4.68,
+    "aliases": [
+      "finger_on_mouth",
+      "finger_on_lips",
+      "finger_to_lips"
+    ],
+    "label_zh": "手抵在嘴唇边",
+    "post_count": 48243
+  },
+  {
+    "tag": "hand_in_pocket",
+    "category": "hand",
+    "weight": 4.67,
+    "aliases": [],
+    "label_zh": "手插在口袋里",
+    "post_count": 47111
+  },
+  {
+    "tag": "arm_behind_head",
+    "category": "hand",
+    "weight": 4.67,
+    "aliases": [
+      "hand_behind_head"
+    ],
+    "label_zh": "手放头后",
+    "post_count": 46579
+  },
+  {
+    "tag": "hand_on_another's_head",
+    "category": "hand",
+    "weight": 4.67,
+    "aliases": [],
+    "label_zh": "手放在对方的头上",
+    "post_count": 46516
+  },
+  {
+    "tag": "holding_umbrella",
+    "category": "hand",
+    "weight": 4.67,
+    "aliases": [
+      "holding_parasol"
+    ],
+    "label_zh": "撑伞",
+    "post_count": 46505
+  },
+  {
+    "tag": "holding_staff",
+    "category": "hand",
+    "weight": 4.65,
+    "aliases": [],
+    "label_zh": "手持法杖",
+    "post_count": 44616
+  },
+  {
+    "tag": "reaching",
+    "category": "hand",
+    "weight": 4.64,
+    "aliases": [
+      "reach"
+    ],
+    "label_zh": "(有目的地)伸手",
+    "post_count": 43618
+  },
+  {
+    "tag": "dress_lift",
+    "category": "hand",
+    "weight": 4.6,
+    "aliases": [],
+    "label_zh": "掀起裙子",
+    "post_count": 40232
+  },
+  {
+    "tag": "hand_on_another's_shoulder",
+    "category": "hand",
+    "weight": 4.59,
+    "aliases": [],
+    "label_zh": "手放在对方的肩上",
+    "post_count": 38546
+  },
+  {
+    "tag": "double_v",
+    "category": "hand",
+    "weight": 4.58,
+    "aliases": [
+      "double_peace"
+    ],
+    "label_zh": "双_v",
+    "post_count": 38191
+  },
+  {
+    "tag": "holding_flower",
+    "category": "hand",
+    "weight": 4.58,
+    "aliases": [],
+    "label_zh": "拿着花",
+    "post_count": 37595
+  },
+  {
+    "tag": "holding_knife",
+    "category": "hand",
+    "weight": 4.56,
+    "aliases": [],
+    "label_zh": "拿着刀",
+    "post_count": 36340
+  },
+  {
+    "tag": "waving",
+    "category": "hand",
+    "weight": 4.56,
+    "aliases": [
+      "waving_arm",
+      "wave"
+    ],
+    "label_zh": "招手",
+    "post_count": 36254
+  },
+  {
+    "tag": "arms_at_sides",
+    "category": "hand",
+    "weight": 4.54,
+    "aliases": [],
+    "label_zh": "双手垂放",
+    "post_count": 34858
+  },
+  {
+    "tag": "holding_bag",
+    "category": "hand",
+    "weight": 4.53,
+    "aliases": [
+      "holding_purse",
+      "holding_backpack"
+    ],
+    "label_zh": "提着包",
+    "post_count": 33901
+  },
+  {
+    "tag": "paw_pose",
+    "category": "hand",
+    "weight": 4.53,
+    "aliases": [
+      "dog_pose",
+      "cat_pose"
+    ],
+    "label_zh": "招财猫手势(下弯手腕)",
+    "post_count": 33659
+  },
+  {
+    "tag": "hand_on_own_cheek",
+    "category": "hand",
+    "weight": 4.53,
+    "aliases": [
+      "hand_on_cheek",
+      "hand_to_cheek"
+    ],
+    "label_zh": "把手放在自己的脸颊上",
+    "post_count": 33591
+  },
+  {
+    "tag": "adjusting_clothes",
+    "category": "hand",
+    "weight": 4.51,
+    "aliases": [],
+    "label_zh": "拨弄衣服",
+    "post_count": 32610
+  },
+  {
+    "tag": "sharp_fingernails",
+    "category": "hand",
+    "weight": 4.51,
+    "aliases": [
+      "pointy_fingernails"
+    ],
+    "label_zh": "锐利的手指甲",
+    "post_count": 32156
+  },
+  {
+    "tag": "v_arms",
+    "category": "hand",
+    "weight": 4.49,
+    "aliases": [
+      "v-arms"
+    ],
+    "label_zh": "双臂摆出V",
+    "post_count": 31077
+  },
+  {
+    "tag": "holding_polearm",
+    "category": "hand",
+    "weight": 4.48,
+    "aliases": [
+      "holding_trident",
+      "holding_halberd",
+      "holding_lance",
+      "holding_spear",
+      "holding_naginata"
+    ],
+    "label_zh": "手持长柄武器",
+    "post_count": 29889
+  },
+  {
+    "tag": "holding_bottle",
+    "category": "hand",
+    "weight": 4.46,
+    "aliases": [],
+    "label_zh": "拿着瓶子",
+    "post_count": 28778
+  },
+  {
+    "tag": "adjusting_eyewear",
+    "category": "hand",
+    "weight": 4.45,
+    "aliases": [
+      "adjusting_sunglasses",
+      "adjusting_glasses"
+    ],
+    "label_zh": "扶眼镜",
+    "post_count": 28077
+  },
+  {
+    "tag": "holding_microphone",
+    "category": "hand",
+    "weight": 4.45,
+    "aliases": [],
+    "label_zh": "拿着麦克风",
+    "post_count": 27904
+  },
+  {
+    "tag": "holding_fan",
+    "category": "hand",
+    "weight": 4.44,
+    "aliases": [],
+    "label_zh": "拿着扇子",
+    "post_count": 27839
+  },
+  {
+    "tag": "holding_tray",
+    "category": "hand",
+    "weight": 4.43,
+    "aliases": [],
+    "label_zh": "托着盘子",
+    "post_count": 27084
+  },
+  {
+    "tag": "zipper_pull_tab",
+    "category": "hand",
+    "weight": 4.43,
+    "aliases": [],
+    "label_zh": "拉链的拉片",
+    "post_count": 26962
+  },
+  {
+    "tag": "holding_instrument",
+    "category": "hand",
+    "weight": 4.43,
+    "aliases": [
+      "holding_violin",
+      "holding_guitar"
+    ],
+    "label_zh": "拿着乐器",
+    "post_count": 26806
+  },
+  {
+    "tag": "w",
+    "category": "hand",
+    "weight": 4.42,
+    "aliases": [],
+    "label_zh": "手指比W",
+    "post_count": 26234
+  },
+  {
+    "tag": "hand_on_own_chin",
+    "category": "hand",
+    "weight": 4.42,
+    "aliases": [
+      "hand_on_chin",
+      "hand_to_chin"
+    ],
+    "label_zh": "手碰着自己的下巴",
+    "post_count": 26167
+  },
+  {
+    "tag": "claw_pose",
+    "category": "hand",
+    "weight": 4.41,
+    "aliases": [],
+    "label_zh": "爪手势",
+    "post_count": 25853
+  },
+  {
+    "tag": "adjusting_hair",
+    "category": "hand",
+    "weight": 4.41,
+    "aliases": [],
+    "label_zh": "理头发",
+    "post_count": 25632
+  },
+  {
+    "tag": "hand_on_headwear",
+    "category": "hand",
+    "weight": 4.37,
+    "aliases": [
+      "hand_on_hat"
+    ],
+    "label_zh": "手触碰帽子",
+    "post_count": 23526
+  },
+  {
+    "tag": "hands_on_own_face",
+    "category": "hand",
+    "weight": 4.37,
+    "aliases": [
+      "hands_on_face",
+      "hands_to_face"
+    ],
+    "label_zh": "双手放在自己的脸上",
+    "post_count": 23365
+  },
+  {
+    "tag": "holding_bouquet",
+    "category": "hand",
+    "weight": 4.36,
+    "aliases": [],
+    "label_zh": "手捧花束",
+    "post_count": 23056
+  },
+  {
+    "tag": "holding_animal",
+    "category": "hand",
+    "weight": 4.36,
+    "aliases": [
+      "holding_bat_(animal)"
+    ],
+    "label_zh": "抱着动物",
+    "post_count": 22639
+  },
+  {
+    "tag": "holding_poke_ball",
+    "category": "hand",
+    "weight": 4.35,
+    "aliases": [
+      "holding_pokeball"
+    ],
+    "label_zh": "拿着精灵球",
+    "post_count": 22409
+  },
+  {
+    "tag": "holding_plate",
+    "category": "hand",
+    "weight": 4.32,
+    "aliases": [],
+    "label_zh": "端着碟子",
+    "post_count": 20878
+  },
+  {
+    "tag": "bound_arms",
+    "category": "hand",
+    "weight": 4.3,
+    "aliases": [
+      "arms_tied",
+      "tied_arms",
+      "arms_bound"
+    ],
+    "label_zh": "手臂被束缚",
+    "post_count": 19883
+  },
+  {
+    "tag": "hands_on_own_chest",
+    "category": "hand",
+    "weight": 4.29,
+    "aliases": [
+      "hands_on_chest",
+      "hands_to_chest"
+    ],
+    "label_zh": "双手放在自己的胸口",
+    "post_count": 19342
+  },
+  {
+    "tag": "salute",
+    "category": "hand",
+    "weight": 4.29,
+    "aliases": [],
+    "label_zh": "敬礼",
+    "post_count": 19336
+  },
+  {
+    "tag": "holding_fruit",
+    "category": "hand",
+    "weight": 4.27,
+    "aliases": [
+      "holding_watermelon",
+      "holding_orange",
+      "holding_lemon",
+      "holding_grape",
+      "holding_cherry",
+      "holding_strawberry",
+      "holding_peach",
+      "holding_apple"
+    ],
+    "label_zh": "拿着水果",
+    "post_count": 18606
+  },
+  {
+    "tag": "thumbs_up",
+    "category": "hand",
+    "weight": 4.26,
+    "aliases": [],
+    "label_zh": "翘大拇指",
+    "post_count": 18239
+  },
+  {
+    "tag": "wind_lift",
+    "category": "hand",
+    "weight": 4.26,
+    "aliases": [
+      "windlift",
+      "skirt_blow",
+      "ecchi_no_kaze"
+    ],
+    "label_zh": "起风效果",
+    "post_count": 18031
+  },
+  {
+    "tag": "holding_gift",
+    "category": "hand",
+    "weight": 4.23,
+    "aliases": [
+      "holding_present"
+    ],
+    "label_zh": "拿着礼物",
+    "post_count": 17136
+  },
+  {
+    "tag": "holding_fork",
+    "category": "hand",
+    "weight": 4.21,
+    "aliases": [],
+    "label_zh": "拿着餐叉",
+    "post_count": 16297
+  },
+  {
+    "tag": "holding_chopsticks",
+    "category": "hand",
+    "weight": 4.2,
+    "aliases": [],
+    "label_zh": "拿着筷子",
+    "post_count": 15965
+  },
+  {
+    "tag": "holding_cigarette",
+    "category": "hand",
+    "weight": 4.2,
+    "aliases": [],
+    "label_zh": "手叼香烟",
+    "post_count": 15870
+  },
+  {
+    "tag": "holding_spoon",
+    "category": "hand",
+    "weight": 4.2,
+    "aliases": [],
+    "label_zh": "拿着汤勺",
+    "post_count": 15796
+  },
+  {
+    "tag": "holding_can",
+    "category": "hand",
+    "weight": 4.19,
+    "aliases": [],
+    "label_zh": "拿着易拉罐",
+    "post_count": 15595
+  },
+  {
+    "tag": "pointing_at_viewer",
+    "category": "hand",
+    "weight": 4.19,
+    "aliases": [
+      "pov_pointing"
+    ],
+    "label_zh": "指向看图的人",
+    "post_count": 15559
+  },
+  {
+    "tag": "holding_candy",
+    "category": "hand",
+    "weight": 4.19,
+    "aliases": [],
+    "label_zh": "手持糖果",
+    "post_count": 15552
+  },
+  {
+    "tag": "leg_grab",
+    "category": "hand",
+    "weight": 4.19,
+    "aliases": [
+      "grabbing_leg"
+    ],
+    "label_zh": "抓着腿",
+    "post_count": 15446
+  },
+  {
+    "tag": "holding_bow_(weapon)",
+    "category": "hand",
+    "weight": 4.18,
+    "aliases": [],
+    "label_zh": "拿着弓(武器)",
+    "post_count": 15186
+  },
+  {
+    "tag": "holding_wand",
+    "category": "hand",
+    "weight": 4.15,
+    "aliases": [],
+    "label_zh": "握着棒子",
+    "post_count": 14237
+  },
+  {
+    "tag": "holding_paper",
+    "category": "hand",
+    "weight": 4.15,
+    "aliases": [],
+    "label_zh": "拿着纸",
+    "post_count": 14173
+  },
+  {
+    "tag": "holding_card",
+    "category": "hand",
+    "weight": 4.15,
+    "aliases": [
+      "holding_playing_card",
+      "holding_cards"
+    ],
+    "label_zh": "手持卡片",
+    "post_count": 14000
+  },
+  {
+    "tag": "holding_camera",
+    "category": "hand",
+    "weight": 4.12,
+    "aliases": [
+      "holding_camcorder"
+    ],
+    "label_zh": "手持摄像机",
+    "post_count": 13077
+  },
+  {
+    "tag": "holding_pen",
+    "category": "hand",
+    "weight": 4.11,
+    "aliases": [],
+    "label_zh": "握笔",
+    "post_count": 12959
+  },
+  {
+    "tag": "hands_on_own_cheeks",
+    "category": "hand",
+    "weight": 4.1,
+    "aliases": [
+      "hands_on_cheeks",
+      "hands_on_cheek",
+      "hands_to_cheeks",
+      "hands_to_cheek"
+    ],
+    "label_zh": "双手放在自己的脸颊上",
+    "post_count": 12616
+  },
+  {
+    "tag": "torso_grab",
+    "category": "hand",
+    "weight": 4.1,
+    "aliases": [
+      "waist_grab",
+      "hip_grab"
+    ],
+    "label_zh": "抓着躯干",
+    "post_count": 12443
+  },
+  {
+    "tag": "holding_lollipop",
+    "category": "hand",
+    "weight": 4.09,
+    "aliases": [],
+    "label_zh": "拿着棒棒糖",
+    "post_count": 12404
+  },
+  {
+    "tag": "holding_ball",
+    "category": "hand",
+    "weight": 4.09,
+    "aliases": [
+      "holding_golf_ball",
+      "holding_tennis_ball",
+      "holding_bowling_ball"
+    ],
+    "label_zh": "抱着球",
+    "post_count": 12321
+  },
+  {
+    "tag": "sheet_grab",
+    "category": "hand",
+    "weight": 4.08,
+    "aliases": [
+      "grabbing_sheet"
+    ],
+    "label_zh": "抓着床单",
+    "post_count": 12054
+  },
+  {
+    "tag": "trigger_discipline",
+    "category": "hand",
+    "weight": 4.07,
+    "aliases": [],
+    "label_zh": "手指没放在扳机上",
+    "post_count": 11832
+  },
+  {
+    "tag": "hand_on_another's_cheek",
+    "category": "hand",
+    "weight": 4.07,
+    "aliases": [],
+    "label_zh": "手摸着对方的脸颊",
+    "post_count": 11722
+  },
+  {
+    "tag": "hand_on_own_stomach",
+    "category": "hand",
+    "weight": 4.07,
+    "aliases": [
+      "hand_on_stomach",
+      "hand_on_belly",
+      "hand_on_own_belly"
+    ],
+    "label_zh": "把手放在自己的肚子上",
+    "post_count": 11631
+  },
+  {
+    "tag": "fox_shadow_puppet",
+    "category": "hand",
+    "weight": 4.04,
+    "aliases": [
+      "fox_hand_sign"
+    ],
+    "label_zh": "狐狸手势",
+    "post_count": 11015
+  },
+  {
+    "tag": "skirt_pull",
+    "category": "hand",
+    "weight": 4.03,
+    "aliases": [],
+    "label_zh": "拉开裙子",
+    "post_count": 10794
+  },
+  {
+    "tag": "grabbing_another's_hair",
+    "category": "hand",
+    "weight": 4.03,
+    "aliases": [
+      "hair_pull",
+      "pulling_another's_hair"
+    ],
+    "label_zh": "抓着对方的头发",
+    "post_count": 10791
+  },
+  {
+    "tag": "holding_shield",
+    "category": "hand",
+    "weight": 4.03,
+    "aliases": [],
+    "label_zh": "手持盾牌",
+    "post_count": 10702
+  },
+  {
+    "tag": "hand_on_another's_chin",
+    "category": "hand",
+    "weight": 4.03,
+    "aliases": [
+      "finger_to_another's_chin"
+    ],
+    "label_zh": "手托着对方的下巴",
+    "post_count": 10672
+  },
+  {
+    "tag": "shushing",
+    "category": "hand",
+    "weight": 4.02,
+    "aliases": [
+      "silence_gesture",
+      "shush",
+      "shh"
+    ],
+    "label_zh": "嘘手势",
+    "post_count": 10564
+  },
+  {
+    "tag": "holding_bowl",
+    "category": "hand",
+    "weight": 4.02,
+    "aliases": [],
+    "label_zh": "端着碗",
+    "post_count": 10490
+  },
+  {
+    "tag": "holding_broom",
+    "category": "hand",
+    "weight": 4.02,
+    "aliases": [],
+    "label_zh": "手持扫帚",
+    "post_count": 10457
+  },
+  {
+    "tag": "hair_pulled_back",
+    "category": "hand",
+    "weight": 4.02,
+    "aliases": [],
+    "label_zh": "头发往后扎",
+    "post_count": 10366
+  },
+  {
+    "tag": "holding_box",
+    "category": "hand",
+    "weight": 4.01,
+    "aliases": [],
+    "label_zh": "端着箱子",
+    "post_count": 10217
+  },
+  {
+    "tag": "arms_around_neck",
+    "category": "hand",
+    "weight": 4.01,
+    "aliases": [
+      "neck_hug"
+    ],
+    "label_zh": "双手搂着脖子",
+    "post_count": 10191
+  },
+  {
+    "tag": "covering_face",
+    "category": "hand",
+    "weight": 3.99,
+    "aliases": [
+      "hiding_face"
+    ],
+    "label_zh": "挡住脸",
+    "post_count": 9780
+  },
+  {
+    "tag": "holding_axe",
+    "category": "hand",
+    "weight": 3.98,
+    "aliases": [],
+    "label_zh": "握着斧头",
+    "post_count": 9501
+  },
+  {
+    "tag": "pointing_at_self",
+    "category": "hand",
+    "weight": 3.97,
+    "aliases": [],
+    "label_zh": "指着自己",
+    "post_count": 9368
+  },
+  {
+    "tag": "holding_scythe",
+    "category": "hand",
+    "weight": 3.97,
+    "aliases": [],
+    "label_zh": "手持镰刀",
+    "post_count": 9299
+  },
+  {
+    "tag": "hands_on_own_knees",
+    "category": "hand",
+    "weight": 3.96,
+    "aliases": [
+      "hands_on_knees"
+    ],
+    "label_zh": "双手放在自己的膝盖上",
+    "post_count": 9131
+  },
+  {
+    "tag": "holding_mask",
+    "category": "hand",
+    "weight": 3.96,
+    "aliases": [],
+    "label_zh": "拿着面具",
+    "post_count": 9119
+  },
+  {
+    "tag": "lifting_person",
+    "category": "hand",
+    "weight": 3.96,
+    "aliases": [
+      "lifting_another"
+    ],
+    "label_zh": "将人抱起",
+    "post_count": 9107
+  },
+  {
+    "tag": "holding_towel",
+    "category": "hand",
+    "weight": 3.95,
+    "aliases": [],
+    "label_zh": "拿着毛巾",
+    "post_count": 8970
+  },
+  {
+    "tag": "thighhighs_under_boots",
+    "category": "hand",
+    "weight": 3.94,
+    "aliases": [],
+    "label_zh": "靴子穿在袜子外面",
+    "post_count": 8708
+  },
+  {
+    "tag": "holding_strap",
+    "category": "hand",
+    "weight": 3.92,
+    "aliases": [],
+    "label_zh": "手拉着吊带",
+    "post_count": 8347
+  },
+  {
+    "tag": "hand_in_another's_hair",
+    "category": "hand",
+    "weight": 3.92,
+    "aliases": [],
+    "label_zh": "手放在对方的头发上",
+    "post_count": 8336
+  },
+  {
+    "tag": "pointing_up",
+    "category": "hand",
+    "weight": 3.91,
+    "aliases": [
+      "pointing_skyward",
+      "pointing_to_the_sky"
+    ],
+    "label_zh": "向上指",
+    "post_count": 8151
+  },
+  {
+    "tag": "hands_on_another's_shoulders",
+    "category": "hand",
+    "weight": 3.9,
+    "aliases": [],
+    "label_zh": "双手放在别人的肩膀上",
+    "post_count": 8002
+  },
+  {
+    "tag": "holding_dagger",
+    "category": "hand",
+    "weight": 3.9,
+    "aliases": [],
+    "label_zh": "手持匕首",
+    "post_count": 7970
+  },
+  {
+    "tag": "hand_on_another's_chest",
+    "category": "hand",
+    "weight": 3.9,
+    "aliases": [],
+    "label_zh": "手放在对方的胸前",
+    "post_count": 7931
+  },
+  {
+    "tag": "mask_pull",
+    "category": "hand",
+    "weight": 3.89,
+    "aliases": [],
+    "label_zh": "拉着口罩",
+    "post_count": 7673
+  },
+  {
+    "tag": "locked_arms",
+    "category": "hand",
+    "weight": 3.88,
+    "aliases": [
+      "arm_around_another's_arm",
+      "interlocked_arms",
+      "arm_lock",
+      "arms_linked",
+      "linked_arms",
+      "arm_in_arm"
+    ],
+    "label_zh": "互挽手臂",
+    "post_count": 7566
+  },
+  {
+    "tag": "holding_doll",
+    "category": "hand",
+    "weight": 3.87,
+    "aliases": [],
+    "label_zh": "抱着玩偶",
+    "post_count": 7481
+  },
+  {
+    "tag": "poking",
+    "category": "hand",
+    "weight": 3.87,
+    "aliases": [
+      "poke"
+    ],
+    "label_zh": "戳",
+    "post_count": 7471
+  },
+  {
+    "tag": "arm_hug",
+    "category": "hand",
+    "weight": 3.85,
+    "aliases": [
+      "hugging_arm"
+    ],
+    "label_zh": "挽手",
+    "post_count": 7075
+  },
+  {
+    "tag": "holding_paintbrush",
+    "category": "hand",
+    "weight": 3.85,
+    "aliases": [],
+    "label_zh": "手握画笔",
+    "post_count": 7073
+  },
+  {
+    "tag": "finger_gun",
+    "category": "hand",
+    "weight": 3.85,
+    "aliases": [],
+    "label_zh": "手指枪手势",
+    "post_count": 7035
+  },
+  {
+    "tag": "w_arms",
+    "category": "hand",
+    "weight": 3.84,
+    "aliases": [],
+    "label_zh": "双臂摆出W",
+    "post_count": 6951
+  },
+  {
+    "tag": "bangs_pinned_back",
+    "category": "hand",
+    "weight": 3.84,
+    "aliases": [],
+    "label_zh": "掀起的刘海",
+    "post_count": 6901
+  },
+  {
+    "tag": "holding_basket",
+    "category": "hand",
+    "weight": 3.84,
+    "aliases": [],
+    "label_zh": "提着篮子",
+    "post_count": 6879
+  },
+  {
+    "tag": "arm_around_neck",
+    "category": "hand",
+    "weight": 3.83,
+    "aliases": [],
+    "label_zh": "单手搂着脖子",
+    "post_count": 6746
+  },
+  {
+    "tag": "holding_flag",
+    "category": "hand",
+    "weight": 3.83,
+    "aliases": [],
+    "label_zh": "手持旗帜",
+    "post_count": 6692
+  },
+  {
+    "tag": "holding_pokemon",
+    "category": "hand",
+    "weight": 3.82,
+    "aliases": [],
+    "label_zh": "抱着宝可梦",
+    "post_count": 6592
+  },
+  {
+    "tag": "holding_cat",
+    "category": "hand",
+    "weight": 3.82,
+    "aliases": [],
+    "label_zh": "抱着猫",
+    "post_count": 6548
+  },
+  {
+    "tag": "holding_arrow",
+    "category": "hand",
+    "weight": 3.78,
+    "aliases": [],
+    "label_zh": "拉着弓",
+    "post_count": 5989
+  },
+  {
+    "tag": "finger_on_trigger",
+    "category": "hand",
+    "weight": 3.78,
+    "aliases": [],
+    "label_zh": "准备扣扳机的手势",
+    "post_count": 5972
+  },
+  {
+    "tag": "holding_sack",
+    "category": "hand",
+    "weight": 3.77,
+    "aliases": [],
+    "label_zh": "拎着包袱",
+    "post_count": 5842
+  },
+  {
+    "tag": "holding_syringe",
+    "category": "hand",
+    "weight": 3.76,
+    "aliases": [],
+    "label_zh": "手持注射器",
+    "post_count": 5790
+  },
+  {
+    "tag": "holding_sheath",
+    "category": "hand",
+    "weight": 3.76,
+    "aliases": [
+      "holding_scabbard"
+    ],
+    "label_zh": "握着刀鞘",
+    "post_count": 5706
+  },
+  {
+    "tag": "holding_sign",
+    "category": "hand",
+    "weight": 3.75,
+    "aliases": [],
+    "label_zh": "手持招牌",
+    "post_count": 5552
+  },
+  {
+    "tag": "ok_sign",
+    "category": "hand",
+    "weight": 3.73,
+    "aliases": [
+      "okay",
+      "ok"
+    ],
+    "label_zh": "OK手势",
+    "post_count": 5359
+  },
+  {
+    "tag": "bandaid_on_arm",
+    "category": "hand",
+    "weight": 3.72,
+    "aliases": [
+      "bandaid_on_elbow"
+    ],
+    "label_zh": "手臂上贴着创可贴",
+    "post_count": 5294
+  },
+  {
+    "tag": "hands_on_own_head",
+    "category": "hand",
+    "weight": 3.72,
+    "aliases": [],
+    "label_zh": "双手放在自己的头上",
+    "post_count": 5274
+  },
+  {
+    "tag": "adjusting_swimsuit",
+    "category": "hand",
+    "weight": 3.72,
+    "aliases": [],
+    "label_zh": "拨弄泳衣",
+    "post_count": 5180
+  },
+  {
+    "tag": "arm_held_back",
+    "category": "hand",
+    "weight": 3.7,
+    "aliases": [],
+    "label_zh": "手臂往后拉",
+    "post_count": 5029
+  },
+  {
+    "tag": "spread_fingers",
+    "category": "hand",
+    "weight": 3.69,
+    "aliases": [],
+    "label_zh": "张开手指",
+    "post_count": 4927
+  },
+  {
+    "tag": "holding_pencil",
+    "category": "hand",
+    "weight": 3.69,
+    "aliases": [],
+    "label_zh": "手持铅笔",
+    "post_count": 4916
+  },
+  {
+    "tag": "grimace",
+    "category": "hand",
+    "weight": 3.66,
+    "aliases": [],
+    "label_zh": "做鬼脸",
+    "post_count": 4540
+  },
+  {
+    "tag": "neckwear_grab",
+    "category": "hand",
+    "weight": 3.65,
+    "aliases": [],
+    "label_zh": "抓着颈部的衣服",
+    "post_count": 4488
+  },
+  {
+    "tag": "hands_on_own_thighs",
+    "category": "hand",
+    "weight": 3.65,
+    "aliases": [],
+    "label_zh": "双手放在自己的大腿上",
+    "post_count": 4481
+  },
+  {
+    "tag": "pillow_grab",
+    "category": "hand",
+    "weight": 3.64,
+    "aliases": [],
+    "label_zh": "抓着枕头",
+    "post_count": 4356
+  },
+  {
+    "tag": "hand_on_another's_stomach",
+    "category": "hand",
+    "weight": 3.64,
+    "aliases": [],
+    "label_zh": "手放在对方的肚子上",
+    "post_count": 4317
+  },
+  {
+    "tag": "skirt_tug",
+    "category": "hand",
+    "weight": 3.63,
+    "aliases": [],
+    "label_zh": "扯住裙摆",
+    "post_count": 4230
+  },
+  {
+    "tag": "holding_whip",
+    "category": "hand",
+    "weight": 3.62,
+    "aliases": [],
+    "label_zh": "握着鞭子",
+    "post_count": 4181
+  },
+  {
+    "tag": "hands_on_lap",
+    "category": "hand",
+    "weight": 3.62,
+    "aliases": [
+      "hands_in_lap"
+    ],
+    "label_zh": "双手放在两腿之间",
+    "post_count": 4123
+  },
+  {
+    "tag": "adjusting_gloves",
+    "category": "hand",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "拨弄手套",
+    "post_count": 4091
+  },
+  {
+    "tag": "holding_pillow",
+    "category": "hand",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "抱着枕头",
+    "post_count": 4075
+  },
+  {
+    "tag": "holding_shoes",
+    "category": "hand",
+    "weight": 3.61,
+    "aliases": [
+      "holding_shoe",
+      "shoes_on_hands"
+    ],
+    "label_zh": "拿着鞋子",
+    "post_count": 4074
+  },
+  {
+    "tag": "carrying_over_shoulder",
+    "category": "hand",
+    "weight": 3.61,
+    "aliases": [],
+    "label_zh": "肩扛",
+    "post_count": 4064
+  },
+  {
+    "tag": "hand_on_hilt",
+    "category": "hand",
+    "weight": 3.6,
+    "aliases": [],
+    "label_zh": "手搁在刀柄上",
+    "post_count": 3991
+  },
+  {
+    "tag": "zombie_pose",
+    "category": "hand",
+    "weight": 3.6,
+    "aliases": [
+      "jiangshi_pose"
+    ],
+    "label_zh": "僵尸姿势",
+    "post_count": 3959
+  },
+  {
+    "tag": "cheek_pinching",
+    "category": "hand",
+    "weight": 3.59,
+    "aliases": [
+      "pinching_cheeks",
+      "cheek_pinch",
+      "pinching_cheek"
+    ],
+    "label_zh": "捏脸颊",
+    "post_count": 3876
+  },
+  {
+    "tag": "cheek_poking",
+    "category": "hand",
+    "weight": 3.58,
+    "aliases": [
+      "poking_cheek",
+      "poking_cheeks",
+      "cheek_poke"
+    ],
+    "label_zh": "戳脸颊",
+    "post_count": 3819
+  },
+  {
+    "tag": "holding_leaf",
+    "category": "hand",
+    "weight": 3.56,
+    "aliases": [],
+    "label_zh": "拿着叶子",
+    "post_count": 3601
+  },
+  {
+    "tag": "hands_on_another's_cheeks",
+    "category": "hand",
+    "weight": 3.55,
+    "aliases": [],
+    "label_zh": "双手放在对方的脸颊上",
+    "post_count": 3567
+  },
+  {
+    "tag": "pulling",
+    "category": "hand",
+    "weight": 3.53,
+    "aliases": [],
+    "label_zh": "拉",
+    "post_count": 3362
+  },
+  {
+    "tag": "beckoning",
+    "category": "hand",
+    "weight": 3.53,
+    "aliases": [
+      "beckon"
+    ],
+    "label_zh": "招手",
+    "post_count": 3343
+  },
+  {
+    "tag": "skirt_around_one_leg",
+    "category": "hand",
+    "weight": 3.5,
+    "aliases": [],
+    "label_zh": "一条腿上挂着短裙",
+    "post_count": 3180
+  },
+  {
+    "tag": "convenient_arm",
+    "category": "hand",
+    "weight": 3.5,
+    "aliases": [],
+    "label_zh": "遮住关键部位的手臂",
+    "post_count": 3174
+  },
+  {
+    "tag": "open_skirt",
+    "category": "hand",
+    "weight": 3.5,
+    "aliases": [],
+    "label_zh": "敞开的裙子",
+    "post_count": 3155
+  },
+  {
+    "tag": "hands_on_headwear",
+    "category": "hand",
+    "weight": 3.5,
+    "aliases": [
+      "hands_on_hat"
+    ],
+    "label_zh": "双手碰到头上的饰物",
+    "post_count": 3129
+  },
+  {
+    "tag": "cheering",
+    "category": "hand",
+    "weight": 3.49,
+    "aliases": [
+      "cheered",
+      "cheer"
+    ],
+    "label_zh": "助威",
+    "post_count": 3052
+  },
+  {
+    "tag": "holding_stylus",
+    "category": "hand",
+    "weight": 3.47,
+    "aliases": [],
+    "label_zh": "手持手写笔",
+    "post_count": 2912
+  },
+  {
+    "tag": "necktie_grab",
+    "category": "hand",
+    "weight": 3.46,
+    "aliases": [
+      "necktie_pull",
+      "tie_grab",
+      "tiegrab"
+    ],
+    "label_zh": "抓着领带",
+    "post_count": 2877
+  },
+  {
+    "tag": "carrying_under_arm",
+    "category": "hand",
+    "weight": 3.43,
+    "aliases": [],
+    "label_zh": "夹在腋下",
+    "post_count": 2690
+  },
+  {
+    "tag": "dress_tug",
+    "category": "hand",
+    "weight": 3.43,
+    "aliases": [],
+    "label_zh": "压住裙摆",
+    "post_count": 2655
+  },
+  {
+    "tag": "eyelid_pull",
+    "category": "hand",
+    "weight": 3.4,
+    "aliases": [],
+    "label_zh": "做鬼脸",
+    "post_count": 2524
+  },
+  {
+    "tag": "hands_on_own_stomach",
+    "category": "hand",
+    "weight": 3.39,
+    "aliases": [],
+    "label_zh": "双手放在自己的肚子上",
+    "post_count": 2440
+  },
+  {
+    "tag": "holding_pizza",
+    "category": "hand",
+    "weight": 3.38,
+    "aliases": [],
+    "label_zh": "拿着披萨",
+    "post_count": 2408
+  },
+  {
+    "tag": "holding_needle",
+    "category": "hand",
+    "weight": 3.38,
+    "aliases": [],
+    "label_zh": "拿着缝衣针",
+    "post_count": 2385
+  },
+  {
+    "tag": "tail_grab",
+    "category": "hand",
+    "weight": 3.37,
+    "aliases": [],
+    "label_zh": "抓着尾巴",
+    "post_count": 2311
+  },
+  {
+    "tag": "thighhighs_pull",
+    "category": "hand",
+    "weight": 3.33,
+    "aliases": [
+      "thighhigh_pull"
+    ],
+    "label_zh": "拉着袜子(长袜",
+    "post_count": 2118
+  },
+  {
+    "tag": "balancing",
+    "category": "hand",
+    "weight": 3.31,
+    "aliases": [
+      "balance"
+    ],
+    "label_zh": "(保持)平衡的姿势",
+    "post_count": 2009
+  },
+  {
+    "tag": "cheek_pull",
+    "category": "hand",
+    "weight": 3.27,
+    "aliases": [
+      "stretching_cheeks",
+      "cheek_tug"
+    ],
+    "label_zh": "扯脸颊",
+    "post_count": 1862
+  },
+  {
+    "tag": "hands_on_feet",
+    "category": "hand",
+    "weight": 3.27,
+    "aliases": [],
+    "label_zh": "双手放在脚上",
+    "post_count": 1853
+  },
+  {
+    "tag": "ready_to_draw",
+    "category": "hand",
+    "weight": 3.25,
+    "aliases": [],
+    "label_zh": "准备拔刀的姿势",
+    "post_count": 1780
+  },
+  {
+    "tag": "arm_above_head",
+    "category": "hand",
+    "weight": 3.25,
+    "aliases": [],
+    "label_zh": "手在头上",
+    "post_count": 1752
+  },
+  {
+    "tag": "adjusting_legwear",
+    "category": "hand",
+    "weight": 3.24,
+    "aliases": [
+      "adjusting_pantyhose",
+      "adjusting_thighhigh",
+      "adjusting_thighhighs"
+    ],
+    "label_zh": "整理裤袜",
+    "post_count": 1733
+  },
+  {
+    "tag": "strap_lift",
+    "category": "hand",
+    "weight": 3.24,
+    "aliases": [],
+    "label_zh": "往上掰衣物的吊带",
+    "post_count": 1710
+  },
+  {
+    "tag": "bunching_hair",
+    "category": "hand",
+    "weight": 3.18,
+    "aliases": [],
+    "label_zh": "手持辫子",
+    "post_count": 1501
+  },
+  {
+    "tag": "kimono_lift",
+    "category": "hand",
+    "weight": 3.16,
+    "aliases": [],
+    "label_zh": "掀起和服",
+    "post_count": 1452
+  },
+  {
+    "tag": "hands_on_hilt",
+    "category": "hand",
+    "weight": 3.13,
+    "aliases": [],
+    "label_zh": "双手搭在刀柄上",
+    "post_count": 1334
+  },
+  {
+    "tag": "skirt_basket",
+    "category": "hand",
+    "weight": 3.1,
+    "aliases": [
+      "dress_basket",
+      "dress_carry",
+      "skirt_carry"
+    ],
+    "label_zh": "指掀起裙子时形成的篮子形状",
+    "post_count": 1258
+  },
+  {
+    "tag": "holding_breath",
+    "category": "hand",
+    "weight": 3.08,
+    "aliases": [],
+    "label_zh": "憋气",
+    "post_count": 1193
+  },
+  {
+    "tag": "waving_arms",
+    "category": "hand",
+    "weight": 3.05,
+    "aliases": [],
+    "label_zh": "挥舞着手臂",
+    "post_count": 1109
+  },
+  {
+    "tag": "fingersmile",
+    "category": "hand",
+    "weight": 3.04,
+    "aliases": [
+      "finger_smile"
+    ],
+    "label_zh": "用手指做出笑脸",
+    "post_count": 1091
+  },
+  {
+    "tag": "holding_own_foot",
+    "category": "hand",
+    "weight": 3.01,
+    "aliases": [],
+    "label_zh": "握着自己的脚",
+    "post_count": 1015
+  },
+  {
+    "tag": "leg_cutout",
+    "category": "hand",
+    "weight": 2.97,
+    "aliases": [],
+    "label_zh": "袜子有开口",
+    "post_count": 930
+  },
+  {
+    "tag": "sock_pull",
+    "category": "hand",
+    "weight": 2.94,
+    "aliases": [],
+    "label_zh": "拉着袜子(短袜",
+    "post_count": 865
+  },
+  {
+    "tag": "caramelldansen",
+    "category": "hand",
+    "weight": 2.84,
+    "aliases": [
+      "caramel_dansen"
+    ],
+    "label_zh": "某著名伸手扭腰动作",
+    "post_count": 677
+  },
+  {
+    "tag": "skirt_hold",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "优雅地提着裙子",
+    "post_count": 0
+  },
+  {
+    "tag": "skirt_removed",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "脱下的短裙",
+    "post_count": 0
+  },
+  {
+    "tag": "dress_removed",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "脱下裙子",
+    "post_count": 0
+  },
+  {
+    "tag": "socks_removed",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "脱袜子",
+    "post_count": 0
+  },
+  {
+    "tag": "arms_crossed",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "手交叉于胸前",
+    "post_count": 0
+  },
+  {
+    "tag": "hands_on_hips",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "双手叉腰",
+    "post_count": 0
+  },
+  {
+    "tag": "arm_around_waist",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "单手搂腰",
+    "post_count": 0
+  },
+  {
+    "tag": "reaching_out",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "朝画外伸手",
+    "post_count": 0
+  },
+  {
+    "tag": "stretch",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "伸懒腰",
+    "post_count": 0
+  },
+  {
+    "tag": "arm_grab",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "抓住手臂",
+    "post_count": 0
+  },
+  {
+    "tag": "shou",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "单手托在脑后",
+    "post_count": 0
+  },
+  {
+    "tag": "hand_to_mouth",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "手放在嘴边",
+    "post_count": 0
+  },
+  {
+    "tag": "cat_pose",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "猫爪手势",
+    "post_count": 0
+  },
+  {
+    "tag": "hand_gesture",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "做手势",
+    "post_count": 0
+  },
+  {
+    "tag": "finger_biting",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "咬手指",
+    "post_count": 0
+  },
+  {
+    "tag": "finger_in_mouth",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "吮吸手指",
+    "post_count": 0
+  },
+  {
+    "tag": "fingers_together",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "手指并拢",
+    "post_count": 0
+  },
+  {
+    "tag": "hair_twirling",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "手指卷着头发",
+    "post_count": 0
+  },
+  {
+    "tag": "hands_clasped",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "双手手指交叉",
+    "post_count": 0
+  },
+  {
+    "tag": "holding_hair",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "握着头发",
+    "post_count": 0
+  },
+  {
+    "tag": "chin_stroking",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "摸下巴",
+    "post_count": 0
+  },
+  {
+    "tag": "hair_pull",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "拉头发",
+    "post_count": 0
+  },
+  {
+    "tag": "covering_mouth",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "遮盖嘴",
+    "post_count": 0
+  },
+  {
+    "tag": "adjusting_thighhigh",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "调整过膝袜",
+    "post_count": 0
+  },
+  {
+    "tag": "chin_rest",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "托脸颊",
+    "post_count": 0
+  },
+  {
+    "tag": "adjusting_hat",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "整理帽子",
+    "post_count": 0
+  },
+  {
+    "tag": "holding_clothes",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "拿着衣服",
+    "post_count": 0
+  },
+  {
+    "tag": "holding_eyewear",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "拿着眼镜",
+    "post_count": 0
+  },
+  {
+    "tag": "holding_hat",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "拿着帽子",
+    "post_count": 0
+  },
+  {
+    "tag": "holding_head",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "手里捧着头",
+    "post_count": 0
+  },
+  {
+    "tag": "holding_helmet",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "拿着头盔",
+    "post_count": 0
+  },
+  {
+    "tag": "holding_innertube",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "拿着泳圈",
+    "post_count": 0
+  },
+  {
+    "tag": "holding_pipe",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "拿着烟斗",
+    "post_count": 0
+  },
+  {
+    "tag": "holding_spear",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "手持长矛",
+    "post_count": 0
+  },
+  {
+    "tag": "holding_stuffed_animal",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "抱着毛绒玩具",
+    "post_count": 0
+  },
+  {
+    "tag": "hand_on_head",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "手放在头上",
+    "post_count": 0
+  },
+  {
+    "tag": "hand_on_hip",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "手叉着腰",
+    "post_count": 0
+  },
+  {
+    "tag": "hand_on_shoulder",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "手放在肩上",
+    "post_count": 0
+  },
+  {
+    "tag": "hand_in_hair",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "手埋在头发里",
+    "post_count": 0
+  },
+  {
+    "tag": "grabbing",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "抓住",
+    "post_count": 0
+  },
+  {
+    "tag": "hair_grab",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "抓着头发",
+    "post_count": 0
+  },
+  {
+    "tag": "wrist_grab",
+    "category": "hand",
+    "weight": 1.0,
+    "aliases": [],
+    "label_zh": "抓着手腕",
+    "post_count": 0
+  }
+]

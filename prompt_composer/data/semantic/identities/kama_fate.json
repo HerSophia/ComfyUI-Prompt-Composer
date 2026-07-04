@@ -1,0 +1,29 @@
+{
+  "id": "kama_fate",
+  "name": "迦摩",
+  "identity_tags": [
+    "kama_(fate)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "braided_ponytail",
+      "ahoge",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "pelvic_curtain",
+    "armor",
+    "bikini",
+    "necklace"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kamisato_ayaka",
+  "name": "神里绫华",
+  "identity_tags": [
+    "kamisato_ayaka"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail",
+      "blunt_bangs",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "japanese_armor",
+    "chinese_knot",
+    "armored_dress",
+    "breastplate"
+  ],
+  "optional_clothing": []
+}

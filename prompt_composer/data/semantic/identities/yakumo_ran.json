@@ -1,0 +1,30 @@
+{
+  "id": "yakumo_ran",
+  "name": "八云蓝",
+  "identity_tags": [
+    "yakumo_ran"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "twin_braids",
+      "ponytail",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "ofuda_on_clothes",
+    "ribbon_choker",
+    "skirt_set",
+    "geta"
+  ],
+  "optional_clothing": []
+}

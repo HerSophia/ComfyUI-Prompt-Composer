@@ -1,0 +1,30 @@
+{
+  "id": "gumi",
+  "name": "GUMI",
+  "identity_tags": [
+    "gumi"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "suspenders",
+    "crop_top",
+    "hoodie",
+    "sleeveless_shirt"
+  ],
+  "optional_clothing": []
+}

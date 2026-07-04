@@ -1,0 +1,30 @@
+{
+  "id": "ayanami_azur_lane",
+  "name": "绫波",
+  "identity_tags": [
+    "ayanami_(azur_lane)"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "high_ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "eyes_visible_through_hair"
+    ]
+  },
+  "default_clothing": [
+    "iron_cross",
+    "white_thighhighs",
+    "camisole",
+    "crop_top"
+  ],
+  "optional_clothing": []
+}

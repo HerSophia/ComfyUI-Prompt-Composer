@@ -1,0 +1,27 @@
+{
+  "id": "bakugou_katsuki",
+  "name": "爆豪胜己",
+  "identity_tags": [
+    "bakugou_katsuki"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "red_eyes",
+      "sanpaku"
+    ]
+  },
+  "default_clothing": [
+    "tank_top",
+    "t-shirt",
+    "pants",
+    "cape"
+  ],
+  "optional_clothing": []
+}

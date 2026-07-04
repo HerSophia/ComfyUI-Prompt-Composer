@@ -1,0 +1,29 @@
+{
+  "id": "azki_hololive",
+  "name": "AZKi",
+  "identity_tags": [
+    "azki_(hololive)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "ponytail",
+      "ahoge",
+      "short_ponytail"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "collared_dress",
+    "ascot",
+    "alternate_costume",
+    "sleeveless_dress"
+  ],
+  "optional_clothing": []
+}

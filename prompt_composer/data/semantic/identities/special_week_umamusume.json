@@ -1,0 +1,30 @@
+{
+  "id": "special_week_umamusume",
+  "name": "特别周",
+  "identity_tags": [
+    "special_week_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "ahoge",
+      "blunt_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "hair_over_one_eye"
+    ]
+  },
+  "default_clothing": [
+    "sailor_shirt",
+    "summer_uniform",
+    "track_jacket",
+    "cropped_jacket"
+  ],
+  "optional_clothing": []
+}

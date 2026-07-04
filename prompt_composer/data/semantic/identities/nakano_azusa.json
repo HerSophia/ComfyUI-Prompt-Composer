@@ -1,0 +1,30 @@
+{
+  "id": "nakano_azusa",
+  "name": "中野梓",
+  "identity_tags": [
+    "nakano_azusa"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "twintails",
+      "ponytail",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "sakuragaoka_high_school_uniform",
+    "uwabaki",
+    "blazer",
+    "casual_one-piece_swimsuit"
+  ],
+  "optional_clothing": []
+}

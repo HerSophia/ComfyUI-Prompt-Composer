@@ -1,0 +1,30 @@
+{
+  "id": "bremerton_azur_lane",
+  "name": "布雷默顿",
+  "identity_tags": [
+    "bremerton_(azur_lane)"
+  ],
+  "locked_features": {
+    "hair_color": "multicolored",
+    "eye_color": "pink"
+  },
+  "default_tags": {
+    "hair": [
+      "multicolored_hair",
+      "twintails",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "pink_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "heart_necklace",
+    "sportswear",
+    "highleg_bikini",
+    "cutoffs"
+  ],
+  "optional_clothing": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hinoshita_kaho",
+  "name": "日下花帆",
+  "identity_tags": [
+    "hinoshita_kaho"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "aqua"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "crossed_bangs",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "aqua_eyes"
+    ]
+  },
+  "default_clothing": [
+    "sailor_dress",
+    "pleated_dress",
+    "red_neckerchief",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

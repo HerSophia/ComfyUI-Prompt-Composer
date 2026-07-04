@@ -1,0 +1,30 @@
+{
+  "id": "nishikigi_chisato",
+  "name": "锦木千里",
+  "identity_tags": [
+    "nishikigi_chisato"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "bob_cut",
+      "ponytail",
+      "twintails"
+    ],
+    "eyes": [
+      "red_eyes",
+      "eye_contact"
+    ]
+  },
+  "default_clothing": [
+    "pleated_dress",
+    "neck_ribbon",
+    "buruma",
+    "kneehighs"
+  ],
+  "optional_clothing": []
+}

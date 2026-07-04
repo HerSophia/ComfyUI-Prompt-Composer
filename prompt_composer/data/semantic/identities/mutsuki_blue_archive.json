@@ -1,0 +1,30 @@
+{
+  "id": "mutsuki_blue_archive",
+  "name": "霞泽睦月",
+  "identity_tags": [
+    "mutsuki_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "side_ponytail",
+      "ponytail",
+      "hair_bun"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "slit_pupils"
+    ]
+  },
+  "default_clothing": [
+    "fur-trimmed_coat",
+    "high-waist_skirt",
+    "frilled_skirt",
+    "plaid_skirt"
+  ],
+  "optional_clothing": []
+}

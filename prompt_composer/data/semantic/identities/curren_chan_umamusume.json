@@ -1,0 +1,29 @@
+{
+  "id": "curren_chan_umamusume",
+  "name": "醒目飞鹰",
+  "identity_tags": [
+    "curren_chan_(umamusume)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "purple_eyes"
+    ]
+  },
+  "default_clothing": [
+    "vertical-striped_dress",
+    "striped_dress",
+    "sleeveless_dress",
+    "sailor_collar"
+  ],
+  "optional_clothing": []
+}

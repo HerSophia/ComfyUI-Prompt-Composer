@@ -1,0 +1,30 @@
+{
+  "id": "kaku_seiga",
+  "name": "霍青娥",
+  "identity_tags": [
+    "kaku_seiga"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "drill_hair",
+      "hair_bun",
+      "double_bun"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "hagoromo",
+    "kariginu",
+    "leg_ribbon",
+    "vest"
+  ],
+  "optional_clothing": []
+}

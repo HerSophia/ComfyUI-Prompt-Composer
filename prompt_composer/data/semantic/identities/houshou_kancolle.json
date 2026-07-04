@@ -1,0 +1,30 @@
+{
+  "id": "houshou_kancolle",
+  "name": "凤翔",
+  "identity_tags": [
+    "houshou_(kancolle)"
+  ],
+  "locked_features": {
+    "hair_color": "black",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "black_hair",
+      "ponytail",
+      "twintails",
+      "side_ponytail"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "hakama_skirt",
+    "muneate",
+    "kariginu",
+    "naval_uniform"
+  ],
+  "optional_clothing": []
+}

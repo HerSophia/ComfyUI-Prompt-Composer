@@ -1,0 +1,30 @@
+{
+  "id": "kawashiro_nitori",
+  "name": "河城荷取",
+  "identity_tags": [
+    "kawashiro_nitori"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "blunt_bangs",
+      "twin_braids"
+    ],
+    "eyes": [
+      "blue_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "rubber_boots",
+    "skirt_set",
+    "geta",
+    "swimsuit_under_clothes"
+  ],
+  "optional_clothing": []
+}

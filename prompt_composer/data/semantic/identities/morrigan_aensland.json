@@ -1,0 +1,29 @@
+{
+  "id": "morrigan_aensland",
+  "name": "莫莉甘·安斯兰德",
+  "identity_tags": [
+    "morrigan_aensland"
+  ],
+  "locked_features": {
+    "hair_color": "green",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "green_hair",
+      "blunt_bangs",
+      "straight_hair",
+      "hair_bun"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "heart_cutout",
+    "highleg",
+    "leotard",
+    "high_heel_boots"
+  ],
+  "optional_clothing": []
+}

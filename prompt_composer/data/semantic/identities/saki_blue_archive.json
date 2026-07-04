@@ -1,0 +1,29 @@
+{
+  "id": "saki_blue_archive",
+  "name": "咲",
+  "identity_tags": [
+    "saki_(blue_archive)"
+  ],
+  "locked_features": {
+    "hair_color": "purple",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "purple_hair",
+      "twintails",
+      "ahoge",
+      "ponytail"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "two-tone_jacket",
+    "helmet",
+    "cropped_jacket",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

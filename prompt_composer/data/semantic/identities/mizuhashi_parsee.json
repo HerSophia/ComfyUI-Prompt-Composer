@@ -1,0 +1,30 @@
+{
+  "id": "mizuhashi_parsee",
+  "name": "水桥帕露西",
+  "identity_tags": [
+    "mizuhashi_parsee"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair",
+      "ponytail",
+      "short_ponytail",
+      "twin_braids"
+    ],
+    "eyes": [
+      "green_eyes",
+      "third_eye"
+    ]
+  },
+  "default_clothing": [
+    "undershirt",
+    "geta",
+    "mary_janes",
+    "sash"
+  ],
+  "optional_clothing": []
+}

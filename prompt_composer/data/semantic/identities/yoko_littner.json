@@ -1,0 +1,29 @@
+{
+  "id": "yoko_littner",
+  "name": "尤可·利特那",
+  "identity_tags": [
+    "yoko_littner"
+  ],
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "yellow"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "ponytail",
+      "high_ponytail"
+    ],
+    "eyes": [
+      "yellow_eyes",
+      "symbol-shaped_pupils"
+    ]
+  },
+  "default_clothing": [
+    "pink_thighhighs",
+    "micro_shorts",
+    "short_shorts",
+    "bikini"
+  ],
+  "optional_clothing": []
+}

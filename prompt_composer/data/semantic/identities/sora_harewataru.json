@@ -1,0 +1,29 @@
+{
+  "id": "sora_harewataru",
+  "name": "索拉·晴渡",
+  "identity_tags": [
+    "sora_harewataru"
+  ],
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "twintails",
+      "side_ponytail",
+      "ahoge"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
+  "default_clothing": [
+    "dress_bow",
+    "ankle_boots",
+    "frilled_dress",
+    "sleeveless_dress"
+  ],
+  "optional_clothing": []
+}

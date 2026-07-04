@@ -1,0 +1,29 @@
+{
+  "id": "shirakami_fubuki_1st_costume",
+  "name": "白上吹雪",
+  "identity_tags": [
+    "shirakami_fubuki_(1st_costume)"
+  ],
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "green"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair",
+      "ahoge",
+      "crossed_bangs",
+      "ponytail"
+    ],
+    "eyes": [
+      "green_eyes"
+    ]
+  },
+  "default_clothing": [
+    "hoodie",
+    "neckerchief",
+    "short_shorts",
+    "thigh_strap"
+  ],
+  "optional_clothing": []
+}

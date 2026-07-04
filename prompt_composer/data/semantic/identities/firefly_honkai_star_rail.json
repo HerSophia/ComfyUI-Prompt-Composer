@@ -1,0 +1,30 @@
+{
+  "id": "firefly_honkai_star_rail",
+  "name": "流萤",
+  "identity_tags": [
+    "firefly_(honkai:_star_rail)"
+  ],
+  "locked_features": {
+    "hair_color": "grey",
+    "eye_color": "purple"
+  },
+  "default_tags": {
+    "hair": [
+      "grey_hair",
+      "crossed_bangs",
+      "ponytail",
+      "drill_hair"
+    ],
+    "eyes": [
+      "purple_eyes",
+      "tears"
+    ]
+  },
+  "default_clothing": [
+    "cropped_jacket",
+    "power_armor",
+    "frilled_collar",
+    "neckerchief"
+  ],
+  "optional_clothing": []
+}

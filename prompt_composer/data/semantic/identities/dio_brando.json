@@ -1,0 +1,26 @@
+{
+  "id": "dio_brando",
+  "name": "迪奥·布兰度",
+  "identity_tags": [
+    "dio_brando"
+  ],
+  "locked_features": {
+    "hair_color": "blonde",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blonde_hair"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
+  "default_clothing": [
+    "pants",
+    "jacket",
+    "school_uniform",
+    "shirt"
+  ],
+  "optional_clothing": []
+}

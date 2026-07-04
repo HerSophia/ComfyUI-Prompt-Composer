@@ -1,0 +1,30 @@
+{
+  "id": "chun_li",
+  "name": "春丽",
+  "identity_tags": [
+    "chun-li"
+  ],
+  "locked_features": {
+    "hair_color": "brown",
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "hair": [
+      "brown_hair",
+      "hair_bun",
+      "double_bun",
+      "twin_braids"
+    ],
+    "eyes": [
+      "brown_eyes",
+      "eyeliner"
+    ]
+  },
+  "default_clothing": [
+    "china_dress",
+    "pelvic_curtain",
+    "chinese_clothes",
+    "dougi"
+  ],
+  "optional_clothing": []
+}
