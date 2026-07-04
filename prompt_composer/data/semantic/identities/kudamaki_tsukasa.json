@@ -6,14 +6,14 @@
   ],
   "locked_features": {
     "hair_color": "blonde",
-    "eye_color": "yellow"
+    "eye_color": "brown"
   },
   "default_tags": {
     "hair": [
       "blonde_hair"
     ],
     "eyes": [
-      "yellow_eyes",
+      "brown_eyes",
       "eyes_visible_through_hair"
     ]
   },

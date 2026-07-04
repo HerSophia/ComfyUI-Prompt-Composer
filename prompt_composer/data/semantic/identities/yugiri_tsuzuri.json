@@ -5,17 +5,15 @@
     "yugiri_tsuzuri"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
-    "eye_color": "blue"
+    "hair_color": "white",
+    "eye_color": "red"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
-      "bob_cut",
-      "twintails"
+      "white_hair"
     ],
     "eyes": [
-      "blue_eyes"
+      "red_eyes"
     ]
   },
   "default_clothing": [

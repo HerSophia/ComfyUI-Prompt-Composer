@@ -5,15 +5,13 @@
     "gawr_gura"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "grey",
     "eye_color": "blue"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
-      "blunt_bangs",
-      "twintails",
-      "side_ponytail"
+      "grey_hair",
+      "blunt_bangs"
     ],
     "eyes": [
       "blue_eyes",

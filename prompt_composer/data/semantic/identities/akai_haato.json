@@ -6,17 +6,15 @@
   ],
   "locked_features": {
     "hair_color": "blonde",
-    "eye_color": "blue"
+    "eye_color": "aqua"
   },
   "default_tags": {
     "hair": [
       "blonde_hair",
-      "twintails",
-      "ahoge",
-      "hair_bun"
+      "ahoge"
     ],
     "eyes": [
-      "blue_eyes",
+      "aqua_eyes",
       "symbol-shaped_pupils"
     ]
   },

@@ -6,7 +6,7 @@
   ],
   "locked_features": {
     "hair_color": "blue",
-    "eye_color": "blue"
+    "eye_color": "red"
   },
   "default_tags": {
     "hair": [
@@ -14,7 +14,7 @@
       "blunt_bangs"
     ],
     "eyes": [
-      "blue_eyes",
+      "red_eyes",
       "hair_over_one_eye"
     ]
   },

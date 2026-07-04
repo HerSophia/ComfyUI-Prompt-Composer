@@ -5,18 +5,16 @@
     "minami_kotori"
   ],
   "locked_features": {
-    "hair_color": "brown",
-    "eye_color": "yellow"
+    "hair_color": "grey",
+    "eye_color": "brown"
   },
   "default_tags": {
     "hair": [
-      "brown_hair",
-      "twintails",
-      "ponytail",
+      "grey_hair",
       "blunt_bangs"
     ],
     "eyes": [
-      "yellow_eyes",
+      "brown_eyes",
       "tears"
     ]
   },

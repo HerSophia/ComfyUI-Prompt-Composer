@@ -4,8 +4,19 @@
   "identity_tags": [
     "kasane_teto_(utau)"
   ],
-  "locked_features": {},
-  "default_tags": {},
+  "locked_features": {
+    "hair_color": "red",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "red_hair",
+      "drill_hair"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
   "default_clothing": [],
   "optional_clothing": []
 }

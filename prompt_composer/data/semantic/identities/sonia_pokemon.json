@@ -6,17 +6,16 @@
   ],
   "locked_features": {
     "hair_color": "black",
-    "eye_color": "green"
+    "eye_color": "aqua"
   },
   "default_tags": {
     "hair": [
       "black_hair",
       "side_ponytail",
-      "swept_bangs",
-      "hair_bun"
+      "swept_bangs"
     ],
     "eyes": [
-      "green_eyes",
+      "aqua_eyes",
       "blue_eyeshadow"
     ]
   },

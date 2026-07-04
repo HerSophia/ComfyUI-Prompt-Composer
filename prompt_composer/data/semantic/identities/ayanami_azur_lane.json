@@ -6,17 +6,14 @@
   ],
   "locked_features": {
     "hair_color": "blonde",
-    "eye_color": "red"
+    "eye_color": "orange"
   },
   "default_tags": {
     "hair": [
-      "blonde_hair",
-      "ponytail",
-      "high_ponytail",
-      "twintails"
+      "blonde_hair"
     ],
     "eyes": [
-      "red_eyes",
+      "orange_eyes",
       "eyes_visible_through_hair"
     ]
   },

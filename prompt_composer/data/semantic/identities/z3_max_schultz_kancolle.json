@@ -5,15 +5,13 @@
     "z3_max_schultz_(kancolle)"
   ],
   "locked_features": {
-    "hair_color": "brown",
+    "hair_color": "red",
     "eye_color": "brown"
   },
   "default_tags": {
     "hair": [
-      "brown_hair",
-      "blunt_bangs",
-      "twintails",
-      "ponytail"
+      "red_hair",
+      "blunt_bangs"
     ],
     "eyes": [
       "brown_eyes",

@@ -5,15 +5,12 @@
     "fu_hua"
   ],
   "locked_features": {
-    "hair_color": "grey",
+    "hair_color": "black",
     "eye_color": "blue"
   },
   "default_tags": {
     "hair": [
-      "grey_hair",
-      "ponytail",
-      "high_ponytail",
-      "twintails"
+      "black_hair"
     ],
     "eyes": [
       "blue_eyes",

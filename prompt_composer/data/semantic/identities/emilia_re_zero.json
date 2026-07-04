@@ -5,14 +5,13 @@
     "emilia_(re:zero)"
   ],
   "locked_features": {
-    "hair_color": "white",
+    "hair_color": "grey",
     "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
-      "white_hair",
-      "blunt_bangs",
-      "drill_hair"
+      "grey_hair",
+      "blunt_bangs"
     ],
     "eyes": [
       "purple_eyes",

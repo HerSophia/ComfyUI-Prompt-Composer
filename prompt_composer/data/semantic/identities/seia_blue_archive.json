@@ -6,17 +6,15 @@
   ],
   "locked_features": {
     "hair_color": "blonde",
-    "eye_color": "yellow"
+    "eye_color": "gradient"
   },
   "default_tags": {
     "hair": [
       "blonde_hair",
-      "forehead",
-      "hair_bun",
-      "twintails"
+      "forehead"
     ],
     "eyes": [
-      "yellow_eyes",
+      "gradient_eyes",
       "bright_pupils"
     ]
   },

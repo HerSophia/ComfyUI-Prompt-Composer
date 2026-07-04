@@ -5,15 +5,13 @@
     "sakamata_chloe"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "grey",
     "eye_color": "red"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
-      "ahoge",
-      "hair_bun",
-      "drill_hair"
+      "grey_hair",
+      "ahoge"
     ],
     "eyes": [
       "red_eyes",

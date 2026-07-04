@@ -6,17 +6,17 @@
   ],
   "locked_features": {
     "hair_color": "white",
-    "eye_color": "green"
+    "eye_color": "aqua"
   },
   "default_tags": {
     "hair": [
       "white_hair",
+      "low_ponytail",
       "ahoge",
-      "crossed_bangs",
-      "ponytail"
+      "crossed_bangs"
     ],
     "eyes": [
-      "green_eyes",
+      "aqua_eyes",
       "symbol-shaped_pupils"
     ]
   },

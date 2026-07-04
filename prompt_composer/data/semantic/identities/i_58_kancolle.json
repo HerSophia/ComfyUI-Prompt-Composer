@@ -5,15 +5,13 @@
     "i-58_(kancolle)"
   ],
   "locked_features": {
-    "hair_color": "blonde",
+    "hair_color": "light_brown",
     "eye_color": "red"
   },
   "default_tags": {
     "hair": [
-      "blonde_hair",
-      "ahoge",
-      "ponytail",
-      "twintails"
+      "light_brown_hair",
+      "ahoge"
     ],
     "eyes": [
       "red_eyes",

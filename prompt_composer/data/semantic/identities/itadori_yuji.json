@@ -4,8 +4,14 @@
   "identity_tags": [
     "itadori_yuji"
   ],
-  "locked_features": {},
-  "default_tags": {},
+  "locked_features": {
+    "eye_color": "brown"
+  },
+  "default_tags": {
+    "eyes": [
+      "brown_eyes"
+    ]
+  },
   "default_clothing": [],
   "optional_clothing": []
 }

@@ -5,15 +5,13 @@
     "lize_helesta"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "white",
     "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
-      "blunt_bangs",
-      "ponytail",
-      "twintails"
+      "white_hair",
+      "blunt_bangs"
     ],
     "eyes": [
       "purple_eyes",

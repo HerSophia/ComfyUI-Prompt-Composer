@@ -6,17 +6,15 @@
   ],
   "locked_features": {
     "hair_color": "blonde",
-    "eye_color": "red"
+    "eye_color": "pink"
   },
   "default_tags": {
     "hair": [
       "blonde_hair",
-      "wavy_hair",
-      "twintails",
-      "drill_hair"
+      "wavy_hair"
     ],
     "eyes": [
-      "red_eyes",
+      "pink_eyes",
       "blush_stickers"
     ]
   },

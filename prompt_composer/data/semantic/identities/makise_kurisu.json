@@ -5,16 +5,16 @@
     "makise_kurisu"
   ],
   "locked_features": {
-    "hair_color": "brown",
-    "eye_color": "blue"
+    "hair_color": "red",
+    "eye_color": "grey"
   },
   "default_tags": {
     "hair": [
-      "brown_hair",
+      "red_hair",
       "straight_hair"
     ],
     "eyes": [
-      "blue_eyes"
+      "grey_eyes"
     ]
   },
   "default_clothing": [

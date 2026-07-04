@@ -6,17 +6,16 @@
   ],
   "locked_features": {
     "hair_color": "brown",
-    "eye_color": "brown"
+    "eye_color": "green"
   },
   "default_tags": {
     "hair": [
       "brown_hair",
       "ahoge",
-      "messy_hair",
-      "twintails"
+      "messy_hair"
     ],
     "eyes": [
-      "brown_eyes"
+      "green_eyes"
     ]
   },
   "default_clothing": [

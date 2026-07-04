@@ -6,17 +6,15 @@
   ],
   "locked_features": {
     "hair_color": "red",
-    "eye_color": "red"
+    "eye_color": "pink"
   },
   "default_tags": {
     "hair": [
       "red_hair",
-      "ahoge",
-      "twintails",
-      "ponytail"
+      "ahoge"
     ],
     "eyes": [
-      "red_eyes",
+      "pink_eyes",
       "tears"
     ]
   },

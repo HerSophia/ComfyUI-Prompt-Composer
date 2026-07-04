@@ -6,17 +6,15 @@
   ],
   "locked_features": {
     "hair_color": "blonde",
-    "eye_color": "red"
+    "eye_color": "brown"
   },
   "default_tags": {
     "hair": [
       "blonde_hair",
-      "ahoge",
-      "side_ponytail",
-      "twin_braids"
+      "ahoge"
     ],
     "eyes": [
-      "red_eyes",
+      "brown_eyes",
       "tears"
     ]
   },

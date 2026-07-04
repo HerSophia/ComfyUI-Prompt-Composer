@@ -5,18 +5,16 @@
     "yuuka_(blue_archive)"
   ],
   "locked_features": {
-    "hair_color": "purple",
-    "eye_color": "purple"
+    "hair_color": "blue",
+    "eye_color": "blue"
   },
   "default_tags": {
     "hair": [
-      "purple_hair",
-      "ponytail",
-      "twintails",
+      "blue_hair",
       "blunt_bangs"
     ],
     "eyes": [
-      "purple_eyes",
+      "blue_eyes",
       "tears"
     ]
   },

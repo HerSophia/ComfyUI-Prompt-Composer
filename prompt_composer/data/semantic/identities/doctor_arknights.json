@@ -5,18 +5,16 @@
     "doctor_(arknights)"
   ],
   "locked_features": {
-    "hair_color": "brown",
-    "eye_color": "blue"
+    "hair_color": "white",
+    "eye_color": "white"
   },
   "default_tags": {
     "hair": [
-      "brown_hair",
-      "ponytail",
-      "ahoge",
-      "twintails"
+      "white_hair",
+      "ahoge"
     ],
     "eyes": [
-      "blue_eyes",
+      "white_eyes",
       "hair_over_one_eye"
     ]
   },

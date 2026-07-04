@@ -6,17 +6,15 @@
   ],
   "locked_features": {
     "hair_color": "brown",
-    "eye_color": "blue"
+    "eye_color": "green"
   },
   "default_tags": {
     "hair": [
       "brown_hair",
-      "ponytail",
-      "hair_bun",
       "ahoge"
     ],
     "eyes": [
-      "blue_eyes",
+      "green_eyes",
       "tears"
     ]
   },

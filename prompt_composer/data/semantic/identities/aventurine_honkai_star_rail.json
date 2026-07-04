@@ -6,7 +6,7 @@
   ],
   "locked_features": {
     "hair_color": "blonde",
-    "eye_color": "multicolored"
+    "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
@@ -14,7 +14,7 @@
       "crossed_bangs"
     ],
     "eyes": [
-      "multicolored_eyes",
+      "purple_eyes",
       "hair_over_one_eye"
     ]
   },

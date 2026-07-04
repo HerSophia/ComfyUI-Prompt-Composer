@@ -5,18 +5,17 @@
     "touhoku_kiritan"
   ],
   "locked_features": {
-    "hair_color": "brown",
-    "eye_color": "red"
+    "hair_color": "black",
+    "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
-      "brown_hair",
+      "black_hair",
       "ahoge",
-      "twintails",
       "blunt_bangs"
     ],
     "eyes": [
-      "red_eyes",
+      "purple_eyes",
       "blush_stickers"
     ]
   },

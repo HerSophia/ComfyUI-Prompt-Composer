@@ -5,17 +5,16 @@
     "florian_(pokemon)"
   ],
   "locked_features": {
-    "hair_color": "brown",
-    "eye_color": "brown"
+    "hair_color": "blonde",
+    "eye_color": "orange"
   },
   "default_tags": {
     "hair": [
-      "brown_hair",
-      "crossed_bangs",
-      "ponytail"
+      "blonde_hair",
+      "crossed_bangs"
     ],
     "eyes": [
-      "brown_eyes"
+      "orange_eyes"
     ]
   },
   "default_clothing": [

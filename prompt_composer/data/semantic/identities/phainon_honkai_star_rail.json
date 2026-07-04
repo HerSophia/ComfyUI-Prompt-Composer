@@ -4,8 +4,18 @@
   "identity_tags": [
     "phainon_(honkai:_star_rail)"
   ],
-  "locked_features": {},
-  "default_tags": {},
+  "locked_features": {
+    "hair_color": "white",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "white_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
   "default_clothing": [],
   "optional_clothing": []
 }

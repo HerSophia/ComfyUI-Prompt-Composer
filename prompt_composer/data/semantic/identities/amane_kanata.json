@@ -5,15 +5,14 @@
     "amane_kanata"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "grey",
     "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
+      "grey_hair",
       "bob_cut",
-      "ahoge",
-      "twintails"
+      "ahoge"
     ],
     "eyes": [
       "purple_eyes",

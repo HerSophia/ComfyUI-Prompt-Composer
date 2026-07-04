@@ -6,7 +6,7 @@
   ],
   "locked_features": {
     "hair_color": "black",
-    "eye_color": "blue"
+    "eye_color": "aqua"
   },
   "default_tags": {
     "hair": [
@@ -14,7 +14,7 @@
       "antenna_hair"
     ],
     "eyes": [
-      "blue_eyes",
+      "aqua_eyes",
       "bright_pupils"
     ]
   },

@@ -5,15 +5,13 @@
     "edelgard_von_hresvelg"
   ],
   "locked_features": {
-    "hair_color": "white",
+    "hair_color": "grey",
     "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
-      "white_hair",
-      "hair_bun",
-      "forehead",
-      "side_ponytail"
+      "grey_hair",
+      "forehead"
     ],
     "eyes": [
       "purple_eyes",

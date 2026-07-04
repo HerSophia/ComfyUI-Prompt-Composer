@@ -4,8 +4,14 @@
   "identity_tags": [
     "cyrene_(philia093)_(honkai:_star_rail)"
   ],
-  "locked_features": {},
-  "default_tags": {},
+  "locked_features": {
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
   "default_clothing": [],
   "optional_clothing": []
 }

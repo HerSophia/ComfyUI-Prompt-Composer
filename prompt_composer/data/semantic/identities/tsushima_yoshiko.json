@@ -6,17 +6,15 @@
   ],
   "locked_features": {
     "hair_color": "blue",
-    "eye_color": "purple"
+    "eye_color": "red"
   },
   "default_tags": {
     "hair": [
       "blue_hair",
-      "hair_bun",
-      "blunt_bangs",
-      "twintails"
+      "blunt_bangs"
     ],
     "eyes": [
-      "purple_eyes",
+      "red_eyes",
       "tears"
     ]
   },

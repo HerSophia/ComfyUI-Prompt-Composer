@@ -5,14 +5,13 @@
     "seele_vollerei"
   ],
   "locked_features": {
-    "hair_color": "blue",
+    "hair_color": "two-tone",
     "eye_color": "blue"
   },
   "default_tags": {
     "hair": [
-      "blue_hair",
+      "two-tone_hair",
       "ahoge",
-      "drill_hair",
       "antenna_hair"
     ],
     "eyes": [

@@ -4,8 +4,19 @@
   "identity_tags": [
     "cu_chulainn_(lancer)_(fate)"
   ],
-  "locked_features": {},
-  "default_tags": {},
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "red"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair",
+      "ponytail"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
+  },
   "default_clothing": [],
   "optional_clothing": []
 }

@@ -4,8 +4,18 @@
   "identity_tags": [
     "female_byleth_(fire_emblem)"
   ],
-  "locked_features": {},
-  "default_tags": {},
+  "locked_features": {
+    "hair_color": "blue",
+    "eye_color": "blue"
+  },
+  "default_tags": {
+    "hair": [
+      "blue_hair"
+    ],
+    "eyes": [
+      "blue_eyes"
+    ]
+  },
   "default_clothing": [],
   "optional_clothing": []
 }

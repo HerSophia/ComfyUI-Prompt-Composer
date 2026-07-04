@@ -6,15 +6,14 @@
   ],
   "locked_features": {
     "hair_color": "blue",
-    "eye_color": "blue"
+    "eye_color": "grey"
   },
   "default_tags": {
     "hair": [
-      "blue_hair",
-      "twintails"
+      "blue_hair"
     ],
     "eyes": [
-      "blue_eyes"
+      "grey_eyes"
     ]
   },
   "default_clothing": [

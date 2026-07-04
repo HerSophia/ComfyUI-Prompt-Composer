@@ -5,15 +5,14 @@
     "carmine_(pokemon)"
   ],
   "locked_features": {
-    "hair_color": "black",
+    "hair_color": "two-tone",
     "eye_color": "yellow"
   },
   "default_tags": {
     "hair": [
-      "black_hair",
+      "two-tone_hair",
       "crossed_bangs",
-      "ahoge",
-      "ponytail"
+      "ahoge"
     ],
     "eyes": [
       "yellow_eyes"

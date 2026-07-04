@@ -5,15 +5,14 @@
     "nahida_(genshin_impact)"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "white",
     "eye_color": "green"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
+      "white_hair",
       "side_ponytail",
-      "ahoge",
-      "ponytail"
+      "ahoge"
     ],
     "eyes": [
       "green_eyes",

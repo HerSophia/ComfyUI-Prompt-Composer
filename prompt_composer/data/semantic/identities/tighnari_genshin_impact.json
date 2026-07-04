@@ -5,13 +5,12 @@
     "tighnari_(genshin_impact)"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "black",
     "eye_color": "green"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
-      "bob_cut",
+      "black_hair",
       "ahoge",
       "swept_bangs"
     ],

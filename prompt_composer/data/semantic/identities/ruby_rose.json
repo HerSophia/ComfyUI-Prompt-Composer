@@ -5,15 +5,13 @@
     "ruby_rose"
   ],
   "locked_features": {
-    "hair_color": "black",
+    "hair_color": "two-tone",
     "eye_color": "grey"
   },
   "default_tags": {
     "hair": [
-      "black_hair",
-      "ahoge",
-      "ponytail",
-      "side_ponytail"
+      "two-tone_hair",
+      "ahoge"
     ],
     "eyes": [
       "grey_eyes"

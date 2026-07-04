@@ -5,13 +5,12 @@
     "makaino_ririmu"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "grey",
     "eye_color": "red"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
-      "twintails",
+      "grey_hair",
       "ahoge",
       "blunt_bangs"
     ],

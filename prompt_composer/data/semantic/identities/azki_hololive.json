@@ -5,15 +5,13 @@
     "azki_(hololive)"
   ],
   "locked_features": {
-    "hair_color": "multicolored",
+    "hair_color": "black",
     "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
-      "multicolored_hair",
-      "ponytail",
-      "ahoge",
-      "short_ponytail"
+      "black_hair",
+      "ahoge"
     ],
     "eyes": [
       "purple_eyes"

@@ -5,15 +5,12 @@
     "miyako_(blue_archive)"
   ],
   "locked_features": {
-    "hair_color": "grey",
+    "hair_color": "white",
     "eye_color": "purple"
   },
   "default_tags": {
     "hair": [
-      "grey_hair",
-      "ponytail",
-      "twintails",
-      "side_ponytail"
+      "white_hair"
     ],
     "eyes": [
       "purple_eyes"

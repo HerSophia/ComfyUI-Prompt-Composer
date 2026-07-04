@@ -1,15 +1,26 @@
 {
   "id": "hakurei_reimu",
   "name": "博丽灵梦",
-  "identity_tags": ["hakurei_reimu"],
+  "identity_tags": [
+    "hakurei_reimu"
+  ],
   "locked_features": {
     "hair_color": "brown",
-    "eye_color": "brown"
+    "eye_color": "red"
   },
   "default_tags": {
-    "hair": ["brown_hair", "long_hair"],
-    "eyes": ["brown_eyes"]
+    "hair": [
+      "brown_hair",
+      "long_hair"
+    ],
+    "eyes": [
+      "red_eyes"
+    ]
   },
-  "default_clothing": ["detached_sleeves", "sarashi", "nontraditional_miko"],
+  "default_clothing": [
+    "detached_sleeves",
+    "sarashi",
+    "nontraditional_miko"
+  ],
   "optional_clothing": []
 }
